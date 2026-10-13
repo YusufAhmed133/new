@@ -41,8 +41,8 @@ Word count: 1,600
 [^1]: *Gibson v Manchester City Council* [1979] 1 WLR 294, 298 (Lord Diplock) (‘*Gibson*’).
 [^2]: Ibid.
 [^3]: *Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd* (1988) 14 NSWLR 523, 534 (McHugh JA) (‘*Empirnall*’).
-[^4]: *Beaton v McDivitt* (1987) 13 NSWLR 162, 168 (Kirby P) (‘Beaton’).
-[^5]: *Ermogenous v Greek Orthodox Community of SA Inc* (2002) 209 CLR 95, [25]–[26] (Gaudron, McHugh, Hayne and Callinan JJ).
+[^4]: *Beaton v McDivitt* (1987) 13 NSWLR 162, 168 (Kirby P) (‘*Beaton*’).
+[^5]: *Ermogenous v Greek Orthodox Community of SA Inc* (2002) 209 CLR 95, [25]–[26] (Gaudron, McHugh, Hayne and Callinan JJ) (‘*Ermogenous*’).
 [^6]: *Masters v Cameron* (1954) 91 CLR 353, 363 (Dixon CJ, McTiernan and Kitto JJ) (‘*Masters*’), quoting *Winn v Bull* (1877) 7 Ch D 29, 32 (Jessel MR).
 [^7]: *Masters* (n 6) 360 (Dixon CJ, McTiernan and Kitto JJ).
 [^8]: *Meehan v Jones* (1982) 149 CLR 571, 580–1 (Gibbs CJ) (‘*Meehan*’).
@@ -54,11 +54,11 @@ Word count: 1,600
 [^14]: Ibid 581–2 (Gibbs CJ).
 [^15]: *Trident General Insurance Co Ltd v McNiece Bros Pty Ltd* (1988) 165 CLR 107, 145 (Deane J) (‘*Trident*’).
 [^16]: Ibid 115 (Mason CJ and Wilson J).
-[^17]: *Coulls* v Bagot’s Executor & Trustee Co Ltd (1967) 119 CLR 460, 487 (Taylor and Owen JJ).
+[^17]: *Coulls v Bagot’s Executor & Trustee Co Ltd* (1967) 119 CLR 460, 487 (Taylor and Owen JJ).
 [^18]: Ibid 486 (Taylor and Owen JJ).
 [^19]: Ibid 487 (Taylor and Owen JJ).
 [^20]: *Gibson* (n 1) 298 (Lord Diplock).
-[^21]: Beaton (n 4) 168 (Kirby P).
+[^21]: *Beaton* (n 4) 168 (Kirby P).
 [^22]: *Empirnall* (n 3) 534 (McHugh JA).
 [^23]: *Brambles* (n 11) 176 (Heydon JA), quoting *Eccles v Bryant* [1948] Ch 93, 104 (Lord Greene MR).
 [^24]: *Trident* (n 15) 145 (Deane J).
@@ -71,15 +71,15 @@ Word count: 1,600
 [^31]: *Council of the Upper Hunter County District v Australian Chilling and Freezing Co Ltd* (1968) 118 CLR 429, 437 (Barwick CJ) (‘*Upper Hunter*’), quoting *G Scammell and Nephew Ltd v Ouston* [1941] AC 251, 268 (Lord Wright).
 [^32]: *Meehan* (n 8) 581 (Gibbs CJ).
 [^33]: *Trident* (n 15) 115 (Mason CJ and Wilson J).
-[^34]: Ibid 129 (Brennan J), quoting Wilson v Darling Island Stevedoring & Lighterage Co Ltd (1956) 95 CLR 43, 80 (Kitto J).
+[^34]: Ibid 129 (Brennan J dissenting), quoting *Wilson v Darling Island Stevedoring & Lighterage Co Ltd* (1956) 95 CLR 43, 80 (Kitto J).
 [^35]: *Empirnall* (n 3) 534 (McHugh JA).
 [^36]: Ibid 535–6 (McHugh JA).
 [^37]: *Trident* (n 15) 115 (Mason CJ and Wilson J).
-[^38]: *Roscorla v Thomas* (1842) 3 QB 234, 237 (Lord Denman CJ).
+[^38]: *Roscorla v Thomas* (1842) 3 QB 234, 237; 114 ER 496 (Lord Denman CJ).
 [^39]: *Pao On* (n 27) 629 (Lord Scarman).
 [^40]: *Australian Woollen Mills Pty Ltd v Commonwealth* (1954) 92 CLR 424, 456 (Dixon CJ, Williams, Webb, Fullagar and Kitto JJ).
 [^41]: *Brambles* (n 11) 164 (Heydon JA).
 [^42]: Ibid 191 (Ipp AJA).
 [^43]: *Meehan* (n 8) 582 (Gibbs CJ).
 [^44]: *Upper Hunter* (n 31) 437 (Barwick CJ).
-[^45]: Beaton (n 4) 185 (McHugh JA dissenting), citing *Secured Income Real Estate (Aust) Ltd v St Martins Investments Pty Ltd* (1979) 144 CLR 596, 607 (Mason J).
+[^45]: *Beaton* (n 4) 185 (McHugh JA dissenting), citing *Secured Income Real Estate (Aust) Ltd v St Martins Investments Pty Ltd* (1979) 144 CLR 596, 607 (Mason J).
