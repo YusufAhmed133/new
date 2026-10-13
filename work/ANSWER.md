@@ -75,7 +75,7 @@ Word count: 1,600
 [^35]: Empirnall (n 3) 534 (McHugh JA).
 [^36]: Ibid 535–6 (McHugh JA).
 [^37]: Trident (n 15) 115 (Mason CJ and Wilson J).
-[^38]: Roscorla v Thomas (1842) 3 QB 234, 237 (Lord Denman CJ).
+[^38]: Roscorla v Thomas (1842) 3 QB 234, 237; 114 ER 496 (Lord Denman CJ).
 [^39]: Pao On (n 27) 629 (Lord Scarman).
 [^40]: Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 456 (Dixon CJ, Williams, Webb, Fullagar and Kitto JJ).
 [^41]: Brambles (n 11) 164 (Heydon JA).
