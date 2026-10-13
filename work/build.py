@@ -13,7 +13,7 @@ CASES=[
  'Pao On v Lau Yiu Long','Banque Brussels Lambert SA v Australian National Industries Ltd',
  'Council of the Upper Hunter County District v Australian Chilling and Freezing Co Ltd','G Scammell and Nephew Ltd v Ouston',
  'Roscorla v Thomas','Beaton v McDivitt','Secured Income Real Estate (Aust) Ltd v St Martins Investments Pty Ltd',
- 'Thorby v Goldberg','Winn v Bull','Port Jackson Stevedoring Pty Ltd v Salmond & Spraggon (Aust) Pty Ltd',
+ 'Thorby v Goldberg','Biotechnology Australia Pty Ltd v Pace','Winn v Bull','Port Jackson Stevedoring Pty Ltd v Salmond & Spraggon (Aust) Pty Ltd',
 ]
 SHORT=['Beaton','Gibson','Empirnall','Australian Woollen Mills','Ermogenous','Masters','Godecke','Meehan','Placer','Trident','Coulls','Brambles','Pao On','Banque Brussels','Upper Hunter','Sundell']
 body,_,rest=s.partition('\n[^1]:')
