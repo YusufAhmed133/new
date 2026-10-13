@@ -1,6 +1,6 @@
 # R4 M5: Opposing counsel and authenticity critic (ROLE 5) on ANSWER.md v3
 
-Reviewer: Role 5, round 4. Earlier reports not read (as instructed). Body counted with work/stats.py: 1,597 words, stated 1,600, cap 1,600 (zero slack). verify.py: 78 quoted spans, 0 not found.
+Reviewer: Role 5, round 4. Earlier reports not read (as instructed). Note: ANSWER.md was revised by another agent while this review ran (file time 15:05; changes include 'records discussions', '‘subject to satisfactory conditions’ included', 'agrees, AMPL lending on other terms', 'Pierre’s expressed expectation', fn 12 pinned at 151, fn 23 at 11,117–18, 'Sundell' short title). Every quotation and count below is re-based on that current text. Body counted with work/stats.py: 1,597 words, stated 1,600, cap 1,600 (zero slack). verify.py on the current text: 0 not found.
 
 Read in full for this report: MARKERS_PROMPT.md (common protocol and Role 5); YUSUF_INSTRUCTIONS_VERBATIM.md; the problem; Instructionsss.txt; RUBRIC_RULINGS_SHEET_v12.txt section 6.1 (R-P, R-Y, R-Z, R-AB, R-AC, R-AC(7), R-AD, R-AE); slides 2A, 2B, 3A, 3B; ReadingGuide lines on Placer and Trident. Read in the casebook (CB14), with the surrounding text, for every case the answer relies on or I propose: Gibson (ch03 pp 40–43), Empirnall (ch03 pp 70–72), Brambles (ch03 pp 72–83, Heydon JA and Ipp AJA), Australian Woollen Mills and Beaton (ch04 pp 99–108), Roscorla, Sundell note, Musumeci, Pao On, Wigan (ch04 pp 110–130), Ermogenous, Banque Brussels, Masters (ch05 pp 134–155), Upper Hunter, Biotechnology v Pace (Kirby P and McHugh JA), Meehan (all judges), Godecke (Walsh J and Gibbs J), Placer (Kitto J; Taylor and Owen JJ; Menzies J dissenting) (ch06 pp 158–190), Coulls and Trident (Mason CJ and Wilson J; Brennan J dissenting; Deane J) (ch11 pp 325–356).
 
@@ -13,7 +13,7 @@ Speaker and status notes used below: Biotechnology v Pace: McHugh JA with Kirby 
 - No certain error of law, attribution or quotation found. Every authority I traced is used for a question it actually decided or discussed, with the status shown where it matters (dissent labelled; Gibbs J's 'Perhaps' kept and called obiter; Meehan's honesty and reasonableness split hedged as 'perhaps reasonably').
 - Three opposing arguments the answer leaves unmet or half-met, each provable from the readings: (1) Grace's 'specified parameters' reply from the very page of McHugh JA that footnote 12 cites; (2) later conduct used for one side only, when the answer's own next paragraph has Rocky arguing that the advance performed his promise; (3) a tension between 'perhaps reasonably' (Meehan, Mason J) and 'which 'satisfactory' lacks' (Godecke).
 - One completeness gap under R-AD(2): two planted problem sentences are never used ('Throughout this period Rocky would check in consistently with Grace via email'; Rocky's 13 February 2025 email asking 'when and how [Grace] intend[ed] to repay the principal', and Grace's silence to 28 February and 2 March).
-- A fully funded package (section 5) fixes all four at net zero words: body stays 1,597, stated 1,600. Every addition is paid by a named cut that loses no argument; I applied it to a scratch copy and re-ran stats.py and verify.py (body 1,597; 80 quotes, 0 not found).
+- A fully funded package (section 5) fixes all four at net zero words: body stays 1,597, stated 1,600. Every addition is paid by a named cut that loses no argument; I applied it to a scratch copy and re-ran stats.py and verify.py (body 1,597; 0 quotations not found).
 - My holistic mark: 86 as it stands; about 88 with the package. It does not reach 90 for me because of density (some steps are compressed to the point of assertion) rather than any wrong law.
 
 ---
@@ -28,7 +28,7 @@ Format: answer's sentence; strongest counter with source; met or not; remedy.
 Counter (Grace): Grace 'proposed' fixed terms ('$1 million dollar working capital loan for 2 years at 5% interest'), so it was his own offer to borrow. Met in substance: whichever it was, Rocky 'told Grace he was not interested', so nothing formed. Gibson 298 (Lord Diplock, with the majority) treats an invitation 'to make formal application to buy' as no offer (ch03 p 42). No change.
 
 **C2. 'I will lend' an offer.** 'However, ‘I will lend’ fixes the amount, date, term and rate, and the email seeks agreement. Unlike ‘may be prepared to sell’, those words are promissory, so the first point is likely an offer.'
-Counter (Rocky): the email only 'Confirm[s] discussions', and the other bullets ('Potential', 'wait and see') show a record, not an offer. Met: the answer puts this in sentence 3 and answers on the plain words. Gibson supports reading each paragraph on its own words: Lord Diplock rejected using the mortgage paragraph's contrast to change 'the plain meaning of the words used in para 1' ('this surely must be fallacious', 298–9, ch03 p 42). So the other bullets help neither side much, which is how the answer treats them. No change.
+Counter (Rocky): the email only 'Confirm[s] discussions', and the other bullets ('Potential', 'wait and see') show a record, not an offer. Met: the answer puts this ('Rocky could say his 12 February email records discussions ...') and answers on the plain words. Gibson supports reading each paragraph on its own words: Lord Diplock rejected using the mortgage paragraph's contrast to change 'the plain meaning of the words used in para 1' ('this surely must be fallacious', 298–9, ch03 p 42). So the other bullets help neither side much, which is how the answer treats them. No change.
 
 **C3. 'Confirmed' an acceptance.** Met (both readings, Empirnall 534, no counter-offer). No change.
 
@@ -37,10 +37,10 @@ Counter (Rocky): the email only 'Confirm[s] discussions', and the other bullets 
 **C5. Intention: the loan likely left to a new agreement.**
 (a) Grace's best point: Masters' classes presuppose that the parties 'also agree that the matter of their negotiation shall be dealt with by a formal contract' (Masters 360, the Court, ch05 p 153). No formal contract was contemplated, so the third class cannot apply on its own terms. Half-met: the answer concedes 'though no formal document was contemplated' and frames the decisive question as Jessel MR's (Winn v Bull, quoted at Masters 363, ch05 p 154): 'When it is not expressly stated to be subject to a formal contract it becomes a question of construction, whether the parties intended that the terms agreed on should be put into form, or whether they should be subject to a new agreement'. That passage is written for exactly this case (no formal contract stated), so the structure is sound. No change needed. The 'likewise' in sentence 13 can go (see the cuts).
 (b) Rocky's best point, not put: Masters 363 says 'subject to contract', 'subject to the preparation of a formal contract', and expressions '[363] of similar import' 'prima facie create an overriding condition'. Rocky could call 'subject to satisfactory conditions' such an expression. It fails, because the phrase names no contract. The answer's 'As nothing was made ‘subject to a formal contract’' disposes of it only by implication. ADD IF FUNDED (section 6, G1).
-(c) **Unmet: later conduct is used for one side only.** 'Later conduct, admissible on formation,[^10] agrees, AMPL later lending on other terms.' Brambles 164 (Heydon JA, adopted by Ipp AJA): 'post-contractual conduct is admissible on the question of whether a contract was formed' (ch03 p 73). Grace's counsel would use the same rule the other way: on 27 February Rocky 'asked' AMPL to advance $1,150,000 to Grace, twelve days after the email's 'by 15 February'. That is conduct suggesting Rocky thought himself bound. The answer's own next paragraph puts this reading in Rocky's mouth ('Rocky may instead claim that AMPL’s advance, made because he ‘asked’, performed his promise'). Using conduct as 'agrees' in one paragraph and as performance in the next is a visible inconsistency. MUST FIX: package item A.
+(c) **Unmet: later conduct is used for one side only.** 'Later conduct, admissible on formation,[^10] agrees, AMPL lending on other terms.' Brambles 164 (Heydon JA, adopted by Ipp AJA): 'post-contractual conduct is admissible on the question of whether a contract was formed' (ch03 p 73). Grace's counsel would use the same rule the other way: on 27 February Rocky 'asked' AMPL to advance $1,150,000 to Grace, twelve days after the email's 'by 15 February'. That is conduct suggesting Rocky thought himself bound. The answer's own next paragraph puts this reading in Rocky's mouth ('Rocky may instead claim that AMPL’s advance, made because he ‘asked’, performed his promise'). Using conduct as 'agrees' in one paragraph and as performance in the next is a visible inconsistency. MUST FIX: package item A.
 
 **C6. Illusory promise.**
-(a) **Unmet: Grace's 'specified parameters' reply.** The answer quotes McHugh JA at 150: 'A consideration is illusory if its payment or fulfilment depends upon an unfettered discretion vested in the promisor' (Biotechnology v Pace, ch06 p 163). On the next page the same judge says: 'Moreover, notwithstanding that the promisor retains a discretion, the consideration will not be illusory if the discretion must be exercised within specified parameters' (151, ch06 p 164). His example is Lewandowski, a salary 'within a range of $7 000–$9 000'. This is majority reasoning (Kirby P: 'I differ and agree with McHugh JA', 136). Grace would say Rocky's discretion over 'conditions' must be exercised within the fixed amount, date, term and rate. The answer meets Meehan's honesty point but never this one. The answer to it is in the facts: in Lewandowski the parameters bounded the very thing in discretion (the salary). Here the fixed terms say nothing about what the 'conditions' may be. MUST FIX: package item B.
+(a) **Unmet: Grace's 'specified parameters' reply.** The answer quotes McHugh JA, now correctly pinned at 151 (the [151] marker falls inside his citation of Placer, before the quoted sentence): 'A consideration is illusory if its payment or fulfilment depends upon an unfettered discretion vested in the promisor' (Biotechnology v Pace, ch06 p 163). Later in the same passage, still on report page 151, the same judge says: 'Moreover, notwithstanding that the promisor retains a discretion, the consideration will not be illusory if the discretion must be exercised within specified parameters' (151, ch06 p 164). His example is Lewandowski, a salary 'within a range of $7 000–$9 000'. This is majority reasoning (Kirby P: 'I differ and agree with McHugh JA', 136). Grace would say Rocky's discretion over 'conditions' must be exercised within the fixed amount, date, term and rate. The answer meets Meehan's honesty point but never this one. The answer to it is in the facts: in Lewandowski the parameters bounded the very thing in discretion (the salary). Here the fixed terms say nothing about what the 'conditions' may be. MUST FIX: package item B.
 (b) **Tension: 'perhaps reasonably' and then 'which ‘satisfactory’ lacks'.** The answer says that 'Rocky must judge honestly, perhaps reasonably' (Meehan 581, 589). It then says that Gibbs J's 'Perhaps' 'assumed ‘the familiar and objective standard of reasonableness’, which ‘satisfactory’ lacks'. A hostile reader asks how 'satisfactory' can lack a reasonableness standard that the previous sentence says may apply. Gibbs J's actual words settle it. The Court of Appeal in Sweet & Maxwell 'placed considerable reliance on the fact that the parties had imported the familiar and objective standard of reasonableness' (Godecke 647, Gibbs J, ch06 p 187). The point is that the parties imported it, as in 'reasonably required', and he disagreed with Bray CJ, for whom the omission of 'reasonably' made no difference. Any reasonableness in Meehan is implied by the court (Mason J, 588–91), not imported by the parties. Gibbs CJ adds that 'it is the satisfaction of the purchaser, not that of some hypothetical reasonable man' (581, ch06 p 181). MUST FIX (cheap): package item C.
 (c) Placer versus Meehan. Meehan is properly distinguished (Gibbs CJ 581–2: discretion relating 'only to the fulfilment of a condition'). Placer is never named, although it is the set reading and its rule (Kitto J, quoted by Gibbs CJ in Meehan 581: 'wherever words which by themselves constitute a promise are accompanied by words showing that the promisor is to have a discretion or option as to whether he will carry out that which purports to be the promise ... there is no contract') fits 'I will lend' plus 'subject to satisfactory conditions' word for word. Grace would distinguish Placer because the quantum is fixed here, unlike 'an amount or at a rate determined by the Commonwealth'. Rocky's answer is that the discretion goes to whether he lends at all. The McHugh JA formulation the answer uses is a majority NSW statement built on Placer, so this is not a defect. ADD IF FUNDED (G3): a swap to Kitto J's words.
 
@@ -52,7 +52,7 @@ Counter (Rocky): the email only 'Confirm[s] discussions', and the other bullets 
 
 ### Part II. Rocky v AMPL (alternatively Pierre)
 
-**C10. Pierre's 'expected' an invitation to treat; Rocky's offer; acceptance by 'agreed'; no document needed.** AMPL's counter (nothing binds before signing) is met with Masters 361–2 ('depends upon the intention disclosed by the language ... used') and the fact that the document was 'signed only by Grace and AMPL'. Footnote 23 (Brambles 177, Heydon JA quoting Integrated Computer Services, McHugh JA) is the only passage in the readings using 'bilateral' for an exchange of promises. It describes 'classical theory' in a passage that goes on to qualify it, but it states that classical model accurately. Acceptable; no change.
+**C10. Pierre's expressed expectation an invitation to treat; Rocky's offer; acceptance by 'agreed'; no document needed.** AMPL's counter (nothing binds before signing) is met with Masters 361–2 ('depends upon the intention disclosed by the language ... used') and the fact that the document was 'signed only by Grace and AMPL'. Footnote 23 (Brambles 177, Heydon JA quoting Integrated Computer Services, McHugh JA) is the only passage in the readings using 'bilateral' for an exchange of promises. It describes 'classical theory' in a passage that goes on to qualify it, but it states that classical model accurately. Acceptable; no change.
 
 **C11. Agency of Pierre for AMPL.** Met both ways ('you' versus control, office and loan; the consequence if Pierre promised personally). Deane J's sentence concerns a promisee contracting as agent. Pierre is the promisee of Rocky's undertaking, so AMPL being a party follows. No change.
 
@@ -62,9 +62,9 @@ Counter (Rocky): the email only 'Confirm[s] discussions', and the other bullets 
 
 **C14. Certainty; result or effort.** 'His ‘I will do that’ contains no words of effort: it likely promised that Grace would pay, not that Rocky would try.' Rocky's counter: 'ensure' could mean 'take steps'. Rogers CJ treated 'it is our practice to ensure that' Spedley 'will at all times be in a position to meet its financial obligations' as 'no relevant difference' from 'we promise to ensure that', and held it breached when Spedley could not pay (Banque Brussels 525–6, ch05 pp 143–4). That is a promise of a state of affairs, which supports the answer. Met in substance. Optional anchor (G6).
 
-**C15. 'AMPL’s promise is not illusory either, because once Grace repays it leaves AMPL ‘no discretion’ whether to pay.'** No party has this argument. The condition lies with Grace, not AMPL, so Meehan's problem (a condition 'within the power of one of the parties', 582) does not arise. Sentence 67 already states the condition precedent on Meehan 582. **Cut (funds the package).**
+**C15. 'AMPL’s promise is not illusory either, because, once Grace repays, it leaves AMPL ‘no discretion’ whether to pay.'** No party has this argument. The condition lies with Grace, not AMPL, so Meehan's problem (a condition 'within the power of one of the parties', 582) does not arise. The 'once Grace repays' paragraph already states the condition precedent on Meehan 582. **Cut (funds the package).**
 
-**C16. Privity of the $10,000; 'the clause'.** Met ('to me directly'; consideration Rocky gave; Trident 115). 'The clause' is given both readings and the result does not change, so R-AB(2) allows a single clause. The words 'just described' can go.
+**C16. Privity of the $10,000; 'the clause'.** Met ('to me directly'; consideration Rocky gave; Trident 115). 'The clause' is given both readings and the result does not change, so R-AB(2) allows a single clause. The word 'described' can go.
 
 **C17. Whether the guarantee clause binds Rocky (silence, conduct, benefit).** AMPL's case is put: 'attended', 'taking the $10,000 promise knowing its terms', 'later invoked the Loan Agreement'. It is met with 'he has received nothing' and the further-information branch 'only if he saw its words'. **Gap (planted fact unused):** AMPL's best conduct evidence includes 'Throughout this period Rocky would check in consistently with Grace via email'. That is admissible on formation (Brambles 164) and is the strongest sign that Rocky regarded himself as answerable for Grace's payments. MUST ADD (cheap): package item E.
 
@@ -89,10 +89,10 @@ Counter (Rocky): the email only 'Confirm[s] discussions', and the other bullets 
 | Whose onus | Met | Part I generic and correct ('the alleging party'); Part II 'here Rocky' correct for the cousin point. Optional G4. |
 | Other bullets and 'Confirming discussions' | Met | Gibson 298–9 supports a plain-words reading of each paragraph. |
 | Masters categories; whether the email is a preliminary agreement | Met, with a residual | The formal-document premise is conceded; Winn v Bull at Masters 363 covers the no-formal-contract case. Rocky's 'of similar import' not put (G1). |
-| Godecke, Gibbs J's 'Perhaps' | Tension | Fixed by C ('which the parties did not import'). |
+| Godecke, Gibbs J's 'Perhaps' | Tension | Fixed by C ('which neither party imported'). |
 | Placer versus Meehan | Met via Biotechnology v Pace | The 'specified parameters' limb is unmet (B); Placer named only if funded (G3). |
 | Agency of AMPL and of Pierre | Met | |
-| 'The clause' as the $10,000 term | Met | Trim 'just described'. |
+| 'The clause' as the $10,000 term | Met | Trim 'described'. |
 | Result or effort | Met | Optional Banque Brussels anchor (G6). |
 | Existing legal duty both ways | Met | Practical benefit fallback absent (G2). |
 | Guarantee clause, assent by conduct | Met, with a planted fact unused | E adds 'check in consistently'. |
@@ -123,26 +123,26 @@ There is no box-ticking in the sense of naming doctrines and moving on. Each ele
 
 ## 5. The funded package (net zero; body stays 1,597, stated 1,600)
 
-Applied to a scratch copy (scratchpad/ANSWER_m5test.md) and checked: stats.py gives body 1,597, stated 1,600, no sentence over 45 words; verify.py gives 80 spans, 0 not found ('specified parameters' found at CB14_ch06 p 164, rep [151]).
+Applied to a scratch copy of the current ANSWER.md (scratchpad/ANSWER_m5pkg.md) and checked: stats.py gives body 1,597, stated 1,600, no sentence over 45 words (longest is the unchanged 45-word Pao On sentence); verify.py gives 0 not found ('specified parameters' found at CB14_ch06 p 164, rep [151]). A sentence-level diff gives a net change of exactly 0 words.
 
 ### Additions (each with source, speaker and word cost)
 
-**A (+9). Later conduct both ways.**
-Old: 'Later conduct, admissible on formation,[^10] agrees, AMPL later lending on other terms.' (12)
+**A (+10). Later conduct both ways.**
+Old: 'Later conduct, admissible on formation,[^10] agrees, AMPL lending on other terms.' (11)
 New: 'Later conduct, admissible on formation,[^10] is equivocal: Rocky ‘asked’ for the advance, suggesting obligation, but AMPL made it on other terms.' (21)
-Source: Brambles 164, Heydon JA (adopted by Ipp AJA), ch03 p 73: 'post-contractual conduct is admissible on the question of whether a contract was formed'. Fact: 'Rocky asked A-Maize Pty Ltd ... to advance $1,150,000 to Grace' (narrator). The conclusion 'On balance, the loan was likely left to a new agreement' still follows, because the textual reasons in sentences 13 and 14 decide it.
+Source: Brambles 164, Heydon JA (adopted by Ipp AJA), ch03 p 73: 'post-contractual conduct is admissible on the question of whether a contract was formed'. Fact: 'Rocky asked A-Maize Pty Ltd ... to advance $1,150,000 to Grace' (narrator). The conclusion 'On balance, the loan was likely left to a new agreement' still follows, because the textual reasons in the 'third class' and 'Its ‘conditions’' sentences decide it.
 
-**B (+7). Grace's 'specified parameters' reply and its answer.**
+**B (+8). Grace's 'specified parameters' reply and its answer.**
 Old: 'Grace may reply that, as in Meehan, Rocky must judge honestly, perhaps reasonably.[^13]' (13)
 New: 'Grace may reply that, as in Meehan, Rocky must judge honestly, perhaps reasonably,[^13] within ‘specified parameters’.[^new]' (16)
 Old: '...Rocky’s covers the loan’s own terms, which neither standard can supply.'
-New: '...Rocky’s covers the loan’s other terms, which neither standard can supply nor the fixed terms confine.' (+4)
-New footnote after fn 13: 'Biotechnology (n 12) 151 (McHugh JA).' Add the short title to fn 12: '... 130, 150 (McHugh JA) (‘Biotechnology’).'
+New: '...Rocky’s covers the loan’s other terms, which neither standard can supply nor the fixed terms confine.' (+5: 'own' becomes 'other'; 'nor the fixed terms confine' added)
+New footnote after fn 13: 'Biotechnology (n 12) 151 (McHugh JA).' Add the short title to fn 12: '... 130, 151 (McHugh JA) (‘Biotechnology’).' (Not 'Ibid', because fn 13, Meehan, intervenes.)
 Source: McHugh JA (majority), 151, ch06 p 164: 'notwithstanding that the promisor retains a discretion, the consideration will not be illusory if the discretion must be exercised within specified parameters'. His example is Lewandowski, where the range bounded the salary itself. Here the fixed amount, date, term and rate do not bound the 'conditions'.
 
-**C (+3). Godecke fixed at source.**
-Old: '...assumed ‘the familiar and objective standard of reasonableness’, which ‘satisfactory’ lacks.'
-New: '...assumed ‘the familiar and objective standard of reasonableness’, which the parties did not import.'
+**C (+1). Godecke fixed at source.**
+Old: '...assumed ‘the familiar and objective standard of reasonableness’,[^15] which ‘satisfactory’ lacks.'
+New: '...assumed ‘the familiar and objective standard of reasonableness’,[^15] which neither party imported.'
 Source: Godecke 647, Gibbs J (obiter), ch06 p 187: 'the parties had imported the familiar and objective standard of reasonableness'. This removes the clash with 'perhaps reasonably', since Mason J's reasonableness in Meehan is implied by the court, not imported by the parties.
 
 **E (+3). Planted fact used for AMPL's assent-by-conduct case.**
@@ -153,18 +153,19 @@ Fact: 'Throughout this period Rocky would check in consistently with Grace via e
 **F (+4). Planted fact set aside on a legal ground, both ways.**
 Old: 'post-contractual conduct, such as Grace’s ‘I have until 8 April 2025’, cannot construe the term'
 New: 'post-contractual conduct, such as Rocky’s 2025 query or Grace’s ‘I have until 8 April 2025’, cannot construe the term'
-Source: Brambles 164 (fn 43), and 166, ch03 p 75: 'post-contractual events are not admissible on questions of construction'. Fact: Rocky's 13 February 2025 email asking 'when and how [Grace] intend[ed] to repay the principal of the Loan'. If the reviser prefers '13 February 2025 query', it costs 2 more words; take them from G-list trims or leave as '2025 query'.
+Source: Brambles 164 (fn 43), and 166, ch03 p 75: 'post-contractual events are not admissible on questions of construction'. Fact: Rocky's 13 February 2025 email asking 'when and how [Grace] intend[ed] to repay the principal of the Loan'. '13 February 2025 query' would be clearer but costs 2 more words, and no funded slack remains, so keep '2025 query' unless a further cut is found.
 
-Additions total: +9 +7 +3 +3 +4 = **+26**.
+Additions total: +10 +8 +1 +3 +4 = **+26**.
 
 ### Cuts (each loses no argument)
 
-1. Delete 'AMPL’s promise is not illusory either, because once Grace repays it leaves AMPL ‘no discretion’ whether to pay.[^34]' (**−18**). Delete fn 34 and renumber. Reason: no party runs this argument (C15). The conditional nature of AMPL's promise stays in 'a condition precedent to that obligation, not to the contract, which bound at once' (Meehan 582, fn 45).
-2. 'Grace would say the fixed amount, date, term and rate show' → 'Grace would say these fixed terms show' (**−4**). The four terms are already listed in sentence 4.
+1. Delete 'AMPL’s promise is not illusory either, because, once Grace repays, it leaves AMPL ‘no discretion’ whether to pay.[^34]' (**−18**). Delete fn 34 and renumber. Reason: no party runs this argument (C15). The conditional nature of AMPL's promise stays in 'a condition precedent to that obligation, not to the contract, which bound at once' (Meehan 582, fn 45).
+2. 'Grace would say the fixed amount, date, term and rate show' → 'Grace would say these fixed terms show' (**−4**). The four terms are already listed in 'However, ‘I will lend’ fixes the amount, date, term and rate'.
 3. 'a guarantee already given, so that, as in Sundell,' → 'a guarantee already given; as in Sundell,' (**−2**). The clause after the semicolon is a full clause, not a fragment.
-4. '‘[T]he clause’ most naturally means the guarantee clause just described;' → '...the guarantee clause;' (**−2**).
+4. '‘[T]he clause’ most naturally means the guarantee clause described;' → '...the guarantee clause;' (**−1**).
+5. 'though no formal document was contemplated, the email likewise fixes only these' → '... the email fixes only these' (**−1**). 'Only these' already mirrors 'dealt only with major matters'.
 
-Cuts total: **−26**. Net 0.
+Cuts total: −18 −4 −2 −1 −1 = **−26**. Net 0.
 
 (Order of the paragraph after cut 1: 'On certainty, ... not ‘so obscure’ as to be void. His ‘I will do that’ contains no words of effort: ...'. Two sentences, so not a one-sentence paragraph.)
 
@@ -186,7 +187,7 @@ Cuts total: **−26**. Net 0.
 
 ## 7. Residual risks (recorded, not changed)
 
-- 'likely an offer' beside 'likely left to a new agreement'. A purist says an offer requires willingness to be bound. The answer sequences offer and acceptance first and intention second, carries the qualifier forward ('qualifier included'), and the course itself treats offer and acceptance as 'an aid to analysis'. Acceptable.
+- 'likely an offer' beside 'likely left to a new agreement'. A purist says an offer requires willingness to be bound. The answer sequences offer and acceptance first and intention second, carries the qualifier forward ('‘subject to satisfactory conditions’ included'), and the course itself treats offer and acceptance as 'an aid to analysis'. Acceptable.
 - The commencement conclusion (8 April) rests on rebuttal. No reading gives a default rule, so the hedge is the right form.
 - Duty to co-operate (C21): Rocky's sharper counter is unstated. It is answered by 'No term requires him to pay early'.
 - Trident: the reading guide sets 'Mason CJ and Wilson J only'. The answer also uses Deane J and Brennan J (dissenting), which R-Y permits.
