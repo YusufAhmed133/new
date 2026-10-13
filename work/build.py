@@ -13,7 +13,7 @@ CASES=[
  'Pao On v Lau Yiu Long','Banque Brussels Lambert SA v Australian National Industries Ltd',
  'Council of the Upper Hunter County District v Australian Chilling and Freezing Co Ltd','G Scammell and Nephew Ltd v Ouston',
  'Roscorla v Thomas','Beaton v McDivitt','Secured Income Real Estate (Aust) Ltd v St Martins Investments Pty Ltd',
- 'Thorby v Goldberg','Biotechnology Australia Pty Ltd v Pace','Winn v Bull','Port Jackson Stevedoring Pty Ltd v Salmond & Spraggon (Aust) Pty Ltd',
+ 'Thorby v Goldberg','Biotechnology Australia Pty Ltd v Pace','Winn v Bull','Port Jackson Stevedoring Pty Ltd v Salmond & Spraggon (Aust) Pty Ltd','Brogden v Metropolitan Railway Co',
 ]
 SHORT=['Pace','Beaton','Gibson','Empirnall','Australian Woollen Mills','Ermogenous','Masters','Godecke','Meehan','Placer','Trident','Coulls','Brambles','Pao On','Banque Brussels','Upper Hunter','Sundell']
 body,_,rest=s.partition('\n[^1]:')
@@ -29,4 +29,17 @@ body=re.sub(r'^(I{1,3}\. [A-Z][A-Z v()]+)$', r'**\1**', body, flags=re.M)
 md=body+'\n[^1]:'+foot[5:]
 open('build_tmp.md','w',encoding='utf-8').write(md)
 subprocess.run(['pandoc','build_tmp.md','-f','markdown-smart','-o',out,'--reference-doc','reference.docx'],check=True)
+# A4 page, 2.54 cm margins
+import zipfile, shutil, os
+tmp=out+'.tmp'
+with zipfile.ZipFile(out) as zi, zipfile.ZipFile(tmp,'w',zipfile.ZIP_DEFLATED) as zo:
+    for it in zi.infolist():
+        d=zi.read(it.filename)
+        if it.filename=='word/document.xml':
+            x=d.decode('utf-8')
+            x=re.sub(r'<w:pgSz[^>]*/>','',x); x=re.sub(r'<w:pgMar[^>]*/>','',x)
+            x=re.sub(r'(</w:sectPr>)', r'<w:pgSz w:w="11906" w:h="16838"/><w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="708" w:footer="708" w:gutter="0"/>\1', x)
+            d=x.encode('utf-8')
+        zo.writestr(it,d)
+shutil.move(tmp,out)
 print('built',out)
