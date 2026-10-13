@@ -15,7 +15,7 @@ CASES=[
  'Roscorla v Thomas','Beaton v McDivitt','Secured Income Real Estate (Aust) Ltd v St Martins Investments Pty Ltd',
  'Thorby v Goldberg','Biotechnology Australia Pty Ltd v Pace','Winn v Bull','Port Jackson Stevedoring Pty Ltd v Salmond & Spraggon (Aust) Pty Ltd',
 ]
-SHORT=['Beaton','Gibson','Empirnall','Australian Woollen Mills','Ermogenous','Masters','Godecke','Meehan','Placer','Trident','Coulls','Brambles','Pao On','Banque Brussels','Upper Hunter','Sundell']
+SHORT=['Pace','Beaton','Gibson','Empirnall','Australian Woollen Mills','Ermogenous','Masters','Godecke','Meehan','Placer','Trident','Coulls','Brambles','Pao On','Banque Brussels','Upper Hunter','Sundell']
 body,_,rest=s.partition('\n[^1]:')
 foot='[^1]:'+rest
 def ital(text, names):
