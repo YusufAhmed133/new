@@ -227,7 +227,7 @@ Exact changes, ranked by marks per word. The net word change is 0, keeping the b
 | 1 | P11: 'and the clause, **arguably** included after Pierre 'agreed', bound no one before signing' | problem, as above | +1 | +5.025 (D4 removed; II.C2 Fair to Exc) |
 | 2 | fn 12 '150' to '151'; italicise *Biotechnology Australia Pty Ltd v Pace* in the docx; move fn 25's marker to the sentence end | CB14_ch06 p 163 | 0 | +1.125 (D10; R8 to Exc) |
 | 3 | R1 fixes (see below) | — | −13 | +1.0 (R1 to Exc) |
-| 4 | P6: 'Rocky's 5 March demand under the Loan Agreement, **arguably assuming a 27 February start,** therefore faces privity' | problem ('5 March', 'repayable at the expiry of 12 months') | +5 | +1.875 (I.F2 to Exc) |
+| 4 | P6: 'Rocky's 5 March demand under the Loan Agreement, **arguably assuming a 27 February start,** faces privity' ('therefore' deleted) | problem ('5 March', 'repayable at the expiry of 12 months') | +4 | +1.875 (I.F2 to Exc) |
 | 5 | P17: 'In New South Wales, **construction is objective, and** post-contractual conduct, such as …, cannot construe the term;[43]' and '**It is arguably ambiguous: it names no start.**' | Brambles 164 (Heydon JA): 'the construction of a contract is an objective question for the court' (CB 74), so fn 43 is unchanged | +6 | +1.25 (II.G to Exc) |
 | 6 | P5: '**Rocky's promise is therefore arguably illusory, and** the email likely bound neither party, **so** Grace has no claim that Rocky failed to lend.' | — | +6 | +0.75 (I.E to Exc); +0.5 (R6 to Exc) |
 | 7 | P16: '…not at AMPL's signature, **so, if Pierre promised, AMPL likely gave none.**' | — | +8 | +1.0 (II.I3 to Exc) |
