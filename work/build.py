@@ -9,7 +9,7 @@ CASES=[
  'Masters v Cameron','Godecke v Kirwan','Meehan v Jones','Placer Development Ltd v Commonwealth',
  'Trident General Insurance Co Ltd v McNiece Bros Pty Ltd','Coulls v Bagot’s Executor and Trustee Co Ltd',
  'Brambles Holdings Ltd v Bathurst City Council','Integrated Computer Services Pty Ltd v Digital Equipment Corp (Aust) Pty Ltd',
- 'Eccles v Bryant','TA Sundell & Sons Pty Ltd v Emm Yannoulatos (Overseas) Pty Ltd','Wigan v Edwards',
+ 'Eccles v Bryant and Pollock','Eccles v Bryant','TA Sundell & Sons Pty Ltd v Emm Yannoulatos (Overseas) Pty Ltd','Wigan v Edwards',
  'Pao On v Lau Yiu Long','Banque Brussels Lambert SA v Australian National Industries Ltd',
  'Council of the Upper Hunter County District v Australian Chilling and Freezing Co Ltd','G Scammell and Nephew Ltd v Ouston',
  'Roscorla v Thomas','Beaton v McDivitt','Secured Income Real Estate (Aust) Ltd v St Martins Investments Pty Ltd',
@@ -19,9 +19,8 @@ SHORT=['Gibson','Empirnall','Australian Woollen Mills','Ermogenous','Masters','G
 body,_,rest=s.partition('\n[^1]:')
 foot='[^1]:'+rest
 def ital(text, names):
-    for n in sorted(names,key=len,reverse=True):
-        text=re.sub(r'(?<![\*\w])'+re.escape(n)+r'(?![\w\*])', '*'+n+'*', text)
-    return text
+    pat=re.compile('|'.join(r'(?<![\w])'+re.escape(n)+r'(?![\w])' for n in sorted(names,key=len,reverse=True)))
+    return pat.sub(lambda m:'*'+m.group(0)+'*', text)
 # footnotes: full names and short titles (also inside the ('Short') parentheses)
 foot=ital(foot, CASES+SHORT)
 # body: short titles only where used as case names (not 'Mrs Coulls')
