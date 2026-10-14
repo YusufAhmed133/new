@@ -1,6 +1,6 @@
 # HANDOFF: LAWS1150/JURD7150 T3 2026 mid-term (Rocky problem)
 
-Read this first. It is written so that any Claude session (Cowork or Code) given this repository can continue the work without the original conversation.
+Read this first, then PROCESS.md (the binding step-by-step drill for every next round). It is written so that any Claude session (Cowork or Code) given this repository can continue the work without the original conversation.
 
 ## 1. The task
 - Student: Yusuf. Assessment: LAWS1150/JURD7150 Principles of Private Law, T3 2026 mid-term problem question (Rocky, Grace, AMPL, Pierre). Due Monday 19 October 2026, 9:00am.
