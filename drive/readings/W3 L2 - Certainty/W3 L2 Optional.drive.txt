@@ -1,0 +1,557 @@
+CHAPTER 6
+
+Certainty
+
+\[6.20\]
+
+COMPLETENESS
+
+\[6.30\] Essential terms
+
+\[6.40\]
+
+Agreements to agree
+
+\[6.50\]
+
+Executed contracts
+
+\[6.60\]
+
+Machinery for settling a term
+
+\[6.80\]
+
+\[6.70\] Formula for settling a term
+
+CERTAINTY
+
+\[6.90\] Reasonableness
+
+\[6.100\]
+
+Agreements to negotiate
+
+\[6.110\]
+
+ILLUSORY PROMISES
+
+\[6.130\]
+
+SEVERANCE
+
+\[6.140\] WAIVER
+
+140
+
+141
+
+143
+
+143
+
+144
+
+145
+
+145
+
+145
+
+146
+
+148
+
+152
+
+152
+
+\[6.10\] The fourth requirement of contract formation is that the agreement between the parties must be certain and complete. This requirement may be said to be implicit in the requirement of agreement: an offer will only be effective if it identifies with sufficient certainty the terms of the proposed contract. Questions of certainty also overlap with the issue of intention: the more certain and comprehensive an agreement, the more likely it is that the parties intended to be legally bound by that agreement.
+
+It is not necessary, or indeed possible, for contracting parties to provide for every possible contingency, or to spell out their agreement in language so clear that it is susceptible of only one interpretation. In the interpretation of contracts, the courts apply the maxim ut res magis valeat quam pereat (it is better for a thing to have effect than be found void)³ and will resolve ambiguities and fill gaps in agreements to some extent. Questions of certainty and completeness are therefore questions of degree. The real issue in a particular case is whether the agreement is sufficiently certain and sufficiently complete that it is capable of constituting a binding contract.
+
+There are two reasons why that issue is often difficult to resolve. First, resolution of the issue necessarily involves a consideration of the nature of the agreement and the particular circumstances in which the agreement has been made. Abstract principles tend to be particularly unhelpful in this area. Secondly, judicial attitudes differ as to the degree of certainty and completeness required. Because the courts regard contractual obligations as voluntary, the courts have traditionally been reluctant to write contracts for the parties." In accordance with this approach, some judges are adamant that the courts should not resolve issues that the parties have failed to resolve. Some judges regard even the filling of a gap by
+
+1
+
+See Part VI.
+
+2
+
+See Chapter 13.
+
+3
+
+4
+
+See further Parts V and VI.
+
+5
+
+Hall v Busst (1960) 104 CLR 206, 239. See also York Air Conditioning and Refrigeration (Australasia) Pty Ltd v Commonwealth (1949) 80 CLR 11, 26.
+
+See Hillas and Co Ltd v Arcos Ltd (1932) 147 LT 503, 512; \[1932\] All ER 494, 499.
+
+6
+
+See Biotechnology Australia Pty Ltd v Pace (1988) 15 NSWLR 130, 132-3.
+
+7
+
+See, eg, Hall v Busst (1960) 104 CLR 206, 222.
+
+\[6.10\] 139
+
+Part II: Formation
+
+reference to what is reasonable or fair as an unwarranted interference with individual liberty.s Other judges are prepared to go further to uphold vague or incomplete agreements." To be weighed against the notion that the courts should not make bargains for the parties is the consideration that dealings between parties should "as far as possible be treated as effective" and that the law should "not incur the reproach of being the destroyer of bargains".10 It is generally accepted that judges today are more willing to fill gaps and resolve ambiguities than they have been in the past.11
+
+The requirement that a contract be certain has three aspects:
+
+1\. The contract must be sufficiently complete. This means that the parties must at least reach agreement on all terms that they intended to fix by agreement, rather than have someone else set for them, and also on all matters the court cannot resolve by implication. Some interpretations of this requirement are stricter, as discussed at \[6.30\].
+
+2\. The agreed terms must be sufficiently certain and clear that the parties can understand
+
+their rights and obligations and the courts can enforce them.
+
+3\. The promises made by the parties must not be illusory. A promise made by a party is illusory if the party is given an unfettered discretion as to performance of a promise. If a party has an unfettered choice as to whether to perform a promise, then that promise cannot be said to give rise to any contractual obligation.
+
+The effect of uncertainty, incompleteness or an illusory term in an agreement will depend essentially on whether it goes to the heart of the agreement. If it does, then the agreement cannot constitute a binding contract. There are two ways in which an agreement affected by uncertainty may be saved. First, where a particular term or part of an agreement is incomplete, uncertain or illusory, it may be possible to sever the offending term or part. The remainder of the agreement will then constitute a binding contract. Secondly, where an uncertain, incomplete or illusory provision has been inserted for the benefit of one of the parties, it may be possible for that party to waive compliance with the offending term and enforce the remainder of the
+
+contract.
+
+COMPLETENESS
+
+\[6.20\] It is often said that no binding contract can be made unless the parties have reached agreement on all of the terms, or at least all of the essential terms, of the contract.12 Three factors must be taken into account in determining whether an omission from an agreement is fatal to contract formation. The first question is the importance or essentiality of the term. The second question is why the term has been left out: did the parties fail to reach agreement on the issue, deliberately defer agreement or simply fail to put their minds to the issue? The third question is whether the agreement remains entirely executory or has been wholly or partly performed.
+
+8
+
+9
+
+Biotechnology Australia Pty Ltd v Pace (1988) 15 NSWLR 130, 133.
+
+For example, Foley v Classique Coaches Ltd \[1934\] 2 KB 1; Booker Industries Pty Ltd v Wilson Parking (Qld) Pty Ltd (1982) 149 CLR 600, 612-17; Upper Hunter County District Council v Australian Chilling & Freezing Co (1968) 118 CLR 429, 436-7.
+
+10
+
+Hillas & Co Ltd v Arcos Ltd (1932) 147 LT 503, 512; \[1932\] All ER 494, 499.
+
+11
+
+See Greig and Davis, The Law of Contract (1987), pp 348-62.
+
+12
+
+For example, Thorby v Goldberg (1964) 112 CLR 597, 607.
+
+140 \[6.20\]
+
+Certainty Chapter 6
+
+Essential terms
+
+\[6.30\] As noted at \[6.20\], it is said that an agreement will be sufficiently complete if the parties have reached agreement on the essential terms. The label "essential term" is used in different ways for the purposes of different doctrines of contract law.13 Here, it simply means "a term without which the contract cannot be enforced".14 Whether a term is essential for this purpose does not depend on its importance; it is for the parties, not the courts, to decide what is important.15 What matters is whether the court can enforce the contract in the absence of the term in question, without exceeding its role as the interpreter, rather than the author, of the contract. Whether a particular absent term will be regarded as essential depends on the nature of the contract and the circumstances of the case. 16 In an agreement for a lease, the commencement date is essential, so an agreement for lease which fails to stipulate a commencement date will not constitute a binding contract. The rent to be paid is also essential, so an option to renew a lease at a rent "to be agreed" will not be binding. In a contract for the sale of land, the date for completion is not regarded as essential, but the parties must reach agreement on price. There will be no contract if the parties fail to stipulate a price or an effective method or mechanism for determining a price.19 In a contract for the sale of goods, on the other hand, a failure to stipulate a price may not be fatal. Where an agreement for the sale of goods is silent on price, an obligation to pay a reasonable price will be imposed by the Sale of Goods Acts.20 Menzies J suggested in Hall v Busst,21 that the obligation to pay a reasonable price for goods is a restitutionary, rather than contractual, obligation, which arises only where ordered goods have been delivered and accepted and title has passed.22 Windeyer J took the view that the obligation to pay a reasonable price would arise in the case of a wholly executory contract that was silent on price.23 This view is more consistent with the terms of the Sale of Goods Acts and has since been preferred.24
+
+In a contract for the sale of land, the parties, the subject matter and the price are regarded as essential terms and there can be no binding contract if these details are not fixed with certainty.25 Parties may make a valid contract, sometimes described as an "open contract",
+
+13 Compare the use of the term in relation to termination for breach, at \[21.60\].
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+Thomson v White \[2006\] NSWCA 350, \[100\]; Ormwave Pty Ltd v Smith \[2007\] NSWCA 210, \[88\].
+
+Pagnan SpA v Feed Products Ltd \[1987\] 2 Lloyd's Rep 601, 619, adopted in numerous Australian cases, including Anaconda Nickel Ltd v Tarmoola Australia Pty Ltd \[2000\] WASCA 27; (2000) 22 WAR 101, 111; Thomson v White \[2006\] NSWCA 350, \[100\]; Ormwave Pty Ltd v Smith \[2007\] NSWCA 210, \[88\]. Vroon BV v Foster's Brewing Group Ltd \[1994\] 2 VR 32, 68.
+
+Harvey v Pratt \[1965\] 1 WLR 1025.
+
+See Eudunda Farmers Co-operative Society Ltd v Mattiske \[1920\] SALR 309; Randazzo v Goulding \[1968\] Qd R 433.
+
+Hall v Busst (1960) 104 CLR 206, 240; Stocks & Holdings (Constructors) Pty Ltd v Arrowsmith (1964) 112 CLR 646,650.
+
+Sale of Goods Act 1954 (ACT), s 13(2); Sale of Goods Act 1923 (NSW), s 13(2); Sale of Goods Act 1972 (NT), s 13(2); Sale of Goods Act 1896 (Qld), s 11(2); Sale of Goods Act 1895 (SA), s 8(2); Sale of Goods Act 1896 (Tas), s 13(2); Goods Act 1958 (Vic), s 13(2); Sale of Goods Act 1895 (WA), s 8(2).
+
+21
+
+Hall v Busst (1960) 104 CLR 206.
+
+Hall v Busst (1960) 104 CLR 206, 234. See also at 222.
+
+23
+
+Hall v Busst (1960) 104 CLR 206, 241-2.
+
+22222
+
+24
+
+See Sutton, Sales and Consumer Law (4th ed, 1995), pp 159-60; Wenning v Robinson (1964) 64 SR (NSW) 157, 161-2, 167.
+
+25
+
+Hall v Busst (1960) 104 CLR 206, 222.
+
+\[6.30\] 141
+
+Part II: Formation
+
+for the sale of land, dealing only with these terms, and the court will "fill in the details" by implication.26 The court will imply obligations relating to each step necessary to complete the transaction, including an obligation to take each step within a reasonable time.27 The court's understanding of conveyancing transactions allows it to make the necessary implications. In a "reasonably straight forward" property development joint venture, it was possible for the court to make implications as to how profits were to be calculated and how losses were to be shared.28 Where a transaction is of a more complex and less familiar kind, such as a mining joint venture, the court may not be able to imply the necessary terms.29 The more novel and complex an agreement is, the less likely it is that the court will feel competent to fill gaps in the agreement.30 In Milne v Attorney-General (Tas), the High Court referred to certain documents which the plaintiff alleged contained the relevant terms of the contract and said:
+
+Those documents deal with some only of the terms which must of necessity be settled before a binding contract can exist ... no contract is concluded until the parties negotiating are agreed upon all the terms of their bargain - unless the terms left outstanding are "such as the law will supply" ... Here the transaction ultimately contemplated was very complex, and it is clear that the law cannot supply its terms.
+
+The question of what is essential will depend on the facts of each particular case. In Trollope & Colls Ltd v Atomic Power Constructions Ltd, Megaw J suggested that the parties must "agree any term which \[is\], in law, essential to be agreed in order to make the contract commercially workable". 32 This point is illustrated by Australia and New Zealand Banking Group Ltd v Frost Holdings Pty Ltd,33 which involved an agreement relating to an exhibition of paintings and the production of calendars featuring reproductions of those paintings. The agreement was held to be incomplete because the parties had failed to reach agreement on the design, style and content of the calendars; the quality and size of paper; and the number to be supplied. Kaye J, with whom Marks and Teague JJ agreed, held that the provisions of the Sale of Goods Acts implying an obligation to pay a reasonable price can operate only where agreement has been reached on all other essential terms.34
+
+Kaye J suggested in Australia and New Zealand Banking Group Ltd v Frost Holdings Pty Ltd that "the law does not permit a court to imply a term into a bargain between parties for the purposes of making their bargain an enforceable contract".35 Brian Coote has argued that the relevant principle cannot be "that there must be sufficient expressly agreed terms by themselves to constitute a contract before any additional terms can be implied to supplement them".36 The threshold question is not whether the expressly agreed terms are sufficient in
+
+26 Cavallari v Premier Refrigeration Co Pty Ltd (1952) 85 CLR 20, 27.
+
+27
+
+28
+
+Cavallari v Premier Refrigeration Co Pty Ltd (1952) 85 CLR 20, 27. Thomson v White \[2006\] NSWCA 350, \[103\].
+
+29
+
+Coal Cliff Collieries Pty Ltd v Sijehama Pty Ltd (1991) 24 NSWLR 1, 38.
+
+30
+
+31
+
+Trawl Industries of Australia Pty Ltd v Effem Foods Pty Ltd (1992) 27 NSWLR 326, 333-4. Milne v Attorney-General (Tas) (1956) 95 CLR 460, 473.
+
+32 Trollope & Colls Ltd v Atomic Power Constructions Ltd \[1962\] 1 WLR 333, 337.
+
+33
+
+Australia and New Zealand Banking Group Ltd v Frost Holdings Pty Ltd \[1989\] VR 695.
+
+34
+
+35
+
+36
+
+Australia and New Zealand Banking Group Ltd v Frost Holdings Pty Ltd \[1989\] VR 695, 702-3.
+
+Australia and New Zealand Banking Group Ltd v Frost Holdings Pty Ltd \[1989\] VR 695, 702, citing dictum of Lord Roskill in the Privy Council in Aotearoa International Ltd v Scancarriers A/S \[1985\] 1 NZLR 513, 556. Coote, "Contract Formation and the Implication of Terms" (1993) 6 Journal of Contract Law 51, 51.
+
+142 \[6.30\]
+
+Certainty Chapter 6
+
+themselves to constitute a contract, but whether the parties have specifically agreed all the terms that only they can decide. A contract will be binding if the parties have agreed all of the terms on which they had intended that only they should agree, plus any other terms the court is incapable of supplying by implication.37 In order to form a valid contract, the parties must, in other words, reach agreement "upon all the terms which they regarded or the law requires as essential for the formation of legally binding relations".38 Such a principle is consistent with the result in Australia and New Zealand Banking Group Ltd v Frost Holdings Pty Ltd. It is also consistent with Devani v Wells,39 where a real estate agent and a vendor of flats had agreed on a rate of commission to be paid to the agent but not on the event that would trigger the agent's entitlement to commission. The UK Supreme Court held that a reasonable person would understand the commission to be payable on completion of a sale of the property to a purchaser introduced by the agent and from the proceeds of sale.40 The court would, if necessary, have held such a term to be implied.
+
+Agreements to agree
+
+\[6.40\] In most cases, it will be of no consequence whether an agreement is silent in relation to an essential term or provides that the parties will reach agreement on that term in the future. In neither case is there a binding contract: both types of agreement may be characterised as incomplete, while the second type may also be characterised as an agreement to agree, which the courts will not enforce.41 The distinction is important, however, in a situation in which the court might otherwise have implied a term, such as an obligation to pay a reasonable price in a contract for the sale of goods.2 The obligation to pay a reasonable price will only be inferred if the contract is silent as to price. In May and Butcher Ltd v The King, the House of Lords held that the provision of the Sale of Goods legislation implying an obligation to pay a reasonable price has no application where the parties had deliberately deferred agreement on price. Where the parties have agreed to reach agreement on price in the future, the implication of an obligation to pay a reasonable price would be inconsistent with the expressed intention of the parties, which is to set the price themselves.
+
+Executed contracts
+
+\[6.50\] The courts are less likely to find an agreement incomplete if it has been wholly or partly performed.44 Where land has been conveyed, goods delivered or services performed under an agreement, a finding that it is not binding will have more serious consequences than if it remains wholly executory. It has been said that:
+
+37
+
+38
+
+Coote, "Contract Formation and the Implication of Terms" (1993) 6 Journal of Contract Law 51, 56-7. RTS Flexible Systems Ltd v Molkerei Alois Müller GmbH Co KG (UK Production) \[2010\] UKSC 14; \[2010\] 1 WLR 753.
+
+39
+
+Devani v Wells \[2019\] UKSC 4; \[2020\] AC 129.
+
+40
+
+Devani v Wells \[2019\] UKSC 4; \[2020\] AC 129, \[26\]-\[28\].
+
+41
+
+For example, Booker Industries Pty Ltd v Wilson Parking (Qld) Pty Ltd (1982) 149 CLR 600, 604. But see McLauchlan, "Rethinking Agreements to Agree" (1998) 18 New Zealand Universities Law Review 77.
+
+42
+
+See also Relwood Pty Ltd v Manning Homes Pty Ltd \[1990\] 1 Qd R 481, 488.
+
+43
+
+May and Butcher Ltd v The King \[1934\] 2 KB 17n.
+
+44
+
+For example, Husain v O\&S Holdings (Vic) Pty Ltd \[2005\] VSCA 269, \[26\] and \[53\] and Devani v Wells \[2019\] UKSC 4; \[2020\] AC 129, \[26\] and \[35\].
+
+\[6.50\] 143
+
+Part II: Formation
+
+In a commercial agreement the further the parties have gone on with their contract, the more ready are the courts to imply any reasonable term so as to give effect to their intentions. When much has been done, the courts will do their best not to destroy the bargain.45
+
+In Foley v Classique Coaches Ltd, for example, the plaintiff sold land to the defendants on which they were to carry on a motor coach business. The plaintiff retained a petrol station on adjoining land. In a supplemental agreement, the defendants agreed to buy all of their supplies of petrol from the plaintiff during his lifetime "at a price to be agreed by the parties in writing and from time to time". The land was duly conveyed to the defendants, who purchased their petrol from the plaintiff for three years. The defendants then wished to acquire cheaper petrol elsewhere and claimed the agreement was not binding because no written agreement as to price had ever been made. The Court of Appeal was prepared to imply a term that the petrol was to be sold at a reasonable price. It is difficult to reconcile this case with May and Butcher Ltd v The King, except by reference to the fact that land had been conveyed and the parties had acted on the agreement for three years.
+
+Machinery for settling a term
+
+\[6.60\] Parties may make a valid contract that defers agreement on an essential term if they provide an effective mechanism for supplying the term in the event they fail to reach agreement. It is quite common for a commercial lease to provide an option for renewal at a rent to be agreed between the parties or, failing agreement, to be determined by a specified valuer or arbitrator.47 A difficult question arises when the machinery specified by the parties for supplying a term fails, such as where a specified arbitrator or valuer is unable or unwilling to perform the task required of him or her by the contract. In George v Roach, the High Court held that an agreement was ineffective when part of the purchase price was to be fixed by a nominated valuer who refused to carry out the task. This approach may be justified on the basis that it would be inconsistent with the intention of the parties for the court to set the term. The Sale of Goods legislation similarly provides that "\[w\]here there is an agreement to sell goods on the terms that the price is to be fixed by the valuation of a third party, and such third party cannot or does not make such valuation, the agreement is avoided".49 In England, the courts are prepared to imply an obligation to pay a reasonable price where valuation machinery has failed and the specified mode of ascertaining the value of the subject matter cannot be regarded as essential.50 Brennan J expressed support for this view by way of obiter dicta in Booker Industries Pty Ltd v Wilson Parking (Qld) Pty Ltd.¹
+
+Foley v Classique Coaches Ltd \[1934\] 2 KB 1.
+
+45
+
+F & G Sykes (Wessex) Ltd v Fine Fare Ltd \[1967\] 1 Lloyd's Rep 53, 57.
+
+46
+
+47
+
+48
+
+49
+
+50
+
+51
+
+See, eg, Booker Industries Pty Ltd v Wilson Parking (Qld) Pty Ltd (1982) 149 CLR 600. George v Roach (1942) 67 CLR 253.
+
+Sale of Goods Act 1954 (ACT), s 14(1); Sale of Goods Act 1923 (NSW), s 14(1); Sale of Goods Act 1972 (NT),
+
+s 14(1); Sale of Goods Act 1896 (Qld), s 12(1); Sale of Goods Act 1895 (SA), s 9(1); Sale of Goods Act 1896 (Tas), s 14(1); Goods Act 1958 (Vic), s 14(1); Sale of Goods Act 1895 (WA), s 9(1).
+
+Sudbrook Trading Estate Ltd v Eggleton \[1983\] AC 444.
+
+Booker Industries Pty Ltd v Wilson Parking (Qld) Pty Ltd (1982) 149 CLR 600, 616. See also Axelsen v O'Brien (1949) 80 CLR 219.
+
+144 \[6.60\]
+
+Certainty Chapter 6
+
+Formula for settling a term
+
+\[6.70\] Parties may also agree on a formula for settling a term or terms of their agreement, which can be applied by the court in the event of a dispute. The formula may provide a very precise means of settling the term, such as where a commercial lease specifies a mathematical formula for increases in rent to reflect movements in the Consumer Price Index. Alternatively, the parties may specify a standard, rather than a formula, such as an option to renew a lease at a "reasonable rental". The validity of the contract will then depend on whether the court regards the formula or standard as sufficiently certain.
+
+CERTAINTY
+
+\[6.80\] A contract may fail because a particular term is so vague and imprecise that the courts cannot attribute a meaning to it. The courts cannot enforce a contract if they cannot identify the obligations of the parties with some degree of precision. The courts do not take a narrow or pedantic approach to the requirement of certainty and will attribute a meaning to the language used by the parties unless it is impossible to do so.52 As with incompleteness, uncertainty is more likely to affect a contract that remains wholly executory. Where the parties have been performing the contract without difficulty, the court will be reluctant to come to the conclusion that the contract is unintelligible.53
+
+Reasonableness
+
+\[6.90\] The standard of reasonableness can often be employed to provide completeness and certainty that would otherwise be lacking. A valid contract may be made for the sale of goods "at a reasonable price".54 In other instances, the reasonableness standard will not be sufficiently certain. In Hall v Busst, the vendor of land was given an option to repurchase it at a specified price less "a reasonable sum to cover depreciation of all buildings and other property on the land". The High Court, by a majority of 3-2, held that the clause was void for uncertainty, since there were many ways to measure depreciation, all of which could be regarded as reasonable. The majority took the view that although a sale of goods at a reasonable price was enforceable, this principle did not extend to land. Accordingly, a contract for the sale of land at a reasonable price would be void for uncertainty. In his dissenting judgment, Kitto J observed that the law has never found the standard of reasonableness too vague. 56 Windeyer J dissented for similar reasons and was also concerned that the parties had changed their position on the basis of the agreement." The decision in Hall v Busst can be seen to reflect a more restrictive approach to questions of certainty than that which is now applied by the courts. 58
+
+53
+
+52 Upper Hunter County District Council v Australian Chilling & Freezing Co Ltd (1968) 118 CLR 429, 436-7.
+
+York Air Conditioning and Refrigeration (Australasia) Pty Ltd v Commonwealth (1949) 80 CLR 11, 53. See also Hillas v Arcos (1932) LT 503 and Lücke, "Illusory, Vague and Uncertain Contractual Terms" (1977) 6 Adelaide Law Review 1, 9-11.
+
+Wenning v Robinson \[1964\] 64 SR (NSW) 157, 164.
+
+54
+
+55
+
+Hall v Busst (1960) 104 CLR 206.
+
+56
+
+Hall v Busst (1960) 104 CLR 206, 226.
+
+57
+
+Hall v Busst (1960) 104 CLR 206, 238-9.
+
+58
+
+See Booker Industries Pty Ltd v Wilson Parking (Qld) Pty Ltd (1982) 149 CLR 600, esp at 616.
+
+\[6.90\] 145
+
+Part II: Formation
+
+Whitlock v Brew was concerned with a contract for the sale of a large parcel of land that included a Shell petrol station. The land was sold on condition that the purchaser would grant a lease of part of the land to the Shell Company of Australia Ltd (a third party) "on such reasonable terms as commonly govern such a lease". The purchaser claimed the contract was void for uncertainty and sought to recover his deposit. There was no evidence that there were any terms for a lease that could be regarded as standard and reasonable, but, even if there were, the parties had not agreed on the vital questions of rent and the term of the lease. Taylor, Menzies and Owen JJ considered that "the expression 'upon such reasonable terms as commonly govern such a lease' \[was\] not, in the context in which it appears, apt to refer either to the period" of the lease or the rent payable.60 Kitto J observed that the reference to "reasonable terms" would have been sufficiently certain had there been such a set of terms in common use, but the evidence did not establish this.61 Accordingly, the contract was void for uncertainty. In his dissenting judgment, McTiernan J considered that the commencement date and term of the lease could be inferred from the circumstances, and the parties had expressly agreed that the rent should be reasonable.62 McTiernan J held that, although a court might hesitate to grant specific performance, the agreement was enforceable by an action for damages,63
+
+Agreements to negotiate
+
+\[6.100\] It has been held in England that neither an agreement to negotiate nor an agreement to negotiate in good faith can be legally binding. In Walford v Miles,64 the House of Lords held that an agreement to negotiate lacks the necessary certainty to constitute a legally enforceable obligation. The case concerned the enforceability of a "lock out" agreement, which required a proposed seller of shares not to deal with any other potential buyer, with a view to concluding an agreement with the other party to the lock out agreement. The House of Lords held that the agreement was unenforceable because no duration was specified. A central issue was whether the uncertainty as to duration could be resolved by implying a duty to negotiate in good faith. The House of Lords held that no such duty could be imposed. Lord Ackner said that "a bare agreement to negotiate has no legal content" because negotiating parties are free to withdraw at any time.65 A duty to negotiate in good faith was said to be "unworkable in practice" and "inherently repugnant to the adversarial position of the parties when involved in negotiations".66
+
+In Petromec Inc v Petroleo Brasileiro SA, Longmore LJ observed that:
+
+The traditional objections to enforcing an obligation to negotiate in good faith are (1) that the obligation is an agreement to agree and thus too uncertain to enforce, (2) that it is difficult, if not impossible, to say whether, if negotiations are brought to an end, the termination is brought about in good or in bad faith, and (3) that, since it can never be known whether good faith
+
+59
+
+Whitlock v Brew (1968) 118 CLR 445.
+
+60
+
+Whitlock v Brew (1968) 118 CLR 445, 460.
+
+61
+
+Whitlock v Brew (1968) 118 CLR 445, 456.
+
+62
+
+Whitlock v Brew (1968) 118 CLR 445, 454-5.
+
+63
+
+Whitlock v Brew (1968) 118 CLR 445, 455.
+
+64
+
+Walford v Miles \[1992\] 2 AC 128.
+
+65
+
+Walford v Miles \[1992\] 2 AC 128, 138.
+
+66
+
+Walford v Miles \[1992\] 2 AC 128, 138.
+
+146 \[6.100\]
+
+Certainty Chapter 6
+
+negotiations would have produced an agreement at all or what the terms of any agreement would have been if it would have been reached, it is impossible to assess any loss caused by breach of the obligation.67
+
+The refusal to recognise an agreement to negotiate in good faith has been criticised. It has been argued that if parties have agreed to negotiate in good faith, the law should respect their intentions.69 An agreement to negotiate is not an agreement to agree; it does not oblige the parties to reach agreement but merely to make good faith efforts to reach agreement. If the parties make a good faith effort to reach agreement,70 but cannot agree, they are free to withdraw from the negotiations.
+
+In one Australian case, a promise in a memorandum of understanding to "use reasonable endeavours to negotiate" a gas supply agreement and to "work in good faith" to progress the agreement was held to be insufficiently certain to be enforceable."¹ Australian courts have, however, been willing to recognise the enforceability of a contractual duty to negotiate in good faith in particular contexts. In Coal Cliff Collieries Pty Ltd v Sijehama Pty Ltd, a majority of the New South Wales Court of Appeal accepted that a promise to negotiate in good faith may, in particular circumstances, be enforceable. The court was concerned with a heads of agreement relating to a proposed mining joint venture. The agreement provided that the parties would "proceed in good faith to consult together upon the formulation of a more comprehensive and detailed Joint Venture Agreement". Given the complexity of the proposed joint venture, the importance of the outstanding issues and the absence of machinery for resolving outstanding differences, the relevant provision was too vague and uncertain to be enforceable.73 Kirby P, with whom Waddell A-JA agreed, accepted that "a promise to negotiate in good faith will be enforceable, depending upon its precise terms... so long as the promise is clear and part of an undoubted agreement between the parties".74
+
+It is arguable that the court in Coal Cliff Collieries Pty Ltd v Sijehama Pty Ltd should not have been concerned about the completeness of the heads of agreement in setting out the terms of the joint venture.75 The court was not being asked to give effect to that agreement as a final contract relating to the joint venture. As noted above, an agreement to negotiate only requires the parties to negotiate towards a final agreement. The role of the court in enforcing such an agreement is to assess whether or not the parties have negotiated in good faith. The adoption
+
+69
+
+70
+
+67
+
+68
+
+Petromec Inc v Petroleo Brasileiro SA \[2005\] EWCA Civ 891, \[116\]. See also Barbudev v Eurocom Cable Management Bulgaria EOOD \[2011\] EWHC 1560 (Comm), \[97\], quoting Peel, "Agreements to Negotiate in Good Faith" in Burrows and Peel (eds), Contract Formation and Parties (2010) 37, p 50.
+
+See Paterson, "The Contract to Negotiate in Good Faith: Recognition and Enforcement" (1996) 10 Journal of Contract Law 120.
+
+See also Petromec Inc v Petroleo Brasileiro SA \[2005\] EWCA Civ 891, \[121\].
+
+As to which, see Paterson, "The Contract to Negotiate in Good Faith: Recognition and Enforcement" (1996) 10 Journal of Contract Law 120, 132-8.
+
+71
+
+Baldwin v Icon Energy Ltd \[2015\] QSC 12; \[2016\] 1 Qd R 397.
+
+72
+
+Coal Cliff Collieries Pty Ltd v Sijehama Pty Ltd (1991) 24 NSWLR 1.
+
+73
+
+Coal Cliff Collieries Pty Ltd v Sijehama Pty Ltd (1991) 24 NSWLR 1, 27.
+
+74
+
+Coal Cliff Collieries Pty Ltd v Sijehama Pty Ltd (1991) 24 NSWLR 1, 26.
+
+75
+
+Paterson, "The Contract to Negotiate in Good Faith: Recognition and Enforcement" (1996) 10 Journal of Contract Law 120, 130.
+
+\[6.100\] 147
+
+Part II: Formation
+
+of this approach would not have changed the result of the case, since Kirby P found that if there was an enforceable agreement to negotiate in good faith, it had not been breached.76
+
+In Aiton Australia Pty Ltd v Transfield," Einstein J regarded promises to negotiate and mediate in good faith to resolve disputes arising under an agreement as sufficiently certain to be enforceable. Clause 28 of a construction contract set out a dispute resolution procedure, which included obligations to negotiate and mediate in good faith. Einstein J held that clause 28 would have been sufficiently certain to be enforceable had the parties provided for payment of the mediator's costs.78 More recently, in United Group Rail Services Limited v Rail Corporation New South Wales, the New South Wales Court of Appeal reviewed the authorities and upheld the validity of a clearly worded dispute resolution clause which included an agreement to "meet and undertake genuine and good faith negotiations with a view to resolving the dispute".79 The court confirmed that such a promise does not prevent the parties from acting self-interestedly, but simply requires "an honest and genuine commitment ... to the process of negotiation for the designated purpose". 80 The parties must bring to the negotiations a genuine belief about their rights and obligations under the agreement and must negotiate by reference to those beliefs:
+
+These are not empty obligations; nor do they represent empty rhetoric. An honest and genuine approach to settling a contractual dispute, giving fidelity to the existing bargain, does constrain a party. The constraint arises from the bargain the parties have willingly entered into. It requires the honest and genuine assessment of rights and obligations and it requires that a party negotiate by reference to such. A party, for instance, may well not be entitled to threaten a future breach of contract in order to bargain for a lower settlement sum than it genuinely recognises as due. That would not, in all likelihood, reflect a fidelity to the bargain. A party would not be entitled to pretend to negotiate, having decided not to settle what is recognised to be a good claim, in order to drive the other party into an expensive arbitration that it believes the other party cannot afford.S1
+
+ILLUSORY PROMISES
+
+\[6.110\] A promise will be illusory if the promisor has an unfettered discretion in relation to performance. A promise to offer a renewed lease to a tenant is illusory if it leaves the terms and conditions, including rent, to the offeror.82 In Placer Development Ltd v Commonwealth,83 an agreement was made between Placer and the Commonwealth for the formation of a timber
+
+76
+
+Coal Cliff Collieries Pty Ltd v Sijehama Pty Ltd (1991) 24 NSWLR 1, 28-31.
+
+77 Aiton Australia Pty Ltd v Transfield \[1999\] NSWSC 996; (1999) 153 FLR 236.
+
+78 Aiton Australia Pty Ltd v Transfield \[1999\] NSWSC 996; (1999) 153 FLR 236, 271.
+
+79
+
+80
+
+81
+
+82
+
+83
+
+United Group Rail Services Limited v Rail Corporation New South Wales \[2009\] NSWCA 177; (2009) 74 NSWLR 618.
+
+United Group Rail Services Limited v Rail Corporation New South Wales \[2009\] NSWCA 177; (2009) 74 NSWLR 618, \[71\].
+
+United Group Rail Services Limited v Rail Corporation New South Wales \[2009\] NSWCA 177; (2009) 74 NSWLR 618, \[72\]-\[73\].
+
+Crown Melbourne Ltd v Cosmopolitan Hotel (Vic) Pty Ltd \[2016\] HCA 26; (2016) 260 CLR 1, \[198\]-\[200\] (Nettle J); contra Gageler J at \[62\]-\[64\] and Gordon J at \[265\] (promise to make an "offer" not rendered illusory by discretion as to terms).
+
+Placer Development Ltd v Commonwealth (1969) 121 CLR 353.
+
+148 \[6.110\]
+
+Part II: Formation
+
+SEVERANCE
+
+\[6.130\] Whether an incomplete, uncertain or illusory provision will invalidate the entire agreement depends on the essentiality of the term and the intention of the parties disclosed by the agreement.114 If the incomplete, uncertain or illusory provision is essential, then the contract must fail. If the relevant provision is not essential, the crucial question is whether the court can infer an intention that the agreement should be valid in the absence of the relevant provision. If such an intention can be inferred, then the offending provision can be severed, leaving the remainder of the agreement enforceable. In Fitzgerald v Masters,115 a contract for the sale of a half-interest in a farm set out the essential terms but included a clause which purported to incorporate the "usual conditions of sale in use or approved by the Real Estate Institute of New South Wales relating to sales by private contract of lands held under the Crown Lands Act". This clause was meaningless because there were no such terms. The High Court held that it was severable from the rest of the contract because the clause was merely an appendage to the agreement. It was clear that the parties intended their agreement to subsist even if the clause should fail to incorporate any additional conditions. 116 In Whitlock v Brew,117 on the other hand, the High Court held that the uncertain clause obliging the purchaser to grant a lease to the Shell Co could not be severed. Kitto J said:
+
+It is therefore clear on the face of the document that the parties had no intention of agreeing upon a sale which would entitle the purchaser to vacant possession without having to grant any lease to the Shell Co; and it follows that to treat the "contract" as binding though shorn of condition 5 would be to turn the sale into a different sort of sale from that which the parties contemplated. Courts are of course anxious to hold the parties to what they have agreed upon, but there can be no justification for holding them to something they have not agreed upon.118
+
+WAIVER
+
+\[6.140\] It may also be possible for an uncertain, incomplete or illusory provision in a contract to be waived by the party for whose benefit that clause was inserted. Where performance of a contract is subject to fulfilment of a condition which has not been fulfilled, there is no doubt that the party for whose benefit that condition was inserted can waive fulfilment of the condition and enforce the contract.119 Where a contract for the sale of a house is made subject to the purchaser obtaining finance from a particular lender, for example, the purchaser may choose to proceed with the transaction even if finance has not been obtained from that lender. The question then arises whether it is possible for one party to waive the benefit of an uncertain or illusory term of the contract made by the other party. In Grime v Bartholomew,120 the Supreme Court of New South Wales held that a party cannot waive an uncertain clause that is essential to the contract because the uncertainty means the parties failed to reach
+
+114 Life Insurance Co of Australia Ltd v Phillips (1925) 36 CLR 60, 72; Whitlock v Brew (1968) 118 CLR 445, 461. 115 Fitzgerald v Masters (1956) 95 CLR 420.
+
+116 Fitzgerald v Masters (1956) 95 CLR 420, 427-8, 438.
+
+117
+
+Whitlock v Brew (1968) 118 CLR 445.
+
+118
+
+Whitlock v Brew (1968) 118 CLR 445, 457.
+
+119
+
+See \[20.120\].
+
+120
+
+Grime v Bartholomew \[1972\] 2 NSWLR 827.
+
+152 \[6.130\]
+
+Certainty Chapter 6
+
+an agreement at all. Since there is no contract, no right of waiver can arise. In Bradford v Zahra,121 on the other hand, a purchaser successfully waived the benefit of an uncertain "subject to finance" clause and thereby "removed" the uncertainty. It may also be possible to waive the benefit of a failed machinery provision, provided it is entirely for the benefit of one party and is not essential to the operation of the agreement. 122
+
+121
+
+Bradford v Zahra \[1977\] Qd R 24. 122 See George v Roach (1942) 67 CLR 253.
+
+\[6.140\] 153

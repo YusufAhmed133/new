@@ -1,0 +1,172 @@
+Rocky problem map
+Companion to the final answer (Rocky - LAWS1150 Mid-Term T3 2026.docx). Body 1,488 words, 1,491 with the count line; 31 footnotes; verifier
+on the markdown and the .docx: 29 quotations, 0 FAIL, 0 CHECK. Sources: the readings (casebook extracts, the Pao On extract) and the slides
+only; no textbook citation anywhere; no earlier answer used.
+
+1. Timeline: what happened and what each step settles
+ Date               What happened (the problem's words)                                   What it settles in the final
+ 5 February 2024    Grace 'proposed that Rocky offer' a '$1 million dollar working        An invitation to offer, refused (I.A); the email's '1 year'
+                    capital loan for 2 years at 5% interest'; Rocky 'not interested in    answers it
+                    offering Grace a long-term loan'
+
+ 12 February        'I will lend $1 million to you by 15 February for 1 year at a rate    I.A: likely an offer in form; I.B: no intention, because the
+ 2024               of 5% interest subject to satisfactory conditions'; 'Please confirm   conditions were left open; I.C: illusory or uncertain. No
+                    agreement'; Grace: 'Confirmed.'                                       advance by Rocky is recorded, so a contract would only
+                                                                                          oblige him: no contract protects Rocky, and he has no claim
+                                                                                          either way
+ 27 February        'Rocky asked' AMPL to advance $1,150,000; 'Pierre agreed to           II.A: AMPL performed Pierre's agreement; III.B: a past act,
+ 2024               provide the money to Grace'; advanced 'on the same day'               not understood then as the price of a guarantee; III.C: the
+                                                                                          genesis fact AMPL relies on
+
+ 8 April 2024       Loan Agreement between AMPL and Grace: $1,150,000 at 4%,              Part II: the $10,000 contract; III.A: Rocky gave the
+                    interest monthly, 'repayable at the expiry of 12 months'; Rocky       guarantee; III.B: AMPL's fresh 8 April commitment is its
+                    'personally guaranteed repayment of the Loan'; Pierre expected        price; III.C: the 12 months are a term this instrument created
+                    Rocky 'to ensure' prompt payment; Rocky: 'I will do that if you
+                    also promise to pay $10,000 to me directly once Grace repays
+                    the Loan'; 'Pierre agreed and the clause was included ... before it
+                    was signed by Grace and AMPL'
+ 8 April 2024 to 8 Monthly interest paid; Rocky 'would check in consistently'             Later conduct: cannot construe the term (III.C)
+ February 2025
+ 13 February to 5   Rocky's emails; no reply; solicitor's demand for 'repayment of        I.D: Rocky is not Grace's promisee; III.C: later conduct,
+ March 2025         the principal amount under the Loan Agreement with AMPL'              inadmissible on meaning
+ 7 March 2025       Grace: 'I never signed anything with you'; 'I have until 8 April      I.D: right result, wrong test; III.C: inadmissible on meaning
+                    2025 to repay'; 'I might not pay at all!'
+ 9 March 2025       AMPL calls on 'the personal guarantee provided by Rocky'              III: guarantee likely binding, but the call was likely
+                                                                                          premature
+2. Structure of the final answer
+I. Rocky v Grace                                     II. Rocky v AMPL                                     III. AMPL v Rocky
+                        ▼                                                   ▼                                                   ▼
+ A. Agreement                                        A. Agreement                                         A. Agreement
+ Likely an offer in form ('I will lend' fixed        Contract likely, AMPL promisor, alternatively        Promise, not signature: he guaranteed
+ terms; Gibson contrasted)                           Pierre                                                                     ▼
+                        ▼                                                   ▼                             B. Consideration
+ B. Intention                                        B. Intention                                         Advance is past (Roscorla; Pao On feature
+ No contract likely: the conditions were left        Commercial bargain outweighs 'cousin'                two missing); 8 April commitment is fresh
+ open (Masters, Tasman)                              (Ermogenous)                                         (Beaton, AWM)
+                        ▼                                                   ▼                                                   ▼
+ C. Certainty                                        C. Certainty                                         C. Construction
+ Meehan distinguished: no stated object;             Both promises certain (Banque Brussels)              Ambiguous; genesis in, later conduct out
+ illusory or uncertain                                                      ▼                             (Brambles); likely 8 April 2025
+                        ▼                            D. Consideration                                                           ▼
+ D. Privity                                          Not an existing duty: timing, different scope,       Rocky likely need not pay now: the call
+ Grace promised AMPL alone (Coulls)                  third-party duty (Wigan, Sundell, Pao On)            was premature
+                        ▼                                                   ▼
+ No claim against Grace; no contract                 E. Privity
+ protects Rocky                                      Coulls distinguished
+                                                                            ▼
+                                                     F. Terms of payment
+                                                     Only once Grace repays
+                                                                            ▼
+                                                     AMPL, alternatively Pierre, likely owes
+                                                     $10,000, once Grace repays
+
+
+3. Issue by issue, as argued in the final
+Node              Rule (source)                                 Both sides and the decisive reason                          Conclusion
+I.A               True construction: present promise or         Rocky: 'Confirming discussions', 'Potential', 'wait and     Likely an offer; the qualifier
+Agreement         future possibility (Gibson 297–8)             see' read as minutes. Decisive: 'I will lend' fixed         decides whether Rocky was
+                                                                amount, date, term and rate, unlike 'may be prepared        bound
+                                                                to sell'; 'Confirmed' answered 'Please confirm
+                                                                agreement'
+I.B Intention     Objective (Ermogenous [25]); 'subject to'     Grace: co-developers since 2017, promissory words,       No contract likely, because
+                  prima facie an overriding condition, no       no formal contract contemplated. Decisive: words         the conditions were left open
+                  formula decisive (Masters 361–4);             leaving conditions to be settled prima facie disclose no
+                  categories only 'intellectual aids' (Tasman   intention
+                  [26])
+I.C Certainty     Meehan: sale conditional on satisfactory      Grace relies on Meehan. Decisive: Meehan's terms            Likely illusory or uncertain
+                  finance upheld; Mason J left honesty or       were concluded and its satisfaction had an identified
+                  reasonableness open (580–2, 588–92)           object (finance to complete); Rocky's conditions have
+                                                                none, leaving the court 'at large' (Mason J 587). Even
+                                                                on Grace's reading, his duty awaited his honest
+                                                                satisfaction, which nothing shows
+I.D Privity       Only a promisee can enforce; signature        Rocky: procured the advance; Grace applied the        No claim against Grace
+                  neither sufficient nor necessary (Coulls      wrong test. Decisive: his guarantee does not make him
+                  486–7; Empirnall 535–6)                       promisee of Grace's promise, which runs to AMPL
+II.A              Objective identification of the promisor      AMPL: 'Pierre agreed'; on the guarantee reading its         Contract likely, AMPL
+Agreement         (Gibson 297; Ermogenous [24]–[25])            instrument omits the $10,000. Decisive: the bargain         promisor, alternatively Pierre
+                                                                was oral; Pierre owned and controlled AMPL and
+                                                                sought, at its office, an undertaking protecting its loan
+II.B Intention    Objective; a family presumption at most       Pierre: a favour to a 'cousin'. Decisive: bargained for     Intention likely
+                  identifies the onus (Ermogenous [25]–         at a loan signing in AMPL's office
+                  [26])
+Node             Rule (source)                                  Both sides and the decisive reason                        Conclusion
+II.C Certainty   Definite meaning (Upper Hunter 436–7);         The Loan Agreement fixes what Rocky must ensure;          Both certain
+                 an 'ensure' promise held enforceable           the $10,000 term fixes amount, payee and time
+                 (Banque Brussels 525–6, first instance)
+II.D          Existing duty rule, 'at least' in its three-      AMPL (exchange reading): Rocky already guaranteed         Likely good consideration
+Consideration party form (Wigan 594); Sundell 327;              repayment, like Sundell. Answers: Pierre agreed
+              third-party duty (Glidewell LJ in Williams        before AMPL accepted the guarantee; the 'ensure'
+              v Roffey 15, reading Pao On)                      promise covers interest and promptness, the guarantee
+                                                                arguably only principal; if Pierre promised, the duty
+                                                                was owed to AMPL as a third party; practical benefit
+                                                                cannot assist
+II.E Privity     A promise made to him, not his signature       AMPL likens Rocky to Mrs Coulls. Decisive: Coulls         Rocky likely the promisee
+                 (Coulls 486–7)                                 turned on no promise to her; Pierre accepted Rocky's
+                                                                own offer for payment 'to me directly'
+II.F Payment     Condition to be fulfilled first (Meehan        Grace had not repaid; Rocky paying is not Grace           Owed only once Grace
+                 582)                                           repaying                                                  repays
+
+III.A            Promise, not signature (Coulls 487;            He 'personally guaranteed'; 'the personal guarantee       Rocky promised AMPL as
+Agreement        Empirnall 535–6)                               provided by Rocky'                                        guarantor
+III.B         Past consideration (Roscorla 237); Pao            Features one and three met, two not shown. AMPL's 8       Guarantee likely binding
+Consideration On's three features; a request alone makes        April commitment (12 months at 4%) is fresh;
+              no contract (AWM (PC) 550); detriment             Rocky's 'merely recorded' answer fails because no
+              (Beaton 181, quoting Currie v Misa);              terms for the advance are stated. Decisive: guarantee
+              consideration moves from the promisee             and credit settled in one instrument at a meeting
+              (quoting Thomas v Thomas)                         Rocky attended; on the guarantee reading the $10,000
+                                                                was also its price if AMPL promised
+III.C            Genesis admissible if ambiguous; later         AMPL: 'recorded' money advanced on 27 February.           Likely due 8 April 2025,
+Construction     conduct and beliefs not (Brambles 163–4,       Decisive: the period is likely a term the 8 April         finely balanced
+                 167–8, 191)                                    instrument created, and nothing ties it to the advance
+Consequences Further information: on-demand or on               On demand: pay now. On default: call premature on         Rocky likely need not pay
+             default                                            the 8 April view. On 27 February view: pay if             now
+                                                                supported, 'ensure' promise broken. On 8 April view:
+                                                                'ensure' broken only if March interest missed or no
+                                                                repayment by then
+
+
+4. How the final was built
+Stage                           What it did                                                              Result
+Rules set from your             Readings and slides as truth; no textbook citation; no earlier answer    LOOP.md
+feedback                        used; your LAWS1061 voice; strict IRAC; no conclusion first
+Rubric: two independent         Ten criteria turned into binary tests with caps; HD pass = every         RUBRIC.md, VOICE.md (your Part A: mean
+setter's guides, an             criterion 9+ and no cap, from two independent scorers, plus a clean      sentence 21.9 words, 2.4 clauses, semicolon
+operational criteria builder,   source trace. The chief examiner corrected both guides' reading of       or colon in 54%)
+a voice analyst, then a chief   Meehan (a condition within a party's power still binds) and of Coulls
+examiner who checked
+every disputed point in the
+source
+Three fresh drafts (X, Y, Z)    Written from scratch against the rubric                                  Two examiners: X 84.5 and 86.5, Y 85.5 and
+                                                                                                         86.0, Z 83.0 and 90.0; Z chosen as base
+Round 2 (R1)                    Merge; tracer found 3 errors; voice auditor: 46 of 61 sentences read     81.5 and 83.0
+                                as compressed shorthand, not you
+
+Round 3 (R2)                    Rewritten for clarity in your voice, Part I compressed                   85.5 and 84.5; tracer: no certain error
+Round 4 (R3)                    Part I reframed for Rocky (a contract would only oblige him); III.B      87.0 and 89.0; one Meehan hedge error found
+                                dilemma answered
+Round 5 (R4)                    Meehan fixed; consistency across Parts; planted facts in lists           86.0 and 86.5; three slips found (eg the 4%
+                                                                                                         belongs to 8 April, not the advance)
+Round 6 (R5)                    All three Pao On features applied; 'ensure' consistency; decisive        95.5 (PASS) and 95.5; one attribution error
+                                reasons in every verdict                                                 (Glidewell LJ, not the whole court)
+ Stage                          What it did                                                             Result
+ Round 7 (R6, then polish)      Remaining items from both scorers                                       98.5 PASS and 98.0 PASS; tracer: no certain
+                                                                                                        error. Final polish applied both scorers'
+                                                                                                        wording fixes
+
+Waivers agreed by the scorers, and why
+The Pao On pinpoint (only the textbook gives it); practical benefit's first-instance status and 'financial difficulties' (the route fails on
+its first element anyway); the oral-bargain and 27 February unilateral-contract routes (no result for Rocky); the repudiation flag; the
+check-ins as performance; an explicit vagueness counter in II.C; 'satisfactory' to both parties; Todd v Nicol against Brambles (NSW
+follows Brambles). Split decision: AMPL's later loan as conduct on formation; one scorer wanted it, the other held it cuts both ways
+('Rocky asked' AMPL to lend, which Grace could call performance), so it was left out rather than argued one-sidedly.
+
+5. Judgment calls left in the final
+ Point                                                Why it stands
+ Two readings of 'the clause'                         The guarantee reading is preferred (the only clause named) and both are carried where they
+                                                      change the result
+ AMPL or Pierre as promisor                           AMPL likely; Pierre carried in intention, consideration, privity and payment
+ 8 April start date                                   Finely balanced; stated with what keeps it close (the admissible advance date)
+
+ On-demand guarantee                                  Not stated in the facts; put as further information with both results
+ Pao On cited to its report without a pinpoint        The materials print none; the textbook may not be used
+

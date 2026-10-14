@@ -1,0 +1,437 @@
+Term 3 2026 – JURD7150 | LAWS1150
+     Principles of Private Law
+
+
+
+                   3A
+   Intention to Create Legal Relations
+• To create a binding contract, we need:
+   – Offer
+
+   – Acceptance
+
+   – The parties must intend to create legal relations
+There may be consideration – without an intention to form a
+binding contract:
+1. Was an honourable commercial agreement a legal one?
+2. Was an agreement to help a friend move house in
+   exchange for dinner intended to be legally binding?
+3. Was a government policy that led to someone recieving
+   assistance a legally binding contract?
+4. Is a preliminary agreement binding immediately or does
+   another step need to nbe completed before it becomes
+   binding?
+Court must be able to infer intention to create legal relations.
+• Usually commercial parties contracting at arms-length are
+  taken to have intended to create legal relations.
+• Traditionally it was presumed there is no ICLR where the
+  deal is not commercial – ie: where it is social, domestic
+  relationship
+• What did the parties intend?
+   • Market terms at arms-length?
+   • Depends on the facts
+• What is the point of peppercorn consideration?
+• Generally, the search is for an objective intention, not a
+  subjective intention.
+   • Objective = What would the reasonable person infer from the
+     situation?
+Consider these scenarios:
+• A offers to sell B 100 bricks at
+  $1/brick. B accepts. Contract?
+• A offers to race his friend B.
+  Loser pays $50. B says, ‘you’re
+  on!’ Contract?
+• A promises B, her brother, a
+  life interest in A’s house if B
+  comes to live with her. B
+  accepts. (like Todd v Nichol)
+• A promises to sell B, her
+  brother, a car for $150,000. B
+  accepts. Contract?
+                        Ermogenous v Greek Orthodox Community of SA Inc
+                        (2002) 209 CLR 95
+
+
+
+Court had to grapple with the notion of presumptions.
+
+He or she who alleges must prove. But in some circumstances, can
+prove by presumption
+
+Evidence can be admitted into court in 4 forms:
+    – Agreed facts
+    – Evidence
+    – Notorious fact – eg sun rises in the east and sets in the west
+    – Presumption
+
+HCA addressed the issue of contractual presumptions.
+                    Ermogenous v Greek Orthodox Community of SA Inc
+                    (2002) 209 CLR 95
+
+• Facts: Archbishop Spyridon Ermogenous made a claim in the
+  Industrial Relations Ct of SA against the Greek Orthodox
+  Community of SA Inc [GOC] for sums … due to him for annual
+  leave and long service leave.
+• He alleged that he had been employed by the GOC since
+  18 March 1970 but had never received those payments.
+• Findings: Industrial Magistrate found against the GOC
+  (respondent).
+• GOC appealed against the judgment to a single judge of the
+  Industrial Relations Ct of SA - largely unsuccessfully
+• GOC appealed to the Full Court of the Supreme Ct of SA,
+  successfully
+• By special leave, the Archbishop appealed to HCA.
+Ermogenous v Greek Orthodox Community of SA
+                    Inc
+
+• “It is of the essence of contract, regarded as a class of
+  obligations, that there is a voluntary assumption of a legally
+  enforceable duty”.
+• “the search for the “intention to create contractual relations”
+  requires an objective assessment of the state of affairs
+  between the parties”.
+• Is there a presumption of intention in cases involving a
+  domestic or social relationship?
+• Was there was an intention to create a contractual
+  relationship? Why?
+                          Ermogenous v Greek Orthodox Community of SA Inc
+                          HCA
+
+
+26. In this context of [ICLR] there is frequent reference to
+"presumptions". It is said that it may be presumed that there are
+some "family arrangements" which are not intended to give rise to
+legal obligations, and it was said in this case that it should not be
+presumed that there was an [ICLR] because it was a matter
+concerning the engagement of a minister of religion. …, we doubt the
+utility of using the language of presumptions in this context.
+At best, the use of that language does no more than invite attention
+to identifying the party who bears the onus of proof. In this case, ...,
+there could be no doubt that it was for the appellant to demonstrate
+that there was [a legally binding] contract.
+Reference to presumptions may serve only to distract attention from
+that more basic and important proposition. GAUDRON, McHUGH, HAYNE AND
+CALLINAN JJ
+                           Ermogenous v Greek Orthodox Community of SA Inc
+
+
+
+27. … the use of the language of presumptions may lead, as it did in
+this case, to treating one proposition (that an ICLR is not to be
+presumed) as equivalent to another, different proposition (that
+generally, or usually, or it is to be presumed that, an arrangement
+about remuneration of a minister of religion will not give rise to
+legally enforceable obligations). References to "the usual
+non-contractual status of a priest or minister" and factors which
+"generally militate against" a finding of [ICLR] illustrate the point.
+GAUDRON, McHUGH, HAYNE AND CALLINAN JJ
+                         Ermogenous v Greek Orthodox Community of SA Inc
+
+
+
+• Court did not want the relationship between Church and minister
+  to ossify into a rule that there can never be a contract between a
+  church and a minister of religion
+
+
+
+• You must determine from the evidence whether the ICLR existed
+
+
+
+• Presumptions not very helpful in this case
+                                Ermogenous v Greek Orthodox Community of SA Inc
+                                                            Intention to Create Legal Relations
+
+
+
+Spiritual functions do not negate legal relationships
+
+74. There is therefore no presumption that contracts between religious or
+associated bodies and ministers of religion, of their nature, are not intended to
+be legally enforceable.
+
+At least where the contracts concern proprietary and economic entitlements, of
+the kind which in this case Archbishop Ermogenous sought to enforce (and
+certainly where they are not intertwined with questions of religious doctrine that
+a court would not feel competent to resolve according to legal norms) there is no
+inhibition either of a legal or discretionary character that would prevent
+enforcement of such claims when they are otherwise proved to give rise to legal
+rights and duties.
+                                                                                        12
+
+Kirby J
+                     Banque Brussels Lambert v Australian National Industries
+                     (1989) 21 NSWLR 502
+
+
+• Basic facts:
+
+• A related company of the debtor represented to its creditor
+  that it ensures that its subsidiaries meet their $US5m financial
+  obligations.
+
+• Was this a ‘letter of comfort’ a non-contractual assurance
+  enforceable as a matter of honour or a guarantee enforceable
+  as a matter of contract law?
+
+• No invariable rule. Need to construe what reasonable person
+  would think?
+                           Banque Brussels Lambert v Australian National Industries
+                                                            Intention to Create Legal Relations
+
+
+
+
+There should be no room in the proper flow of commerce for some purgatory
+where statements made by businessmen, after hard bargaining and made to
+induce another business-person to enter a business transaction would, without
+any express statement to that effect, reside in a twilight zone of merely
+honourable engagement.
+
+The whole thrust of the law today is to attempt to give proper effect to
+commercial transactions … If the statements are appropriately promissory in
+character, courts should enforce them when they are uttered in the course of
+business and there is no clear intention that they are not intended to be legally
+enforceable.
+
+Rogers CJ
+                                                                                        14
+                   Banque Brussels
+• In this case was the letter of comfort binding?
+
+•   Is there anything to stop it being drafted to clearly state it is
+    not legally binding?
+    Domestic and Social
+      arrangements
+•    Traditionally, what was the view
+     of the courts?
+•     eg Balfour v Balfour
+
+•    Now, what is the approach by
+     courts?
+•    Each case considered on its facts
+                     Todd v Nicol [1957] SASR 72   ICLR
+
+
+
+
+Nicol asked Todd and her daughter to
+move from Scotland to Adelaide to care
+for her in her old age
+• Nicol promises to alter her will (and
+   does so) to grant them a licence to
+   live in her house for their lives
+• After several years she tells them to
+   leave – what then?
+• What did the court say about
+   intention?
+• What factors did the court (Mayo J)
+   consider in assessing intention?
+•   ? ICLR or not?
+
+                                                          17
+                      Todd v Nicol
+• It is accepted principle that regard might be had to the
+  subsequent conduct of the parties to objectively ascertain
+  whether a contract was intended.
+
+• Would you reasonably inter that the ladies would travel that
+  vast distance without intending a contract?
+
+• But the Mrs Todd’s conduct was a serious breach of the
+  licence granted by Nicol for the ladies from Scotland to live in
+  her house.
+                                 ICLR in agreements with Government
+
+
+• If contract is commercial such as supply of stationery, there is
+  ICLR
+
+• Where administrative or political activities of government are
+  concerned the courts will likely find an ICLR did not exist.
+
+
+
+
+                                                                     19
+                          Administration of Papua New Guinea v Leahy
+                          (1961) 105 CLR 6
+
+
+Facts: Leahy’s cattle were infested with ticks
+Dept of Agriculture supplied spray
+Dept did the spraying
+Ticks got worse
+Leahy sued Commonwealth
+Sought damages for breach of contract
+
+
+
+
+                                                                20
+                       Administration of Papua New Guinea v Leahy
+                       (1961) 105 CLR 6
+
+
+
+How did the HCA determine intention in matters involving government
+as a party?
+
+• If this had been a private contract it would have been binding
+
+• Here, was it an administrative policy? All that was being done in this
+  case is carrying out government policy to spray for ticks? This no
+  ICLR and no contract.
+
+• [Note Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92
+  CLR 424]
+
+
+
+                                                                       21
+                        Masters v Cameron (1954) 91 CLR 353
+                                                    Intention to Create Legal Relations
+
+
+
+
+What are preliminary agreements?
+
+What are the 3 categories and which are binding on the
+parties?
+
+What is the effect of terms such as “subject to contract” in
+a document?
+
+Note subsequent development in:
+Tasman Capital Pty Ltd v Sinclair [2008] NSWCA 248
+
+
+
+
+                                                                                22
+        Masters v Cameron (1954) 91 CLR 353;
+Subject to a formal contract on terms acceptable to the vendor’s
+solicitors
+• Category 1 – parties have reached finality in all parts of their
+   bargain and intend to be bound with no changes
+   – Immediately binding
+• Category 2 – parties have agreed all terms but made one or
+  more terms conditional on execution of contract
+   – Import a binding obligation to have a binding contract
+   – Once the formal contract exists they will be bound
+• Category 3 – no bargain intended until a formal contract is
+  signed, satisfactory to my solicitors “subject to contract” (M v
+  C)
+   – Not binding at all
+   Sinclair Scott & Co v Naughton [1929] HCA 34 –
+        followed in Baulkham Hills Private Hospital case
+
+• 4th category
+• The parties intend to be bound “immediately and exclusively”
+  by the terms they have agreed on, “while expecting to make a
+  further contract in substitution for the first contract
+  containing, by consent, additional terms”.
+Sinclair Scott & Co v Naughton
+[1929] HCA 34
+
+• Held Knox C.J., Rich, Starke and Dixon JJ.
+(Isaacs J. dissenting), that the execution of a
+further contract was a condition or term of the
+bargain, and that no enforceable contract had
+been entered into.
+
+• Held Knox C.J., Rich and Dixon JJ. (Isaacs J.
+dissenting), that the terms as arranged
+mentioned in the document signed by the agent
+referred to the whole arrangement made at the
+interview between the parties and not merely to
+written terms, and that there was no sufficient
+memorandum in writing to satisfy the Statute of
+Frauds.
+                                            Intention to Create Legal Relations
+
+
+
+
+• Tasman Capital Pty Ltd v Sinclair [2008] NSWCA 248,
+  [26] (Giles JA – with whom McColl JA and Young JA
+  agreed):
+• “The Masters v Cameron categories, and a possible
+  fourth category, are intellectual aids, but whether parties
+  have come to a binding agreement is a matter of their
+  objectively ascertained intention. Categorisation does
+  not greatly contribute to the decision in the particular
+  case, which is concerned with finding what agreement, if
+  any, the parties came to.”
+
+
+                                                                        26
+                           Stekovic v Radovanovic [2023] NSWSC 1471
+                                                       Intention to Create Legal Relations
+
+
+
+
+Most recent application of Masters v Cameron — whether
+parties reached a binding agreement to settle the proceedings
+        Judgment contains clear summaries of principles
+This case involves a dispute between family members over the alleged
+settlement of an underlying dispute over the distribution of proceeds from
+the sale of a property located in Queanbeyan, NSW.
+
+6. Milivoj and Jovanka contend that a binding agreement was made. Goran
+   contends to the contrary.
+
+8. I have determined that Milivoj and Jovanka should succeed because the
+   parties intended to be immediately bound upon their solicitors’
+   acceptance of a counter offer made by Goran’s solicitors.
+
+
+                                                                                   27
+                                   Delaney v Delaney (2022) VSCA 48
+                                                                        Intention to Create Legal Relations
+
+•   Sean and Patrick, owned a group of companies and trusts
+•   Their relationship deteriorated
+•   Sean fired Patrick
+•   Sean and Patrick executed a heads of agreement. In broad terms, the agreement
+    provided for Sean to buy Patrick out of the group for $10 million. It also provided
+    for further negotiations (including as to tax issues) and allowed a short period of
+    time in which a more formal agreement might be concluded.
+•   No further agreement was concluded. Within weeks, Patrick purported to
+    terminate the agreement.
+•   Incomplete Heads of Agreement
+•   Tax details of deal not resolved
+• [60] The first inquiry is whether agreement has been reached on the essential terms
+    constitutive of a contract; the second inquiry is whether the parties have (by agreeing on
+    enough other important terms) expressed an intention to be bound by those terms.. These
+    are distinct inquiries and may yield different answers. The parties may intend to make a
+    contract but fail to do so by not agreeing on the essential terms. Conversely, the parties may
+    have reached agreement on the essential terms but not yet intend to be bound.
+•   [78] In all the circumstances, the trial judge was correct in our opinion to find that it was
+    established that the parties to the heads of agreement intended to enter into a binding
+    agreement to complete the sale and purchase transaction.
+                                                                                                     28
+•   Question 1
+
+•   When Frank dies, he leaves all his property to his children: Bob and Jane. They
+    work out between them how to divide the property. They decide that Bob should
+    own the holiday house, but during her life Jane should have the use of it every
+    March, June and September. This works well for a few years but then they have a
+    falling out and Bob refuses to allow Jane access to the holiday house.
+•   Does Jane have a contractual right to use of the house?
+
+•   Question 2
+
+•   Danielle wishes to sell a half interest in her yacht to Alina. They meet for coffee.
+    Danielle produces a document setting out ‘co-ownership rules’ that describes how
+    they will share costs and use of the yacht. The document concludes: ‘This will be
+    subject to the usual terms and conditions contained in a standard form
+    agreement’. Danielle explains that someone at the yacht club will have ‘an
+    agreement with the normal conditions’. Alina says she accepts the conditions. She
+    signs the document and pays Danielle a $5,000 deposit. A few days later, Danielle
+    decides she wants to withdraw from the sale.
+•   Can she?
+

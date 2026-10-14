@@ -1,0 +1,401 @@
+Part II: Formation
+
+Lords held that, even if the creditor's promise could be construed as an agreement to forgo interest on the debt, such a promise was not supported by consideration under the rule in Pinnel's Case. Although the House of Lords felt that the rule was too well entrenched to be overruled," its practical inconvenience was acknowledged by Lord Blackburn:
+
+What principally weighs with me... is my conviction that all men of business, whether merchants or tradesmen, do every day recognise and act on the ground that prompt payment of a part of their demand may be more beneficial to them than it would be to insist on their rights and enforce payment of the whole. Even where the debtor is perfectly solvent, and sure to pay at last, this often is so."2
+
+The rule in Pinnel's Case has no application where the debtor pays before the due date or in a different form, where several creditors jointly agree to forgo part of each of their debts (known as a composition), where the payment is made to the creditor by a third party⁹5 or where the debtor gives something other than money:
+
+By no possibility a lesser sum can be a satisfaction to the plaintiff for a greater sum: but the gift of a horse, hawk or robe, etc, might be more beneficial to the plaintiff than the money, in respect of some circumstance, or otherwise the plaintiff would not have accepted it in satisfaction.9%
+
+This leads to an apparently absurd situation in which a promise to accept $999 in discharge of a $1000 debt is unenforceable for want of consideration, whereas a promise to accept $1 plus an old shoe in discharge of the same debt will be enforceable. If nominal consideration is viewed as a formal requirement, however, the enforcement of the transaction involving the shoe does make sense. Such an artificial bargain must have been deliberately set up in order to make the promise binding." In practice, where a creditor is prepared to accept a lesser sum in full satisfaction of a debt, the rule is commonly avoided through the use of a more conventional form, namely a deed. If the agreement is made in the form of a deed, it will be binding in the absence of consideration.99
+
+Exceptions to the existing legal duty rule
+
+\[4.150\] There are five situations in which the existing legal duty rule will not apply. First, the rule will not apply where the beneficiary is providing fresh consideration, such as where the beneficiary undertakes to do something more than he or she was obliged to do under the original contract. Secondly, an exception to the rule has been recognised where the beneficiary's promise to perform confers a practical benefit on the modifying party. Thirdly, the rule has been held to be inapplicable where the promise to perform an existing contractual duty is made by the beneficiary to a third party. Fourthly, a promise made by way of a bona fide
+
+92
+
+93
+
+See Greig and Davis, The Law of Contract (1987), pp 113-5.
+
+94
+
+91
+
+In MWB Business Exchange Centres Ltd v Rock Advertising Ltd \[2018\] UKSC 24; \[2019\] AC 119, Lord Sumption JSC (with whom Baroness Hale, Lord Wilson and Lord Lloyd-Jones JJSC agreed) suggested that the decision in Foakes v Beer was "probably ripe for re-examination".
+
+Foakes v Beer (1884) 9 App Cas 605, 622.
+
+Couldery v Bartrum (1881) 19 Ch D 394; Re Pearse \[1905\] VLR 446.
+
+95
+
+Hirachand Punamchand v Temple \[1911\] 2 KB 330.
+
+96
+
+Pinnel's Case (1602) 5 Co Rep 117a; 77 ER 237.
+
+97
+
+Carter, Contract Law in Australia (8th ed, 2023), \[6-58\].
+
+98
+
+See \[4.240\].
+
+99
+
+See \[4.250\].
+
+110 \[4.150\]
+
+Consideration Chapter 4
+
+compromise of a legal claim will not be covered by the rule. Fifthly, the rule will be avoided where the original contract is terminated by agreement and replaced with a new contract. These exceptions will be considered in turn.
+
+Fresh consideration
+
+\[4.160\] The existing legal duty rule applies only where, in return for the modification, the beneficiary promises to do no more than he or she promised under the original contract. If the beneficiary provides fresh consideration, by undertaking to do something more than he or she originally promised, then the existing legal duty rule can have no application.100 Hartley v Ponsonby,101 for example, was a case on similar facts to Stilk v Myrick102 except that almost half the crew had deserted the ship, making it dangerous to continue. The remaining crew were under no obligation to go to sea in those conditions and therefore provided fresh consideration by agreeing to continue the voyage. The captain's promise of extra wages was therefore enforceable.
+
+The existing legal duty rule can be avoided, if the parties are aware of it, by the beneficiary giving nominal fresh consideration in return for the promise or concession made by the modifying party. In Stilk v Myrick, for example, the remaining crew could have avoided the operation of the existing legal duty rule by agreeing to work longer shifts.103 Of course, only parties who can afford and have access to legal advice can take advantage of technical exceptions such as this.
+
+Practical benefit
+
+\[4.170\] The existing legal duty rule has also been held to be inapplicable where the modifying party obtains a practical benefit from the beneficiary's promise to perform an existing obligation. This exception was first recognised by the English Court of Appeal in Williams v Roffey Bros & Nicholls (Contractors) Ltd (Williams v Roffey), 104 The defendant had contracted to refurbish a block of 27 flats. It entered into a subcontract with the plaintiff under which the plaintiff agreed to perform some carpentry work involved in the refurbishment for £20,000. Before the work was finished, the plaintiff got into financial difficulties and was concerned that he was unable to complete the work. In order to avoid the trouble and expense of finding a replacement carpenter, and to avoid incurring financial penalties under the head contract for late completion, the defendant agreed to pay the plaintiff an extra £575 for each flat completed. The plaintiff substantially completed work on eight further flats but stopped work when the promised additional sum was not paid. The defendant then engaged another carpenter to finish the work and incurred one week's time penalty on the head contract.
+
+The plaintiff sought to enforce the promise of extra payment but had provided no consideration other than a promise to perform his obligations under the original contract.105 The Court of Appeal upheld the plaintiff's contractual right to recover the promised payments
+
+100 Larkin v Girvan (1940) 40 SR (NSW) 365, 368.
+
+101 Hartley v Ponsonby (1857) 7 El & BI 872; 119 ER 1471.
+
+102
+
+103
+
+Stilk v Myrick (1809) 2 Camp 317; 170 ER 1168.
+
+See Posner, Economic Analysis of Law (9th ed, 2014), §4.2.
+
+104 Williams v Roffey Bros & Nicholls (Contractors) Ltd \[1991\] 1 QB 1.
+
+105 The plaintiff did not make an argument based on estoppel before the trial judge, so estoppel could not properly be considered by the Court of Appeal: Williams v Roffey Bros & Nicholls (Contractors) Ltd \[1991\] 1 QB 1, 13, 17-8. As to the possible application of equitable estoppel in these circumstances, see \[9.460\].
+
+\[4.170\] 111
+
+Part II: Formation
+
+on the basis that he had provided consideration. The court held that the rule in Stilk v Myrick 106 remained good law, but an exception to the rule should be recognised where the promise to perform confers a practical benefit on the promisee. The plaintiff's promise to perform on time was of benefit to the defendant because the defendant retained the services of the plaintiff and would have been able to have the work completed without employing another carpenter. Glidewell LJ held that:
+
+(i) if A has entered into a contract with B to do work for, or to supply goods or services to, B in
+
+return for payment by B; and
+
+(ii) at some stage before A has completely performed his obligations under the contract B has
+
+reason to doubt whether A will, or will be able to, complete his side of the bargain; and (iii) B thereupon promises A an additional payment in return for A's promise to perform his
+
+contractual obligations on time; and
+
+(iv) as a result of giving his promise, B obtains in practice a benefit, or obviates a disbenefit; and
+
+(v) B's promise is not given as a result of economic duress or fraud on the part of A; then (vi) the benefit to B is capable of being consideration for B's promise, so that the promise will be
+
+legally binding. 107
+
+The Williams v Roffey principle has been widely criticised. 108 The main criticism is that the new principle indirectly abolishes the rule in Stilk v Myrick because it will always be possible to identify a practical benefit resulting from performance of a contractual obligation. In one sense, a practical benefit will be present in all cases since, absent coercion, the modifying party will only agree to a modification if there is some benefit in doing so. In another sense, the modifying agreement can never generate a real benefit for the modifying party, since that party already had a contractual right to receive any practical benefits flowing from performance. This appears to be a perfect example of situation in which "a 'rule' that appears cleanly to dispose of a fact situation is nullified by a counter-rule whose scope of application seems to be almost identical". 109 The "exception" in Williams v Roffey appears to cover precisely the same ground as the "general rule" in Stilk v Myrick.
+
+\[4.180\] Two other problems with the Williams v Roffey principle have been identified.110 First, the principle provides that the presence of economic duress and fraud will prevent the practical benefit from being regarded as consideration. This means that the modifying agreement will have no contractual force. As we will see in Chapters 32 and 34, however, the effect of fraud and duress is to render a contract voidable at the option of the party affected, not void. By bringing these vitiating factors into a principle of formation, the rule in Williams v Roffey changes their effect. Rather than providing a ground for rescission of the modifying agreement, the presence of these factors will prevent the agreement from being binding in the first place.111 Secondly, the rule in Williams v Roffey is said to be inconsistent with the bargain
+
+106
+
+Stilk v Myrick (1809) 2 Camp 317; 170 ER 1168.
+
+107
+
+108
+
+Williams v Roffey Bros & Nicholls (Contractors) Ltd \[1991\] 1 QB 1, 15-6.
+
+For example, Coote, "Consideration and Benefit in Fact and in Law" (1990) 3 Journal of Contract Law 23; Chen-Wishart, "Consideration: Practical Benefit and the Emperor's New Clothes" in Beatson and Friedmann (eds), Good Faith and Fault in Contract Law (1995), p 123.
+
+109 Kennedy, "Form and Substance in Private Law Adjudication" (1976) 89 Harvard Law Review 1685, 1700. 110 Carter, Phang and Poole, "Reactions to Williams v Roffey" (1995) 8 Journal of Contract Law 248. 111 Carter, Phang and Poole, "Reactions to Williams v Roffey" (1995) 8 Journal of Contract Law 248, 253.
+
+112 \[4.180\]
+
+Consideration Chapter 4
+
+theory of consideration in the way in which it identifies consideration. 112 According to the bargain theory, consideration is the thing given in exchange for a promise. What is given and accepted in return for the modifying party's promise is in fact the beneficiary's promise to perform, not the practical benefit flowing from that performance.
+
+The principle in Williams v Roffey might be thought to provide an exception to the rule relating to part-payment of a debt¹¹³ in cases where there is some practical benefit to the creditor in accepting part-payment. The English Court of Appeal has, however, refused to extend the rule in Williams v Roffey to the discharge of debts. In Re Selectmove Ltd,114 the English Court of Appeal held that the principle in Williams v Roffey could not be applied to an agreement to discharge a debt in return for part payment, because that would leave the principle in Foakes v Beer without any application. In such a situation, according to Peter Gibson LJ, "the creditor will no doubt always see a practical benefit to himself in so doing",115
+
+The rule in Williams v Roffey has been applied in a modified form in the Supreme Court of New South Wales. Musumeci v Winadell Pty Ltd116 concerned the enforceability of a promise by a landlord to accept a reduced rental from its tenants, who were in financial difficulties. The tenants operated a fruit shop in a shopping centre and their business suffered when the landlord let a much larger shop to a member of a chain of fruit stores. In view of the tenants' difficulties, the landlord agreed to reduce the rent by one-third. After further disputation, the landlord resiled from the agreement and claimed the full amount of rent. The tenants sought to rely on the landlord's promise to accept a reduced rental, and the issue was whether they had provided consideration for that promise.
+
+Santow J considered that the "practical benefit" exception should be accepted in Australia, with three modifications. First, modification was required to allow for the fact that this was a case in which the modifying party agreed to accept less, rather than to pay more for the beneficiary's performance. Santow J therefore extended the Williams v Roffey principle to cover a situation in which the modifying party makes a concession, such as accepting a reduction in the beneficiary's obligations.117 Secondly, in order to protect against coercive modifications, Santow J considered that the practical benefit principle should apply only where the promise has not been induced by "unfair pressure". 118 Thirdly, and most importantly, Santow J refined the rule in order to meet the criticism that the practical benefit concept does not provide an adequate basis for distinguishing between cases.119 He held that a practical benefit should only constitute good consideration if the beneficiary's performance is capable of being regarded
+
+112 Carter, Phang and Poole, "Reactions to Williams v Roffey" (1995) 8 Journal of Contract Law 248, 253-4. See
+
+also Carter, Contract Law in Australia (8th ed, 2023), \[6-48\].
+
+113
+
+114
+
+115
+
+See \[4.140\].
+
+Re Selectmove Ltd \[1995\] 1 WLR 474. See also Collier v P & MJ Wright (Holdings) Ltd \[2007\] EWCA Civ 1329; \[2008\] 1 WLR 643.
+
+Re Selectmove Ltd \[1995\] 1 WLR 474, 481.
+
+116 Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723. The correctness of the principle applied in Musumeci has been accepted in a number of cases, including Tinyow v Lee \[2006\] NSWCA 80, \[61\]. It was mentioned, with apparent approval, by Gummow and Hayne JJ in DPP (Victoria) v Le \[2007\] HCA 52, \[43\]; (2007) 232 CLR 562 and applied in Hill v Forteng Pty Ltd \[2019\] FCAFC 105.
+
+117 Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 747. 118 Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 744. 119 Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 744-7.
+
+\[4.180\] 113
+
+Part II: Formation
+
+by the modifying party as worth more than any remedy against the beneficiary, 120 In other words, performance by the beneficiary must be seen to be worth more to the modifying party than an award of damages against the beneficiary. 121 It may be doubted whether this third refinement resolves the fundamental problem with the Williams v Roffey principle. In theory, contract damages should reflect the value of performance, since such damages are calculated to place the innocent party in the position he or she would have occupied had the contract been performed. 122 In practice, given the uncertainties, delays and costs involved in litigation, performance will almost always be preferable to a claim for damages.
+
+Abolition of consideration for contract variations?
+
+\[4.190\] It has been held in two Canadian provinces that the doctrine of consideration should no longer be applied to contract variations, which should be enforceable provided there has been no duress or unconscionable conduct. 123 The New Zealand Court of Appeal has also accepted the force of criticism of the practical benefit exception to the existing legal duty rule and has come very close to abandoning it.124 Although on the facts it was not necessary to decide whether the practical benefit rule should be abandoned, the Court of Appeal held that Stilk v Myrick "can no longer be taken to control" contract modification cases. 125 The court accepted the strength of the argument that one-sided contract modifications should be binding and "that the only principled way to such a result is to decide that consideration should not be necessary for the variation of contract". 126 The court observed that:
+
+The importance of consideration is as a valuable signal that the parties intend to be bound by their agreement, rather than an end in itself. Where the parties who have already made such intention clear by entering legal relations have acted upon an agreement to a variation, in the absence of policy reasons to the contrary they should be bound by their agreement. 12
+
+In the High Court of New Zealand in Gloria Jean's Coffees International Pty Ltd v Daboko Ltd, Gault J considered that it would be a large step for the law of contract to take to accept that no consideration is required for a contract variation and there were arguments against taking that step. 128 Those arguments included: first, that abolishing consideration for variations "would be inconsistent with cases of very long standing"; and, secondly, that all major textbooks agree that consideration is an essential requirement of contract formation and
+
+120 Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 745-7.
+
+121
+
+122
+
+123
+
+Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 745. See Chapter 26.
+
+Nav Canada v Greater Fredericton Airport Authority Inc (2008) 290 DLR (4th) 405; Rosas v Toca, 2018 BCCA 191. See also Coote, "Variations Sans Consideration" (2011) 27 Journal of Contract Law 185 and Harder, "One-sided Contract Modifications and the Requirement of Consideration" \[2019\] Lloyd's Maritime and Commercial Law Quarterly 138 as well as the detailed discussion of the Canadian cases in Ma Hongjin v SCP Holdings Pte Ltd \[2020\] SGCA 106; \[2021\] 1 SLR 304, \[74\]-\[92\].
+
+124 Antons Trawling Co Ltd v Smith \[2003\] 2 NZLR 23; see Coote, "Contracts and Variations: A Different Solution"
+
+(2004) 120 Law Quarterly Review 19 and also Teat v Willcocks \[2013\] NZCA 162; \[2014\] 3 NZLR 129, \[54\]. 125 Antons Trawling Co Ltd v Smith \[2003\] 2 NZLR 23, \[93\].
+
+126
+
+Antons Trawling Co Ltd v Smith \[2003\] 2 NZLR 23, \[92\], citing Coote, "Consideration and Benefit in Fact and in Law" (1990) 3 Journal of Contract Law 23.
+
+127 Antons Trawling Co Ltd v Smith \[2003\] 2 NZLR 23, \[93\], citing Coote, "Consideration and Benefit in Fact and
+
+in Law" (1990) 3 Journal of Contract Law 23.
+
+128
+
+Gloria Jean's Coffees International Pty Ltd v Daboko Ltd \[2020\] NZHC 29; \[2020\] 2 NZLR 488, \[37\]. See also Oaklane Dairy Ltd v Flooks \[2023\] NZHC 1852, \[41\]-\[53\].
+
+114 \[4.190\]
+
+Consideration Chapter 4
+
+no distinction has historically been drawn between regular contracts and variation contracts. Accordingly, "\[i\]f we are to remove consideration from one, why not the other?"129 Gault J held that it was not for him to conclude that consideration is no longer required for contract variations in New Zealand and that he should continue to apply the practical benefit rule.130
+
+In Ma Hongjin v SCP Holdings Pte Ltd,131 the Singapore Court of Appeal gave careful consideration to the question whether the doctrine of consideration should be dispensed with in relation to contract variations or modifications. The court carefully reviewed the Commonwealth case law and literature and made four significant points in conclusion. First, the court concluded that "none of the arguments in favour of the abolition of the doctrine of consideration in the context of the variation or modification of contracts is persuasive". 132 Secondly, the court observed that that "the doctrine of consideration is still very much a requirement for the variation or modification of existing contracts in so far as the overall case law in the Commonwealth is concerned",133 Thirdly, the court noted that there are significant inconsistencies in, and difficulties that remain unaddressed by, the cases that have favoured abolition of the doctrine of consideration in relation to contract variations. 134 The court found the reasons given in those cases unpersuasive. 135 Fourthly, the court noted that the abolition of consideration in relation to contract variations could be "the thin edge of the legal wedge" because a question remained as to why the doctrine of consideration should be abolished in relation to contract variations but not in relation to contract formation.136
+
+Promises made to third parties
+
+\[4.200\] A promise to perform an existing contractual obligation does amount to a good consideration if it is made to a person who was not a party to the original contract. 137 The existing legal duty rule does not apply because the promisor incurs an additional legal obligation and confers an additional legal right on the new promisee. In Pau On v Lau Yiu Long,138 the plaintiffs had agreed to acquire shares in a public company under a contract which required them not to sell 60 per cent of the allotted shares for 12 months. They entered into a second contract with the shareholders of the company. In return for the plaintiffs performing their obligations under the first contract, the shareholders agreed to indemnify the plaintiffs against any loss resulting from a fall in the share price during that 12-month period. When the plaintiffs sought to enforce that contract of indemnity, the Privy Council held that a promise to perform an act which the promisee is already under an existing obligation to a third party to perform will constitute good consideration. The plaintiffs had provided good
+
+130
+
+129 Gloria Jean's Coffees International Pty Ltd v Daboko Ltd \[2020\] NZHC 29; \[2020\] 2 NZLR 488, \[38\]. Gloria Jean's Coffees International Pty Ltd v Daboko Ltd \[2020\] NZHC 29; \[2020\] 2 NZLR 488, \[40\]. Ma Hongjin v SCP Holdings Pte Ltd \[2020\] SGCA 106; \[2021\] 1 SLR 304.
+
+131
+
+132
+
+133
+
+134
+
+135
+
+Ma Hongjin v SCP Holdings Pte Ltd \[2020\] SGCA 106; \[2021\] 1 SLR 304, \[60\]. Ma Hongjin v SCP Holdings Pte Ltd \[2020\] SGCA 106; \[2021\] 1 SLR 304, \[93\]. Ma Hongjin v SCP Holdings Pte Ltd \[2020\] SGCA 106; \[2021\] 1 SLR 304,\[93\].
+
+Ma Hongjin v SCP Holdings Pte Ltd \[2020\] SGCA 106; \[2021\] 1 SLR 304, \[93\].
+
+136 Ma Hongjin v SCP Holdings Pte Ltd \[2020\] SGCA 106; \[2021\] 1 SLR 304, \[94\]. Barber, "Removing Consideration as a Requirement for Contract Variations in the New Zealand Context" (2023) 38 Journal of Contract Law 160 provides a response to these concerns and makes a case for abolition.
+
+137
+
+Scotson v Pegg (1861) 6 H & N 295; 158 ER 121, at 299-300, 123. For a recent application, see Ailakis v Olivera (No 2) \[2014\] WASCA 127; (2014) 100 ACSR 524, \[104\]-\[109\].
+
+138
+
+Pau On v Lau Yiu Long \[1980\] AC 614.
+
+\[4.200\] 115
+
+Part II: Formation
+
+consideration because the shareholders obtained the benefit of a direct obligation which they were able to enforce.139 Moreover, the plaintiffs' entry into the main contract could not be regarded as past consideration, because the plaintiffs agreed to the restriction on selling their shares in the public company on the understanding that they would be indemnified against loss resulting from a fall in the share price. 140 The granting of the indemnity therefore fell within the exception to the past consideration rule described by Bowen LJ in Re Casey's Patents; Stewart v Casey, 141
+
+Compromise and forbearance to sue
+
+\[4.210\] A promise to perform an existing legal obligation will also constitute good consideration where it is made by the beneficiary as part of a bona fide compromise of a disputed claim. This principle was applied by the High Court in Wigan v Edwards. 142 The Edwards entered into a contract to buy from Wigan a house that he had built. After the contract was made, the Edwards became concerned about some defects in the house. They gave Wigan a list of defects that required attention before they would consider "going into the house and finalising anything".143 In other words, the Edwards refused to complete the transaction unless the defects were rectified. Although they had no legal right to refuse to complete the purchase, there were many defects and their claim was made honestly,¹++ Faced with the Edwards' claim, Wigan signed a document agreeing to rectify the listed defects within one week and to repair any major faults in construction within five years of the purchase date. Wigan rectified some of the listed defects before the transaction was completed but did nothing after completion of the transaction to rectify the defects that remained outstanding.
+
+The Edwards sued Wigan for damages for breach of contract. Wigan argued that the Edwards had provided no consideration for his promise to rectify the defects. All the Edwards had done in return for the promise was implicitly to agree to perform their existing legal duty to pay the purchase price and complete the transaction. The High Court held that a promise made as part of a bona fide compromise constituted an exception to the existing legal duty rule:
+
+An important qualification to the general principle is that a promise to do precisely what the promisor is already bound to do is a sufficient consideration, when it is given by way of a bona fide compromise of a disputed claim, the promisor having asserted that he is not bound to perform the obligation under the pre-existing contract or that he has a cause of action under that contract.145
+
+In order to fall within this exception, it was not necessary for the Edwards to establish that they had a valid legal entitlement to refuse to perform the contract. It was enough that they intimated that they did not consider themselves bound to perform and that their claim was honestly made. The requirement that the dispute must be bona fide is said to prevent parties
+
+139 Pau On v Lau Yiu Long \[1980\] AC 614, 631-2.
+
+140 Pau On v Lau Yiu Long \[1980\] AC 614, 629-30.
+
+141
+
+Re Casey's Patents; Stewart v Casey \[1892\] 1 Ch 104; see \[4.120\]. 142 Wigan v Edwards (1973) 1 ALR 497.
+
+143 Wigan v Edwards (1973) 1 ALR 497, 510.
+
+144
+
+Wigan v Edwards (1973) 1 ALR 497, 513. 145 Wigan v Edwards (1973) 1 ALR 497, 512.
+
+116 \[4.210\]
+
+Consideration Chapter 4
+
+from seeking to obtain an unfair advantage by threatening unscrupulously to withhold performance. 146
+
+Termination and replacement
+
+\[4.220\] The existing legal duty rule will have no application where the parties have terminated their original contract and entered into a new contract. This is so even if the obligations of one party (the modifying party) are more onerous than those in the original contract and the obligations of the other (the beneficiary) are identical to those in the original contract. Since the original contract has been brought to an end, the promise made by the beneficiary is seen as a "new" promise, which provides consideration for the promises undertaken by the modifying party. The question whether a contract has been modified or replaced is potentially very important because a new contract will be supported by consideration, whereas a modification of an existing contract may not be. This exception to the existing legal duty rule will only operate where the parties intended to terminate and replace, rather than modify, their original contract. 147
+
+THE PURPOSE OF CONSIDERATION
+
+Criticism of the doctrine of consideration
+
+\[4.230\] The doctrine of consideration is often criticised as a "mere incumbrance" on the law of contract, which can and should be abolished.148 Its detractors suggest that the functions of the law of consideration could be better performed by the requirement that the parties have manifested an intention to make a binding contract.149 Many aspects of the consideration doctrine are regarded as undesirable. In 1937, the United Kingdom Law Revision Committee recommended, in vain, the abolition of the rule in Pinnel's Case, the existing legal duty rule, the requirement that consideration move from a promisee, the requirement that consideration be given for a promise to hold an offer open and indeed the consideration requirement itself in the case of written agreements.150
+
+Charles Fried has argued that the consideration requirement is an anachronism that should be abandoned, since it operates as an unnecessary constraint on freedom of promising.151 Allowing people to make gifts enhances individual liberty and the same can be said of allowing people to make binding promises to make gifts. According to Fried, there is no reason why the courts should not enforce a deliberate, freely made promise which is serious enough that legal enforcement must have been contemplated.
+
+146 Wigan v Edwards (1973) 1 ALR 497, 512. In Creative Academy Group Pty Ltd v White Pointer Investments Pty Ltd \[2024\] NSWCA 133, it was held that any dispute between the parties was not bona fide and the "Settlement Proposal" agreed between the parties was unenforceable for lack of consideration. See Chapter 19.
+
+147
+
+148 Wright, "Ought the Doctrine of Consideration to Be Abolished from the Common Law?" (1936) 49 Harvard
+
+Law Review 1225, 1251.
+
+149
+
+150
+
+151
+
+For example, Wright, "Ought the Doctrine of Consideration to be Abolished from the Common Law" (1936) 49 Harvard Law Review 1225; Fried, Contract as Promise: A Theory of Contractual Obligation (1981), pp 35-8. But see Patterson, "An Apology for Consideration" (1958) 58 Columbia Law Review 929, 952-4. United Kingdom Law Revision Committee, Sixth Interim Report (Statute of Frauds and the Doctrine of Consideration) (1937, Cmd 5449), pp 31-2.
+
+Fried, Contract as Promise: A Theory of Contractual Obligation (1981), pp 35-8. See \[1.40\].
+
+\[4.230\] 117
+
+Part II: Formation
+
+A possible failing of the bargain theory of consideration is that it excludes detrimental reliance on a promise as a basis for enforcement. A promise which is relied upon in such a way that the promisee would suffer harm in the event of breach would seem to have a better case for enforcement than one given in return for an unperformed or executory promise. 152 Yet an executory promise will constitute consideration, while detrimental reliance will not. This deficiency has, to some extent at least, been rectified through the development of equitable estoppel, which provides protection to a party who acts to his or her detriment on the faith of at least some non-contractual promises. The law of contract therefore shares the enforcement of promises with the law of equitable estoppel. 153 As we will see in Chapter 9, however, there is some doubt as to the breadth of application of equitable estoppel, and therefore, doubt as to the extent of the protection the law provides in relation to detrimental reliance on promises.
+
+The function of consideration
+
+\[4.240\] There are several possible rationales for the doctrine of consideration.154 First, consideration can be seen as a means of distinguishing between fair and unfair transactions. Although the doctrine of consideration requires reciprocity, it does not function well as a means of ensuring fairness, since grossly inadequate consideration will suffice. 155
+
+Secondly, consideration may be seen as a means of assessing whether the parties intended their agreement to create legal obligations The Victorian Court of Appeal recently suggested that, although consideration and intention to create legal relations are treated as separate requirements, "the better view may be that the rules as to consideration supply the answer as to whether parties intend to enter into a legally binding bargain."156 As the court went on to acknowledge, however, the presence of consideration is not a reliable indicator of an intention to create legal relations. Even where an agreement involves a clear exchange that satisfies the consideration requirement, the parties may expressly or impliedly signify that they do not intend to create legal relations or, alternatively, the context in which the transaction takes place may indicate that legal obligations are not intended.157
+
+Thirdly, the doctrine of consideration might be thought to ensure that only transactions that enhance economic efficiency are enforced by the courts. But it is not true to say that the only promises worth enforcing from an economic point of view are those involving an exchange. The enforcement of gratuitous promises can also have significant economic benefits. 158
+
+Fourthly, the doctrine of consideration operates to limit the involvement of the state in voluntary undertakings. 159 The bargain theory of consideration provides, in effect, that the
+
+152 Fuller and Perdue, "The Reliance Interest in Contract Damages: 1" (1936) 46 Yale Law Journal 52, 56. 153 See \[9.370\] and \[9.500\].
+
+154 The doctrine has also been defended on less pragmatic grounds: Benson, "The Idea of Consideration" (2011) 61 University of Toronto Law Journal 241 and Chen-Wishart, "In Defence of Consideration" (2013) 13 Oxford Commonwealth Law Journal 209.
+
+155 Collins, The Law of Contract (2nd ed, 1993), p 66. The latest edition of this book (4th ed, 2003) considers
+
+only harm prevention and wealth maximisation as potential rationales of consideration.
+
+156
+
+Atco Controls Pty Ltd (in liq) v Newtronics Pty Ltd (recs & mgrs apptd) (in liq) \[2009\] VSCA 238; (2009) 25 VR 411, \[60\], citing Shatwell, "The Doctrine of Consideration in the Modern Law" (1954) 1 Sydney Law Review 289, 314.
+
+157
+
+See further Chapter 5.
+
+158
+
+See \[9.500\]; Posner, Economic Analysis of Law (9th ed, 2014), §4.2.
+
+159 Collins, The Law of Contract (2nd ed, 1993), pp 41-2.
+
+118 \[4.240\]
+
+Consideration Chapter 4
+
+state will only involve itself in the enforcement of those voluntary undertakings that form part of an exchange.160 The doctrine of consideration might therefore be thought desirable from a libertarian point of view because it limits the intervention of the state in the lives of its citizens.161 It may also be thought desirable from an economic point of view because it limits the amount of litigation and therefore the cost of the judicial system. It is said that if gratuitous undertakings were actionable, the courts would be asked to enforce a significant number of promises concerning trivial matters. 162
+
+Fifthly, consideration can be seen as fulfilling the function of a formal requirement such as writing, a seal or notorisation, without subjecting contracting parties to the inconvenience of those requirements.163 The presence of consideration provides evidence that a promise has in fact been made and that it was intended to be legally binding. It is said that a claim that a promise has been made in return for some consideration is less likely to be based on mistaken or perjured testimony than a claim that a gratuitous promise has been made.164 The consideration requirement is also said to protect impulsive or inadvertent promisors, since promises for valuable consideration are less likely to have been made without proper deliberation than gratuitous promises.165 Kirby P suggested in Beaton v McDivitt166 that the policy behind the law's insistence on consideration is that people sometimes make foolish and ill-considered promises, and the law should not hold them to those promises unless they have received some quid pro quo. Consideration does not provide an ideal test of seriousness, however, since exchanges are often made without deliberation, while some gratuitous promises are made with seriousness, caution and the expectation that they will be relied upon. 167 In any event, the requirement of intention to create legal relations, discussed in Chapter 5, directly addresses the issue of seriousness.
+
+Hugh Collins suggests that the only occasion on which consideration does resemble a formal requirement is when parties have deliberately used nominal consideration to render a promise binding. The fact that the parties have gone to the trouble of making and identifying an artificial exchange indicates that they intend to be legally bound.168 Consideration can then be seen as a formal requirement, like the requirement of writing, which alerts parties to the fact that they are entering into a serious transaction. As Karl Llewellyn points out, the courts' acceptance of nominal consideration operates effectively as a formal requirement when the promises to be enforced are socially desirable. However, the focus of the courts on formal equivalency, rather than actual equivalency, in an exchange tends to obscure problems
+
+160 Although, as we will see in Chapter 9, the state also involves itself in the enforcement of voluntary
+
+undertakings that have been relied upon.
+
+161
+
+Collins, The Law of Contract (2nd ed, 1993), p 41.
+
+162
+
+See Eastwood v Kenyon (1840) 11 Ad & El 438, 450-1; 113 ER 482, 487; Posner, Economic Analysis of Law (9th ed, 2014), §4.2.
+
+163 Patterson, "An Apology for Consideration" (1958) 58 Columbia Law Review 929, 949-50; Collins, The Law
+
+of Contract (2nd ed, 1993), p 62. As to the functions of formal requirements, see \[7.10\].
+
+164
+
+Fuller, "Consideration and Form" (1941) 41 Columbia Law Review 799, 799.
+
+165 Fuller, "Consideration and Form" (1941) 41 Columbia Law Review 799, 799; Patterson, "An Apology for
+
+Consideration" (1958) 58 Columbia Law Review 929.
+
+166 Beaton v McDivitt (1987) 13 NSWLR 162 at 169. 167 Collins, The Law of Contract (2nd ed, 1993), p 62. 168 Collins, The Law of Contract (2nd ed, 1993), p 62.
+
+\[4.240\] 119
+
+Part II: Formation
+
+arising from a discrepancy in bargaining power between the parties. 169 Where a party in a superior bargaining position is able to extract a substantial promise from a party in an inferior bargaining position, the making of a nominal exchange may simply disguise the unfairness of the transaction.
+
+PROMISES UNDER SEAL
+
+\[4.250\] A promise which is not supported by consideration will nevertheless be enforceable at common law if it is made under seal. Dixon CJ was referring to this rule in Ballantyne v Phillott when he said that, if the plaintiff had overcome his prejudice against solicitors, then a seal would have been affixed to the agreement and the consideration point would not be available to him.170 A contract under seal is commonly known as a deed and more rarely as a specialty contract. It is an agreement recorded in a particular form, which traditionally involved sealing and delivery, although the common law requirements have been modified by statute in most Australian jurisdictions. 171 The solemnity of that form is recognised by the courts as a justification for enforcing a promise in the absence of consideration. Contracts which are not under seal, and which therefore require consideration to be binding, are sometimes described as simple or informal contracts. Trebilcock notes that the institution of the seal "has been repealed by statute in about two-thirds of the American states". 172 He observes that the ability to make a gratuitous promise binding by using a seal is clearly justified on autonomy grounds but more difficult to rationalise on the basis of economic efficiency.173 In any case, deeds are commonly used in Australia to ensure the enforceability of promises where there is some doubt as to whether consideration is being provided by the promisee, such as a guarantee or an agreement to compromise a disputed claim.
+
+169 Llewellyn, "What Price Contract - An Essay in Perspective" (1931) 40 Yale Law Journal, 704, 744. 170 Ballantyne v Phillott (1961) 105 CLR 379, 389.
+
+171
+
+See Seddon, Seddon on Deeds (2nd ed, 2022).
+
+172 Trebilcock, The Limits of Freedom of Contract (1993), p 170.
+
+173 Trebilcock, The Limits of Freedom of Contract (1993), pp 170-3.
+
+120 \[4.250\]

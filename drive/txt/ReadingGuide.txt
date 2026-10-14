@@ -1,0 +1,178 @@
+JURD7150 | LAWS1150                                                                                                                                                               Term 3, 2026
+
+Principles of Private Law
+Course Schedule / Reading Guide
+Week +           Topic       Sub-Topics                   Required Readings                                   Extracted Cases                                        Optional Further Readings
+Class
+Week 1, Online   Overview    The concept of private law   Contracts Textbook                                  -                                                      -
+Activity                     and the place of contract    Read [2.10]–[2.140] (pp41-50)
+                             law within it                Skim [2.150]-[2.220] (pp50-54)
+                                                          Then read [1.10] – [1.30] (pp3-10)
+                             Classical contract theory
+Week 1, Class    Contracts   Agreement - offer            Contracts Casebook                                  [3.30] Gibson v Manchester City Council                Contracts Textbook, [3.10] – [3.160]
+1A                                                        Read [3.10] – [3.120] (pp39-53)                     [3.50] Carlill v Carbolic Smoke Ball Company
+                                                          Skip [3.130]-[3.150] (pp53-56)                      [3.70] MacRobertson Miller Airline Services v
+                                                          Then read [3.160] (pp56-63) but stop reading at     Commissioner of State Taxation (WA)
+                                                          the heading ‘3. Promissory estoppel issues’         [3.100] Pharmaceutical Society of Great Britain v
+                                                          [3.170] on page 63.                                 Boots Cash Chemists (Southern)
+                                                                                                              [3.160] Mobil Oil Australia v Wellcome International
+Week 1, Class    Contracts   Agreement - acceptance       Contracts Casebook                                  [3.220] The Crown v Clarke                             Contracts Textbook, [3.170] – [3.330]
+1B                                                        Read [3.210] – [3.270] (pp66-73)                    [3.250] Felthouse v Bindley
+                                                          Skip [3.290] – [3.300] (pp73-76)                    [3.260] Empirnall Holdings v Machon Paull Partners
+                                                          Then read [3.310] – [3.320] (pp76-82)               [3.270] Brambles Holdings v Bathurst City Council
+                                                          Skip [3.330]-[3.360] (the first part of Ipp JA's    [3.440] Brinkibon v Stahag Stahl und
+                                                          judgment; pp82-84)                                  Stahlwarenhandelgesellschaft
+                                                          Then read [3.370] – [3.470] (pp84-92)               [3.500] Butler Machine Tool Co v Ex-Cell-O Corp
+                                                          Skim [3.480] – [3.940] (p92)                        + [3.470] Electronic Transactions Act 2000 (NSW)
+                                                          Then read [3.500] – [3.510] (pp93-97)
+Week 2, Class    Contracts   Consideration - Part 1       Contracts Casebook                                  [4.40] Australian Woollen Mills v Commonwealth         Contracts Textbook, [4.10] – [4.140]
+2A                                                        Read [4.10] – [4.180] (pp99-113)                    [4.60] Beaton v McDivitt
+                                                          Then read the short extract from Pao On v Lau Yiu   [4.160] Woolworths v Kelly
+                                                          Long (on Moodle)                                    [4.180] Roscorla v Thomas
+                                                                                                              + Pao On v Lau Yiu Long (extract only)
+Week 2, Class    Contracts   Consideration - Part 2       Contracts Casebook                                  [4.210] Foakes v Beer                                  Contracts Textbook, [4.150] – [4.250]
+2B                                                        Read [4.190] – [4.290] (pp113-125)
+
+
+
+
+        1
+Week +           Topic       Sub-Topics                    Required Readings                          Extracted Cases                                        Optional Further Readings
+Class
+                                                           Skip [4.300] - [4.340] (pp125-131)         [4.230] Williams v Roffey Bros & Nicholls
+                                                           Then read [4.350] - [4.360] (pp131-133)    (Contractors)
+                                                                                                      [4.250] Musumeci v Winadell
+                                                                                                      [4.280] Re Selectmove
+                                                                                                      [4.350] Wigan v Edwards
+Week 2, Online   Contracts   Revision/overview of offer,   -                                          -                                                      -
+Activity                     acceptance and
+                             consideration
+Week 3, Class    Contracts   Intention to create legal     Contracts Casebook                         [5.20] Ermogenous v Greek Orthodox Community of        Contracts Textbook, [5.10]-[5.170]
+3A                           relations                     Read [5.10]-[5.190] (pp133-157)            SA
+                                                                                                      [5.60] Banque Brussels Lambert v Australian
+                                                                                                      National Industries
+                                                                                                      [5.100] Todd v Nicol
+                                                                                                      [5.120] Administration of Papua and New Guinea v
+                                                                                                      Leahy
+                                                                                                      [5.140] Masters v Cameron
+Week 3, Class    Contracts   Certainty                     Contracts Casebook                         [6.40] Council of the Upper Hunter County District v   Contracts Textbook, [6.10] – [6.100] and
+3B                                                         Read [6.10] – [6.150] (pp159-174)          Australian Chilling and Freezing                       [6.130] – [6.140]
+                                                           Skip [6.160]-[6.240] (pp174-181)           [6.50] Biotechnology v Pace
+                                                           Then read [6.250]-[6.310] (pp181-190)      [6.110] Whitlock v Brew
+                                                                                                      [6.130] Hall v Busst
+                                                                                                      [6.250] Meehan v Jones
+                                                                                                      [6.300] Godecke v Kirwan
+Week 3, Online   Contracts   Revision                      Contracts Casebook                         [6.320] Placer Development v Commonwealth              Contracts Textbook, [6.110] – [6.120]
+Activity                                                   Read [6.320]-[6.350] (pp191-196)
+Week 4, Class    Contracts   Privity - Part 1              Contracts Casebook                         [11.20] Coulls v Bagot’s Executor & Trustee (up to     -
+4A                                                         Read [11.10] – [11.40] (pp327-331)         and including [11.40] only)
+*see note                                                  Skip [11.50] (pp331-336)                   [You may wish to read Windeyer J's dissenting
+below on                                                   Contracts Textbook                         judgment at [11.50], which is a very good
+public holiday                                             [11.10] - [11.190] (pp283-300)             judgment but it is not part of the set readings.]
+arrangements*                                              (you may omit paras [11.30] and [11.60])
+Week 4, Online   Contracts   Privity – Part 2              Contracts Casebook                         [11.130] Trident General Insurance v McNiece Bros      -
+Activity                                                   Read [11.130] (pp346-352)                  Ltd (Mason CJ and Wilson J only)
+                             How to answer a problem       Contracts Textbook
+                             question                      Read [11.200] - [11.230] (pp300-303)
+Week 4, Class    Contracts   Revision                      -                                          -                                                      -
+4B
+Week 5, Online   Property    Overview                      Custom Publication                         [1.12C] Stow v Mineral Holdings (Australia) Pty Ltd    -
+Activity                                                   Read Reading 1 [1.1] – [1.16] (pp1-10)     + [1.7E] ‘The Idea of Property Law’, by K Gray and
+                                                                                                      SF Gray
+                                                                                                      + [1.15C] ‘Public Property’, by J Page
+Week 5, Class    Property    Licences, third parties,      Custom Publication                         [1.20C] Cowell v Rosehill Racecourse Co Ltd            -
+5A                           numerus clausus               Read Reading 1 [1.17] – [1.33] (pp10-26)   [1.26C] King v David Allen & Sons, Billposting Ltd
+                                                                                                      [1.30C] Georgeski v Owners Corporation Strata
+                                                                                                      Plan 49833
+
+
+
+
+        2
+Week +            Topic      Sub-Topics                     Required Readings                                   Extracted Cases                                      Optional Further Readings
+Class
+                                                                                                                + [1.32E] ‘The Numerus Clausus Principle in
+                                                                                                                Australian Property Law’, by Brendan Edgeworth
+
+Week 5, Class     Property   New property and the extent    Custom Publication                                  [1.46C] Victoria Park Racing and Recreation
+5B                           of property rights, property   Read Readings 2 and 3 (pp27-28, 29-44)              Grounds Co Ltd v Taylor (Latham CJ, Dixon J, Evatt
+                             rights and privacy             And see Moodle for further readings                 J (dissenting))
+                                                                                                                + [1.43E] ‘Proprietary Rights in Human Tissue’, R
+                                                                                                                Magnusson
+Week 6 –          -          -                              -                                                   -                                                    -
+Flexibility
+Week
+Week 7, Class     Property   The doctrine of fixtures       Custom Publication                                  [1.88C] Agripower Barraba Pty Ltd v Blomfield        -
+7A                                                          Read Readings 4 and 5 (pp45-65)                     [1.93C] May v Ceedive Pty Ltd
+
+Week 7, Online    Property   Revision                       First read the document called 'Online Activity 7   -                                                    -
+Activity                                                    Introductory Readings' on Moodle (‘Nemo Dat’, 5
+                             Torts for the protection of    pages)
+                             goods – Part 1                 Then read Custom Publication Reading 6 (pp67-
+                                                            79)
+Week 7, Class     Property   Torts for the protection of    Custom Publication                                  [Reading 8] Penfolds Wines Pty Ltd v Elliott
+7B                           goods – Part 2                 Read Readings 7, 8 and 9 (pp81-102)                 [2.12C] Jeffries v The Great Western Railway Co
+                                                                                                                [2.20C] The Winkfield
+                                                                                                                [2.24C] Armory v Delamirie
+Week 8, Online    Property   Formal requirements for the    Custom Publication                                  -                                                    Document called 'Online Activity 8
+Activity – Part              transfer of land – Part 1      Read Reading 11 (pp133-144)                                                                              Introductory Readings' on Moodle
+1                                                                                                                                                                    (‘Becoming a Property Owner’, 2 pages).
+Week 8, Class     Property   Possession of land and         Custom Publication                                  [2.40C] Perry v Clissold
+8A                           adverse possession             Read Reading 10 (pp103-132)                         [2.51C] McPhail v Persons Unknown
+                                                                                                                [2.64C] Price v Spoor
+                                                                                                                [2.84C] Whittlesea City Council v Abbatangelo
+Week 8, Class     Property   Formal requirements for the    Read the document called ‘Online Activity 8B        [4.51C] Bunny Industries Ltd v FSW Enterprises Pty
+8B                           transfer of land – Part 2      Introductory Readings’ on Moodle (‘Legal and        Ltd
+                                                            Equitable Property’, 3 pages)                       [4.63C] Queensland v Morecroft
+                             The interest of a purchaser    Custom Publication                                  [4.71C] Walsh v Lonsdale
+                             under a binding sale           Read Reading 12, [4.50]-[4.63C] (pp145-154)         [4.44C] Pipikos v Trayans
+                             agreement                      Skip [4.64]-[4.69] (pp154-157)
+                                                            Then read [4.70]-[4.75] (pp 157-161)
+                             Part performance               Then read Reading 13 from the Custom
+                                                            Publication) (pp163-172).
+Week 8, Online    Property   Revision                       Adverse possession                                  -
+Activity – Part
+2
+Week 9, Online    Property   Revision                       Formal requirements for the transfer of land        -                                                    -
+Activity                                                    Part performance
+Week 9, Class     Estoppel   Equitable estoppel – Part 1    Contracts Textbook                                  [4.151C] Inwards v Baker                             Contracts Textbook [9.10]-[9.210]
+9A                                                          Read [9.10] – [9.70] (pp185-192)                    [9.20] Je Maintiendrai v Quaglia
+
+
+
+
+        3
+Week +             Topic         Sub-Topics                    Required Readings                                  Extracted Cases                                      Optional Further Readings
+Class
+                                                               Custom Publication                                 [4.151C] Waltons Stores v Maher
+                                                               Read Reading 14 [4.151C]–[4.153] (pp173-175)
+                                                               Contracts Casebook
+                                                               Read [9.20]–[9.50] (pp222-228)
+                                                               Custom Publication
+                                                               Read Reading 14 [4.158]–[4.160] (pp176-182)
+Week 9 Class       Estoppel      Equitable estoppel – Part 2   Custom Publication                                 [4.161C] Austotel v Franklins Self-Serve (Kirby P)   Contracts Textbook [9.220] – [9.360]
+9B                                                             Read Reading 14 [4.161C]–[4.178] (pp183-193)       [4.173C] Delaforce v Simpson-Cook (Handley AJA,      Ashton v Pratt (Bathurst CJ) [via
+                                                               Contracts Casebook                                 Allsop P)                                            Moodle]
+                                                               Read [9.260]–[9.300] (pp254-256)                   [4.177C] Sidhu v Van Dyke
+                                                               Then read the two ‘Further Materials…’ documents   [9.260] W v G
+                                                               in the Class 9B Readings folder.
+Week 10,           Estoppel      Revision                      -                                                  -                                                    -
+Online Activity
+                   Agency        Introduction
+Week 10, Class     Agency        -                             Custom Publication                                 [Reading 16] Crabtree-Vickers Pty Ltd v Australian
+10A                                                            Read Readings 15 & 16 (pp195-221)                  Direct Mail Advertising & Addressing Co Pty Ltd
+Week 10, Class     Revision                                    -                                                  -                                                    -
+10B
+
+
+        *Note: Arrangements for classes scheduled for the Labour Day public holiday on 5 October 2026:
+                  There will be no class held on the Monday public holiday nor on Tuesday of Week 4 (5 October 2026). In lieu of that class, please review the online materials for the topic
+                   ‘Privity – Part 1’ from Week 4 Class 4A.
+        These arrangements are necessary to ensure that all classes remain in sync whilst minimising interruption to face-to-face teaching. Online materials will be provided in lieu of the
+        classes and you may also be expected to post responses as directed by your teacher into a Q&A forum for your class or teacher.
+
+
+
+
+        4
+

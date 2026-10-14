@@ -1,0 +1,2135 @@
+
+===== PDF 135 | expected printed p 97 | footer: [4.10]    97
+CHAPTER 4
+
+
+Consideration
+                    [4.10]    History of the Doctrine of Consideration................................................... 97
+[4.20]     THE ESSENTIAL ELEMENTS............................................................................................ 98
+                    [4.20]    Australian Woollen Mills v Commonwealth............................................... 98
+                    [4.30]    Beaton v McDivitt............................................................................. 101
+[4.75]     ADEQUACY OF CONSIDERATION................................................................................ 109
+                    [4.80]    Woolworths v Kelly............................................................................ 109
+[4.85]     SUFFICIENCY OF CONSIDERATION............................................................................. 110
+           [4.85]   Past consideration....................................................................................... 110
+                    [4.90]    Roscorla v Thomas............................................................................ 110
+           [4.95]   The existing legal duty rule......................................................................... 111
+                    [4.105]   Foakes v Beer................................................................................... 112
+                    [4.115]   Williams v Roffey Bros & Nicholls (Contractors)........................................ 114
+                    [4.125]   Musumeci v Winadell......................................................................... 117
+                    [4.135]   Re Selectmove.................................................................................. 122
+           [4.145] Duty owed to a third party.......................................................................... 123
+                    [4.150]   Pao On v Lau Yiu Long....................................................................... 123
+           [4.170] Bona fide compromise................................................................................ 129
+                    [4.170]   Wigan v Edwards.............................................................................. 129
+           [4.175] Proposals for reform.................................................................................... 131
+                    [4.175]   Sixth Interim Report.......................................................................... 131
+
+
+[4.05] The second element necessary for contract formation is consideration. A promise will
+be enforceable at common law only if it is supported by consideration or made under seal (ie,
+in the form of a deed). A promise that is not supported by consideration may be enforceable
+in equity on the basis of equitable estoppel if it has been relied upon to the detriment of the
+promisee (see Chapter 9).
+
+
+                      History of the Doctrine of Consideration
+[4.10] E Jenks, The History of the Doctrine of Consideration in English Law (Cambridge University Press,
+London, 1892).
+     [81] Every true contract contains a promise. A consideration is a detriment or liability voluntarily incurred
+by the promisee … or a benefit conferred on the promisor at the instance of the promisee … in exchange for
+the promise. Such consideration may be either the performance, or the promise, of an act or forebearance.
+If it be the performance, the consideration is said to be executed, if the promise, to be executory …. In
+accordance with the general rule of law, the onus of proving the existence of a consideration usually rests
+upon the party setting up the contract, whether the consideration appears in writing or not …. In ordinary
+cases it is immaterial whether or [not] the consideration be economically adequate to the promise, but
+gross inadequacy of consideration, though in [82] itself no objection to the validity of a contract, either at
+law or in equity, may be evidence of fraud. On the other hand, the consideration must be genuine, and,
+if executed, it must not consist of an illegal or immoral act, nor, if executory, must it contemplate an illegal
+or immoral object; and the existence of an illegal or immoral consideration may be proved by external
+evidence, though the contract be embodied in writing, or even in a deed. Finally, in the case of executory
+considerations which fail or become impossible, the promisor will be wholly or partially released from his
+obligation, and may even recover back money paid under the contract.
+
+                                                           
+                                                                                                                    [4.10]    97
+
+===== PDF 136 | expected printed p 98 | footer: 98    [4.15]
+Part II: Formation
+
+
+
+
+[4.15]                                            Notes
+Jenks describes consideration in terms of benefit and detriment given “in exchange for the
+promise”. Consideration has also been defined as “the price for which the promise of the other
+is bought”: Pollock on Contracts (8th ed, 1911), p 175. Both definitions connote an element
+of bargain, which lies at the heart of the modern doctrine of consideration.
+  
+
+
+
+
+THE ESSENTIAL ELEMENTS
+
+
+                     Australian Woollen Mills v Commonwealth
+[4.20] Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424 (Privy Council); (1955) 93
+CLR 546 (High Court of Australia) –​Action.
+   [FACTS: The plaintiff (Australian Woollen Mills Pty Ltd) claimed that a unilateral contract had arisen
+out of the Commonwealth government’s wool subsidy scheme. The scheme was introduced after
+World War II, at a time when wool was scarce. The Commonwealth subsidised purchases of wool by
+manufacturers of woollen products to enable those manufacturers to supply the products at low prices.
+In 1946, the Commonwealth announced in a series of letters to manufacturers, including the plaintiff,
+that it would pay a subsidy on all wool purchased for domestic use by Australian manufacturers.
+AWM purchased large quantities of wool over the next two years, including purchases in April, May
+and June 1948 in respect of which the subsidy had not been paid. In June 1948, the Commonwealth
+announced that it was discontinuing the scheme but would ensure that each manufacturer would
+have a certain amount of subsidised wool in stock on 30 June 1948. The stockpile of wool held by
+AWM exceeded this amount, and so the Commonwealth required AWM to repay the subsidy paid on
+that excess. AWM repaid that amount but later sued to recover it, along with the unpaid subsidy on
+the April, May and June purchases.]
+   THE COURT (DIXON CJ, WILLIAMS, WEBB, FULLAGAR and KITTO JJ): [456] The contracts alleged
+by the plaintiff are pleaded in paras 3 and 4a of the statement of claim.
+     Paragraph 3 alleges:
+
+     At or prior to the commencement of the wool season 1946–​1947 the defendant promised
+     the plaintiff that in consideration that the plaintiff would during that season purchase wool at
+     auction and otherwise than at auction for domestic consumption in Australia the defendant
+     would pay to the plaintiff a subsidy.
+The alleged mode of determining the amount of the subsidy is then set out, but this may be put
+on one side for the moment. Paragraph 4a contains an identical allegation in respect of the wool
+season 1947–​1948. In each case there follows an allegation that the plaintiff made purchases of wool
+from time to time “in pursuance of the said agreement”. The contract put forward by the plaintiff is
+thus seen to be of that type which is commonly said to be constituted by an offer of a promise for
+an act, the offer being accepted by the doing of the act. Such contracts are sometimes described
+as “unilateral” contracts, but the term is open to criticism on the ground that it is unscientific and
+misleading. There must of necessity be two parties to a contractual obligation. The position in such
+cases is simply that the consideration on the part of the offeree is completely executed by the doing
+of the very thing which constitutes acceptance of the offer. A well-​known example in which a contract
+was held to have been made is to be found in Carlill v Carbolic Smoke Ball Co [1893] 1 QB 256 … Other
+well-​known examples are the cases in which a reward is offered for the giving of information or for the
+finding and return of lost property and the cases in which there is forbearance by a creditor in return
+for the debtor’s promise to give security.
+
+
+98    [4.15]
+
+===== PDF 137 | expected printed p 99 | footer: [4.20]   99
+                                                                                  Consideration   Chapter 4
+
+
+Australian Woollen Mills v Commonwealth cont.
+
+    In cases of this class it is necessary, in order that a contract may be established, that it should
+be made to appear that the statement or announcement which is relied on as a promise was really
+offered as consideration for the doing of the act, and that the act was really done in consideration
+of a potential promise inherent in the statement or announcement. Between the statement or
+announcement, which is put forward as an offer capable of acceptance by the doing of an act, and
+the act which is put forward as the executed consideration for the alleged promise, there must subsist,
+so to speak, [457] the relation of a quid pro quo. One simple example will suffice to illustrate this. A, in
+Sydney, says to B in Melbourne: “I will pay you £1 000 on your arrival in Sydney.” The next day B goes
+to Sydney. If these facts alone are proved, it is perfectly clear that no contract binding A to pay £1 000
+to B is established. For all that appears there may be no relation whatever between A’s statements and
+B’s act. It is quite consistent with the facts proved that B intended to go to Sydney anyhow, and that
+A is merely announcing that, if and when B arrives in Sydney, he will make a gift to him. The necessary
+relation is not shown to exist between the announcement and the act. Proof of further facts, however,
+might suffice to establish a contract. For example, it might be proved that A, on the day before the £1
+000 was mentioned, had told B that it was a matter of vital importance to him (A) that B should come
+to Sydney forthwith, and that B objected that to go to Sydney at the moment might involve him in
+financial loss. These further facts throw a different light on the statement on which B relies as an offer
+accepted by his going to Sydney. They are not necessarily conclusive but it is now possible to infer:
+(1)      that the statement that £1 000 would be paid to B on arrival in Sydney was intended as an
+         offer of a promise;
+(2)      that the promise was offered as the consideration for the doing of an act by B; and
+(3)      that the doing of the act was at once the acceptance of an offer and the providing of an
+         executed consideration for a promise.
+The necessary connection or relation between the announcement and the act is provided if the
+inference is drawn that A has requested B to go to Sydney.
+   The position has been stated above in terms of the technical doctrine of consideration, and this is,
+in our opinion, the correct way of stating it. But it may be referred to a principle which is fundamental
+to any conception of contract. It is of the essence of contract, regarded as a class of obligation, that
+there is a voluntary assumption of a legally enforceable duty. In such cases as the present, therefore,
+in order that a contract may be created by offer and acceptance, it is necessary that what is alleged
+to be an offer should have been intended to give rise, on the doing of the act, to an obligation. The
+intention must, of course, be judged in the light of the principle laid down in Freeman v Cooke (1848)
+2 Ex 654; 154 ER 652 at 656, but, in the absence of such an intention, actual or imputed, the alleged
+“offer” cannot lead to a contract; there is, indeed, in such a case no true “offer”.
+    [458] A test which has not seldom been applied in such cases in order to determine whether a
+contract has been made or not is to ask whether there has been a request by the alleged promisor that
+the promisee shall do the act on which the latter relies. Such a request may, of course, be expressed or
+implied. In an interesting article in the Law Quarterly Review (1953) 69 LQR 99, to which Mr Windeyer
+referred us and which has already been incidentally mentioned, Mr JC Smith maintains that the presence
+of a request, express or implied, is an essential element in every true offer. Sir A Goodhart ((1951) 67 LQR
+456 and (1953) 69 LQR 106), contests this general proposition, maintaining in effect that the essential
+thing, in a case such as the present, is that the “offeror” should state a price which the “offeree” must
+pay if he wishes to purchase a promise. This way of putting the position does not seem to differ materially
+from the way in which we have put it above. At the same time, it can hardly be denied that the presence
+or absence of an implied request to do the act may often provide a useful test for determining whether
+there has been a true offer and a true acceptance such as to bring a contract into existence. We are really
+applying the same test if we ask whether the “offer” was made in order to induce the doing of the act …
+   The presence or absence of an implied request that the act be done has been regarded as material
+in a number of cases. In Carlill’s case itself it is regarded as material by both Bowen LJ and AL Smith LJ.
+Bowen LJ says: “A further argument for [459] the defendants was that this was a nudum pactum …
+
+
+                                                                                                  [4.20]   99
+
+===== PDF 138 | expected printed p 100 | footer: 100   [4.25]
+Part II: Formation
+
+
+Australian Woollen Mills v Commonwealth cont.
+
+that there was no consideration at all; in fact, that there was no request, express or implied, to use the
+smoke ball”: [1893] 1 QB 256 at 270, 271. His Lordship then refers to [two cases] and proceeds: “The
+short answer, to abstain from academical discussion is, it seems to me, that there is here a request to
+use involved in the offer”: at 271 …
+   Several other illustrative cases are cited in Mr Smith’s article. It will suffice here to mention two
+cases, the one nearly a hundred years old and the other very recent. The correctness of the actual
+decision in Shadwell v Shadwell (1860) 9 CB (NS) 159; 142 ER 62, is likely to be forever debated.
+Erle CJ and Keating J took, in the light of all the circumstances, one view of the letter on which the
+plaintiff relied: Byles J took another view. But the approach of all the learned judges to the problem of
+fact was exactly the same. Erle CJ and Keating J said:
+   First, do these facts shew a loss sustained by the plaintiff at his uncle’s request? … If the
+   promise was made in order to induce the parties to marry, the promise so made would be
+   in legal effect a request to marry. Secondly, do these facts shew a benefit derived from the
+   plaintiff to the uncle, at his request? … If the promise of the annuity was intended as an
+   inducement to the marriage … this is the consideration averred in the declaration: (1860)
+   142 ER 62 at 68.
+Bales J said: “The inquiry therefore narrows itself to this question —​Does the letter itself disclose
+any consideration for the promise? The consideration relied on by the plaintiff’s counsel being the
+subsequent marriage of the plaintiff”: (1860) 142 ER 62 at 69. Then after discussing the contents of
+the letter he says: “The question, therefore, is still further narrowed to this point —​Was the marriage
+at the testator’s request? Express request there was none. Can any request be implied?” (1860) 142
+ER 62 at 69.
+    His Lordship concludes that no such request can be implied, and that the marriage could not
+be said: “to have taken place at the testator’s request or, in other words, in consequence of that
+request”: (1860) 142 ER 62 at 69. The very recent case is Combe v Combe [1951] 2 KB 215. [460] This
+is one of the “forbearance” cases. Denning LJ said:
+   Unilateral promises of this kind have long been enforced, so long as the act or forbearance
+   is done on the faith of the promise and at the request of the promisor, express or implied.
+   The act done is then in itself sufficient consideration for the promise, even though it arises
+   ex post facto: at 221.
+And Asquith LJ (as he then was) said: “I do not think an actual forbearance, as opposed to an agreement
+to forbear to approach the court, is a good consideration unless it proceeds from a request, express or
+implied, on the part of the promisor. If not moved by such a request, the forbearance is not in respect
+of the promise”: at 226, 227.
+  Coming to the present case, it is impossible, in our opinion, to hold that any contract was
+constituted at any stage binding the Commonwealth to pay a subsidy to the plaintiff, or to any
+manufacturer, in consideration of a purchase of wool for local manufacture …
+   Judgment for defendant.
+   [Australian Woollen Mills Ltd appealed to the Privy Council. In the course of their judgment
+dismissing the appeal (1955) 93 CLR 546, their Lordships said:]
+[4.25] [548] The first answer of the respondent to this claim is that there were no contracts; that the
+basis of the scheme was not contractual but administrative, and that the letters contained statements
+of policy and not contractual offers …
+   [554] Their Lordships are of the opinion that these letters cannot be read as an offer or offers
+to contract. They contain a statement of [555] policy. The “scheme” is to be administered by the
+Commission which is itself to determine the amount of the subsidy. No single phrase or provision may
+be decisive. The letters must be read as a whole. If the intention had been to provide for a series of
+
+
+100   [4.25]
+
+===== PDF 139 | expected printed p 101 | footer: [4.30]   101
+                                                                               Consideration    Chapter 4
+
+
+Australian Woollen Mills v Commonwealth cont.
+
+contracts one would as between these parties have expected a form containing the provisions which,
+if disputes arose, would be construed and applied by the courts. The number of uncertain factors
+make it natural that the basis should be administrative. Nor is there anything remarkable in the fact
+that the manufacturers should be content to act on the respondent’s statement of policy. A further
+letter of 20 August elaborating the procedure emphasises the control which the respondent thought
+the Commission was keeping on the scheme …
+     [550] The appellant further submitted that the respondent wanted the manufacturers to purchase
+so that there could be woollen goods on the home market. There was therefore an implied request
+to do so. Let this be admitted. It does not appear to their Lordships to advance the argument. There
+may be cases where the absence of a request negatives the existence of a contract. The presence of
+a request does not, however, in itself establish a contract. Manufacturers may be requested to come
+into and work a non-​contractual scheme. On this aspect of the argument their Lordships think, with
+all respect, there was force in the criticism of that passage in the judgment of the High Court in which
+it is said that there was nothing in the nature of a request or invitation …
+   Appeal dismissed.
+
+                                                 
+
+
+                                     Beaton v McDivitt
+[4.30] Beaton v McDivitt (1987) 13 NSWLR 162 (Court of Appeal of the Supreme Court of New South
+Wales) –​Appeal from Young J.
+   [FACTS: The McDivitts (the respondents) owned 25 acres of land but farmed only a portion of it.
+Mr McDivitt believed that the local council was likely to rezone the land within two years and that the
+council rates would then be increased substantially. McDivitt feared that he would be unable to pay
+the new rates and he decided to divide the land into four blocks, three to be retained by himself and
+his family, the fourth to be made available to “someone interested in the form of cultivation known as
+permaculture to work the block”. He said that he would transfer the title to the block to the person
+selected when the rezoning took place.
+   Mr Beaton (the appellant) was told of this plan by a mutual friend, and the Beatons then had
+discussions with the McDivitts. As a result of those discussions, the Beatons moved on to the fourth
+block, farmed the land using permaculture methods and, in accordance with oral undertakings given
+to McDivitt, assisted in the creation and maintenance of a road which gave access to the block. After
+seven years, a dispute arose and McDivitt ordered the Beatons off the land. Young J said:
+   Doing the best I can, in my view what happened was this, Mr McDivitt feared that the
+   zoning would be changed which would affect his rates, knew that he was not using the
+   whole of his 25 acres, thought it would be nice to have someone who was interested in
+   permaculture work on part of the land, and was quite willing to give part of the land to that
+   person if and when the land was rezoned …
+      Accordingly, the essential facts as I have found them, are that the defendants made a
+   proposal to Mr Beaton that he would come on to lot B and work it rent free, and that when
+   subdivision took place, which was thought to be only a short time, that is, a matter of two to
+   three years away from being a legal possibility, the Beatons, or at least Mr Beaton, would be
+   given the title to lot B in fee simple. Mr Beaton accepted this proposal and he suffered some
+   detriment in acting upon it in that he spent approximately $1,000 on planting trees and
+   shrubs on the land. He has, of course, also spent seven years living on the land and working
+   on it, though there must also be taken into account the fact that he has occupied that land
+   without payment.
+
+
+                                                                                               [4.30]   101
+
+===== PDF 140 | expected printed p 102 | footer: 102   [4.30]
+Part II: Formation
+
+
+Beaton v McDivitt cont.
+
+Young J held that the Beatons had not given consideration sufficient to satisfy the bargain requirement
+of something given in exchange for the promise. He found, however, that there was a line of cases
+starting with Dillwyn v Llewelyn which represented “an exception to the modern requirement that
+a contract should be a bargain supported by consideration in the nature of a quid pro quo”. The
+Beatons’ acts of reliance were sufficient to give rise to a “Dillwyn v Llewelyn type contract”. Young J
+held, however, that this contract had been frustrated. Accordingly, the Beatons were not entitled to
+remain on the land. Mr Beaton appealed.]
+    KIRBY P: [168] By our law, consideration is an essential requirement for an enforceable contract.
+Without consideration, a promise is unenforceable at law. The modern theory of consideration has
+arisen from the notion that a contract is a bargain struck between the parties by an exchange. By
+that modern theory, consideration must be satisfied in the form of a price in return for the promisor’s
+promise or a quid pro quo. The price can be in the form of an act, forbearance or promise. In Pollock
+on Contracts, 13th ed (1950) at 133 Sir Frederick Pollock, in words adopted by Lord Dunedin in
+Dunlop Pneumatic Tyre Co Ltd v Selfridge and Co Ltd [1915] AC 847 at 855, expressed the idea of
+consideration as the “price in return” in the following way: “An act or forbearance of one party, or
+the promise thereof, is the price for which the promise of the other is bought, and the promise thus
+given for value is enforceable.”
+    The triumph of the bargain theory of consideration necessary for a contract amounts to a rejection
+of the theory of contractual obligation based upon reliance. This shift may have come about as a
+result of the mercantile attitudes and the requirements of England in the eighteenth and nineteenth
+centuries. It may reflect the consequent final subordination of Roman Law doctrines, founded
+ultimately in notions of relationships and morality: see P S Atiyah, The Rise and Fall of Freedom of
+Contract (1979) at 499 f but cf J H Baker (1980) 43 Mod L Rev 467 f and sources there cited. Whatever
+the origins and explanations for this shift (to the extent that they can now be known given that such
+disputes were typically resolved by jury verdicts) it was necessary, thereafter, to have resort to courts
+of equity for the enforcement of claims based on relationships. For in the courts of law, duties arising
+from bargains entered between free parties were to be enforced, not duties deriving from suggested
+moral obligations such as those deriving from relationships.
+   The High Court of Australia has accepted this “modern” or bargain doctrine of consideration.
+   In Australian Woollen Mills Pty Ltd v The Commonwealth (1954) 92 CLR 424 at 456–​7, the Court
+(Dixon CJ, Williams, Webb, Fullagar and Kitto JJ) said, relevant to the present arrangement:
+   In cases of this class it is necessary, in order that a contract may be established, that it should
+   be made to appear that the statement or announcement which is relied on as a promise was
+   really offered as consideration for the doing of the act, and that the act was really done in [169]
+   consideration of a potential promise inherent in the statement or announcement. Between
+   the statement or announcement, which is put forward as an offer capable of acceptance by
+   the doing of an act, and the act which is put forward as the executed consideration for the
+   alleged promise, there must subsist, so to speak, the relation of a quid pro quo.
+Young J (rightly in my opinion) was unable to find consideration in this sense in the facts of the
+present case. It is just not possible, however indulgently one approaches those facts with sympathy
+to the appellant, to classify the promises he made as a quid pro quo for the suggested promise of the
+respondent, in certain circumstances, to transfer title in the land to him. At the time, the appellant was
+having difficulties with his landlord. Therefore, a right to occupy and use the respondents’ land rent
+free was of considerable benefit to him. What other possible benefit did the respondents derive of the
+kind which the High Court said in the Australian Woollen Mills case was necessary for an enforceable
+contract? True it is they would have somebody living on the land. True also they might hope that such
+person would be a congenial neighbour, sharing with them their peculiar ideas about horticulture. But
+these scarcely amount to a quid pro quo for such a substantial promise as the passing of title and the
+taking of steps to that end. I do not in this conclusion overlook the fact that the law is not concerned
+
+
+102   [4.30]
+
+===== PDF 141 | expected printed p 103 | footer: [4.35]   103
+                                                                                Consideration    Chapter 4
+
+
+Beaton v McDivitt cont.
+
+with the sufficiency of the suggested consideration. I examine the facts simply to see whether those
+suggested benefits which passed to the respondent can properly be classified as consideration. In my
+opinion the expenditures and actions of the appellant are more properly to be categorised as entirely
+for his own benefit and that of his family. The element of congeniality and of having on the land a
+neighbour of like horticultural practices is not valuable consideration. It is more akin to domestic and
+social arrangements and the natural love and affection which have long been held not to amount to
+consideration sufficient to establish a binding contract …
+    There is a policy behind the law’s insistence upon consideration of the kind explained. People make
+foolish and ill considered promises to confer gifts and other benefits on others. Especially do they do
+so, one might say, in the festive atmosphere of the Christmas and New Year season. In the cold light
+of the dawns that follow, disputes require courts to decide whether these promises will be enforced.
+Leaving aside equitable relief occasioned by the dealings between the parties, why should the law hold
+a party to such a promise of a gift unless it can be demonstrated that, in return for such a promise, the
+promisor received some bargain from the promisee by way of quid pro quo? In a sense, this shows
+our law (which has generally declined to adopt the formalism of the civil law approach to contract)
+insisting upon a bargain before it will attach legal consequences to the unformalised dealings of the
+parties. The law is not concerned (in this respect) with the equality of [170] the bargain. But in some
+cases the “bargain” will be so illusory or one-​sided that a quid pro quo will not be found. Formality
+apart, the suggested “contract” will then not be enforced at law.
+    But was the promise made on New Year’s Eve 1977, that the appellant would maintain the private
+road to the property, a sufficient quid pro quo to amount to consideration to sustain an enforceable
+contract? In my view it was not. Any “agreement” between the parties was made on 26 December
+1977. Talk about the road did not arise until nearly a week later. Even then it arose only in response
+to the appellant’s offer to pay the rates. That very offer indicates the appellant’s acknowledgment
+of the great benefit which he was receiving. Any promise made to maintain the road (which after
+all was necessary to secure access to the appellant’s home) cannot be classified as one demanded
+or offered in exchange for the alleged promise of the respondents to transfer title. In the manner in
+which the additional term as to the road arose, it was not contemplated by the respondents’ promise,
+earlier accepted by the appellant. Accordingly it cannot represent consideration. I therefore agree
+with Young J’s conclusion that no contract was made between the parties which would be enforced
+according to the conventional or “modern” view about the requirement of valuable consideration for
+a contract enforceable at law.
+Gift and ex post facto consideration
+[4.35] But was Young J right in holding that a contract of the kind found in Dillwyn v Llewelyn existed
+here and would be enforced by the law of contract? His Honour analysed the line of cases which have
+followed Dillwyn v Llewelyn. He concluded that its conceptual classification was not estoppel but the
+survival of an old contract principle of detriment, as an exception to the modern requirement that a
+contract should be a bargain supported by consideration in the nature of a quid pro quo.
+   Whatever may be the position elsewhere, I consider that to hold as Young J did would be to
+subvert the principle accepted unanimously by the High Court of Australia in Australian Woollen Mills.
+Moreover, it would be to undermine the simplicity of the requirements of contract law and the
+uniform approach to the definition therein of the requirements of consideration. Given the clear way
+in which contract law has moved from a “detriment” to a “bargain” theory, I regard the belated
+attempt to suggest an exception founded on Dillwyn v Llewelyn as unconceptual and unhistorical.
+However that may be, it is impermissible to the courts in Australia until the High Court of Australia
+reviews and modifies its decision in the Australian Woollen Mills case.
+   In any case, close analysis of the judgment of Lord Westbury LC in Dillwyn v Llewelyn suggests
+that the basis for equitable intervention in that case was proprietary estoppel. The inter-​relationship
+of common law and equity is notoriously troublesome. But it is both obligatory and desirable in
+this Court to preserve the unity of contract law by avoiding suggested exceptions to the rule that
+
+
+                                                                                                [4.35]   103
+
+===== PDF 142 | expected printed p 104 | footer: 104   [4.40]
+Part II: Formation
+
+
+Beaton v McDivitt cont.
+
+consideration for an alleged promise must involve “the relation of a quid pro quo”. The “exception”
+to the general rule thought by Young J to be necessary is better classified not as an exception to the
+requirement of a quid pro quo for consideration but as an illustration of the [171] relief which equity
+will sometimes give, based upon estoppel, whatever may be the rights of the parties in law.
+   It is suggested that the quid pro quo for the transfer of the block of land assigned to the appellant
+was his act in coming upon and working the block by means of the particular form of horticulture
+specified by the respondents. Once he did so, it is argued that it was not open to the respondents to
+withdraw their offer. I do not consider that this is the correct analysis of the arrangement between
+them. I have mentioned the difficulties which the appellant was having with his landlord because of
+which the offer of rent-​free accommodation must have seemed remarkably well timed. The lack of
+specificity as to the work and expenditure to be carried out by the appellant on the land (reinforced
+by the evidence of the lack of substantial work in actuality) combined with the fact that the appellant
+contemplated and performed some work as part of his own business to his own advantage suggests
+(as do numerous other indications) that, both before and after the Yuletide conversations in 1977, the
+true classification of the appellant’s occupation of the land was that of a bare licensee.
+   If it be relevant to look to whether the appellant acted to his detriment, I do not believe that he did.
+On the contrary, the arrangement made was entirely to his advantage. If, as I have held, it is necessary
+to decide whether the appellant gave a quid pro quo for the suggested promise to transfer the land,
+I do not believe he did. Properly considered, the true interpretation of events appears to be that the
+respondent for reasons of congeniality and commitment to a shared idea of horticulture invited the
+appellant onto part of his land. No rent or other relevant consideration passed from the appellant to
+the respondents for this permission. No relevant detriment was suffered by the appellant. He received
+rent-​free accommodation for seven years. To enforce the Boxing Day promise (apart from the many
+other difficulties it faced) would in my view amount to the enforcement of a contract made without
+consideration. This conclusion relieves me of the obligation to consider whether any such contract, if
+made, would have been frustrated by the events which later occurred ….
+Relief in equity
+[4.40] This conclusion brings me to the alternative way in which the appellant sought relief, so far as
+still pressed in this Court. This was that, whatever the position in law, it would be unconscionable for
+the legal owners of the land (the respondents) to insist upon their legal rights and that equity would
+provide relief to the appellant. One such circumstance where relief will be provided is where there
+is unconscionable behaviour on the part of the legal owner in circumstances in which another party
+is incurring expenditure, to the knowledge of the owner. Even where the owner may not request or
+excite that behaviour, where the expenditure is induced by an expectation of obtaining protection,
+equity will intervene to ensure that an injustice may not be perpetrated …
+    [172] [S]‌o far as any expenditure which the appellant made on that part of the respondents’
+property which he occupied, this is entirely explained by the appellant’s own domestic and business
+needs and interests. The appellant and his family enjoyed the property, rent free, for seven years
+before the judgment of Young J. Despite all that has occurred and not occurred, including the
+absence of rezoning, the absence of consent by the council, the absence of the Minister’s consent
+and the delay of years far beyond that originally contemplated, to now suggest that equity can only
+be satisfied by the transfer of an interest in the land to the appellant is so disproportionate to the
+identified detriments to which the appellant can point, that I cannot accept that equity would in the
+circumstances lend its aid.
+   [173] There being no enforceable contract between the parties and no equity which the courts
+would enforce in favour of the appellant, I have concluded that the orders of Young J should be
+sustained ….
+[4.45] McHUGH JA: [180] The learned judge found that the plaintiff gave no consideration in the
+conventional sense for the defendant’s promise to make the land over to him. However, his Honour
+
+
+104   [4.40]
+
+===== PDF 143 | expected printed p 105 | footer: [4.50]   105
+                                                                                 Consideration    Chapter 4
+
+
+Beaton v McDivitt cont.
+
+said that, where a person has made a promise of a conditional gift and the promisee has relied on
+that promise to his detriment, the promisee gives ex post facto consideration for the promise and
+that makes it contractually enforceable. Young J referred to many cases where promises to make a
+gift of land have been enforced against the promisor when the promisee had acted to his detriment
+in reliance on the promise: see for example, Dillwyn v Llewelyn (1862) 4 De G F & J 517; 45 ER
+1285; Ramsden v Dyson (1866) LR 1 HL 129. Professor Atiyah regards this line of decisions as based
+on the law of contract and as an exception to the bargain theory of contract: see Consideration in
+Contracts: A Fundamental Restatement (1971), pp 30–​3. Young J accepted this analysis. The principle
+upon which his Honour relied is succinctly stated by Jordan CJ in New South Wales Trotting Club Ltd v
+Glebe Municipal Council (1937) 37 SR (NSW) 288 where his Honour said:
+   if a person lays out money in improving land which he knows to belong to another, and
+   does so, to the knowledge of the other, on the faith of an express or implied promise from
+   that other that he is to have some interest in the land, a court of equity, so far as it can, will
+   compel the other to give effect to the promise. It is pointed out in Canadian Pacific Railway
+   Co v The King [1931] AC 414 at 428 that this type of case depends on contract express or
+   implied.
+However, in my opinion it is not open to this court to regard this line of cases of which Dillwyn v
+Llewelyn and Ramsden v Dyson are well known examples as contract based. It is true that statements
+can be found in many of them which suggest that the promise is enforceable because the parties have
+made a contract. As late as 1961 Nagle J, sitting in the Full Court in Commonwealth v A E Goodwin Ltd
+[1962] SR (NSW) 315, 325; [1961] NSWR 1080, 1090, declared that contract was the basis of these
+decisions. But this is not the explanation which more recent authorities have placed on them. Nor in
+the light of the decision of the High Court in Australian Woollen Mills Pty Ltd v Commonwealth (1954)
+92 CLR 424 is it possible for this court to hold that the Dillwyn v Llewelyn line of cases is contract
+based. The statement by Jordan CJ to which I have referred and which Young J quoted in his judgment
+cannot now be considered an accurate statement of the law.
+The jurisprudential basis of the plaintiff’s claim
+[4.50] [181] Historically, the doctrine of consideration was nearly identical with the motive for making
+a promise. Before it could be decided whether the promise was binding, a court had to know why
+the promise was made: Simpson, A History of the Common Law of Contract (1975), p 321. Historically,
+there was little difference between the common law conception of consideration and the Roman idea
+of “causa”. But in the 19th century, the basis of consideration moved from motive and reliance to
+bargain. By 1842 Patteson J could say in Thomas v Thomas (1842) 2 QB 851, 859; 114 ER 330, 333–​4:
+   It would be giving to causa too large a construction if we were to adopt the view urged by
+   the defendant: it would be confounding consideration with motive … Motive is not the same
+   thing with consideration. Consideration means something which is of some value in the
+   eye of the law, moving from the plaintiff: it may be of some benefit to the plaintiff or some
+   detriment to the defendant; but at all events it must be moving from the plaintiff.
+In Currie v Misa (1875) LR 10 Exch 153 at 162, Lush J, in the course of giving the judgment of Keating,
+Quain and Archibald JJ and himself, gave the now classic definition: “A valuable consideration, in the
+sense of the law, may consist either in some right, interest, profit, or benefit accruing to one party,
+or some forbearance, detriment, loss, or responsibility, given, suffered, or undertaken by the other.”
+   The element of bargain is inherent in this definition.
+  In the United States, O W Holmes Jnr was a strong proponent of the bargain theory. In The Common
+Law (De Wolfe Howe ed), he said (at 230): “The root of the whole matter is the relation of reciprocal
+conventional inducement, each for the other, between consideration and promise.”
+  This sentence was quoted with evident approval by Isaacs ACJ in The Crown v Clarke (1927) 40 CLR
+227 at 236.
+
+
+                                                                                                 [4.50]   105
+
+===== PDF 144 | expected printed p 106 | footer: 106   [4.55]
+Part II: Formation
+
+
+Beaton v McDivitt cont.
+
+   By the beginning of the 20th century, Pollock was able to say that an “act or forbearance of one
+party, or the promise thereof, is the price for which the promise of the other is bought, and the
+promise thus given for value is enforceable”: Pollock on Contracts (8th ed, 1911), p 175. Pollock’s
+definition was adopted by Lord Dunedin in Dunlop Pneumatic Tyre Co Ltd v Selfridge & Co Ltd [1915]
+AC 847 at 855.
+   In the United States the bargain theory has been extended to the point where nothing is regarded
+as consideration “which is not regarded as such by both parties”: Restatement, Contracts, 2d, s 75(1).
+English law has not gone so far: see Treitel, “Consideration: A Critical Analysis of Professor Atiyah’s
+Fundamental Restatement” (1976) 50 ALJ 439 at 440. However, the essential elements of the bargain
+theory were adopted in The Crown v Clarke and in Australian Woollen Mills Pty Ltd v Commonwealth.
+   The ratio decidendi of Australian Woollen Mills Pty Ltd v Commonwealth is that the expenditure
+of money in reliance on an announcement by the government that it would pay a subsidy to a
+manufacturer on wool purchased and used for local manufacture is not itself sufficient to create a
+contract to pay the subsidy …
+  The reasoning of the High Court … accepts the basic element of the bargain theory of consideration
+and amounts to a rejection of a reliance based theory of consideration.
+    Modern writers on contract law have criticised the use of the bargain theory as the exclusive test
+of consideration: see Atiyah at 27–​8; Gilmore, The Death of Contract (1974), pp 19–​21, 60–​5; Sutton,
+Consideration Reconsidered (1974), p 33; Greig and Davis, The Law of Contract (1987), pp 75–​8. The
+criticisms of these writers would extend to the theory of consideration applied in Australian Woollen
+Mills Pty Ltd v Commonwealth. However, the current theory of consideration has its modern supporters
+(see Treitel, Law of Contract (6th ed, 1983), pp 51–​4) and the paper given by Sir Anthony Mason
+and Gageler at the Australian National University, “The Contract”. However, so far as this court is
+concerned, the discussion is academic. In the case of a unilateral contract such as the present, the law
+relating to consideration is laid down in Australian Woollen Mills Pty Ltd v Commonwealth. None of the
+cases to which Young J referred, therefore, can be treated as contract based unless there was a quid
+pro quo for the defendant’s promise.
+    The jurisprudential basis of cases such as Dillwyn v Llewelyn, in my opinion, is that equity will not
+allow a person to insist upon his strict rights when it is unconscionable to do so …
+   Although I disagree with the jurisprudential basis on which Young J found a contract in this case,
+I am of the opinion that his Honour was correct in finding a contract. However, as will be seen, I do
+not fully agree with all that his Honour said as to the terms of that contract.
+The contract
+[4.55] When a person promises or offers to transfer property to another person, care must be taken
+to distinguish between three situations. The first concerns a promise to transfer property subject to
+the occurrence of an event or condition. The promise will not be enforceable even if the event or
+condition [183] occurs. An example is a bare promise to pay X $100 if a certain team wins a football
+match. The second situation concerns a promise to transfer property after which the promisor allows
+the promisee to act to his detriment in reliance on the promise. In this situation, depending on the
+circumstances, equity may prevent the promisor insisting on his strict rights and may enforce the
+promise. The third situation is where the promise contains an express or implied request by the
+promisor to do an act or fulfil a condition. In that situation the doing of the act or the fulfilling of the
+condition by the promisee in reliance on the promise will usually constitute consideration and create
+a binding contract: see Australian Woollen Mills Pty Ltd v Commonwealth and Combe v Combe [1951] 2
+KB 215 [and Carlill v Carbolic Smoke Ball Co. [1893] 1 QB 256] ….
+   In the present case, I think that the promise made by Mr McDivitt was an offer which was intended
+to give rise to an obligation on the part of himself and his wife upon the plaintiff coming and working
+on the land. Mr McDivitt was concerned that the land would be rezoned, that the rates would go up,
+and that he would not be able to pay them when he went on the pension. Accordingly, he decided
+
+106   [4.55]
+
+===== PDF 145 | expected printed p 107 | footer: [4.70]   107
+                                                                                 Consideration    Chapter 4
+
+
+Beaton v McDivitt cont.
+
+to subdivide the land. Upon the transfer of three of the blocks after subdivision, he would obtain
+a benefit because his rates would be reduced. This motivated him to offer the block in return for a
+person coming and working the block by means of organic farming. Thus the consideration for the
+transfer of the block was the act of the plaintiff in coming and working the block by means of organic
+farming at the request of the McDivitts.
+  Once the plaintiff went on to the land and commenced to work the block, it was not open to the
+McDivitts to withdraw their offer ….
+   By entering onto lot B and performing work, the plaintiff had suffered sufficient detriment to
+constitute consideration even though he was obliged to work the land until the time of subdivision
+before he was entitled to the transfer of lot B …
+Frustration
+[4.60] … With great respect to the learned trial judge, I am unable to conclude that the contract was
+frustrated by December 1982 or at all. His Honour found, and it was common ground on this appeal,
+that the present zoning did not prevent the subdivision of the land of the McDivitts. Nor with respect
+was there any evidence from which a conclusion could be drawn that an application for subdivision
+would certainly fail.
+    His Honour’s finding concerning the terms of the contract did not include any term that the
+plaintiff’s right to the transfer of the land depended upon the rezoning of the land. The plaintiff’s right
+arose upon the subdivision of the land. Moreover, the evidence does not establish that the fulfilment
+of the [185] offer was dependent upon the land being rezoned. I have already set out the plaintiff’s
+evidence. On that evidence the question of rezoning, while a motivating factor, was not a condition
+of the transfer of the land …
+  It may well be that, without the rezoning of the land, no approval will be given to the subdivision.
+However, subdivision is not a legal impossibility; it is possible that in all the circumstances the council
+might permit the land to be subdivided to enable the title to lot B to pass to the plaintiff.
+The duty to co-​operate
+[4.65] The McDivitts have a contractual duty to do everything necessary on their part to enable
+the plaintiff to have the benefit of the contract: Secured Income Real Estate (Aust) Ltd v St Martins
+Investments Pty Ltd (1979) 144 CLR 596 at 607 per Mason J. Accordingly, it is and was their duty to
+do everything in their power necessary to have the land subdivided so as to transfer “lot B” to the
+plaintiff. No doubt it was not a breach of that duty for the McDivitts to wait and see whether the
+land would be rezoned. But if the land is not to be rezoned, then the fulfilment of the McDivitts’
+duty requires that they make an application under the present zoning. If that application fails and
+if it appears that there is no prospect in the foreseeable future of a [186] subdivision being carried
+through, then it may be proper to conclude that the contract between the parties has been frustrated.
+But in my opinion that moment has not yet been reached. Moreover, it necessarily follows from what
+I have said that the plaintiff is entitled to work lot B and remove the fruits of his labour.
+  [McHugh JA concluded that the plaintiff was entitled to have the block transferred to him
+conditional upon the appropriate consent of the council and the minister being obtained.]
+[4.70] MAHONEY JA: [175] In my opinion, the transaction between the parties constituted a
+contract. To adopt the Ansonian approach, the defendants offered the plaintiff a promise for an
+act: they promised to transfer the land if Mr Beaton came on the land and worked it as they discussed.
+The appeal has proceeded on the basis that Mr Beaton did, or did substantially, the act in question.
+Therefore there was a binding contract ….
+   [176] I think the conclusion should be drawn that Mr Beaton also did what he did upon the basis
+that the transfer of the land to him was to be made as and when the land was rezoned and therefore
+could be subdivided …
+  It is therefore necessary to determine the significance of the contemplated rezoning in the
+contractual obligations of the parties.
+
+                                                                                                 [4.70]   107
+
+===== PDF 146 | expected printed p 108 | footer: 108   [4.70]
+Part II: Formation
+
+
+Beaton v McDivitt cont.
+
+   On the facts as the learned judge found them, I would be inclined to think —​at least it might be
+argued —​that the rezoning was a condition subsequent to the contractual arrangements made. On
+this basis, the defendants would be contractually bound to transfer the land to Mr Beaton but they
+would not be bound to effect the transfer unless and until the rezoning took place.
+   If the rezoning was a condition, then it was not fulfilled. No time was specified within which the
+rezoning was to take place. In the absence of specification of time, the implication would be, I think,
+that it should take place within a reasonable time. And, on the evidence, I would conclude that that
+time has now elapsed. That being so, it would be open to the defendants to terminate and what they
+have done constitutes such a determination.
+   However, before this Court the parties did not argue the significance of rezoning as a condition of
+the contract. I do not think that the learned judge made a definitive finding in this regard. There may
+be reasons why, had such an argument been raised and pursued, it would have been rejected: it may
+be that evidence could have been called upon the matter. I therefore do not think it is proper for this
+Court to hold that rezoning was a condition of the contract or that, if it was, the contract has been
+terminated by failure of it.
+   What, then, should this Court see as the significance of the rezoning?
+    For the reasons I have given, it is proper to approach this question upon the basis that, though the
+parties regarded rezoning as they did, it was not a contractual term in their contract. On this basis,
+I agree with his Honour’s conclusion that the fact that there was not a contemplated rezoning by the
+time of the hearing effects a termination of the contract. The fact that the rezoning was specifically
+contemplated by the parties does not, I think, prevent the doctrine of frustration operating. Ordinarily
+an event operating by way of frustration will not be expressly contemplated or the subject of an [177]
+express provision in an agreement. But there is, in my opinion, nothing in the doctrine of frustration
+which will prevent it operating where the parties have contracted on an expressed assumption which
+in the event proves false: see generally Brisbane City Council v Group Projects Pty Ltd (1979) 145 CLR
+143 and Codelfa Construction Pty Ltd v State Rail Authority of New South Wales (1982) 149 CLR 337.
+    In so far as the applicability of the doctrine of frustration is to be tested by the circumstances,
+I think that, had a bystander said to the parties in 1977: But what if the rezoning does not take place?,
+they would both have said that (subject to one matter): Of course, the land cannot be transferred.
+And that, in principle, provides the basis for the operation of frustration.
+   The matter that I have mentioned is the provision for an accounting of what should come from or
+go to Mr Beaton if his contractual rights in the land were to come to an end. It would be expected
+that the parties would have said not merely “Of course …” but “Of course … but …”.
+   I do not think that, if conditions subsequent be put aside, the fact that there would be a qualified
+“Of course” prevents the operation of the doctrine of frustration, at least in the present case. I do not
+think that, in principle, it prevents that doctrine operating. The fact of the qualification would go, not
+to frustration, but to what would follow from it. To that I shall return subsequently.
+    There remains the possibility that a rezoning may take place. But, as far as the evidence shows, there
+is no present prospect of a rezoning. The contemplation was, as his Honour said, that there would be a
+rezoning within some two years. Ten years and more have passed. I think that, in these circumstances,
+the theoretical possibility of a rezoning in the future does not prevent the contract coming to an end.
+   … it was not suggested —​at least the matter was not pursued before the learned judge —​
+that efforts by the defendants could or would have procured a rezoning. I do not think that the
+contemplation of the contract was that the defendants should produce a rezoning: the contract was
+upon the basis of a rezoning resulting, not from the efforts of the defendants but otherwise. The
+defendants were, in my opinion, under no obligation to procure it and the imposition of a term upon
+them that they should seek so to do would be wrong.
+   Appeal dismissed.
+
+                                                 
+108   [4.70]
+
+===== PDF 147 | expected printed p 109 | footer: [4.80]   109
+                                                                                Consideration    Chapter 4
+
+
+
+ADEQUACY OF CONSIDERATION
+[4.75] The courts and writers draw a distinction between adequate consideration and sufficient
+or good consideration. Although the terms are not always used with perfect consistency, the
+adequacy of consideration refers to its intrinsic value. The determination of the sufficiency of
+consideration involves the question whether, for what are ultimately public policy reasons,
+certain consideration should be denied legal efficacy.
+   Subject to the doctrine of illusory consideration, the general principle is that the courts do not
+inquire into the adequacy of consideration, that is, the comparative value of the consideration
+and the promise or act in return for which it is given. Thus, a nominal consideration –​such as
+a peppercorn, a canary or a piece of coal –​will be adequate consideration.
+
+
+                                    Woolworths v Kelly
+[4.80] Woolworths Ltd v Kelly (1991) 22 NSWLR 189 (Court of Appeal of the Supreme Court of New
+South Wales).
+  KIRBY P: [193] There are a number of reasons why the common law has declined to weigh the
+adequacy of consideration in judging whether a particular bargain amounts to a legally enforceable
+contract:
+1.   In the marketplace, in the myriad of situations which lead to contracts, different participants will
+     put different values upon the bargain they are getting. The subject of a bargain may be specially
+     important to a party. It may be valued for idiosyncratic, sentimental, ethical and other reasons
+     as well as economic reasons. That is why it has been said so often that it is impossible for the
+     law to indulge in an evaluation of the equivalence of the promises exchanged by parties to a
+     contract: see, eg, American University v Todd 1 A 2d 595 (1938) at 598;
+2.   Judges deciding disputed contract cases are lawyers. Parties whose disputes come to law are
+     advised by lawyers. Lawyers enjoy a special training. But that training may not prepare them to
+     evaluate the multitude of economic and other decisions daily made by people of different, and
+     even like, backgrounds in entering into bargains. The disinclination of the courts to become
+     involved in economic evaluation derives, in part, from a realisation of the limited expertise of
+     lawyers. That expertise does not necessarily qualify the lawyer to substitute his or her opinion
+     about the wisdom of the bargain achieved for that of the parties, so long as some consideration
+     for the bargain can be demonstrated;
+3.   If courts were to entertain disputes concerning the adequacy, or inadequacy, of consideration
+     for a bargain, and if such issues were justiciable, they would lead to litigation prone to open
+     up a vast territory of evidence. Courts would have to try the adequacy of consideration upon
+     testimony. Different decision-​makers would reach different conclusions upon the same evidence;
+4.   The prospect of such disputes would produce a great deal of uncertainty in an area of the law
+     where certainty has great economic importance to society. In contract law it is highly desirable
+     that uncertainty about whether a bargain is legally enforceable be minimised. In so far as any
+     suggestion is made to enlarge the area of the exceptions to the disinclination of the common
+     law to evaluate the sufficiency of consideration, I would be disinclined to go beyond those
+     which are well founded on clear authority: cf Beaton v McDivitt (1987) 13 NSWLR 162 at 169;
+5.   The law provides means, in particular cases, to challenge the adequacy of a bargain where some
+     wrong or moral fault can be shown to justify the challenge. Thus, if there was no intention to
+     enter into contractual relations at all, the bargain will not be enforced. Equitable relief will also
+     sometimes be available to prevent enforcement of a contract contrary to conscience. [194]
+     Statutory and other relief has been provided by law to meet cases of unconscionable or unjust
+     contracts. Federal and State statutes have been enacted to provide expressly for such relief: see,
+     eg, Trade Practices Act 1974 (Cth), s 87; Contracts Review Act 1980, s 7; Industrial Arbitration Act
+     1940, s 88F. Relief may be granted for mistake. Contracts may be rectified. Restitution may be
+
+                                                                                                [4.80]   109
+
+===== PDF 148 | expected printed p 110 | footer: 110   [4.85]
+Part II: Formation
+
+
+Woolworths v Kelly cont.
+
+      ordered. But at law, the rule against inquiring into the adequacy or inadequacy of considerations
+      stands firm. It should not, in my view, be changed: cf State Rail Authority of New South Wales v
+      Heath Outdoor Pty Ltd (1986) 7 NSWLR 170 at 177; Geftakis v Maritime Services Board of New
+      South Wales, (Court of Appeal, unreported, 20 November 1987); Biotechnology Australia Pty Ltd
+      v Pace (1988) 15 NSWLR 130 at 133 and Austotel Pty Limited v Franklins Selfserve Stores Pty Ltd
+      (1989) 16 NSWLR 582 at 585F;
+6.    The restraint of the common law in this regard is also an attribute of economic liberty. That liberty
+      extracts a price in social terms. However, respecting the right of parties at law to reach their own
+      bargains, untroubled by the paternalistic superintendence of the courts as to the adequacy of
+      their bargains is the approach which the common law has adopted. It is an approach protective
+      of economic freedom.
+
+                                                  
+
+
+SUFFICIENCY OF CONSIDERATION
+
+Past consideration
+[4.85] Past consideration is not considered sufficient consideration. Thus, if P performs an
+apparently gratuitous service for D and D later promises to pay P for that service, D’s promise
+will not be enforceable. The service performed by P is past and cannot provide consideration
+supporting D’s later promise. The courts have recognised an exception to this principle in the
+case of a promise to pay for past services which were rendered on the basis that they were to
+be paid for (see Pao On v Lau Yiu Long [1980] AC 614 at [4.150]).
+
+
+                                      Roscorla v Thomas
+[4.90] Roscorla v Thomas (1842) 3 QB 234; 114 ER 496 (Court of Queen’s Bench) –​Rule Nisi for
+Arrest of Judgment.
+   [FACTS: The plaintiff bought a horse from the defendant. After the sale was made, the defendant
+promised the plaintiff that the horse was sound and free from vice. The plaintiff sought damages
+for breach of warranty, claiming the horse was not free from vice but was “very vicious, restive,
+ungovernable and ferocious”.]
+   LORD DENMAN CJ delivered the judgment of the Court. [236] This was an action of assumpsit for
+breach of warranty of the soundness of a horse. The first count of the declaration, upon which alone
+the question arises, stated that, in consideration that the plaintiff, at the request of the defendant, had
+bought of the defendant a horse for the sum of £30, the defendant promised that it was sound and
+free from vice. And it was objected, in arrest of judgment, that the precedent executed consideration
+was insufficient to support the subsequent promise. And we are of opinion that the objection must
+prevail.
+   It may be taken as a general rule, subject to excep-​[237]tions not applicable to this case, that
+the promise must be coextensive with the consideration. In the present case, the only promise
+that would result from the consideration, as stated, and be coextensive with it, would be to
+deliver the horse upon request. The precedent sale, without a warranty, though at the request
+of the defendant, imposes no other duty or obligation upon him. It is clear, therefore, that the
+consideration stated would not raise an implied promise by the defendant that the horse was
+sound or free from vice.
+
+
+110   [4.85]
+
+===== PDF 149 | expected printed p 111 | footer: [4.95]   111
+                                                                                Consideration    Chapter 4
+
+
+Roscorla v Thomas cont.
+
+    But the promise in the present case must be taken to be, as in fact it was, express: and the question
+is, whether that fact will warrant the extension of the promise beyond that which would be implied by
+law; and whether the consideration, though insufficient to raise an implied promise, will nevertheless
+support an express one. And we think that it will not.
+   The cases in which it has been held that, under certain circumstances, a consideration insufficient
+to raise an implied promise will nevertheless support an express one, will be found collected and
+reviewed in the note (a) to Wennall v Adeney (1802) 3 Bos & Pul 247; 127 ER 137, and in the
+case of Eastwood v Kenyon (1840) 11 A & E 438; 113 ER 482. They are cases of voidable contracts
+subsequently ratified, of debts barred by operation of law, subsequently revived, and of equitable and
+moral obligations, which, but for some rule of law, would of themselves have been sufficient to raise
+an implied promise. All these cases are distinguishable from, and indeed inapplicable to, the present,
+which appears to us to fall within the general rule, that a consideration past and executed will support
+no other promise than such as would be implied by law.
+   [238] The rule for arresting the judgment upon the first count must therefore be made absolute.
+   Rule absolute.
+
+                                                 
+
+The existing legal duty rule
+
+The general rule
+[4.95] A promise to perform an existing contractual duty is not regarded as sufficient
+consideration. The issue often arises in the context of a one-​sided modification of an existing
+contract.
+  In TA Sundell & Sons Pty Ltd v Emm Yannoulatos (Overseas) Pty Ltd (1955) 56 SR (NSW)
+323 (see [10.90]), the defendants agreed to supply certain galvanised iron to the plaintiffs at
+£109 15s per ton. Subsequently the defendants refused to deliver the goods unless the price
+was increased by £27 per ton, citing a great increase in the price of zinc as the reason. Under
+protest, the plaintiffs made the additional funds available and in due course received the iron.
+The plaintiffs then successfully sued to recover the additional amount paid. The court, in
+holding that the defendants had given no consideration for any promise, the plaintiffs might
+have made to pay the additional price, said (at 327):
+   the only consideration which was suggested in argument as being given in exchange for the
+   alleged promise was that the [defendant] would do what was necessary to ensure that the
+   goods were delivered. But we are satisfied that the [defendant] was bound to do so under the
+   original contract. In our view every promise allegedly given to the plaintiff by the defendant
+   under the so called second agreement was identical with a promise given under the original
+   agreement.
+
+See also Stilk v Myrick (1809) 2 Camp 317; 170 ER 1168, discussed in Williams v Roffey Bros
+& Nichols (Contractors) Ltd [1991] 1 QB 1 at [4.115] and Wigan v Edwards (1973) 1 ALR
+497 at [4.170]. The rationale of the “existing contractual duty” rule is discussed in Williams v
+Roffey Bros & Nichols (Contractors) Ltd [1991] 1 QB 1 at [4.115] and Musumeci v Winadell
+Pty Ltd (1994) 34 NSWLR 723 at [4.125]. You will see that these cases also involve the
+application of the potentially expansive “practical benefit” exception to the existing legal
+duty rule.
+
+
+                                                                                                [4.95]   111
+
+===== PDF 150 | expected printed p 112 | footer: 112   [4.100]
+Part II: Formation
+
+
+
+Part payment of a debt
+[4.100] A corollary of the rule that a promise to perform an existing contractual duty is no
+consideration is the rule in Pinnel’s Case. The rule in Pinnel’s Case is that a promise to pay part
+of a debt will not constitute consideration for a promise to accept the payment in satisfaction
+of the debt. For example, if D owes C $10, C’s promise to accept $8 in full settlement of
+the debt will not, on its own, be contractually binding on C. D will not have provided good
+consideration for the promise.
+   The rule in Pinnel’s Case will not apply where part payment of a debt is accompanied by
+some additional consideration from the debtor, even if that consideration is nominal.
+
+
+                                         Foakes v Beer
+[4.105] Foakes v Beer (1884) 9 App Cas 605 (House of Lords) –​Appeal from the Court of Appeal.
+   [FACTS: On 11 August 1875, Beer recovered judgment against Foakes for £2 077 17s 2d for debt
+and £13 1s 10d for costs. On 21 December 1876, a memorandum of agreement was made and
+signed by Foakes and Beer in the following terms:
+   Whereas the said John Weston Foakes is indebted to the said Julia Beer, and she has obtained
+   a judgment in Her Majesty’s High Court of Justice, Exchequer Division, for the sum of £2
+   090 19s. And whereas the said John Weston Foakes has requested the said Julia Beer to give
+   him time in which to pay such judgment, which she has agreed to do on the following
+   conditions. Now this agreement witnesseth that in consideration of the said John Weston
+   Foakes paying to the said Julia Beer on the signing of this agreement the sum of £500, the
+   receipt whereof she doth thereby acknowledge in part satisfaction of the said judgment debt
+   of £2 090 19s, and on condition of his paying to her or her executors, administrators, assigns
+   or nominee the sum of £150 on 1 July and January or within one calendar month after each
+   of the said days respectively in every year until the whole of the said sum of £2 090 19s shall
+   have been fully paid and satisfied, the first of such payments to be made on 1 July next, then
+   she the said Julia Beer hereby undertakes and agrees that she, her executors, administrators
+   or assigns, will not take any proceedings whatever on the said judgment.
+Beer, having in June 1882 taken out a summons for leave to proceed on the judgment, an issue was
+directed to be tried between Beer as plaintiff and Foakes as defendant whether any and what amount
+was on 1 July 1882 due upon the judgment.
+   At the trial of the issue before Cave J, it was proved that the whole sum of £2,090 19s had been
+paid by instalments, but Beer claimed interest. The jury under his Lordship’s direction found that
+Foakes had paid all the sums which by the agreement of 21 December 1876, he undertook to pay
+and within the times therein specified. Cave J was of opinion that whether the judgment was satisfied
+or not, Beer was, by reason of the agreement, not entitled to issue execution for any sum on the
+judgment.
+   The Queen’s Bench Division (Watkin, Williams and Mathew JJ) discharged an order for a new trial
+on the ground of misdirection.]
+   [The Court of Appeal (Brett MR, Lindley and Fry LJJ) reversed that decision and entered judgment
+for the respondent for the interest due, with costs: 11 QBD 221.]
+   EARL OF SELBOURNE LC: [610] Although, therefore, I may (as indeed I do) very much doubt
+whether the effect of the agreement, as a conditional waiver of the interest to which she was by law
+entitled under the judgment, was really present to the mind of the judgment creditor, still I cannot
+deny that it might have that effect, if capable of being legally enforced.
+  [611] But the question remains, whether the agreement is capable of being legally forced.
+Not being under seal, it cannot be legally enforced against the respondent, unless she received
+consideration for it from the appellant, or unless, though without consideration, it operates by way of
+
+112   [4.100]
+
+===== PDF 151 | expected printed p 113 | footer: [4.105]   113
+                                                                                   Consideration   Chapter 4
+
+
+Foakes v Beer cont.
+
+accord and satisfaction, so as to extinguish the claim for interest. What is the consideration? On the
+face of the agreement none is expressed, except a present payment of £500, on account and in part
+of the larger debt then due and payable by law under the judgment. The appellant did not contract
+to pay the future instalments of £150 each, at the times therein mentioned; much less did he give
+any new security, in the shape of negotiable paper, or in any other form. The promise de futuro was
+only that of the respondent, that if the half-​yearly payments of £150 each were regularly paid, she
+would “take no proceedings whatever on the judgment”. No doubt if the appellant had been under
+no antecedent obligation to pay the whole debt, his fulfilment of the condition might have imported
+some consideration on his part for that promise. But he was under that antecedent obligation, and
+payment at those deferred dates, by the forbearance and indulgence of the creditor, of the residue of
+the principal debt and costs, could not (in my opinion) be a consideration for the relinquishment of
+interest and discharge of the judgment, unless the payment of the £500, at the time of signing the
+agreement, was such a consideration …
+    The question, therefore, is nakedly raised by this appeal, whether your Lordships are now prepared,
+not only to overrule, as contrary to law, the doctrine stated by Sir Edward Coke to [612] have been
+laid down by all the judges of the Common Pleas in Pinnel’s case, 5 Co Rep 117a; 77 ER 237 in 1602,
+and repeated in his note to Littleton, s 344 (Co Litt 212b), but to treat a prospective agreement, not
+under seal, for satisfaction of a debt, by a series of payments on account to a total amount less than
+the whole debt, as binding in law, provided those payments are regularly made; the case not being
+one of a composition with a common debtor, agreed to, inter se, by several creditors … The doctrine
+itself, as laid down by Sir Edward Coke, may have been criticised, as questionable in principle, by
+some persons whose opinions are entitled to respect, but it has never been judicially overruled; on
+the contrary, I think it has always, since the 16th century, been accepted as law. If so, I cannot think
+that your Lordships would do right, if you were now to reverse, as erroneous, a judgment of the Court
+of Appeal, proceeding upon a doctrine which has been accepted as part of the law of England for
+280 years.
+   The doctrine, as stated in Pinnel’s case is:
+   that payment of a lesser sum on the day [it would of course be the same after the day]
+   in satisfaction of a greater, cannot be any satisfaction for the whole, because it appears
+   to the judges, that by no possibility a lesser sum can be a satisfaction to the plaintiff for a
+   greater sum.
+As stated in Coke Littleton, 212b, it is: “where the condition is for payment of £20, the obligor
+or offeror cannot at the time appointed pay a lesser sum in satisfaction of the whole, because it is
+apparent that a lesser sum of money cannot be a satisfaction of a greater”, adding (what is beyond
+controversy), that an acquittance under seal, in full [613] satisfaction of the whole, would (under like
+circumstances) be valid and binding.
+    The distinction between the effect of a deed under seal, and that of an agreement by parol, or by
+writing not under seal, may seem arbitrary, but it is established in our law; nor is it really unreasonable
+or practically inconvenient that the law should require particular solemnities to give to a gratuitous
+contract the force of a binding obligation. If the question be (as, in the actual state of the law, I think it
+is), whether consideration is, or is not, given in a case of this kind, by the debtor who pays down part
+of the debt presently due from him, for a promise by the creditor to relinquish, after certain further
+payments on account, the residue of the debt, I cannot say that I think consideration is given, in the
+sense in which I have always understood that word as used in our law. It might be (and indeed I think
+it would be) an improvement in our law, if a release or acquittance of the whole debt, on payment of
+any sum which the creditor might be content to receive by way of accord and satisfaction (though
+less than the whole), were held to be, generally, binding, though not under seal; nor should I be
+unwilling to see equal force given to a prospective agreement, like the present, in writing though not
+under seal; but I think it impossible, without refinements which practically alter the sense of the word
+to treat such a release or acquittance as supported by any new consideration proceeding from the
+
+
+                                                                                                [4.105]   113
+
+===== PDF 152 | expected printed p 114 | footer: 114   [4.110]
+Part II: Formation
+
+
+Foakes v Beer cont.
+
+debtor. All the authorities subsequent to Cumber v Wane (1 Sm LC, 8th ed, 366), which were relied
+upon by the appellant at your Lordship’s Bar (such as Sibree v Tripp (1846) 15 M & W 23; 153 ER 745;
+Curlewis v Clark (1877) 3 Ex 375; and Goddard v O’Brien (1882) 9 QBD 37), have proceeded upon the
+distinction, that, by giving negotiable paper or otherwise, there had been some new consideration for
+a new agreement, distinct from mere money payments in or towards discharge of the original liability.
+I think it unnecessary to go through those cases, or to examine the particular grounds on which each
+of them was decided. There are no such facts in the case now before your Lordships. What is called
+“any benefit, or even any legal possibility of benefit”, in Mr Smith’s notes to Cumber v Wane, is not
+[614] (as I conceive) that sort of benefit which a creditor may derive from getting payment of part
+of the money due to him from a debtor, who might otherwise keep him at arm’s length, or possibly
+become insolvent, but is some independent benefit, actual or contingent, of a kind which might in
+law be a good and valuable consideration for any other sort of agreement not under seal.
+   My conclusion is, that the order appealed from should be affirmed, and the appeal dismissed, with
+costs, and I so move your Lordships.
+   [LORD WATSON and LORD FITZGERALD delivered speeches in which they reached the same
+result.]
+[4.110] LORD BLACKBURN: [622] What principally weighs with me in thinking that Lord Coke made
+a mistake of fact is my conviction that all men of business, whether merchants or tradesmen, do every
+day recognise and act on the ground that prompt payment of a part of their demand may be more
+beneficial to them than it would be to insist on their rights and enforce payment of the whole. Even
+where the debtor is perfectly solvent, and sure to pay at last, this often is so. Where the credit of the
+debtor is doubtful it must be more so. I had persuaded myself that there was no such long-​continued
+action on this dictum as to render it improper in this House to reconsider the question. I had written
+my reasons for [623] so thinking; but as they were not satisfactory to the other noble and learned
+Lords who heard the case, I do not now repeat them nor persist in them.
+   I assent to the judgment proposed, though it is not that which I had originally thought proper.
+   Appeal dismissed.
+
+                                                 
+
+Exceptions to the existing legal duty rule
+
+Practical benefit
+
+
+                Williams v Roffey Bros & Nicholls (Contractors)
+[4.115] Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1 (Court of Appeal) –​Appeal
+from County Court.
+    [FACTS: Roffey Bros (the defendants) held a contract (the main contract) to refurbish a block of 27
+flats. They entered into a subcontract with Williams (the plaintiff) under which Williams was to carry
+out the carpentry in the flats. Williams commenced work, but because his agreed price of £20 000
+was too low, got into financial difficulties. Roffey Bros were concerned that he might not be able to
+complete his contract. The main contract imposed a penalty for late completion.
+  The parties made an oral agreement whereby Roffey Bros were to pay Williams an additional £10
+300 at the rate of £575 for each flat on which the carpentry had been completed. Williams continued
+
+
+
+114   [4.110]
+
+===== PDF 153 | expected printed p 115 | footer: [4.115]   115
+                                                                                  Consideration   Chapter 4
+
+
+Williams v Roffey Bros & Nicholls (Contractors) cont.
+
+work and substantially completed the carpentry on eight more flats, but after approximately seven
+weeks, the defendants having made only one payment of £1 500, ceased work on the flats. The
+defendants declined to pay the balance of the additional amount promised as well as an amount
+outstanding under the original contract. They subcontracted other carpenters and finished the
+refurbishment one week later. Williams sued for these amounts and Roffey Bros counterclaimed for
+damages for breach of contract.
+   The trial judge found that Williams was entitled to be paid for eight flats substantially completed
+since the oral agreement less “some small sum for defective and incomplete items”, together with £2
+200 owing under the original contract. He further found that as Williams had received only £1 500,
+he was entitled to stop work.]
+GLIDEWELL LJ:
+       The issues
+   [7]‌Before us Mr Evans for the defendants advances two arguments. His principal submission is
+that the defendants’ promise to pay an additional £10 300, at the rate of £575 per completed flat, is
+unenforceable since there was no consideration for it.
+  [8]‌Mr Evans’ secondary argument is that the additional payment was only payable as each flat
+was completed. On the judge’s findings, eight further flats had been “substantially” completed.
+Substantial completion was something less than completion. Thus none of the eight flats had been
+completed, and no further payment was yet due from the defendants …
+       [The doctrine of substantial performance is dealt with at [29.50]–​[29.75].]
+   Was there consideration for the defendants’ promise made on 9 April 1986 to pay an additional
+price at the rate of £575 per completed flat
+       [10] The judge made the following findings of fact which are relevant on this issue.
+(i)        The subcontract price agreed was too low to enable the plaintiff to operate satisfactorily and
+           at a profit. Mr Cottrell, the defendants’ surveyor, agreed that this was so.
+(ii)       Mr Roffey (managing director of the defendants) was persuaded by Mr Cottrell that the
+           defendants should pay a bonus to the plaintiff. The figure agreed at the meeting on 9 April
+           1986 was £10 300.
+The judge quoted and accepted the evidence of Mr Cottrell to the effect that a main contractor who
+agrees too low a price with a subcontractor is acting contrary to his own interests. He will never get
+the job finished without paying more money. The judge therefore concluded:
+       In my view where the original subcontract price is too low, and the parties subsequently
+       agree that additional moneys shall be paid to the subcontractor, this agreement is in the
+       interests of both parties. This is what happened in the present case, and in my opinion the
+       agreement of 9 April 1986 does not fail for lack of consideration.
+In his address to us, Mr Evans outlined the benefits to his clients, the defendants, which arose from
+their agreement to pay the additional [11] £10 300 as:
+(i)        seeking to ensure that the plaintiff continued work and did not stop in breach of the
+           subcontract;
+(ii)       avoiding the penalty for delay; and
+(iii)      avoiding the trouble and expense of engaging other people to complete the carpentry
+           work.
+However, Mr Evans submits that, though his clients may have derived, or hoped to derive, practical
+benefits from their agreement to pay the “bonus”, they derived no benefit in law, since the plaintiff
+was promising to do no more than he was already bound to do by his subcontract, that is, continue
+with the carpentry work and complete it on time. Thus there was no consideration for the agreement.
+
+
+
+                                                                                              [4.115]   115
+
+===== PDF 154 | expected printed p 116 | footer: 116   [4.115]
+Part II: Formation
+
+
+Williams v Roffey Bros & Nicholls (Contractors) cont.
+
+Mr Evans relies on the principle of law which, traditionally, is based on the decision in Stilk v Myrick
+(1809) 2 Camp 317; 170 ER 1168. That was a decision at first instance of Lord Ellenborough CJ. On a
+voyage to the Baltic, two seamen deserted. The captain agreed with the rest of the crew that if they
+worked the ship to London without the two seamen being replaced, he would divide between them
+the pay which would have been due to the two deserters. On arrival at London this extra pay was
+refused, and the plaintiff’s action to recover his extra pay was dismissed. Counsel for the defendant
+argued that such an agreement was contrary to public policy, but Lord Ellenborough CJ’s judgment
+was based on lack of consideration. It reads (at 318–​19):
+   I think Harris v Watson (1791) Peake 102; 170 ER 94 was rightly decided; but I doubt whether
+   the ground of public policy, upon which Lord Kenyon is stated to have proceeded, be the
+   true principle on which the decision is to be supported. Here, I say the agreement is void
+   for want of consideration. There was no consideration for the ulterior pay promised to the
+   mariners who remained with the ship. Before they sailed from London they had undertaken
+   to do all they could under all the emergencies of the voyage. They had sold all their
+   services till the voyage should be completed. If they had been at liberty to quit the vessel
+   at Cronstadt, the case would have been quite different; or if the captain had capriciously
+   discharged the two men who were wanting, the others might not have been compellable
+   to take the whole duty upon themselves, and their agreeing to do so might have been a
+   sufficient consideration for the promise of an advance of wages. But the desertion of a part
+   of the crew is to be considered an emergency of the voyage as much as their death; and
+   those who remain are bound by the terms of their original contract to exert themselves to
+   the utmost to bring the ship in safety to her destined port. Therefore, without looking to the
+   policy of this agreement, I think it is void for want of consideration, and that the plaintiff can
+   only recover at the rate of £5 a month.
+In North Ocean Shipping Co Ltd v Hyundai Construction Co Ltd [1979] QB 705, Mocatta J regarded the
+general principle of the decision in Stilk v Myrick as still being good law …
+   [13] It was suggested to us in argument that, since the development of the doctrine of
+promissory estoppel, it may well be possible for a person to whom a promise has been made, on
+which he has relied, to make an additional payment for services which he is in any event bound to
+render under an existing contract or by operation of law, to show that the promisor is estopped
+from claiming that there was no consideration for his promise. However, the application of the
+doctrine of promissory estoppel to facts such as those of the present case has not yet been fully
+developed …
+   There is, however, another legal concept of relatively recent development which is relevant,
+namely, that of economic duress. Clearly if a subcontractor has agreed to undertake work at a fixed
+price, and before he has completed the work declines to continue with it unless the contractor agrees
+to pay an increased price, the subcontractor may be held guilty of securing the contractor’s promise
+by taking unfair advantage of the difficulties he will cause if he does not complete the work. In such a
+case an agreement to pay an increased price may well be voidable because it was entered into under
+duress. Thus this concept may provide another answer in law to the question of policy which has [14]
+troubled the courts since before Stilk v Myrick and no doubt led at the date of that decision to a rigid
+adherence to the doctrine of consideration.
+   This possible application of the concept of economic duress was referred to by Lord Scarman,
+delivering the judgment of the Judicial Committee of the Privy Council in Pao On v Lau Yiu Long [1980]
+AC 614 …
+   [15] It is true that Pao On is a case of a tripartite relationship that is, a promise by A to perform a pre-​
+existing contractual obligation owed to B, in return for a promise of payment by C. But Lord Scarman’s
+words, at 634–​5, seem to me to be of general application, equally applicable to a promise made by
+one of the original two parties to a contract.
+
+116   [4.115]
+
+===== PDF 155 | expected printed p 117 | footer: [4.125]   117
+                                                                                   Consideration   Chapter 4
+
+
+Williams v Roffey Bros & Nicholls (Contractors) cont.
+
+   Accordingly, following the view of the majority in Ward v Byham [1956] 1 WLR 496 and of the
+whole court in Williams v Williams [1957] 1 WLR 148 and that of the Privy Council in Pao On the
+present state of the law on this subject can be expressed in the following proposition:
+(i)        if A has entered into a contract with B to do work for, or to supply goods or services to, B in
+           return for payment by B; and
+(ii)       at some stage before A has completely performed his obligations under the contract B has
+           reason to doubt whether A will, or will be able to, complete his side of the bargain; and
+(iii)      B thereupon promises A an additional payment in return for A’s promise to perform [16] his
+           contractual obligations on time; and
+(iv)       as a result of giving his promise, B obtains in practice a benefit, or obviates a disbenefit; and
+(v)        B’s promise is not given as a result of economic duress or fraud on the part of A; then
+(vi)       the benefit to B is capable of being consideration for B’s promise, so that the promise will be
+           legally binding.
+As I have said, Mr Evans accepts that in the present case by promising to pay the extra £10 300 his
+client secured benefits. There is no finding, and no suggestion, that in this case the promise was
+given as a result of fraud or duress. If it be objected that the propositions above contravene the
+principle in Stilk v Myrick I answer that in my view they do not; they refine, and limit the application
+of that principle, but they leave the principle unscathed for example, where B secures no benefit by
+his promise. It is not in my view surprising that a principle enunciated in relation to the rigours of
+seafaring life during the Napoleonic wars should be subjected during the succeeding 180 years to a
+process of refinement and limitation in its application in the present day. It is therefore my opinion
+that on his findings of fact in the present case, the judge was entitled to hold, as he did, that the
+defendants’ promise to pay the extra £10 300 was supported by valuable consideration, and thus
+constituted an enforceable agreement …
+       For these reasons I would dismiss this appeal.
+[4.120] RUSSELL LJ: [19] For my part I wish to make it plain that I do not base my judgment upon
+any reservation as to the correctness of the law long ago enunciated in Stilk v Myrick. A gratuitous
+promise, pure and simple, remains unenforceable unless given under seal. But where, as in this case, a
+party undertakes to make a payment because by so doing it will gain an advantage arising out of the
+continuing relationship with the promisee, the new bargain will not fail for want of consideration ….
+I too would dismiss this appeal.
+       [PURCHAS LJ delivered a judgment to a similar effect.]
+       Appeal dismissed.
+
+                                                    
+
+
+                                      Musumeci v Winadell
+[4.125] Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723 (Supreme Court of New South
+Wales) –​Action.
+   [FACTS: The plaintiffs were tenants of a fruit and vegetable shop in a shopping centre owned by
+the defendant. The introduction of a larger competing fruit and vegetable shop in the shopping
+centre threatened the ability of the tenants (the plaintiffs) to pay the full rent. The defendant
+landlord promised to accept a reduced rent but later sought to resile from that arrangement. The
+plaintiffs sought, inter alia, a declaration that the landlord had made a binding promise to reduce
+the rent. The principal issue was whether the tenants had given consideration for the landlord’s
+promise.]
+
+
+                                                                                               [4.125]   117
+
+===== PDF 156 | expected printed p 118 | footer: 118   [4.125]
+Part II: Formation
+
+
+Musumeci v Winadell cont.
+
+SANTOW J: [741]
+Williams v Roffey —​should it be followed in Australia?
+There are three reasons which might be put as to why a contract to perform an existing obligation
+should not be enforced.
+   First, to protect the promisor from extortion, such as may result from threatening to breach a
+contract in order to exact a concession. Thus, for example, the two dollar unguaranteed corporate
+tenant in a falling market, whose directors threaten to walk away from a lease, unless rent concessions
+are conceded.
+   G H Treitel, The Law of Contract (8th ed, 1991) suggests (at 90 and 364) that this argument is much
+reduced in importance, now that such a refusal may constitute duress: B and S Contracts and Designs
+Ltd v Victor Green Publications Ltd [1984] ICR 419 was such a case. However it has been held by the
+Privy Council that a threat to breach a contract may not amount to duress, where there has been no
+“coercion of the will”, having regard to alternative courses open: Pao On v Lau Yiu Long. The Australian
+cases, discussed below, make clear that coercion of the will is not essential for duress. One may choose
+to submit, without one’s will being overborne, but by reason of illegitimate pressure consisting of
+unlawful threats or unconscionable conduct: Crescendo Management Pty Ltd v Westpac Banking Corp
+(1988) 19 NSWLR 40 at 45–​6. Furthermore economic duress has not received unqualified acceptance
+as a basis for setting aside contracts in Australia.
+   Thus, in Equiticorp Finance Ltd (in liq) v Bank of New Zealand (1993) 32 NSWLR 50, [742] Kirby P
+(at 106) cast doubt on the utility of economic duress as a satisfactory remedy. He described it as an
+unsatisfactory and uncertain doctrine, lending itself to open ended formulae, little clarified by the
+cases over the last hundred years. He criticised its encouragement to the courts to substitute their own
+subjective opinion about agreements for those reached by the parties, particularly when substantial
+corporations. He preferred to see the concepts of economic duress invoked under sensibly limited and
+structured legislation like the Contracts Review Act 1980 or more broadly, subsumed by the doctrine of
+undue influence and unconscionability.
+    Clark JA and Cripps JA did not reject the doctrine, but were satisfied it did not apply in the
+circumstances. This reflects the Court of Appeal’s acceptance of economic duress in earlier cases such
+as Crescendo Management Pty Ltd v Westpac Banking Corp.
+   But does it follow that, because there is not as yet a fully developed doctrine for the avoidance
+of contracts on the grounds of economic duress (pace Hobhouse J in The “Alev”, Vantage Navigation
+Corp v Suhail and Saud Bahwan Building Materials LLC [1989] 1 Lloyd’s Rep 138 at 147, who thought
+otherwise), that therefore strict consideration should remain the discrimen for enforceability of
+contractual modifications? There are a number of reasons why not. If it is assumed that the underlying
+concern is to prevent coercive modifications, the traditional notion of consideration does not perform
+that role very well. Its very certainty is bought at the price of inflexibility. This produces a real
+disincentive to re-​negotiate a contract which changed circumstances have made unduly onerous.
+This is especially if the outcome is likely to be unenforceable by reason of lack of consideration.
+   Even the presence of consideration does not preclude there having been economic duress inducing
+the contract. Consideration expressed in formalistic terms of one dollar can indeed actually cloak
+duress rather than expose it.
+  Posner J sets out incisively the policy issues as he saw them in United States v Stump Home Specialties
+Manufacturing Inc 905 F 2d 1117 (1990) at 1121–​2:
+   The requirement of consideration has, however, a distinct function in the modification
+   setting —​although one it does not perform well —​and that is to prevent coercive
+   modifications. Since one of the main purposes of contracts and of contract law is to
+   facilitate long-​term commitments, there is often an interval in the life of a contract
+   during which one party is at the mercy of the other. A may have ordered a machine
+   from B that A wants to place in operation on a given date, specified in their contract;
+
+118   [4.125]
+
+===== PDF 157 | expected printed p 119 | footer: [4.125]   119
+                                                                                Consideration   Chapter 4
+
+
+Musumeci v Winadell cont.
+
+   and in expectation of B’s complying with the contract, A may have made commitments
+   to his customers that it would be costly to renege on. As the date of scheduled delivery
+   approaches, B may be tempted to demand that A agree to renegotiate the contract
+   price, knowing that A will incur heavy expenses if B fails to deliver on time. A can always
+   refuse to renegotiate, relying instead on his right to sue B for breach of contract if B fails
+   to make delivery by the agreed date. But legal remedies are costly and uncertain, thereby
+   opening the way to duress. Considerations of commercial reputation will deter taking
+   advantage of an opportunity to exert duress on a contract partner in many cases, but
+   not in all. [743] …
+      [7]‌The rule that modifications are unenforceable unless supported by consideration
+   strengthens A’s position by reducing B’s incentive to seek a modification. But it strengthens it
+   feebly … The law does not require that consideration be adequate —​that it be commensurate
+   with what the party accepting it is giving up. Slight consideration, therefore, will suffice to
+   make a contract or a contract modification enforceable. And slight consideration is consistent
+   with coercion. To surrender one’s contractual rights in exchange for a peppercorn is not
+   functionally different from surrendering them for nothing.
+      The sensible course would be to enforce contract modifications (at least if written)
+   regardless of consideration and rely on the defence of duress to prevent abuse … All coercive
+   modifications would then be unenforceable, and there would be no need to worry about
+   consideration, an inadequate safeguard against duress ….
+I conclude that even if duress is not a fully developed doctrine, it is nonetheless a useful weapon.
+It, with fraud, is already introduced by element (v) of Glidewell LJ’s formulation [see at [4.115],
+p 107], precluding enforcement of a promise so induced. Logically though, one should expand
+that element also to exclude promises induced by undue influence or unconscionable conduct,
+at the least.
+   But should our courts go further, as American courts have done, by drawing a line between
+legitimate inducement and extortion, doing so according to a doctrine of good faith, as suggested by
+Richard Hooley, Consideration and the Existing Duty [1991] JBL 19 at 27–​8, 33–​4? …
+   [744] … I consider that the notion of “good faith” is better replaced by the more precise and
+apposite one of “unfair pressure” on A’s part inducing B’s promise in element (v). Economic duress, as
+the cases demonstrate, cover[s]‌many examples of unfair pressure, but by no means all. Furthermore,
+where the circumstances giving rise to the re-​negotiation were unforeseen by A at the time of the
+original contract, possibly reflecting unanticipated hardship in future performance by A, these still do
+not justify a demand for re-​negotiation backed by unfair pressure. But such circumstances giving rise
+to that demand, may nonetheless have some influence on the court in judging fairness, by reference
+to proportionality of any pressure brought to bear.
+   Thus such a reformulation of element (v) might read as follows:
+   (v) B’s promise is not given as a result of economic duress or fraud, or undue influence or
+unconscionable conduct on the part of A nor is it induced otherwise by unfair pressure on the part of
+A, having regard to the circumstances.
+   The second reason cited by Treitel (at 89) why the new promise should not be enforced, is that
+the promisee suffered no legal detriment in performing what was already due from him. Nor did
+the promisor receive any legal benefit in receiving what was already due to him. He answers that
+this way:
+   But this reasoning takes no account of the fact that the promisee may in fact suffer a
+   detriment: for example, the wages that a seaman could earn elsewhere may exceed those
+   that he would earn under the original contract together with the damages that he would
+   have to pay for breaking it.
+
+
+                                                                                            [4.125]   119
+
+===== PDF 158 | expected printed p 120 | footer: 120   [4.125]
+Part II: Formation
+
+
+Musumeci v Winadell cont.
+
+      Conversely, the promisor may in fact benefit from the actual performance of what was
+   legally due to him: in Stilk v Myrick the master got his ship home and this may well have been
+   worth more to him than any damages that he could have recovered from the crew.
+Indeed the very fact that a concession is extended by B, without extortion, supports an inference,
+though by no means conclusively, that consideration from A, in a real and practical sense, has
+moved that concession. The law is increasingly tending away from the artificial towards the
+substantive. Such a practical notion of consideration reflects that trend. It is a notorious fact that
+concessions are made to avoid the necessity for enforcing a contract whose performance is in
+jeopardy. It would indeed be far more artificial to treat such concessional modification to the
+contract as moved by a consideration consisting of cancellation of the old contract in return for
+the [745] new, an approach which the Court of Appeal in Williams v Roffey expressly and correctly
+disclaimed.
+   That leads to the third possible reason for why such a promise should not be enforced. It is expressed
+in the proposition that a benefit which is merely the hoped-​for end result of performance cannot
+constitute consideration: Brian Coote. “If these matters are capable of being regarded as consideration
+the reality is that the existing duty rule no longer applies, for in every case these types of benefits
+will be present”; Carter and Harland, Contract Law in Australia (at 109). The authors of that text go
+further: “Indeed, it is because contracting parties regard such matters as benefits that the argument
+can be made that existing rule should be abolished.” But that assumes the existing rule has not even
+residual utility and I do not accept that proposition.
+    Thus, Williams v Roffey and subsequent cases such as Anangel Atlas Compania Naviera SA v
+Ishikawajima-​Harima Heavy Industries Co Ltd (No 2) [1990] 2 Lloyd’s LR 526 per Hirst J, have been at
+pains to treat Stilk’s case as still good law, though only “where there is a wholly gratuitous promise”
+(at 545).
+   But it should be apparent that Stilk’s case involved no less a practical benefit than was upheld as
+sufficient for consideration in Williams v Roffey.
+   What then is a sufficient practical benefit to B, so as to take the situation beyond a wholly gratuitous
+promise by B? The answer lies in the proposition put by Treitel (at 90) quoted above. It is indeed
+inherent in the situation posed by Williams v Roffey itself (and indeed in Stilk’s case itself, despite the
+decision). There the subcontractor A’s performance was worth more to B (the principal contractor)
+than likely damages, even taking into account the cost of any concession to obtain greater assurance
+of that performance. This suggests there should be an addition to element (iv) of Glidewell LJ’s
+formulation by adding this proviso at the end:
+   provided that A’s performance having regard to what has been so obtained is capable of
+   being viewed by B as worth more to B than any remedy against A (allowing for any defences
+   or cross-​claims) taking into account the cost to B of any such payment or concession to
+   obtain greater assurance of A’s performance.
+Nor should the alternative and indeed original basis of consideration be ignored, namely detriment
+to A, the promisee for this purpose. It is of course long settled that detriment to the promisee suffices
+as consideration —​indeed it better reflects the origins of contract in the action of assumpsit. Thus
+element (iv), as I have expanded it, should be divided into parts, the second as follows:
+   (iv)(a) …, or (b). As a result of giving his promise, A suffers in practice a detriment (or
+   obviates a benefit), provided that A is thereby foregoing the opportunity of not performing
+   the original contract in circumstances where such non performance, taking into account B’s
+   likely remedy against A (and allowing for any defences or cross-​claims) is being capable of
+   being viewed by A as worth more to A than performing that contract, in the absence of B’s
+   promised payment or concession to A.
+
+
+
+120   [4.125]
+
+===== PDF 159 | expected printed p 121 | footer: [4.130]   121
+                                                                                     Consideration   Chapter 4
+
+
+Musumeci v Winadell cont.
+
+To all this it might be said that such a relaxation of the doctrine of consideration, [746] if adopted,
+will discourage concessions, since they would then too readily become legally binding throughout the
+term of the contract. But the answer to that is simple enough. The courts should be alert to distinguish
+promises intended by their terms to be no more than temporary, or truly ex gratia, concessions, for
+example if expressly limited to a period of difficult circumstances for performance by the other party,
+which may not be permanent. And “care must also be taken not to infer anterior promises from
+conduct which represents no more than an adjustment of their relationship in the light of changing
+circumstances”: per McHugh JA in Integrated Computer Services Pty Ltd v Digital Equipment Corp (Aust)
+Pty Ltd (1988) 5 BPR 11,110 at 11,117.
+   Accordingly, I’m satisfied to conclude that, subject to the earlier re-​  casting of the five
+elements of Glidewell LJ, Williams v Roffey should be [747] followed in allowing a practical
+benefit or detriment to suffice as consideration. For convenience, I set out below the re-​cast
+elements, changes indicated by italics. I recognise that they will be further refined in light
+of experience. One particular issue is the extent to which a benefit or detriment, said to be
+“practical”, as distinct from explicitly bargained for, must nonetheless be consistent with, and
+not extraneous to, the bargaining process, as at least its intended result if not necessarily its
+moving force:
+       The present state of the law on this subject can be expressed in the following proposition:
+(i)        If A has entered into a contract with B to do work for, or to supply goods or services to, B in
+           return for the payment by B, and
+(ii)       At some stage before A has completely performed his obligations under the contract B has
+           reason to doubt whether A will, or be able to, complete his side of the bargain, and
+(iii)      B thereupon promises A an additional payment or other concession (such as reducing A’s
+           original obligation) in return for A’s promise to perform this contractual obligation at the
+           time, and
+(iv)       (a)   As a result of giving his promise B obtains in practice a benefit, or obviates a disbenefit
+                  provided that A’s performance, having regard to what has been so obtained, is capable
+                  of being viewed by B as worth more to B than any likely remedy against A (allowing for
+                  any defences or cross-​claims), taking into account the cost to B of any such payment or
+                  concession to obtain greater assurance of A’s performance, or
+           (b)     as a result of giving his promise, A suffers a detriment (or obviates a benefit) provided
+                   that A is thereby foregoing the opportunity of not performing the original contract, in
+                   circumstances where such non-​performance, taking into account B’s likely remedy against
+                   A (and allowing for any defences or cross-​claims) is capable of being viewed by A as worth
+                   more to A than performing that contract, in the absence of B’s promised payment or
+                   concession to A.
+(v)        B’s promise is not given as a result of economic duress or fraud or undue influence or
+           unconscionable conduct on the part of A nor is it induced as a result of unfair pressure on the part
+           of A, having regard to the circumstances, then,
+(vi)       The benefit to B or the detriment to A is capable of being consideration for B’s promise, so that
+           the promise will be legally binding.
+
+
+Application of Williams v Roffey to present circumstances
+[4.130] … [748] Thus I find that the particular practical benefit here, was that the lessor had greater
+assurance of the lessees staying in occupation and maintaining viability and capacity to perform by
+reason of their reduction in their rent, notwithstanding the introduction of a major, much larger
+competing tenant. [749]
+
+
+
+                                                                                                 [4.130]   121
+
+===== PDF 160 | expected printed p 122 | footer: 122   [4.135]
+Part II: Formation
+
+
+Musumeci v Winadell cont.
+
+   The practical detriment to the lessees lay in risking their capacity to survive against a much
+stronger competitor, by staying in occupancy under their lease, rather than walking away at the
+cost of damages, if the lessees’ defences, including under the Contracts Review Act 1980, were
+unsuccessful ….
+    As to element (iv) which, in its proviso, is designed to eliminate “wholly” gratuitous promises, there
+is evidence before me that the plaintiffs’ goodwill was at risk of destruction by the introduction of
+the much stronger competitor on a concessional basis, unless the rent reduction were forthcoming.
+That makes it a proper inference for me to draw that there was indeed a sufficient practical benefit,
+procured by maintaining the plaintiffs as viable tenants on the promise of reduced rental. This is
+compared to the evidently less attractive alternative of finding another tenant and suing for any
+rent shortfall, particularly where the lessees might plead a number of foreshadowed defences and
+cross-​claims.
+
+                                                 
+
+
+                                         Re Selectmove
+[4.135] Re Selectmove Ltd [1995] 1 WLR 474 (Court of Appeal).
+GIBSON LJ: [481] [I]‌f the principle of Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1
+is to be extended to an obligation to make payment, it would in effect leave the principle in Foakes v
+Beer, 9 App Cas 605 without any application. When a creditor and a debtor who are at arm’s length
+reach agreement on the payment of the debt by instalments to accommodate the debtor, the creditor
+will no doubt always see a practical benefit to himself in so doing. In the absence of authority there
+would be much to be said for the enforceability of such a contract. But that was a matter expressly
+considered in Foakes v Beer yet held not to constitute good consideration in law. Foakes v Beer was
+not even referred to in Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1, and it is in
+my judgment impossible, consistently with the doctrine of precedent, for this court to extend the
+principle of Williams’s case to any circumstances governed by the principle of Foakes v Beer, 9 App
+Cas 605. If that extension is to be made, it must be by the House of Lords or, perhaps even more
+appropriately, by Parliament after consideration by the Law Commission.
+
+                                                 
+
+
+[4.140]                                         Notes
+
+1.    In Collier v P & MJ Wright (Holdings) Ltd [2007] EWCA Civ 1329, the English Court
+      of Appeal affirmed the position adopted in Re Selectmove Ltd [1995] 1 WLR 474 but
+      accepted that its effect may be substantially undermined by the doctrine of promissory
+      estoppel.
+2.    As the extracts at [4.115]–​[4.135] indicate, the problems of contract modification and
+      the acceptance of part payment of a debt in full satisfaction also raise the application of
+      the doctrines of economic duress (see Pao On v Lau Yiu Long [1980] AC 614 at [4.150]
+      and North Ocean Shipping Co Ltd v Hyundai Construction Co Ltd [1979] QB 705) and
+      promissory estoppel (see Chapter 9, especially Je Maintiendrai Pty Ltd v Quaglia (1980)
+      26 SASR 101 at [9.10]).
+  
+
+
+
+
+122   [4.135]
+
+===== PDF 161 | expected printed p 123 | footer: [4.150]   123
+                                                                              Consideration   Chapter 4
+
+
+Duty owed to a third party
+[4.145] A promise to perform an act which the promisor is under an existing duty to a
+third party to perform may constitute good consideration. For example, consideration may
+be found in A’s promise to B to perform a duty which A is already contractually obliged to
+perform for C.
+
+
+                                 Pao On v Lau Yiu Long
+[4.150] Pao On v Lau Yiu Long [1980] AC 614 (Privy Council) –​Appeal from the Court of Appeal of
+Hong Kong.
+   [FACTS: On 27 February 1973, the plaintiffs agreed (the main agreement) to sell to Fu Chip
+Investment Co Ltd (Fu Chip) the whole of the issued capital in Tsuen Wan Shing On Estate Co Ltd
+(Shing On). The price payable was $HK10.5 million which was to be met by an allotment of 4.2 million
+ordinary shares of $HK1 each in Fu Chip of which the defendants were majority shareholders. For the
+purposes of the agreement, one Fu Chip share was deemed to be worth $HK2.50.
+   So that the market in Fu Chip shares might not be unduly depressed by a sale by the plaintiffs of
+their allotment, under cl 4(k) of the main agreement, the plaintiffs agreed not to sell 60 per cent of
+their allotment of shares in Fu Chip before the end of April 1974.
+   In view of this restriction, the plaintiffs required some protection should the price of Fu Chip
+shares fall during the period in which they were unable to sell. Accordingly, a second agreement (the
+subsidiary agreement) was entered into by which the plaintiffs agreed to sell to the defendants on or
+before 30 April 1974 at a price of $HK2.50 per share, 2.5 million shares in Fu Chip, this being 60 per
+cent of the plaintiffs’ total allotment.
+   Although this arrangement protected the plaintiffs from loss, it also effectively prevented them
+from realising any profit on 60 per cent of their holding in Fu Chip should the price rise above
+$HK2.50 as, indeed, was generally expected. On realising what they had done, the plaintiffs refused
+to proceed with the main agreement unless the subsidiary agreement was cancelled and replaced by
+a guarantee by way of indemnity.
+   The defendants considered bringing action against the plaintiffs for specific performance of the
+main agreement, but in view of the fact that the takeover of Shing On had already been announced,
+and certain other business considerations, they agreed to cancel the subsidiary agreement and give
+the requested guarantee.
+   The guarantee did not require the plaintiffs to sell their shares to the defendants at $HK2.50 per
+share but guaranteed that each share in the 60 per cent portion of their holding would be worth
+$HK2.50 immediately after 30 April 1974 and further indemnified them against any loss which they
+might sustain should the market price fall below that figure. The guarantee further provided that if
+the defendants were in fact called upon to indemnify the plaintiffs, the defendants would have the
+option of buying the 60 per cent portion for $HK6.3 million, that is $HK2.50 per share. Under this
+arrangement, the plaintiffs were guaranteed a minimum of $HK2.50 per share but might receive
+more if the market value of Fu Chip shares rose above that figure after 30 April 1974.
+   By 30 April 1974, Fu Chip shares had fallen to 36 cents and the plaintiffs sought to rely on the
+indemnity. The defendants refused to indemnify them. The plaintiffs successfully brought an action on
+the indemnity, but this decision was reversed on appeal. The plaintiffs appealed to the Privy Council.]
+   The judgment of their Lordships was delivered by LORD SCARMAN:
+The first question
+[628] The first question is whether upon its true construction the written guarantee of 4 May 1973,
+states a consideration sufficient in law to support the defendants’ promise of indemnity against a fall
+in value of the Fu Chip shares. The instrument is, so far as relevant, in these terms: Re: Tsuen Wan
+Shing On Estate Co Ltd.
+
+
+                                                                                          [4.150]   123
+
+===== PDF 162 | expected printed p 124 | footer: 124   [4.150]
+Part II: Formation
+
+
+Pao On v Lau Yiu Long cont.
+
+   In consideration of your having at our request agreed to sell all of your shares of and in the
+   abovementioned company … for the consideration of $10.5 million by the allotment of
+   4.2 million ordinary shares of $1 each in Fu Chip Investment Co Ltd … and that the market
+   value for the said ordinary shares of the said Fu Chip Investment Co Ltd shall be deemed
+   as $2.50 for each of $1 share under an agreement for sale and purchase made between
+   the parties thereto and dated 27 February 1973, we Lau Yiu Long … and Benjamin Lau
+   Kam Ching … [629] the directors of the said Fu Chip Investment Co Ltd hereby agree and
+   guarantee the closing market value for 2 520 000 shares (being 60 per cent of the said
+   4.2 million ordinary shares) of the Fu Chip Investment Co Ltd shall be at $2.50 per share and
+   that the total value of 2 520 000 shares shall be of the sum of $6.3 million on the following
+   marketing date immediately after 30 April 1974, and we further agree to indemnify and keep
+   you indemnified against any damages, losses and other expenses which you may incur or
+   sustain in the event of the closing market price for the shares of Fu Chip Investment Co Ltd
+   according to the Far East Exchange Ltd, shall fall short of the sum of $2.50 during the said
+   following marketing date immediately after 30 April 1974, provided always that if we were
+   called upon to indemnify you for the discrepancy between the market value and the said
+   total value of $6.3 million we shall have the option of buying from you the said 2 520 000
+   shares of Fu Chip Investment Co Ltd at the price of $6.3 million.
+Mr Neill, counsel for the plaintiffs … contends that the consideration stated in the agreement is not in
+reality a past one. It is to be noted that the consideration was not on 4 May 1973, a matter of history
+only. The instrument by its reference to the main agreement with Fu Chip incorporates as part of the
+stated consideration the plaintiffs’ three promises to Fu Chip: to complete the sale of Shing On, to
+accept shares as the price for the sale, and not to sell 60 per cent of the shares so accepted before
+30 April 1974. Thus, on 4 May 1973, the performance of the main agreement still lay in the future.
+Performance of these promises was of great importance to the defendants, and it is undeniable that,
+as the instrument declares, the promises were made to Fu Chip at the request of the defendants. It
+is equally clear that the instrument also includes a promise by the plaintiffs to the defendants to fulfil
+their earlier promises given to Fu Chip.
+   The Board agrees with Mr Neill’s submission that the consideration expressly stated in the written
+guarantee is sufficient in law to support the defendants’ promise of indemnity. An act done before
+the giving of a promise to make a payment or to confer some other benefit can sometimes be
+consideration for the promise. The act must have been done at the promisors’ request: the parties
+must have understood that the act was to be remunerated either by a payment or the conferment of
+some other benefit: and payment, or the conferment of a benefit, must have been legally enforceable
+had it been promised in advance. All three features are present in this case. The promise given to Fu
+Chip under the main agreement not to sell the shares for a year was at the first defendant’s request.
+The parties understood at the time of the main agreement that the restriction on selling must be
+compensated for by the benefit of a guarantee against a drop in price: and such a guarantee would
+be legally enforceable. The agreed cancellation of the subsidiary [630] agreement left, as the parties
+knew, the plaintiffs unprotected in a respect in which at the time of the main agreement all were
+agreed they should be protected.
+   Mr Neill’s submission is based on Lampleigh v Brathwait (1615) Hobart 105; 80 ER 255. In that case
+the judges said (at 106):
+   First … a meer voluntary courtesie will not have a consideration to uphold an assumpsit. But
+   if that courtesie were moved by a suit or request of the party that gives the assumpsit, it will
+   bind, for the promise, though it follows, yet it is not naked, but couples it self with the suit
+   before, and the merits of the party procured by that suit, which is the difference.
+The modern statement of the law is in the judgment of Bowen LJ in Re Casey’s Patents [1892] 1 Ch
+104 at 115–​16; Bowen LJ said:
+
+
+124   [4.150]
+
+===== PDF 163 | expected printed p 125 | footer: [4.155]   125
+                                                                                    Consideration   Chapter 4
+
+
+Pao On v Lau Yiu Long cont.
+
+      Even if it were true, as some scientific students of law believe, that a past service cannot
+      support a future promise, you must look at the document and see if the promise cannot
+      receive a proper effect in some other way. Now, the fact of a past service raises an implication
+      that at the time it was rendered it was to be paid for, and, if it was a service which was to be
+      paid for, when you get in the subsequent document a promise to pay, that promise may be
+      treated either as an admission which evidences or as a positive bargain which fixes the amount
+      of that reasonable remuneration on the faith of which the service was originally rendered. So
+      that here for past services there is ample justification for the promise to give the third share.
+Conferring a benefit is, of course, an equivalent to payment.
+   Mr Leggatt, for the defendants, does not dispute the existence of the rule but challenges its
+application to the facts of this case. He submits that it is not a necessary inference or implication from
+the terms of the written guarantee that any benefit or protection was to be given to the plaintiffs for
+their acceptance of the restriction on selling their shares. Their Lordships agree that the mere existence
+or recital of a prior request is not sufficient in itself to convert what is prima facie past consideration
+into sufficient consideration in law to support a promise: as they have indicated, it is only the first of
+three necessary preconditions. As for the second of those preconditions, whether the act done at the
+request of the promisor raises an implication of promised remuneration or other return is simply one of
+the construction of the words of the contract in the circumstances of its making. Once it is recognised,
+as the Board considers it inevitably must be, that the expressed consideration includes a reference to
+the plaintiffs’ promise not to sell the shares before 30 April 1974 —​a promise to be performed in the
+future, though given in the past —​it is not possible to treat the defendants’ promise of indemnity as
+independent of the plaintiffs’ antecedent prom-​[631]ise, given at the first defendant’s request, not
+to sell. The promise of indemnity was given because at the time of the main agreement the parties
+intended that the first defendant should confer upon the plaintiffs the benefit of his protection against
+a fall in price. When the subsidiary agreement was cancelled, all were well aware that the plaintiffs
+were still to have the benefit of his protection as consideration for the restriction on selling. It matters
+not whether the indemnity thus given be regarded as the best evidence of the benefit intended to be
+conferred in return for the promise not to sell, or as the positive bargain which fixes the benefit on
+the faith of which the promise was given —​though where, as here, the subject is a written contract,
+the better analysis is probably that of the “positive bargain”. Their Lordships, therefore, accept the
+submission that the contract itself states a valid consideration for the promise of indemnity.
+    This being their Lordships’ conclusion, it is necessary [sic –​it seems that this should be unnecessary]
+to consider Mr Neill’s further submission … that the option given the defendants, if called upon to
+fulfil their indemnity, to buy back the shares at $2.50 a share was itself a sufficient consideration
+for the promise of indemnity. But their Lordships see great force in the contention. The defendants
+promised to indemnify the plaintiffs if the market price of Fu Chip shares fell below $2.50. However,
+in the event of the defendants being called on to implement this promise they were given an option
+to take up the shares themselves at $2.50. This on the face of it imposes on the plaintiffs in the
+circumstances envisaged an obligation to transfer the shares to the defendants at the price of $2.50 if
+called on to do so. The concomitant benefit to the defendants could be a real one —​for example, if
+they thought that the market, after a temporary setback, would recover to a price above $2.50. The
+fact that the option is stated in the form of a proviso does not preclude it being a contractual term or
+one under which consideration moves.
+The second question
+[4.155] There is no doubt —​and it was not challenged —​that extrinsic evidence is admissible to
+prove the real consideration where:
+(1)       no consideration, or a nominal consideration, is expressed in the instrument; or
+(2)       the expressed consideration is in general terms or ambiguously stated; or
+(3)       substantial consideration is stated, but an additional consideration exists.
+
+
+                                                                                                [4.155]   125
+
+===== PDF 164 | expected printed p 126 | footer: 126   [4.155]
+Part II: Formation
+
+
+Pao On v Lau Yiu Long cont.
+
+The additional consideration must not, however, be inconsistent with the terms of the written
+instrument. Extrinsic evidence is also admissible to prove the illegality of the consideration. In their
+Lordships’ opinion the law is correctly stated in Halsbury’s Laws of England (4th ed, 1975), vol 12,
+para 1487. The extrinsic evidence in this case shows that the consideration for the promise of
+indemnity, while it included the cancellation of the subsidiary agreement, was primarily the promise
+given by the plaintiffs to the defendants, to perform their contract with Fu Chip, which included
+the undertaking not to sell 60 per cent of the shares allotted to them before 30 April 1974. Thus the
+real consideration for [632] the indemnity was the promise to perform, or the performance of, the
+plaintiffs pre-​existing contractual obligations to Fu Chip. This promise was perfectly consistent with
+the consideration stated in the guarantee. Indeed, it reinforces it by imposing upon the plaintiffs an
+obligation now owed to the defendants to do what, at the first defendant’s request, they had agreed
+with Fu Chip to do.
+  Their Lordships do not doubt that a promise to perform, or the performance of, a pre-​existing
+contractual obligation to a third party can be valid consideration. In New Zealand Shipping Co Ltd v
+AM Satterthwaite & Co Ltd (The Eurymedon) [1975] AC 154 at 168, the rule and the reason for the rule
+were stated:
+   An agreement to do an act which the promisor is under an existing obligation to a third party
+   to do, may quite well amount to valid consideration … the promisee obtains the benefit of a
+   direct obligation …. This proposition is illustrated and supported by Scotson v Pegg (1861) 6
+   H & N 295; 158 ER 121, which their Lordships consider to be good law.
+Unless, therefore the guarantee was void as having been made for an illegal consideration or voidable
+on the ground of economic duress, the extrinsic evidence establishes that it was supported by valid
+consideration. Mr Leggatt for the defendants submits that the consideration is illegal as being against
+public policy. He submits that to secure a party’s promise by a threat of repudiation of a pre-​existing
+contractual obligation owed to another can be, and in the circumstances of this case was, an abuse of
+a dominant bargaining position and so contrary to public policy. This, he submits, is so even though
+economic duress cannot be proved. This submission found favour with the majority in the Court of
+Appeal. Their Lordships, however, consider it misconceived. Reliance was placed on the old “seaman”
+cases of Harris v Watson (1791) Peake 102; 170 ER 94, NP, and Stilk v Meyrick (1809) 6 Esp 129; 170
+ER 851; 2 Camp 317; 170 ER 1168. Counsel also referred to certain developments in American law,
+which are to be found described in two leading works, Corbin on Contracts (1950) and Williston on
+Contracts (3rd ed, 1975) … Their Lordships would make one general observation on what is revealed
+by these two distinguished American works. Where some judges speak of public policy, others speak
+of economic duress. No clear line of distinction between the two concepts emerges as settled in the
+American law.
+   In the seaman cases there were only two parties —​the seaman and the captain (representing the
+owner). In Harris v Watson the captain during the voyage, for which the plaintiff had contracted to
+serve as a seaman, promised him 5 guineas over and above his common wages if he would perform
+some extra work. Lord Kenyon thought (at 103) that if the seaman’s claim to be paid 5 guineas was
+supported “it would materially affect the navigation of this kingdom”. He feared the prospect of
+seamen in times of danger insisting “on an extra charge on such a promise”, and non-​suited the
+plaintiff. In Stilk v [633] Meyrick, Lord Ellenborough CJ also non-​suited the seaman. According to the
+report in 2 Camp 317, 319, he said:
+   I think Harris v Watson was rightly decided; but I doubt whether the ground of public policy,
+   upon which Lord Kenyon is stated to have proceeded, be the true principle on which the
+   decision is to be supported. Here, I say the agreement is void for want of consideration.
+Espinasse, who appeared as junior counsel for the unsuccessful plaintiff in the case, reports the
+case somewhat differently. He reports (6 Esp 129 at 130) Lord Ellenborough CJ as saying that: “he
+recognised the principle of the case of Harris v Watson as founded on just and proper policy”.
+
+
+126   [4.155]
+
+===== PDF 165 | expected printed p 127 | footer: [4.155]   127
+                                                                                Consideration   Chapter 4
+
+
+Pao On v Lau Yiu Long cont.
+
+  But the report continues: “When the defendant [sic –​but surely the plaintiff is meant?] entered on
+board the ship, he stipulated to do all the work his situation called upon him to do.”
+   These cases, explicable as they are upon the basis of an absence of fresh consideration for the
+captain’s promise, are an unsure foundation for a rule of public policy invalidating contracts where,
+save for the rule, there would be valid consideration.
+   When one turns to consider cases where a pre-​existing duty imposed by law is alleged to be valid
+consideration for a promise, one finds cases in which public policy has been held to invalidate the
+consideration. A promise to pay a sheriff in consideration of his performing his legal duty, a promise to
+pay for discharge from illegal arrest, are to be found in the books as promises which the law will not
+enforce. Yet such cases are also explicable upon the ground that a person who promises to perform,
+or performs, a duty imposed by law provides no consideration. In cases where the discharge of a duty
+imposed by law has been treated as valid consideration, the courts have usually (but not invariably)
+found an act over and above, but consistent with, the duty imposed by law: see Williams v Williams
+[1957] 1 WLR 148. It must be conceded that different judges have adopted differing approaches to
+such cases: contrast, for example, Denning LJ at 149 et seq with the view of the majority in Williams’
+case. But, where the pre-​existing obligation is a contractual duty owed to a third party, some other
+ground of public policy must be relied on to invalidate the consideration (if otherwise legal); the
+defendants submit that the ground can be extortion by the abuse of a dominant bargaining position
+to threaten the repudiation of a contractual obligation. It is this application of public policy which
+Mr Leggatt submits has been developed in the American cases. Beginning with the general rule that
+“neither the performance of duty nor the promise to render a performance already required by duty is
+a sufficient consideration” the courts have (according to Corbin on Contracts, vol 1, s 171) advanced to
+the view: “that the moral and economic elements in any case that involves the rule should be weighed
+by the court, and that the fact of pre-​existing legal duty should not be in itself decisive”.
+    [634] The American Law Institute in its Restatement of the Law, Contracts (ch 3, s 84(d)), has
+declared that performance (or promise of performance) of a contractual duty owed to a third person
+is sufficient consideration. This view (which accords with the statement of our law in New Zealand
+Shipping Co Ltd v A M Satterthwaite & Co Ltd) appears to be generally accepted but only in cases where
+there is no suggestion of unfair economic pressure exerted to induce the making of what Corbin on
+Contracts calls “the return promise”.
+   Their Lordships’ knowledge of this developing branch of American law is necessarily limited. In
+their judgment it would be carrying audacity to the point of foolhardiness for them to attempt to
+extract from the American case law a principle to provide an answer to the question now under
+consideration. That question, their Lordships repeat is whether, in a case where duress is not
+established, public policy may nevertheless invalidate the consideration if there has been a threat to
+repudiate a pre-​existing contractual obligation or an unfair use of a dominating bargaining position.
+Their Lordships’ conclusion is that where businessmen are negotiating at arm’s length it is unnecessary
+for the achievement of justice, and unhelpful in the development of the law, to invoke such a rule of
+public policy. It would also create unacceptable anomaly. It is unnecessary because justice requires
+that men, who have negotiated at arm’s length, be held to their bargains unless it can be shown that
+their consent was vitiated by fraud, mistake or duress. If a promise is induced by coercion of a man’s
+will, the doctrine of duress suffices to do justice. The party coerced, if he chooses and acts in time,
+can avoid the contract. If there is no coercion, there can be no reason for avoiding the contract where
+there is shown to be a real consideration which is otherwise legal.
+   Such a rule of public policy as is now being considered would be unhelpful because it would
+render the law uncertain. It would become a question of fact and degree to determine in each case
+whether there had been, short of duress, an unfair use of a strong bargaining position. It would create
+anomaly because, if public policy invalidates the consideration, the effect is to make the contract void.
+But unless the facts are such as to support a plea of “non est factum”, which is not suggested in this
+case, duress does no more than confer upon the victim the opportunity, if taken in time, to avoid
+
+
+                                                                                            [4.155]   127
+
+===== PDF 166 | expected printed p 128 | footer: 128   [4.160]
+Part II: Formation
+
+
+Pao On v Lau Yiu Long cont.
+
+the contract. It would be strange if conduct less than duress could render a contract void, whereas
+duress does no more than render a contract voidable. Indeed, it is the defendants’ case in this appeal
+that such an anomaly is the correct result. Their case is that the plaintiffs, having lost by cancellation
+the safeguard of the subsidiary agreement, are without the safeguard of the guarantee because its
+consideration is contrary to public policy, and that they are debarred from restoration to their position
+under the subsidiary agreement because the guarantee is void, not voidable. The logical consequence
+of Mr Leggatt’s submission is that the safeguard which all were at all times agreed the plaintiffs should
+have —​the safeguard against fall in value of the shares —​has been lost by the application of [635]
+a rule of public policy. The law is not, in their Lordships’ judgment, reduced to countenancing such
+stark injustice: nor is it necessary, when one bears in mind the protection offered otherwise by the law
+to one who contracts in ignorance of what he is doing or under duress. Accordingly, the submission
+that the additional consideration established by the extrinsic evidence is invalid on the ground of
+public policy is rejected.
+The third question
+[4.160] [635] Duress, whatever form it takes, is a coercion of the will so as to vitiate consent. Their
+Lordships agree with the observation of Kerr J in Occidental Worldwide Investment Corp v Skibs A/​
+S Avanti [1976] 1 Lloyd’s Rep 293 at 336 that in a contractual situation commercial pressure is not
+enough. There must be present some factor “which could in law be regarded as a coercion of his
+will so as to vitiate his consent”. This conception is in line with what was said in this Board’s decision
+in Barton v Armstrong [1976] AC 104 at 121 by Lord Wilberforce and Lord Simon of Glaisdale —​
+observations with which the majority judgment appears to be in agreement. In determining whether
+there was a coercion of will such that there was no true consent, it is material to inquire whether the
+person alleged to have been coerced did or did not protest; whether, at the time he was allegedly
+coerced into making the contract, he did or did not have an alternative course open to him such as
+an adequate legal remedy; whether he was independently advised; and whether after entering the
+contract he took steps to avoid it. All these matters are, as was recognised in Maskell v Horner [1915]
+3 KB 106, relevant in determining whether he acted voluntarily or not.
+    In the present case there is unanimity amongst the judges below that there was no coercion of
+the first defendant’s will. In the Court of Appeal the trial judge’s finding (already quoted) that the
+first defendant considered the matter thoroughly, chose to avoid litigation, and formed the opinion
+that the risk in giving the guarantee was more apparent than real was upheld. In short, there was
+commercial pressure, but no coercion. Even if this Board was disposed, which it is not, to take a
+different view, it would not substitute its opinion for that of the judges below on this question of fact.
+   It is, therefore, unnecessary for the Board to embark upon an inquiry into the question whether
+English law recognises a category of duress known as “economic duress”. But, since the question has
+been fully argued in this appeal, their Lordships will indicate very briefly the view which they have
+formed. At common law money paid under economic compulsion could be recovered in an action
+for money had and received: Astley v Reynolds (1731) 2 Str 915; 93 ER 939. The compulsion had to
+be such that the party was deprived of “his freedom of exercising his will”: see at 916. It is doubtful,
+however, whether at common law any duress other than duress to the person sufficed to render a
+contract voidable: see Blackstone’s Commentaries (12th ed), Book 1, pp 130–​1 and Skeate v Beale
+(1841) 11 Ad & E 983; 113 ER 688. American law (Williston on Contracts (3rd ed)) now recognises that
+a contract may be avoided on the [636] ground of economic duress. The commercial pressure alleged
+to constitute such duress must, however, be such that the victim must have entered the contract
+against his will, must have had no alternative course open to him, and must have been confronted
+with coercive acts by the party exerting the pressure: Williston on Contracts (3rd ed, 1970), vol 13
+s 1603. American judges pay great attention to such evidential matters as the effectiveness of the
+alternative remedy available, the fact or absence of protest, the availability of independent advice,
+the benefit received, and the speed with which the victim has sought to avoid the contract. Recently
+two English judges have recognised that commercial pressure may constitute duress the pressure of
+which can render a contract voidable: Kerr J in Occidental Worldwide Investment Corp v Skibs A/​S Avanti
+
+128   [4.160]
+
+===== PDF 167 | expected printed p 129 | footer: [4.170]   129
+                                                                               Consideration   Chapter 4
+
+
+Pao On v Lau Yiu Long cont.
+
+[1976] 1 Lloyd’s Rep 293 and Mocatta J in North Ocean Shipping Co Ltd v Hyundai Construction Co Ltd
+[1979] QB 705. Both stressed that the pressure must be such that the victim’s consent to the contract
+was not a voluntary act on his part. In their Lordships’ view, there is nothing contrary to principle in
+recognising economic duress as a factor which may render a contract voidable, provided always that
+the basis of such recognition is that it must amount to a coercion of will, which vitiates consent. It
+must be shown that the payment made or the contract entered into was not a voluntary act.
+   For these reasons their Lordships will humbly advise Her Majesty that the appeal be allowed …
+   Appeal allowed.
+
+                                                 
+
+
+[4.165]                                         Note
+See further North Ocean Shipping Co Ltd v Hyundai Construction Co Ltd [1979] QB 705.
+  
+
+
+
+
+Bona fide compromise
+
+
+                                      Wigan v Edwards
+[4.170] Wigan v Edwards (1973) 47 ALJR 586 (High Court of Australia) –​Appeal from the Supreme
+Court of Queensland.
+    [FACTS: Mr and Mrs Edwards (the respondents) agreed to purchase a house from Wigan (the
+builder, appellant, promisor) under the terms of a contract dated 15 April 1969. The contract contained
+no express term that the house had been constructed in a good and businesslike manner nor that it
+was free from structural defects, nor any other term relating to quality. Nonetheless, shortly after the
+contract was signed, the Edwards had discussions with Wigan in relation to certain features of the
+house and gave him a list of matters which they said required attention before they would complete
+the transaction. Wigan agreed to remedy certain defects, and on 22 April 1969, he signed a document
+in which he promised to remedy the minor defects listed therein and “any major faults in construction
+five years from purchase date I will repair”. Subsequently the appellant failed to remedy the minor
+defects and also a major fault which was discovered in the concrete slab. The Edwards sued Wigan in
+the District Court of Queensland and obtained judgment for $6,000. An appeal to the Full Court of
+the Supreme Court of Queensland was dismissed. One of the points argued on behalf of Wigan on
+appeal to the High Court of Australia was that there was no consideration for the promises contained
+in the document dated 22 April.]
+    MASON J: [594] The first question which arises is whether there was valuable consideration for the
+appellant’s promise of 22 April 1969. The general rule is that a promise to perform an existing duty
+is no consideration, at least when the promise is made by a party to a pre-​existing contract, when it
+is made to the promisee under that contract, and it is to do no more than the promisor is bound to
+do under the contract. The rule expresses the concept that the new promise, indistinguishable from
+the old, is an illusory consideration. And it gives no comfort to a party who by merely threatening
+a breach of contract seeks to secure an additional contractual benefit from the other party on the
+footing that the first party’s new promise of performance will provide sufficient consideration for that
+benefit.
+   An important qualification to the general principle is that a promise to do precisely what the
+promisor [595] is already bound to do is a sufficient consideration, when it is given by way of a bona
+
+
+                                                                                           [4.170]   129
+
+===== PDF 168 | expected printed p 130 | footer: 130   [4.170]
+Part II: Formation
+
+
+Wigan v Edwards cont.
+
+fide compromise of a disputed claim, the promisor having asserted that he is not bound to perform
+the obligation under the pre-​existing contract or that he has a cause of action under that contract.
+The qualification recognises that for the court itself to examine and determine the correctness of the
+promisor’s claim would be a pointless exercise when the new bargain indicates that the promisee
+regarded the fresh promise as a benefit, presumably viewing the promise of performance as more
+advantageous than the remedies available to him for breach of contract. But the law, by insisting that
+the claim in dispute is one which was honestly or bona fide made, prevents the qualification from
+assisting the party who would seek to gain an unfair advantage by threatening unscrupulously to
+withhold performance under a contract.
+    It is no objection to the existence of a bona fide compromise of a dispute that the court considers
+that the claim made by the promisor that he was not bound under the former contract would not
+have succeeded had the issue been litigated: Callisher v Bischoffsheim (1870) LR 5 QB 449; Miles v New
+Zealand Alford Estate Co (1886) 32 Ch D 266. But it is perhaps open to question whether a bona fide
+compromise of a dispute is sufficiently established by showing that the promisor honestly believed
+that his claim was well founded. It has been said that it must also be shown that the claim was not
+vexatious or frivolous. In Miles v New Zealand Alford Estate Co Bowen LJ (at 291–​2) expressed himself
+in favour of the second formulation, whereas in the same case Cotton LJ (at 283–​4) and Fry LJ (at
+297–​8) expressed themselves more obliquely. However, as I understand their observations, they are
+not inconsistent with what Bowen LJ had to say. In many courts in the United States a similar test to
+that adopted by Bowen LJ has been adopted. Williston on Contracts (3rd ed), s 135B states: “In many
+jurisdictions the tendency is to make the test the honesty of the claimant, provided the invalidity of
+the claim in law or in fact is not entirely obvious.” Even so, according to the author, the forbearance is
+insufficient consideration “if the claim forborne is so lacking in any foundation as to make its assertion
+incompatible with both honesty and a reasonable degree of intelligence”.
+    The different expressions of the principle do not reflect an important conceptual difference. There
+will be few cases involving an honest or bona fide belief in a claim which is vexatious or frivolous. In
+this case it is unnecessary to choose between the competing formulations, for in my view the more
+stringent test, that favoured by Bowen LJ in Miles’ case is satisfied.
+   The judge found that the respondents honestly believed that, having regard to the defective
+condition of the house, they were not bound to complete. In my opinion his Honour was correct in so
+finding. Although it is my view that the majority of the defects on which the respondents relied would
+not have justified a refusal to complete the contract, there were many defects. In addition, the water
+had not been connected and the fence had not been erected. In these circumstances the respondents’
+claim that they would not complete cannot be described as a frivolous or vexatious claim.
+   The respondents merely asserted that they would not complete until the matters of which they
+complained were set right. They did not threaten to bring an action or to defend a suit for specific
+performance. However, a threat to bring an action or enter a defence is not an essential element
+of a bona fide compromise; it is enough if there is a claim (of the kind already discussed) that the
+contracting party is not bound to perform the contract. Clearly the respondents’ claim was of this kind.
+Accordingly, in my view there was valuable consideration to support the agreement of 22 April 1969.
+    In expressing this conclusion I am mindful that the appellant’s promise to repair major defects in
+five years incorporated in the document of 22 April 1969 was volunteered by him and was given after
+he had acceded to the respondents’ demand that the list of defects should be remedied. Though
+volunteered by the appellant after he had acceded to the initial request, the additional promise should
+be regarded as an element of the bargain reached by the parties …
+  [On this point, WALSH AND GIBBS JJ agreed with the reasoning of Mason J. MENZIES J and
+McTIERNAN ACJ reached the same conclusion.]
+
+                                                 
+
+
+130   [4.170]
+
+===== PDF 169 | expected printed p 131 | footer: [4.175]   131
+                                                                               Consideration   Chapter 4
+
+
+Proposals for reform
+
+
+                                   Sixth Interim Report
+[4.175] United Kingdom Law Revision Committee, Sixth Interim Report (CMD 5449, 1937).
+[50] It may be convenient to summarise our recommendations which are as follows:
+(1)    …
+(2)    That an agreement shall be enforceable if the promise or offer has been made in writing by
+       the promisor or his agent, or if it be supported by valuable consideration past or present.
+(3)    That an agreement to accept a lesser sum in discharge of an enforceable obligation to pay
+       a larger sum shall be deemed to have been made for valuable consideration, but if the new
+       agreement is not performed then the original obligation shall revive.
+(4)    That an agreement in which one party makes a promise in consideration of the other party
+       doing or promising to do something which he is already bound to do by law, or by a contract
+       made either with the other party or with a third party, shall be deemed to have been made for
+       valuable consideration.
+(5)    That a promise shall be enforceable by the promisee though the consideration is given by or
+       to a third party.
+(6)    That an agreement to keep an offer open for a definite period of time or until the occurrence
+       of some specified event shall not be unenforceable by reason of the absence of consideration.
+(7)    That a promise made in consideration of the promisee performing an act shall constitute a
+       contract as soon as the promisee has entered upon performance of the act, unless the promise
+       includes expressly or by implication a term that it can be revoked before the act has been
+       completed.
+(8)    That a promise which the promisor knows, or reasonably should know, will be relied on by
+       the promisee shall be enforceable if the promisee has altered his position to his detriment in
+       reliance on the promise.
+(9)    That where a contract by its express terms purports to confer a benefit directly on a third party,
+       it shall be enforceable by the third party in his own name subject to any defences that would
+       have been valid between the contracting parties. Unless the contract otherwise provides, it
+       may be cancelled by the mutual consent of the contracting parties at any time before the third
+       party has adopted it either expressly or by conduct.
+
+                                                
+
+
+
+
+                                                                                           [4.175]   131
+
+===== PDF 170 | expected printed p 132 | footer: 
+
+===== PDF 171 | expected printed p 133 | footer: [5.05]    133
+CHAPTER 5
+
+
+Intention
+[5.10]   PRESUMPTIONS.......................................................................................................... 134
+                  [5.10]   Ermogenous v Greek Orthodox Community of SA..................................... 134
+[5.30]   COMMERCIAL TRANSACTIONS................................................................................... 139
+                  [5.30]   Banque Brussels Lambert v Australian National Industries.......................... 139
+[5.45]   DOMESTIC AND SOCIAL AGREEMENTS...................................................................... 144
+                  [5.50]   Todd v Nicol.................................................................................... 144
+[5.60]   GOVERNMENT AGREEMENTS..................................................................................... 150
+                  [5.65]   Administration of Papua and New Guinea v Leahy................................... 150
+[5.80]   PRELIMINARY AGREEMENTS........................................................................................ 152
+                  [5.80]   Masters v Cameron........................................................................... 152
+
+
+[5.05] The third element of contract formation is that the parties must manifest an intention
+to create legal relations. There are several situations in which parties may reach a clear and
+certain agreement that satisfies the consideration requirement, but may not be intended to
+create legal relations:
+1.   Where an agreement is made in a commercial context, a question may arise whether the
+     parties intend to make an honourable, rather than legal commitment.
+2.   The issue may arise in a social or domestic context. An agreement to help a friend to
+     move some furniture in return for dinner involves an exchange of promises, but is clearly
+     not intended to be legally binding. An agreement relating to more substantial matters,
+     such as employment or the sale of valuable property, may be intended to attract legal
+     consequences even when it is made with a close relative.
+3.   An issue of intention to contract may arise where an agreement is made between a
+     government and an individual. The implementation of government policy may, for
+     example, lead a government to reach an agreement with a particular individual to
+     provide some assistance. The fact that the individual is providing something in return
+     for that assistance does not necessarily mean that the parties intend to make a contract.
+4.   Where parties reach a preliminary agreement, the question may arise whether the parties
+     intend to be bound immediately, or not until some time in the future when the parties
+     have finalised some outstanding issues or recorded their agreement in a more formal
+     manner.
+The intention to create legal relations requirement has often been approached on the basis
+that certain types of agreements are presumed to be intended to be binding, while others
+are presumed not to be made with such an intention. It is said that parties to commercial
+agreements are presumed to intend legal consequences, while parties to social or domestic
+agreements are presumed not to intend legal consequences. Such presumptions determine who
+bears the onus of proof. A person denying the enforceability of a commercial agreement has
+been said to bear the onus of proving that the parties did not intend legal consequences.
+A person seeking to enforce a social or domestic agreement is said to bear the onus of proving
+
+
+                                                                                                                   [5.05]    133
+
+===== PDF 172 | expected printed p 134 | footer: 134   [5.10]
+Part II: Formation
+
+
+
+that it was intended to be binding. The decision of the High Court in Ermogenous v Greek
+Orthodox Community of SA Inc [2002] HCA 8; (2002) 209 CLR 95 (extracted at [5.10])
+suggests that considerable caution should be exercised in using presumptions to determine
+whether the intention to create legal relations requirement is satisfied. It has even been said
+that the court in Ermogenous “rejected the use of presumptions as a basis for ascertaining
+whether parties intended to enter into contractual relations”: Evans v Secretary, Department
+of Families, Housing, Community Services and Indigenous Affairs [2012] FCAFC 81, [12].
+   The objective nature of the inquiry as to intention and the circumstances that should be
+taken into account were clearly articulated in the joint judgment of Gaudron, McHugh, Hayne
+and Callinan JJ in Ermogenous v Greek Orthodox Community of SA Inc. The admissibility
+and relevance of evidence as to the actual intentions of the parties were considered by the
+New South Wales Court of Appeal in Air Great Lakes Pty Ltd v KS Easter (Holdings) Pty Ltd
+(1985) 2 NSWLR 309. A good illustration of the application of these principles is Shahid v
+Australasian College of Dermatologists [2008] FCAFC 72; (2008) 168 FCR 46.
+
+PRESUMPTIONS
+
+
+               Ermogenous v Greek Orthodox Community of SA
+[5.10] Ermogenous v Greek Orthodox Community of SA Inc [2002] HCA 8; (2002) 209 CLR 95 (High
+Court of Australia) –​Appeal from the Supreme Court of South Australia.
+    [FACTS: The appellant served as the Archbishop of the autocephalous Greek Orthodox Church in
+Australia for more than 23 years. He claimed that he had been employed by the respondent to serve in
+that position. After he resigned from the position, the Archbishop claimed that the respondent owed
+him certain sums of money in respect of accumulated annual leave and long service leave entitlements.
+He could only claim those payments if he was an employee of the respondent. The respondent was
+a community organisation founded to foster Greek culture as well as the Greek Orthodox faith. It
+organised cultural, sporting and social activity, built churches and recruited and paid consecrated
+clergy. The respondent recruited the appellant to the position of Archbishop, paid him a salary or
+stipend during his period of service and treated him as an employee, reserving the right to control
+the way in which he discharged his duties. An industrial magistrate found that he was an employee
+of the respondent and was therefore entitled to the payments. The Full Court of the Supreme Court
+of South Australia (by majority) allowed an appeal on the basis that the parties had not intended to
+create legal relations. The Archbishop appealed to the High Court.]
+    GAUDRON, McHUGH, HAYNE and CALLINAN JJ: [103] Both members of the majority in the Full
+Court of the Supreme Court (Doyle CJ and Bleby J) took, as their stated starting point, the proposition
+that an intention to enter a contractual relationship about the remuneration and maintenance and
+support of a minister of religion is not to be presumed ((2000) 77 SASR 523 at 524–​5 [4]‌per
+Doyle CJ, 575–​6 [207] per Bleby J). This proposition was said to find its origin, or at least its support,
+in several decisions in the United Kingdom … and one Australian decision (Knowles v Anglican Church
+Property Trust, Diocese of Bathurst (1999) 89 IR 47 a decision of the Industrial Relations Commission
+of New South Wales). Both Doyle CJ (2000) 77 SASR 523 at 529 [19]–​[20] and Bleby J (2000)
+77 SASR 523 at 577-​578 [212] concluded that the Industrial Magistrate had not considered, as a
+distinct issue, whether the parties had intended to enter a legally binding relationship. Their Honours
+then proceeded to consider whether there had been such an intention and concluded that there
+had not …
+Intention to create contractual relations
+[5.15] [105] “It is of the essence of contract, regarded as a class of obligations, that there is a voluntary
+assumption of a legally enforceable duty” (Australian Woollen Mills Pty Ltd v Commonwealth (1954)
+
+134   [5.10]
+

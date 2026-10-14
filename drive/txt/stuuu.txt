@@ -1,0 +1,155 @@
+                                    lOMoARcPSD|67370315
+
+
+
+
+      LAWS1150 contracts flowchart
+
+
+Principles of Private Law (University of New South Wales)
+
+
+
+
+                          Scan to open on Studocu
+
+
+
+
+                                  Downloaded by Yusuf Ahmed (yusufahmedpersonal@gmail.com)
+         Studocu is not sponsored or endorsed by any college or university
+                                                            lOMoARcPSD|67370315
+
+
+
+
+                                               LAWS1150 Flowcharts
+Contract Formation
+1. Agreement → Offer
+1. An offer must contain definite terms capable of being accepted as an expression of willingness to form a
+binding agreement (Gibson v Manchester City Council).
+2. Is it distinguished from an invitation to treat?
+    ●   An invitation for others to make an offer or enter into a negotiation (i.e. indication of willingness to negotiate,
+        not a binding offer) (Pharmaceutical Society v Boots).
+    ●   Look at the facts: has negotiation already occurred?
+3. Was it a mere puff?
+    ●   Carbolic smoke ball: “No” → “£1 000 is deposited with the Alliance Bank, shewing our sincerity in the
+        Matter.” The specificity also made it more than mere puff.
+Revocability?
+    ●   No universal rule, depends on the circumstances of the case.
+    ●   Can be revoked prior to acceptance, unless there is an ancillary contract that it can’t be.
+    ●   Mobil Oil v Wellcome
+
+
+2. Agreement → Acceptance
+    ●   Clear communicated acceptance.
+Silence: Cannot constitute acceptance, unless coupled with actions that indicate acceptance (Empirnall Holdings v
+Machon).
+    ●   Where an offeree with a reasonable opportunity to reject the offer takes the benefit of them under
+        circumstances which indicate that they were to be paid for in accordance with the offer, it is open hold that the
+        offer was accepted according to its terms.
+    ●   Whether a reasonable bystander would regard the conduct of the offeree, including his silence, as signalling to
+        the offeror that his offer has been accepted
+
+
+Postal Acceptance Rule: Acceptance is complete as soon as it is posted (Henthorn v Fraser).
+
+
+4. Is there a bilateral or unilateral contract?
+    ●   Bilateral:
+            ○   (Offeror) Offer → ← Acceptance (Offeree)
+            ○   (Offeror) Performance → ← Performance (Offeree)
+    ●   Unilateral: Promise made in return for an act (Carlill v Carbolic).
+            ○   (Offeror) Offer →
+            ○   ← Acceptance = Performance (Offeree): Acceptance occurs through the act of performance (Carlill v
+                Carbolic; Mobil Oil v Wellcome).
+            ○   (Offeror) Performance →
+            ○   Intention of the person completing the activities stated on the contract → did they know about it? Did
+                they have some other purpose for completing it? Did they rely on the contract? (Crown v Clarke)
+                                                                                         Scan to open on Studocu
+                                                       Downloaded by Yusuf Ahmed (yusufahmedpersonal@gmail.com)
+                                                            lOMoARcPSD|67370315
+
+
+
+
+3. Consideration
+    ●   3 types: performance, promise, forbearance.
+    ●   Consideration only has to be sufficient, not adequate (woolworths v kelly).
+    ●   Past consideration is not sufficient consideration (Roscorla v Thomas).
+            ○   Exception to this principle: a promise to pay for past services which were rendered on the basis that
+                they were to be paid for — e.g. Pao On v Lau Yiu Long
+    ●   A promise to perform an existing contractual duty is not regarded as sufficient consideration.
+            ○   Part payment of debt is not consideration (Pinnel's case; Folkes v Beer).
+            ○   Exception to this rule:
+                    ■    Practical benefit (Williams v Roffey).
+                    ■    Bone Fide compromise can be sufficient consideration (Wigan v Edwards).
+            ○   Five part test → Williams v Roffey Bros:
+                    1. B engages A to perform work or supply goods;
+                    2. During performance, B has reason to doubt whether A will be able to complete;
+                    3. B promise additional pay if A completes on time;
+                    4. As a result, B obtains a “practical benefit” and
+                    5. Additional promise not given as a result of duress or fraud.
+
+
+4. Intention
+Ermogenous → legal presumptions should not be relied upon and there should be an objective consideration
+dependent on the facts of the current case.
+    ●   Presumptions help to show where the onus of proof lies.
+
+
+Preliminary agreements → Masters v Cameron 3 categories:
+    1. The parties may have finalised “all the terms of their bargain” and intend to be bound immediately but
+        propose to restate the terms in a form which is fuller or more precise, but not different in effect.
+    2. The parties may have “completely agreed upon all the terms of their bargain” and do not intend to vary those
+        terms but “have made performance of one or more terms conditional upon the execution of a formal
+        document”
+    3. The parties may not intend to make a binding agreement at all unless and until they execute a formal contract.
+    4. The parties were content to be bound immediately and exclusively by the terms which they had agreed upon
+        whilst expecting to make a further contract in substitution for the first contract, containing, by consent,
+        additional terms — Baulkham Hills added 4th category which has been accepted.
+
+
+
+
+                                                                                         Scan to open on Studocu
+                                                       Downloaded by Yusuf Ahmed (yusufahmedpersonal@gmail.com)
+                                                             lOMoARcPSD|67370315
+
+
+
+
+5. Certainty
+Three Types:
+    1. Uncertainty
+              ○   can look at external standards (Biotech v Pace).
+              ○   Minimum standard provided (Biotech v Pace).
+              ○   Severance test: When a contract contains a number of stipulations one of which is void for
+                  uncertainty, the question whether the whole contract is void depends on the intention of the parties to
+                  be gathered from the instrument as a whole. If the contract be divisible, the part which is void may be
+                  separated from the rest and does not affect its validity (Life insurance v Phillips).
+    2. Incompleteness
+              ○   Unless they are such, the law will supply (Milne v Attorney-General).
+    3. Illusory promise
+              ○   A clause in a contract that reserves all discretion for one party does not create an enforceable promise
+                  (Placer Development).
+
+
+Courts want to uphold contracts but they do not want to uphold agreements that parties have not agreed to (Kitto J).
+
+
+
+
+Privity
+A contract cannot confer an enforceable benefit on a non-party, nor can it impose an enforceable burden on a non-
+party. It doesn't apply when:
+    1. Where one of the parties who is involved acts as agent for the non-involved party; and
+    2. Where one of the parties involved transfers contractual benefits to the non-involved party by way of an
+          assignment or novation of the contract.
+
+
+
+
+                                                                                           Scan to open on Studocu
+                                                         Downloaded by Yusuf Ahmed (yusufahmedpersonal@gmail.com)
+

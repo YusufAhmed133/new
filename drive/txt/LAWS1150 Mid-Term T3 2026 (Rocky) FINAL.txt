@@ -1,0 +1,125 @@
+Rocky seeks repayment from Grace, the promised $10,000 and protection from AMPL’s call. He must also answer any claim that he failed to lend ‘by 15 February’.
+
+I. ROCKY v GRACE
+
+The first issue is whether Rocky’s 12 February email was an offer. Rocky would say it merely minutes their meeting: it opens ‘Confirming discussions’, and its other points promise nothing. Yet ‘I will lend’ fixes the amount, date, term and rate, and ‘Please confirm agreement’ invites assent: unlike ‘may be prepared to sell’ in Gibson, those words are promissory.[1] The first point is likely an offer, subject to its qualifier.
+
+On acceptance, Rocky may say ‘Confirmed’ vouched only for the email’s accuracy, which is not ‘an external manifestation of assent to an offer’.[2] However, it answered a request to ‘confirm agreement’; adding no terms, ‘Confirmed’ was no counter-offer and so accepted the first point, qualifier included.
+
+The qualifier, ‘subject to satisfactory conditions’, raises intention to create legal relations and certainty. Intention is judged objectively, the onus lying on Grace, who alleges a contract, though the parties’ status as ‘project developers’ favours it;[3] absent a stipulated formal contract, the question is whether terms were to be ‘put into form’ or ‘subject to a new agreement’.[4] Grace’s best case is Godecke, where an agreement letting the vendor’s solicitors add terms bound, those terms having to be reasonable ‘in an objective sense’.[5] Rocky’s words contain no such standard: ‘satisfactory’ leaves the judgment to the party the condition protects,[6] Rocky; and the ‘conditions’, naming no outside event, are most naturally unstated terms of his own loan, likely left to a new agreement. Gibbs J doubted that an agreement leaving ‘further terms to be settled by one of the parties’ would bind, leaving open only ‘subsidiary matters’;[7] the terms of the loan itself are not subsidiary.
+
+On certainty, Grace would reply that, as in Meehan, Rocky had to decide honestly:[8] that limit takes a case out of the principle that a promisor with ‘a discretion or option as to whether he will carry out’ his promise makes no contract.[9] Yet honesty there governed a judgment on an external condition, finance, whereas Rocky’s went to the content of his own loan, not ‘only to the fulfilment of a condition’;[10] and honesty cannot supply unstated loan terms. His promise is thus arguably illusory. The email likely bound neither party, unless the conditions were settled ‘this morning’.
+
+Even a binding email gives Rocky no claim unless AMPL’s advance performed his promise. His 27 February request suggests so, a principal being party to his agent’s contracts;[11] yet AMPL advanced $1,150,000, not $1 million, and took his guarantee, so it did not contract for Rocky as well as for itself.[12] Rocky therefore lent nothing.
+
+Rocky’s demand under ‘the Loan Agreement with AMPL’ raises privity: only a party who provided consideration may sue on a contract.[13] Party status turns on ‘the written instrument itself’,[14] which AMPL and Grace made: Grace’s promises in it were the price of AMPL’s own promises, none made to Rocky as a joint promisee.[15] Grace’s ‘I never signed anything with you’ is right in result but not in reason: Mrs Coulls signed yet was no party.[16]
+
+Rocky’s 5 March demand, arguably premised on a 27 February start, therefore fails whenever the 12 months began, and Grace likely has no claim against him. Nor did Grace promise to reimburse anything Rocky pays AMPL.
+
+II. ROCKY v AMPL (ALTERNATIVELY PIERRE)
+
+The first issue is whether a contract for the $10,000 formed on 8 April. What Pierre ‘expected’ promised nothing, so it was likely an invitation to treat;[17] Rocky’s ‘I will do that if you also promise’ offered a promise for a promise, a bilateral contract,[18] which Pierre accepted when he ‘agreed’.[19] AMPL may say nothing bound until signing: parties are bound ‘when, and in the manner in which, they intend’;[20] yet nothing suggests Rocky was to sign anything. A contract likely formed orally.
+
+Whether AMPL or Pierre contracted turns on agency: Pierre bound AMPL if, with its authority, he contracted for it rather than solely for himself.[21] Although Rocky’s ‘you’ points to Pierre, Pierre controls AMPL and spoke at its office about its loan. AMPL therefore likely made the $10,000 promise and took Rocky’s undertaking; if Pierre spoke for himself, the undertaking ran to Pierre, leaving AMPL only the guarantee clause.
+
+On consideration, AMPL may invoke the existing legal duty rule: if, as ‘also’ may imply, the guarantee already bound Rocky, his promise to ensure payment gave nothing new, like the promise to ensure delivery already owed in Sundell.[22] However, the rule’s settled application is to a duty under ‘a pre-existing contract’ with the promisee,[23] and none is shown: Rocky only ‘asked’ on 27 February; and ‘Pierre agreed and the clause was included’ suggests the clause followed the bargain. Even if the guarantee came first, ensuring that ‘all payments’ were made ‘promptly’ exceeds guaranteeing ‘repayment of the Loan’; and a promise to Pierre to perform a duty owed to AMPL, a third party, can be consideration.[24] Rocky likely gave consideration.
+
+Intention is contested because Pierre is Rocky’s cousin; yet presumptions at best identify who bears the onus,[25] here Rocky. A promise of a fixed sum, made at AMPL’s office as its loan was finalised, is ‘appropriately promissory in character’ and commercial.[26] Intention is likely present.
+
+The Loan Agreement fixes the payments, so ‘ensure’ is not ‘so obscure’ as to defeat certainty;[27] the question is whether Rocky promised a result or only effort, which his check-ins would satisfy. Read objectively, Rocky’s unqualified ‘I will do that’, answering an expectation that he ‘ensure’ payment, names an outcome, so he likely promised a result.[28]
+
+The next issue is whether the guarantee binds Rocky: ‘the personal guarantee provided by Rocky’ proves that one was given, not its content. Privity prevents AMPL and Grace’s clause binding him of its own force,[29] so AMPL must show his assent, not his signature. Silence while others write a clause is generally not ‘an external manifestation’ of assent;[30] Rocky’s ‘I will do that’, priced by the $10,000 promise, likely binds him at least as an undertaking.[31] Having ‘attended’ with a reasonable opportunity to reject the clause, he arguably knew its words; although the $10,000 priced his own words, not the clause’s, taking that promise knowingly and with no objection shown arguably signalled assent to the clause.[32] If he never saw it, he is bound only by his undertaking.
+
+Consideration for the guarantee must also move from AMPL as promisee:[33] if AMPL promised the $10,000, that promise supplies it. If Pierre did, the advance, past consideration,[34] though made at Rocky’s request, counts only if the parties ‘understood that the act was to be remunerated’;[35] nothing shows a guarantee was then expected. AMPL’s stronger answer is that it signed the Loan Agreement only after the clause was included, an act likely ‘really done in consideration of’ the guarantee,[36] which is thus likely supported if he assented.
+
+The call’s timing turns on when the 12 months began. Post-contractual conduct cannot show the term’s meaning;[37] but because the term, fixing no start, is arguably ambiguous, mutually known facts showing ‘the genesis of the transaction’ are admissible.[38] AMPL would say the term of ‘the Loan’, which the agreement ‘recorded’, runs from its advance on 27 February. Yet ‘recorded’ governs the 4% rate as much as the sum, and nothing shows any term was fixed before 8 April: the genesis shows when the money moved, not that a term first agreed on 8 April began earlier. The term therefore arguably ran from 8 April, making the call premature unless the Loan Agreement’s words date it from the advance.
+
+The last issue is the condition ‘once Grace repays the Loan’, a condition precedent to AMPL’s obligation, not to the contract, the bargain having bound at once.[39] Nothing was payable on 9 March 2025, when Grace ‘had not yet repaid’. Rocky may say that, read commercially, his own payment suffices;[40] but the words name Grace, and the $10,000 priced his promise that Grace would pay, not his paying instead. Nor does AMPL’s duty to co-operate assist: it reaches only what is necessary on AMPL’s part,[41] and repayment is Grace’s act. Payment by Rocky therefore likely leaves the condition unfulfilled.
+
+If Rocky assented to the clause, by which he ‘personally guaranteed repayment of the Loan’, he is liable for $1,150,000 once the Loan is due and unpaid: now on the 27 February reading, and on the 8 April reading from 8 April 2025 if Grace has not repaid. If he is bound only by his oral undertaking, Grace’s failure to pay when due, arguably including March’s interest, payments being stated only until ‘8 February 2025’, likely breaches it and sounds in damages. Rocky’s $10,000 claim, against AMPL or alternatively Pierre, likely stands; being conditional,[42] it falls due only once Grace repays, so never if Grace, who said he ‘might not pay at all’, does not, and likely never if Rocky pays instead.
+
+Word count: 1,499
+
+[1] Gibson v Manchester City Council [1979] 1 WLR 294, 298 (Lord Diplock) (‘Gibson’).
+
+[2] Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, 534 (McHugh JA) (‘Empirnall’).
+
+[3] Ermogenous v Greek Orthodox Community of SA Inc (2002) 209 CLR 95, [25]–[26] (Gaudron, McHugh, Hayne and Callinan JJ) (‘Ermogenous’).
+
+[4] Masters v Cameron (1954) 91 CLR 353, 363, quoting Winn v Bull (1877) 7 Ch D 29, 32 (Jessel MR).
+
+[5] Godecke v Kirwan (1973) 129 CLR 629, 642–3 (Walsh J) (‘Godecke’).
+
+[6] Meehan v Jones (1982) 149 CLR 571, 580–1 (Gibbs CJ) (‘Meehan’).
+
+[7] Godecke (n 5) 646–7 (Gibbs J).
+
+[8] Meehan (n 6) 581 (Gibbs CJ).
+
+[9] Ibid 589–90 (Mason J), quoting Thorby v Goldberg (1964) 112 CLR 597, 605.
+
+[10] Meehan (n 6) 581 (Gibbs CJ).
+
+[11] Trident General Insurance Co Ltd v McNiece Bros Pty Ltd (1988) 165 CLR 107 (Brennan J dissenting) (‘Trident’).
+
+[12] Port Jackson Stevedoring Pty Ltd v Salmond & Spraggon (Aust) Pty Ltd (1978) 139 CLR 231, 269 (Mason and Jacobs JJ) (‘Port Jackson’), quoting Scruttons Ltd v Midland Silicones Ltd [1962] AC 446, 474 (Lord Reid).
+
+[13] Coulls v Bagot’s Executor & Trustee Co Ltd (1967) 119 CLR 460, 494–5 (Windeyer J dissenting) (‘Coulls’).
+
+[14] Ibid 487 (Taylor and Owen JJ).
+
+[15] Ibid 486 (Taylor and Owen JJ).
+
+[16] Ibid 487 (Taylor and Owen JJ).
+
+[17] Gibson (n 1) 298 (Lord Diplock).
+
+[18] Brambles Holdings Ltd v Bathurst City Council (2001) 53 NSWLR 153, 177 (Heydon JA) (‘Brambles’), quoting Integrated Computer Services Pty Ltd v Digital Equipment Corp (Aust) Pty Ltd (1988) 5 BPR 11,110, 11,117–18 (McHugh JA).
+
+[19] Empirnall (n 2) 534 (McHugh JA).
+
+[20] Brambles (n 18) 176 (Heydon JA), quoting Eccles v Bryant [1948] Ch 93, 104 (Lord Greene MR).
+
+[21] Port Jackson (n 12) 269 (Mason and Jacobs JJ).
+
+[22] TA Sundell & Sons Pty Ltd v Emm Yannoulatos (Overseas) Pty Ltd (1955) 56 SR (NSW) 323, 327 (‘Sundell’).
+
+[23] Wigan v Edwards (1973) 47 ALJR 586, 594 (Mason J).
+
+[24] Pao On v Lau Yiu Long [1980] AC 614, 632 (‘Pao On’).
+
+[25] Ermogenous (n 3) [26] (Gaudron, McHugh, Hayne and Callinan JJ).
+
+[26] Banque Brussels Lambert SA v Australian National Industries Ltd (1989) 21 NSWLR 502, 523 (Rogers CJ) (‘Banque Brussels’).
+
+[27] Council of the Upper Hunter County District v Australian Chilling and Freezing Co Ltd (1968) 118 CLR 429, 437 (Barwick CJ) (‘Upper Hunter’), quoting G Scammell & Nephew Ltd v Ouston [1941] AC 251, 268 (Lord Wright).
+
+[28] Ermogenous (n 3) [25] (Gaudron, McHugh, Hayne and Callinan JJ).
+
+[29] Trident (n 11) (Deane J).
+
+[30] Empirnall (n 2) 534 (McHugh JA).
+
+[31] Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 456–7 (‘Australian Woollen Mills’).
+
+[32] Empirnall (n 2) 535–6 (McHugh JA).
+
+[33] Coulls (n 13) 495 (Windeyer J dissenting).
+
+[34] Roscorla v Thomas (1842) 3 QB 234, 237; 114 ER 496 (Lord Denman CJ).
+
+[35] Pao On (n 24) 629–30.
+
+[36] Australian Woollen Mills (n 31) 456.
+
+[37] Brambles (n 18) 164 (Heydon JA).
+
+[38] Ibid 191 (Ipp AJA).
+
+[39] Meehan (n 6) 582 (Gibbs CJ).
+
+[40] Upper Hunter (n 27) 437 (Barwick CJ).
+
+[41] Beaton v McDivitt (1987) 13 NSWLR 162, 185 (McHugh JA dissenting), citing Secured Income Real Estate (Aust) Ltd v St Martins Investments Pty Ltd (1979) 144 CLR 596, 607 (Mason J).
+
+[42] Meehan (n 6) 582 (Gibbs CJ).

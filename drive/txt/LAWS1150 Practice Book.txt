@@ -1,0 +1,1625 @@
+How to read this
+
+Each past paper was answered by the same pipeline that will run on the 2026 T3 paper: three independent issue spotters, a lead drafter writing in your voice from your torts paper, the verifier (every quotation checked against the scanned page and its pinpoint), a blind panel of four markers (examiner, issue auditor, accuracy tracer, AGLC and style), and a reviser who checked every marker finding against the source before accepting it. Only Weeks 1 to 4 materials were used, even where that year’s course differed. The marks are the panel examiner’s, who was told to be strict; they measure progress between drafts, not the mark a real marker would give.
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------
+  Paper             Facts                                                                                First draft       Final (cold re-mark)
+  ----------------- ------------------------------------------------------------------------------------ ----------------- ----------------------
+  2019 T3           QueenBea and Kim Kay: battle of forms, variation, reasonable fee, Rob’s 10%          79                not re-marked
+
+  2020 T3           Felted Hats: ATGS grant, Gerard’s past services, Ethereal Sounds’ fee range, Bloom   82                not re-marked
+
+  2021 T3           Mary Stefas: Klaus’s variation, Luna’s deposit, Faulkner’s cleaning clause           78.5              not re-marked
+
+  2022 T1           Best Power, New Auto and Baker & Associates: Masters, supply term, extra fee         80.5              not re-marked
+
+  2022 T3           JammyJam: @#@, Ninja and Sventy7                                                     84                not re-marked
+
+  2023 T3           Djarren, Thé, Greg and Igii: lost pets, fee increase, reward                         80                not re-marked
+
+  2024 T1           Carol Danvers, Nick, Monica and Kamala: holograms                                    80.5              85.5
+
+  2026 T1           Advanced Technology, Tim, Helen and Smarty                                           82                84
+  -----------------------------------------------------------------------------------------------------------------------------------------------
+
+In this book the footnotes run on continuously, so an answer’s ‘(n X)’ cross-references point to its own numbering, not the book’s; each paper’s standalone final.docx, formatted for submission, keeps the right numbers. Every final answer passes the verifier with no failed quotation; the few CHECK lines left are explained in each paper’s triage file (mostly Pao On, whose extract prints no page).
+
+Pre-submission checklist
+
+Pre-submission checklist (from eight practice runs)
+
+Drafter runs it before handing draft_v1 to the markers; reviser runs it again before final.docx. Every line rests on LESSONS.md (run in brackets) or STYLE.md. RECURRED = came back despite an earlier lesson: do these twice. [repeat] = recurred once and was sharpened.
+
+1. Issue finding and structure
+
+-   Before spotting issues, open question_pages and treat italics, pencil, handwriting, strike-through and attachments as planted facts; question.txt drops them (2019_T3).
+-   Before budgeting, map every planted phrase to every doctrine it could serve (‘needs to be further negotiated’ to the fourth Masters class; ‘two fees for no extra work’ to reliance and to third-party-duty consideration) and read ambiguous words (‘Claim it if you can’) in each meaning (2022_T1, 2023_T3).
+-   Before cutting a doctrine as ‘casebook note only’, check whether a planted phrase matches its definition; if so argue it and cut weaker analysis instead (2022_T1).
+-   Before any formality or Masters analysis, classify each message once (offer, acceptance, counter-offer, inquiry) on the majority’s analysis (Butler 404 Lord Denning MR, 405–6 Lawton LJ), never on a both-ways formula only the minority supports (2022_T3, 2024_T1).
+-   Before a Part with three or more people, name the parties to each contract and promise (Ermogenous [33], identifying parties only), then run privity both ways and the third-party-duty point before any existing-duty defence (2021_T3, 2026_T1).
+-   Before a third-party advisee’s section, list her routes (joint promisee; acceptance by her own act on an implied request, Woollen Mills 458, Clarke 244; duty owed to a third party via Pao On; the dissent’s reading of the instrument), write them first, then answer each on whether the promise was bargained for (2024_T1).
+-   Before an existing-duty answer, exhaust the promisee’s routes in the parties’ own words (‘estimated’, ‘will be prepared’, completion, a separately priced category, a variation in the acceptance call), ask the first question (Stilk ‘at liberty’) before any exception, then ask who proposed the extra (2021_T3, 2022_T1, 2026_T1) [repeat].
+-   Before using a promisee’s outlay, give her own route first (request; Pao On ‘was to be remunerated’; Roscorla ‘implied by law’) and then the condition that defeats it; a planted ‘on your behalf’ gets a one-line agency flag (2026_T1).
+-   Before writing headings, use ‘I. X’S CLAIM AGAINST Y’ per claimant and defendant, lettered sub-issues, a concluding line per claim; anything beyond Weeks 1 to 4 (estoppel, duress as vitiating factor, frustration, termination, damages quantum, ACL) gets one line only (standing, STYLE).
+-   Before answering any ‘is X entitled’ question, give the per-unit figure, the total on each scenario and the clause that limits the base, and tie Part totals together (2019_T3, 2024_T1).
+
+2. Argument
+
+-   RECURRED 1. Before writing any claim the advisee brings, or a threshold that goes against the advisee, write the advisee’s case first as a full paragraph from every planted fact, its own words included (Mary’s ‘If you finish … I will pay’ as a unilateral offer), with its closest authority, then answer each point; compare the word counts of the two sides (2024_T1 gave 46 words against 200) (2020_T3, 2021_T3, 2023_T3, 2024_T1).
+-   Before answering a contested issue, list every argument for the losing side, lead with the one a good opponent would lead with at full strength, then answer it; if words are short, cut the weak counter, not the strong one (2019_T3).
+-   Before relying on a fallback rule, state the presumption the opponent invokes in the source’s words with its pin (Masters 363, ‘of similar import’ prima facie an overriding condition), then answer it (2022_T3).
+-   Before concluding a point worth real money or a whole claim, write ‘likely …, though …’ with the figure each way; argue even easy elements both ways in a sentence (intention: onus Ermogenous [26], counter, decisive answer) (2019_T3).
+-   Before settling a point the register maps as contested (revoking a unilateral offer after commencement), walk the authority each way with its status and who rejected it, then the factor test on the facts, then the remedy (2020_T3).
+-   Before resting a conclusion on one contested threshold, give the other branch and its result in two sentences, and for each branch of a multi-class doctrine write one sentence on what it does to every later Part, down to the money (2021_T3, 2022_T3, 2023_T3) [repeat].
+-   Before submitting, find every fact used in two Parts or two issues and write the reconciling sentence on one doctrinal footing (eg Ermogenous [25] plus privity), pointing to the quoted fact that differs; never supply the differing fact (2019_T3, 2026_T1).
+-   Before applying one doctrine in two claims, apply it the same way and say why it helps one claimant and not the other (‘up to’ has a ceiling but no floor) (2020_T3).
+-   Before construing a disputed clause, state its effect as a promise, as a condition and as no term, and say which reading each Part relies on (2022_T1).
+-   Before characterising a deal as unilateral, reconcile each element of the test that speaks of a promise (2022_T1).
+-   Before quoting any test, write one line on whether the court found it met, on what facts, and which side of ours that result lies (Ipp AJA’s ‘necessarily’ was met in Brambles, 197) (2026_T1).
+
+3. Law and attribution
+
+-   Before stating any rule, point to its register entry or add the passage to register_supp.md verbatim with a pin; otherwise cut it; never cite slides or editors’ notes as law (standing).
+-   Before using any passage, including a register_supp entry, write the question the court was answering there and compare any hypothetical with our facts (Bowen LJ’s lost dog answers notice, not who performed) (2023_T3).
+-   Before labelling a bench, count it in the casebook (four joint plus one concurring is a majority, Ermogenous); recall Lord Denning MR’s Butler patterns were his alone, Birkett LJ adopts Lord Goddard CJ in Boots, Lord Diplock quotes Lord Denning MR in Gibson to reject him (standing, 2021_T3).
+-   RECURRED 2. Before the verifier, run the three-question footnote pass on every citation: (a) does the passage or its next sentence say ‘Perhaps’, ‘But’, ‘However’ or ‘though’? quote or state the hedge (Gibbs J’s ‘Perhaps it may be different’, Godecke 647, obiter and only where essential terms are agreed; Santow J’s ‘though by no means conclusively’, 744; proportionality after ‘unfair pressure’); (b) is it the whole Court or Board (Woollen Mills HC, Mobil, Masters, Roscorla, Pao On)? name no judge; (c) is the judge dissenting, or one judge’s words credited to several? write ‘dissenting’ in body and footnote and name the one judge (2020_T3, 2022_T3, 2023_T3, 2024_T1, 2026_T1).
+-   Before applying a dictum, check whose position it describes (promisor or promisee, offeror or offeree, payer or payee) and whether our party holds it (‘within specified parameters’ is a promisor’s discretion) (2020_T3).
+-   Before distinguishing or transposing a case, read the editors’ facts bracket and the passage the court made decisive, and set the clause construed beside ours (Mason J’s ‘each party’ rests on ‘null and void’); if its facts suit the other side, present it as the opponent’s best case (Empirnall) (2020_T3, 2021_T3, 2022_T1) [repeat].
+-   Before applying a test, read what the passage says may not be used to satisfy it (Whitlock 461 excludes extrinsic evidence of importance), and test every marker-proposed application against that limit (2022_T1, 2022_T3).
+-   Before applying a qualification, use its own test, not its rationale (Wigan 595: an honest claim, not vexatious or frivolous; not ‘threatening unscrupulously’) (2021_T3, 2026_T1).
+-   Before stating when or from whose view a test applies, find words in the passage that say so; else reason from the element’s own words (Santow J’s ‘obtains in practice’, ‘capable of being viewed by B’) (2024_T1).
+-   Before writing a threshold sentence, confirm the pinned passage states the proposition (Ermogenous [33] only identifies parties); pin ‘left open’ points where they are left open (Meehan 591, 597–8) (2019_T3, 2020_T3).
+-   Before quoting, read the next sentence and keep confining words (‘of a contract of carriage or bailment’); put the footnote straight after the quoted words when the rest of the sentence is your inference; never put a judge’s words about his case into his mouth about our parties (2019_T3, 2026_T1).
+-   Before describing a case’s facts, read them in the judgment, not memory (Meehan’s condition went to completion, 582; Empirnall had an admitted oral contract; Roffey’s own surveyor persuaded it to pay, 10) (2019_T3, 2021_T3, 2023_T3).
+-   Before citing a case for a rule, find the rule’s words in that judgment; if only the textbook states it (revocation communicated, Byrne; bare promise to hold open, Goldsbrough Mort; postal rule and email; privity’s burden side, Taddy; agency, Port Jackson, Scruttons), cite the footnoted case by report only, no pin, no quoted words, and never borrow a neighbouring case (Felthouse for revocation) (standing, 2021_T3, 2022_T3, 2023_T3, 2026_T1).
+-   Before stating ETA s 13A, give its conditions in full (designated address, or awareness if none designated) and say it fixes the time of receipt, not knowledge of terms (2026_T1).
+-   RECURRED 3. Before any sentence on a promisee’s remedies in Coulls, copy Windeyer J’s four holdings verbatim into plan.md from W4 C4A Casebook pp 334 to 336: he rejects the nominal view (‘I do not see why’, 501; ‘(I do not think it is)’, 503); three substantial-loss examples (creditor; someone A feels a duty to reward or recompense; an activity A wishes to promote), damages ‘less, or more’; the damages are A’s own (‘why should A hold for C the proceeds’, 502); ‘not persuaded’ C could force A to sue, on the assumptions of no trust and a wholly gratuitous transaction (502), specific performance only ‘as at present advised’ (503). Check every sentence against that block and write ‘dissenting’ (2019_T3, 2024_T1).
+-   Before relying on Coulls joint promisees, say four judges support it but it is not ratio (Taylor and Owen JJ conditional, 486); read ‘brought by both’ as joinder, not a bar (Barwick CJ 479, C sues joining B as defendant, judgment for both; Windeyer J 493, after an offer of indemnity against costs; both dissenting); party status is construction of the instrument (487) (standing, 2022_T3, 2023_T3).
+-   Before citing Brambles, write ‘Ipp AJA’ (Mason P agreeing) for the majority, pin his words from ‘the increase in fees’ on at 197 (misprinted ‘[172]’), state that a protesting offeree that took benefits that ‘could not be severed’ accepted; Heydon JA’s ‘much to be said’ and revival are minority obiter (standing, 2022_T3, 2026_T1).
+-   Before using revocation of a unilateral offer, cite Mobil as the whole Court: it refused any universal rule and its revocation reasoning is arguably obiter; its factors are at 501 (knowledge of commencement is factor (i)), 506 and 507. Abbott v Lance and McPherson J are known only as Mobil reports them at 505 and are the first roll call to cut (standing, 2020_T3, 2026_T1).
+-   Before citing Beaton, state the split (Kirby P no consideration; Mahoney JA and McHugh JA a promise for an act; appeal dismissed with McHugh JA dissenting) and that Kirby P rejected McHugh JA’s analysis at 171 (standing, 2020_T3, 2026_T1).
+-   Before citing Meehan, say it has no majority on honest versus reasonable (Gibbs CJ honesty 581; Mason J undecided 590–1; Wilson J 597–8); Mason J’s ‘acting honestly, or honestly and reasonably’ is 590, ‘mere declaration’ 589 (standing, 2019_T3, 2024_T1).
+-   Before citing Pao On, keep its two points apart: (1) Lord Scarman’s conditions (‘was to be remunerated’) from the extract, [1980] AC 614 with no pin, Board so no judge; (2) the third-party-duty holding only as textbook [4.200] and Glidewell LJ (Williams v Roffey 15, ‘a tripartite relationship’) report it, ‘citing Pao On’, never in Lord Scarman’s words (standing, 2021_T3, 2023_T3, 2024_T1).
+-   Before using Trident, go only through the textbook: Deane J alone, a sufficient two-limb test (‘should be inferred if … and if …’) on the promisee’s intention, cited ‘quoted in’ Paterson and Robertson 295 [11.110]; describe the gate illustration by its facts (A, B, C, the act) and put no textbook sentence in the judges’ mouths (2019_T3, 2024_T1).
+
+4. Facts
+
+-   RECURRED 4. Before drafting, list every verb of who did, said, instructed or proposed what, in the problem and in each distinguished case, and match each to a quoted line; any adjective doing legal work (‘uncommunicated’, ‘unprompted’, ‘all day’, ‘absent’) needs a quoted fact; a performance the narrator only implies becomes ‘if, as planned, …’ (2020_T3, 2022_T3, 2023_T3, 2024_T1, 2026_T1).
+-   Before quoting a fact, check the speaker (party or narrator: ‘merely a handful of minor edits’ was the narrator’s) and read the whole utterance; if the omitted half bears on the issue, quote it or do not quote (2022_T1, 2026_T1).
+-   Before saying who wrote or added any word on a document, check the page image for exactly which words (only ‘Kays’ was pencilled) (2019_T3).
+-   Before using a derived fact (a weekday from a date, ‘immediately’ moved onto another verb), drop it; facts are quoted exactly or marked ‘arguably’ or further information (STYLE; 2021_T3, 2024_T1 triage).
+
+5. AGLC
+
+-   Before finalising, check each first citation is in full with a short title, every short form used in the body is defined, and unused short titles are removed (2020_T3, 2026_T1).
+-   Before writing an embedded source, use ‘quoting Case (year) report pin (Judge)’ or ‘citing’, never ‘adopting’, ‘discussing’ or ‘describing’, never a citation inside the judge’s brackets, and name the original speaker (Lord O’Hagan, Jessel MR, Megaw J) (2020_T3, 2022_T3, 2024_T1).
+-   Before submitting, check pins: after a comma, no ‘at’, paragraphs in [ ], en dash ranges in footnotes only (261–2), ‘Ibid 535 (McHugh JA)’ when the judge changes, full stop at the end; split or range-pin a quotation crossing a printed page marker; keep pins where markers are missing (Roffey 11, Todd 74–6) (standing, 2020_T3, 2022_T1, 2026_T1).
+-   Before submitting, check settled forms: ‘Ipp AJA’; ‘and’ not ‘&’ in case names; The Crown v Clarke; Rogers CJ Comm D; Ermogenous [2002] HCA 8; (2002) 209 CLR 95; Stilk ER 1168–9; UNCITRAL Guide named in full (standing, 2019_T3, 2022_T3, 2026_T1).
+-   Before citing any source, cite the report from the casebook heading, never the casebook or slides; the textbook only for ‘quoted in’ or a contested academic point (STYLE).
+
+6. Style (Yusuf’s voice, STYLE.md)
+
+-   Before drafting, read Part A of his LAWS1061 torts mid-term and use his moves: rule first, facts quoted into the sentence; ‘Firstly, … Secondly, however, …’; ‘Decisively,’ once per claim; ‘X is distinguishable: …’; ‘The strongest counter is …’; ‘On balance, the better view is that …, though …’; ‘Further information is needed on whether …; if …, then …’ only where it changes the advice.
+-   Before submitting, search for and remove: ‘cuts both ways’, ‘it is trite law’, ‘it is submitted’, ‘in the present case’, ‘turning to’, ‘it is clear that’; any introduction restating facts; invented abbreviations (define only parties and documents); bullets, lists, block quotes; dashes, double quotation marks and contractions in the body.
+-   Before submitting, check every sentence: one quotation per source per sentence; none over 45 words; no absolute constructions (‘X being obiter’), fragments after semicolons, or semicolon before a dependent clause; no quoting of bare function words; quotations rarely over 20 words; varied openers (not ‘strongest’ four times) (2019_T3, 2020_T3, 2022_T1, 2023_T3).
+-   Before submitting, check mechanics: Australian spelling; numerals for 10 and above; bracketed capitals for mid-sentence quotations; footnotes citation only; ‘intention to create legal relations’ in full; each claim ends with its own concluding line (STYLE, 2022_T1, 2024_T1).
+
+7. Word budget method
+
+-   RECURRED 5. Before writing, put a budget per claim summing to 1,450 (about 36% to the most valuable claim); before revising, list every accepted addition with its word cost beside a named cut; draft each section at 90% of its budget and run the verifier’s count after each section (first revisions ran 1,633; 2,036; 1,882; 1,838; 1,813; 1,815; 1,783; 1,823) (every run).
+-   Before cutting, take in this order: a second authority or judge roll call for one point; unplanted further-information lines; facts quoted twice; the threshold sentence; the weakest third factor of a walk; a second illustration of one point; a quotation where paraphrase plus the footnote carries it; a sentence restating a footnoted characterisation. Never cut a planted doctrine (2020_T3 to 2026_T1).
+-   Before submitting, set ‘Word count: N’ to the verifier’s body count (headings in, footnotes and that line out), at or under 1,500 (PIPELINE).
+
+8. Verifier
+
+-   Before running, use your own scratch folder (never a shared r.json): python3 -I /home/claude/LAWS1150/_tools/verify.py check draft.md -c /home/claude/LAWS1150/_tools/corpus.json --facts question.txt --crops crops -o verify.json (standing).
+-   Before accepting the result, require 0 FAIL, lint clean, every CHECK fixed or listed in plan.md with its reason, and the crop opened for every OCR quotation; since 9 Oct a CHECK usually means a real pin or attribution fault (standing, 9 Oct).
+-   Before ‘fixing’ a CHECK by changing a pin, compare it with the expected list: Pao On no AC pin (also a lint line); Meehan 589; Milne 473; Henthorn, Bressan, Tallerman via [3.210]; Heydon JA quoting Lord Wilberforce 176–7; Pao On duress passage; Trident via the textbook short form; report-only textbook cases (lint); record each as expected (standing, 2021_T3, 2024_T1).
+-   Before trusting a PASS, remember the parser merges two quotations separated only by a footnote marker (put words between), skips one-word quotations (check by hand), passes problem words as facts even where a source has them, and needs ‘found N times’ rows checked for the cited hit (standing, 2022_T1, 2023_T3).
+-   Before building the .docx, remove paired dollar signs and any possessive after a closing bracket (“(k)’s”); after make_docx.py, scan word/document.xml for oMath and reversed marks and rerun the verifier on the .docx (2023_T3).
+
+2019 T3: QueenBea and Kim Kay: battle of forms, variation, reasonable fee, Rob’s 10%
+
+First draft 79/100.
+
+What the first draft got wrong
+
+Draft v1 marked 79/100; main losses were one-sided argument on the two most valuable contested points, and three source misreadings.
+
+-   Typography is fact. question.txt drops italics; here they marked pencil on a printed form, which decides the battle of forms and the third party’s status. Read the page images and treat italics, handwriting, strike-through and attachments as planted facts. Then quote only what the image shows: v1 said Bea pencilled the whole heading when only one word was pencilled. Rule: never describe who wrote or added a word without checking the image for exactly which words.
+-   Strongest counter, not the easiest one. v1 rebutted a weak counter (a narrow, price-limited dictum) and omitted the opponent’s best (the planted remark plus a broader alternative test). Rule: for each contested issue list every argument for the losing side, pick the one a good opponent would lead with, state it at full strength, then answer it; if a word budget forces a cut, cut the weak counter.
+-   No contested issue settled in one flat sentence. Rule: any point worth real money or a whole claim gets ‘likely … though …’ and, where it changes the advice, the figure each way.
+-   Meet the other side’s best facts on formation, and keep Parts consistent. v1 used the third party’s signature line to make him a party in Part II while calling it irrelevant to formation in Part I. Rule: when the same facts serve two issues, write the reconciling sentence (eg the offer to one offeree was accepted, the offer to the other was not).
+-   Argue even the easy elements both ways in a sentence. Intention on social facts needs the onus, the counter, and the decisive answer (later conduct, Todd v Nicol).
+-   Quantify every ‘is X entitled’ question: give the per-unit figure and the totals on each scenario, and say which clause limits the base.
+-   Read remedy passages of dissents to the end. v1 turned Windeyer J’s doubt about nominal damages into a rule that damages are nominal unless the promisee owed a debt; he gave several substantial-loss examples and rejected the nominal view. Rule: before stating what a judge ‘would’ award, read the whole passage and the next pages for the judge’s own conclusion and the ‘as at present advised’ or dissent label.
+-   Describe a distinguished case’s facts from the judgment, not memory: Meehan’s condition went to the obligation to complete, not to whether the contract bound at all. A test quoted from a case (Trident, Deane J) must keep its form: ‘should be inferred if … and if …’ is sufficient, not necessary, and has two limbs.
+-   Pin each footnote to the passage that supports the proposition stated, not only the quoted words (a ‘left open’ proposition needs the page where it is left open).
+-   Quote-stitching and length: one quotation from a source per sentence, split at the footnote; no sentence over about 45 words. Absolute constructions (‘X being obiter’) and trailing ‘besides’ read as broken.
+-   Do not quote three function words (‘at least where’); paraphrase. Do not put a judge’s words about the case before him into his mouth about your parties (‘on his view a promisor in X’s position …’).
+-   Verifier: the false CHECK PIN from a statute year in the .docx is fixed in the tool (8 Oct). The first full rewrite ran to 1,633 words: write it, count with the verifier, then cut low-yield roll calls of judges and repeated facts first.
+
+Final answer
+
+Word count: 1,498
+
+I. KIM’S CLAIM AGAINST QUEENBEA
+
+A. Formation
+
+The advertisement gives Kim no right to ‘$500 per post’. A website proposal invites offers unless it ‘clearly indicates’ an intention to be bound,[1] and ‘Apply through the link below’ seeks applications, like the invitation ‘to make formal application’ in Gibson.[2] Decisively, Kim saw it only after the Festival, so could not have accepted it.[3]
+
+Intention to create legal relations is likely present, though Kim bears the onus.[4] QueenBea may point to the ‘third round of drinks’ between friends who laughed at the sudden formality. Yet the test is what ‘would objectively be conveyed by what was said or done’,[5] and paid promotion of a commercial festival by a ‘prominent’ influencer, on standard forms, conveys legal commitment. Decisively, Kim signed and emailed the form three days later and both performed, conduct admissible to discover that intention.[6]
+
+Kim’s signed form was an offer to which Bea, who ‘read it quickly and put it in her bag’, manifested no assent.[7] Kim having proposed that ‘we can write it down on yours’, Bea’s signed form was a counter-offer operating, in words Lawton LJ adopted, ‘to kill the original offer’.[8] Kim accepted it by signing and emailing ‘this all looks great to me’.
+
+Acceptance likely took effect on 31 August, when the email became ‘capable of being retrieved’ at an address Bea designated.[9] Bea will say a business card is a ‘mere indication’ of an address, so receipt awaited her awareness.[10] Yet an offer that ‘expressly specifies’ an address designates it,[11] as Bea did in asking for the agreement at the card’s address. Otherwise, Kim’s performance was arguably acceptance by conduct,[12] though placing her hashtag first makes it equivocal.
+
+QueenBea’s best answer is Rob’s missing signature: Bea pencilled ‘Kays’ and ‘Rob Kay’ onto the form, nodded when told Rob would sign, and asked for the ‘finalised agreement’. Whether a contract awaits every signature ‘depends upon the intention disclosed by the language’,[13] and the form imposed every obligation on Kim and none on Rob, so his signature could only make him a party. Bea’s payment for ‘images which complied with the agreement’ confirms formation, being admissible post-contractual conduct.[14] A contract between QueenBea and Kim was therefore likely formed, the offer to Rob remaining unaccepted.
+
+B. The hashtag order
+
+Butler is analogous: the sellers’ conditions ‘had disappeared from the story’ once they signed the buyers’ acknowledgment,[15] and Kim’s email never mentioned her own form, so printed clause 4, with the QueenBea hashtag ‘listed first’, governs. Kim’s strongest counter is that Bea, having read Kim’s ‘condition’ that #valYOUable ‘must appear first’, said ‘you can include it in all posts’, objectively assenting to it. Alternatively, Lord Denning MR might scrap irreconcilable terms,[16] leaving no order requirement. Yet Bea read Kim’s form only ‘quickly’, and her words address inclusion, not order, beside a printed clause settling order expressly. Lord Denning MR’s view was his alone; Lawton LJ applied ‘set rules’,[17] under which Kim’s unqualified signature accepted clause 4.
+
+The six posts of 1 to 3 September, carrying ‘#valYOUable and #empowHERment hashtags, in that order’, therefore likely breached clause 4 and, by clause 7, earned nothing, though Bea’s remark keeps this arguable. Waiver, and restitution for unpaid posts, are outside scope.
+
+C. The 4 September posts
+
+Clause 5’s proviso does not make Kim’s promise illusory, since it leaves her only ‘a latitude of choice as to the manner’ of performance.[18] On whether she validly invoked it, Meehan has no majority: Gibbs CJ required only honest satisfaction, ‘not that of some hypothetical reasonable man’;[19] Mason J and Wilson J left reasonableness open, though both read the authorities as favouring honesty.[20]
+
+Firstly, Kim was plainly honest: she ‘looked in the mirror’ and was ‘looking incredibly tired’. Secondly, however, if reasonableness applies, Bea will say tiredness is not unfitness, since Kim was fit to attend, and that her face was what QueenBea bought. Yet Bea pencilled the proviso subjectively, turning on whether ‘Kim is not satisfied’, and Kim still posted two Festival images with QueenBea’s hashtag first. Meehan is distinguishable in Kim’s favour: there the condition decided whether the purchaser had to complete a land purchase at all,[21] which is why Mason J feared escape ‘on a mere declaration’,[22] whereas clause 5 alters only the manner of one day’s images. The 4 September posts therefore likely complied, though finely balanced if reasonableness applies.
+
+D. The 5 September posts
+
+Clause 2 required each image to ‘remain visible for the duration of the Festival’, so deleting the 5 September posts after a full day’s visibility breached it unless the 3 September concession binds. QueenBea will say Kim gave nothing, since a promise ‘to do no more than the promisor is bound to do’ is no consideration,[23] and this was no bona fide compromise, as Kim never asserted she was not bound.[24]
+
+Kim’s answer is practical benefit, as recast in Musumeci.[25] Firstly, Kim had contracted to supply services for payment. Secondly, her ‘thinking about discontinuing’ gave Bea reason to doubt completion. Thirdly, Bea promised an ‘other concession (such as reducing A’s original obligation)’,[26] cutting visibility to a day. Fourthly, Bea ‘knew it was unlikely that she could find a replacement at such short notice’, so, as in Roffey, she avoided ‘engaging other people’.[27] Four more days of posts were therefore ‘capable of being viewed by B as worth more to B than any likely remedy against A’.[28] Kim, too, risked her other sponsorships by staying, as the Musumeci tenants stayed ‘rather than walking away at the cost of damages’.[29]
+
+The strongest counter is unfair pressure: Glidewell LJ’s paradigm is a subcontractor who ‘declines to continue with it unless’ paid more.[30] Yet Kim demanded nothing, her reason was genuine, and Bea proposed the concession; one ‘extended by B, without extortion’ supports an inference of consideration.[31] Nor was it ‘expressly limited to a period of difficult circumstances’,[32] its only condition being a day’s visibility. The better view is that the variation binds, so clause 7 does not bite, though Musumeci is a first-instance decision; promissory estoppel, the fallback, is outside scope.
+
+E. The fee
+
+Clause 3’s ‘reasonable fee’ is certain: Hall v Busst concerned land, and Fullagar J’s contrary view was obiter.[33] For services, ‘The usual standard is that of reasonable remuneration based on market or industry criteria’,[34] which must be ‘readily ascertainable’ and proved;[35] Bea’s reliance on ‘the prevailing market rate’ concedes one exists. Kim may answer that the relevant market is for a ‘prominent’ influencer, of which QueenBea’s own ‘$500 per post’ is evidence. Her other sponsors’ rates would decide whether the fee exceeds $400.
+
+Kim is therefore likely entitled to a reasonable fee for the eight images of 4 to 7 September, leaving $1,600 unpaid at $400 or $2,400 at $500, rising to $4,000 at $400 if she also wins on the hashtag order.
+
+II. ROB’S ENTITLEMENT TO PAYMENT
+
+A. Rob’s own claim
+
+Only a party may sue,[36] and Bea’s reason that Rob ‘didn’t sign the agreement’ misstates the test, since ‘the mere fact that her signature appears does not make her a party’.[37] Coulls is distinguishable in Rob’s favour: there the heading and operative words named only the husband and the company, which McTiernan J held to ‘countervail against the inference’ from Mrs Coulls’s signature,[38] whereas Bea pencilled ‘Kays’, Rob’s name and clause 6. Decisively, however, Rob gave no ‘external manifestation of assent’,[39] having ‘already left for a vacation’, and Kim signed only her own line, not as his agent. Even as a party, Rob gave no consideration, so could enforce only as a joint promisee, Kim’s services being ‘a consideration given on behalf of them all’.[40] Four Coulls judges accepted that principle, though not as ratio, and it requires Kim to be a party to the action.[41] Deane J would infer a trust if Kim intended that Rob ‘should himself be entitled to insist on performance’ and a trust were appropriate;[42] Rob could then sue QueenBea, joining Kim, so further information is needed. Rob therefore likely cannot sue in his own right.
+
+B. Kim’s enforcement of clause 6
+
+Kim, however, gave consideration, and on Windeyer J’s dissenting view a promisor in QueenBea’s position ‘would break its contract if it did not’ pay.[43] Clause 7 likely confines clause 6’s fee ‘for each image posted by Kim’ to compliant images, so at $400 Rob is owed $40 an image: $160 on the four Bea accepts, or $320 on eight. Windeyer J would specifically enforce promises ‘to pay money … to a third person’;[44] Barwick CJ, also dissenting, would do so at least where the promisee’s own consideration was specifically enforceable,[45] which Kim’s services were not. Otherwise, some authorities allow Kim only nominal damages, but Windeyer J would award substantial ones where Rob was her creditor or someone she felt a duty to recompense,[46] as a brother and manager may be; further information is needed. Kim can therefore arguably obtain an order that QueenBea pay Rob, though only dissenting judges support it; otherwise she recovers her own loss.
+
+2020 T3: Felted Hats: ATGS grant, Gerard’s past services, Ethereal Sounds’ fee range, Bloom
+
+First draft 82/100.
+
+What the first draft got wrong
+
+Draft v1 marked 82/100; main losses were a one-sided treatment of the client’s own claim, dicta applied to the wrong party, and AGLC form.
+
+-   RECURRED, sharpened: one opening sentence for the advisee followed by five factors for the other side is still one-sided. Rule: on a claim the advisee brings, give its case a full paragraph built from every planted fact (costing, promotion, a minister’s ‘committing’, the closest case on its side), then answer each point, even when you expect the claim to fail.
+-   Where the register maps a point as contested (eg revoking a unilateral offer once performance has begun), work through each layer: the authority each way with its status and who rejected it, then the factor test applied to the facts, then the remedy. Settling it on the decisive fact alone loses most of the marks.
+-   Before applying a dictum, check whose position it describes (promisor or promisee, offeror or offeree, payer or payee) and whether your party is in that position. v1 applied ‘a discretion within specified parameters’ (a promisor’s discretion) to a payee’s choice of its own fee.
+-   When distinguishing a case or a court’s illustration, rely on the ground the court made decisive; reread the passage. The Woollen Mills Sydney example turns on request, not on benefit to A.
+-   When one doctrine appears in two claims (eg the range rule), apply it the same way in both and say why it helps one claimant and not the other (‘up to’ has a ceiling but no floor; ‘$2,000 to $4,000’ has a floor).
+-   RECURRED: never let a phrase like ‘like X in Case’ carry a single judge’s view, least of all a dissent’s. Write the judge, his status and his words. No adjective doing legal work (‘uncommunicated’, ‘expressly’, ‘all members’) may go beyond the problem’s own words.
+-   RECURRED: a threshold sentence still needs a pinpoint that states the proposition. If the cited paragraph only implies the point, cut the sentence or restate it as the paragraph says it.
+-   AGLC: name no judges for a judgment of the whole court or the whole Board (Woollen Mills HC, Mobil, Roscorla, Pao On). Use ‘quoting Case (year) report pin (Judge)’ and ‘citing’; never ‘adopting’ or ‘discussing’, and never a citation inside the judge’s brackets. Put en dashes in footnote pin ranges. Define a short title for every case later named in short form, in the body or by (n x). (The verifier quirk with two (‘Short’) titles in one footnote is fixed in the tool, 8 Oct.)
+-   RECURRED, sharpened (2019_T3 ran to 1,633): the first full revision, with every marker addition, ran to 2,036 words. Rule: before revising, set a word budget for each claim (about 36% for the claim worth the most marks) and pay for each addition with a named cut; cut repeated authorities for one point and unplanted further-information lines first.
+
+Final answer
+
+Word count: 1,500
+
+I. FELTED HATS’ CLAIM AGAINST THE COMMONWEALTH
+
+A. Offer and intention
+
+Felted Hats’ strongest argument is that the ATGS offered grants to any group performing an Australian play, so, as in Carlill, ‘the performance of the conditions is the acceptance of the offer’.[47] Its heavy promotion, ‘$7M’ costing and the Minister’s speech ‘committing her government’ arguably show a real promise, like the deposit there.[48]
+
+However, the better view is that the ATGS was a policy statement: the Privy Council held that subsidy letters ‘cannot be read as an offer or offers to contract’.[49] Firstly, grants for ‘bold, confident productions’ that ‘may be up to $25 000’ raise the ‘uncertain factors’ that made an administrative basis natural there,[50] and a cost estimate, unlike a deposit, backs no individual claim. Secondly, the Opposition promised only ‘if they are elected’, without power to commit Crown funds, a factor against contract in Woollen Mills.[51] Thirdly, in Mobil a seriously meant commitment was still too vague to be an offer.[52] Decisively, Kitto J in Leahy asked only whether parties dealt contractually or were ‘arranging the manner and extent of gratuitous assistance’ under a policy;[53] these grants are the latter, and Felted Hats bears the onus.[54]
+
+B. Certainty
+
+Placer,[55] where a Commonwealth subsidy whose amount was to ‘rest in the discretion of the promisor’ was illusory, is the closest case.[56] Felted Hats would answer that size and duration made it ‘eligible for a $25 000 grant’, and a discretion exercised ‘within specified parameters’ is not illusory.[57] Yet ‘up to’ sets a ceiling with no floor, so holding the Commonwealth to ‘the minimum provision in the range’ yields nothing certain.[58]
+
+C. Acceptance and consideration
+
+If there were an offer, Felted Hats would invoke Starke J’s rule that one who knows of an offer and performs its conditions ‘establishes prima facie an acceptance’.[59] Though ‘her turn to decide’ suggests Danger would have been chosen anyway, a member ‘referred to the ATGS when making her case’, and a mixed motive ‘not inconsistent with’ acting on the offer need not displace that inference.[60] The votes of several members, however, are not consideration ‘moving from the plaintiff’.[61] The overspend is mere reliance, which ‘is not itself sufficient to create a contract’.[62]
+
+D. Revocation
+
+Acceptance by performance had not begun when the ATGS was suspended in June. Felted Hats would argue that its ‘well advanced’ preparations began the requested act, making the offer irrevocable. McPherson J read Abbott v Lance that way,[63] and in Beaton McHugh JA, dissenting in the result, said the McDivitts could not withdraw once Beaton began working the block.[64] However, Kirby P rejected that analysis,[65] and the Full Federal Court in Mobil, in alternative reasoning, rejected any universal rule, asking instead whether an ancillary contract not to revoke should be implied.[66] That Felted Hats ‘spent considerably more than normal’ supports one, unlike the ‘little or no actual detriment’ in Mobil.[67] Yet preparation is ‘such an ill-defined act’ as Mobil would not lightly protect,[68] and Starke J suggested no right to the reward arises until the conditions are ‘completely performed’.[69] Decisively, the Government protected only performances commenced ‘by 30 June’, and Danger was set to open on 10 July.
+
+Felted Hats therefore likely recovers none of the $25,000 or its overspend in contract; estoppel lies outside this advice. Further information is needed on whether it applied once the scheme was ‘set up and running’; if an approved application stated terms, those would govern.
+
+II. GERARD’S CLAIM AGAINST FELTED HATS
+
+Despite Gerard’s volunteer history, a fixed rate answered by his invoice objectively shows intention.[70] The real problem is consideration, since the sets ‘took him four days to complete’ and the promise came ‘[o]n the fourth day’. A past consideration ‘will support no other promise than such as would be implied by law’.[71] As a completed sale could not support a later warranty in Roscorla, finished painting cannot support a later promise.
+
+Gerard’s best answer is Lord Scarman’s exception: the act must be requested, ‘the parties must have understood that the act was to be remunerated’, and an advance promise must have been enforceable.[72] Enforceability is met, and request is likely if Felted Hats asked him to paint as in past years. Gerard would add Bowen LJ’s statement that a past service ‘raises an implication that at the time it was rendered it was to be paid for’.[73] Decisively, however, three years ‘without charging a fee’ rebut it, and the treasurer’s ‘this year he would be paid’ marks a new reward, unlike the restriction in Pao On that ‘must be compensated for’.[74]
+
+The strongest counter is that if painting remained after the promise, finishing was fresh consideration, whose adequacy is not weighed.[75] Yet praise of ‘excellent’ sets and a rate covering all four days reads as a reward for past work. Nor would Felted Hats’ hope of the grant make payment conditional, unless made a term; McHugh JA, dissenting in the result, called a comparable motive in Beaton ‘a motivating factor’ but ‘not a condition’.[76]
+
+Gerard therefore likely recovers none of his $1,400. Further information is needed on whether work remained after the promise or payment was discussed beforehand; if so, he likely recovers $1,400.
+
+III. ETHEREAL SOUNDS’ CLAIM AGAINST FELTED HATS
+
+A. Agreement
+
+Ethereal Sounds’ reply, adding a fee ‘between $2 000 and $4 000’, was the operative offer: either Felted Hats’ email merely invited offers, or the new term operated ‘to kill the original offer’.[77] Silence on the fee is not acceptance of it.[78] Yet Felted Hats replied in words, and a reasonable bystander would read ‘look forward to receiving the score’, sent after the fee was stated, ‘as signalling to the offeror that his offer has been accepted’.[79] A paid commission shows intention, and the mutual promises supply consideration.
+
+B. The brief
+
+Gillian’s verdict that the score is ‘unusable’ does not defeat the claim. Unlike the finance clause in Meehan, nothing made the commission subject to Felted Hats’ satisfaction,[80] and ‘as you see fit’ gave Ethereal Sounds ‘a latitude of choice as to the manner’ of performance.[81] Felted Hats would reply that the latitude runs only within the brief, and one note and a backwards kookaburra convey ‘hidden menace’ but arguably no ‘surface beauty’. Even an implied satisfaction term would demand honesty,[82] which Gillian’s single listen tests. Conformity is a breach question, outside this advice.
+
+C. The fee
+
+Felted Hats could argue that a fee left to Ethereal Sounds means ‘no concluded bargain’, as Gibbs J suggested without deciding.[83] However, Kirby P would hold a party to ‘at least the minimum provision in the range’,[84] as Lewandowski enforced a $7,000 to $9,000 salary range at its minimum.[85] It is analogous as pay for services, though here the payee named the range. Ethereal Sounds would claim ‘reasonable remuneration based on market or industry criteria’,[86] but with ‘no further information about how the fee would be calculated’, no proved standard supports more.[87]
+
+On balance, Felted Hats likely owes $2,000, not $4,000. Further information is needed on market rates; if a reasonable fee is proved, Ethereal Sounds could recover up to $4,000.
+
+IV. FELTED HATS’ CLAIM AGAINST BLOOM
+
+A. Agreement and intention
+
+Bloom’s letters promise $5,000 for ‘just doing your thing’, and Felted Hats accepted its July selection, so a contract formed then or, at latest, on performance. Bloom may call its ‘unusual promotional campaign’ binding in honour only, but Rogers CJ held at first instance that promises ‘uttered in the course of business’ should be enforced absent a clear contrary indication.[88] Bloom’s post, ‘This week we paid the members’, is later conduct confirming that intention.[89]
+
+B. Consideration
+
+Bloom’s strongest argument is that Felted Hats gave nothing: it need only do ‘[w]hatever you like’, and the post says ‘Nothing else’. Like B in the Woollen Mills illustration, who may have ‘intended to go to Sydney anyhow’, Felted Hats would receive a conditional gift.[90] The better view favours consideration. Firstly, unlike A, who was not shown to have requested B’s journey, Bloom expressly paid ‘$5 000 in return for’ the role.[91] Secondly, and decisively, Bloom bargained for the right to ‘promote our relationship with you’, which it exercised by posting ‘Brought to you by Bloom’. That is a ‘benefit accruing to one party’.[92] Thirdly, ‘Whatever you like’ gives latitude as to manner, not as to whether Felted Hats lends its name.[93] Further information is needed on Bloom’s existing sponsorship; if it already permitted such publicity, Felted Hats did ‘no more than the promisor is bound to do under the contract’, and consideration fails.[94]
+
+C. The withdrawal and the multivitamins
+
+Once the appointed week had passed, a ‘change of policy’ is no answer, since an offer binds whoever performs ‘before it is retracted’.[95] Felted Hats should decline the ‘large box of multivitamins’ or accept it expressly not in satisfaction, since an accepted substitute may discharge the debt where it ‘operates by way of accord and satisfaction’.[96]
+
+Felted Hats therefore likely recovers $5,000, though finely balanced on whether ‘Nothing else’ shows Bloom sought nothing.
+
+2021 T3: Mary Stefas: Klaus’s variation, Luna’s deposit, Faulkner’s cleaning clause
+
+First draft 78.5/100.
+
+What the first draft got wrong
+
+Draft v1 marked 78.5/100; main losses were a case distinguished on facts it did not have, a rule cited to a case that does not state it, and a multi-party Part analysed without its parties.
+
+-   Check a case’s own facts before distinguishing it. v1 said Mary, unlike the Empirnall offeree, took no benefit she was not already owed; the casebook facts say Empirnall had admitted an oral contract, so the case was Faulkner’s best authority. Rule: before writing ‘unlike X in Case’, read the editors’ facts bracket and the passage the court decided on; if the case’s facts match the other side, present it as the opponent’s best case and distinguish on the ground the court made decisive (here knowledge of the terms, 536).
+-   Some basic rules are stated only in the textbook or slides, never in an extracted judgment: revocation must be actually communicated (textbook [3.110], fn to Byrne v Van Tienhoven); a bare promise to hold an offer open is not binding (textbook, Goldsbrough Mort); the postal rule’s probable non-application to email (textbook, Olivaylle); privity’s burden side (textbook [11.60]); the Pao On third-party holding (casebook note, Glidewell LJ, textbook). Rule: before citing a case for a rule, find the rule’s words in that judgment; if only the textbook states it, cite the case the textbook footnotes (report only, no pin, no quoted words) or reason from what the extracted cases do say. Never borrow a case that decides a neighbouring point (v1 used Felthouse, an acceptance case, for revocation).
+-   When a Part has three or more organisations or people, first name the parties to each contract and promise (Ermogenous [33]), then run privity both ways and the third-party-duty exception before any existing-duty consideration defence; v1’s ‘which it already owed’ ignored that the duty might be owed to a third party.
+-   Where a Part’s conclusion rests on one contested threshold (here a binding oral contract before the documents), give the other branch and its result in two sentences; otherwise the conclusion is unreasoned if the threshold fails.
+-   Apply a qualification by its own test, not by the words that explain its rationale. v1 used Mason J’s ‘threatening unscrupulously’ as a bar; the Wigan test is an honest claim, not vexatious or frivolous. Likewise ask the first question of a doctrine before its exceptions (did the event change the existing duty: Stilk ‘at liberty’).
+-   RECURRED, sharpened: the advisee’s best argument can lie in its own words (Mary’s ‘If you finish … I will pay’ reads as a unilateral offer). Read the advisee’s own communications for the reading that defeats formation.
+-   Bench labels in the register can be wrong: four judges in a joint judgment with a fifth concurring is a majority, not a plurality. Check the bench in the casebook before labelling.
+-   RECURRED: the revision with every marker addition ran to 1,882 words. Rule: draft the revision against a 1,450 budget and cut whole low-yield sentences (second authorities, unplanted further-information lines, duplicate quotations of the same fact) before polishing. Verifier: a (‘Short title’) after a pin page where the case name does not appear gives a false CHECK, and a report citation the materials cannot pin (Pao On) gives a lint line; both are expected and explained, not ‘fixed’ with an invented pin.
+
+Final answer
+
+Word count: 1,498
+
+Frustration, termination, duress, estoppel and restitution are outside this advice.
+
+I. KLAUS’S CLAIM AGAINST MARY
+
+A. The variation
+
+Mary accepted Klaus’s Quotation; on 26 August she answered his $3,000 demand with an offer of $2,500 extra.
+
+Mary’s strongest argument is that this offer was unilateral: ‘[i]f you finish the whole job by 7 September, I will pay’ asks for an act, which is then ‘also an executed consideration for the promise offered’.[97] If so, her 31 August notice revoked it before Klaus began. Yet ‘Let me know by 31 August’ asks for a reply, so the offer was likely bilateral, and the dated sentence fixes only when $8,000 falls due.
+
+Hiring another painter on 28 August revoked nothing, since a withdrawal takes effect only when actually communicated.[98] Nor was Klaus’s email complete on sending: on the High Court’s view the postal rule needs an offeror who ‘contemplated and intended’ acceptance by that act,[99] and Mary asked to be told.
+
+If Mary designated her address, the email was received on 29 August, read or not.[100] Arguably she did by sending her offer from it, though merely showing an address is not designation.[101] Otherwise receipt also required that she ‘has become aware’ it had been sent,[102] which arguably occurred when Klaus told her so on 31 August, before she mentioned the other painter; his words were arguably themselves an oral acceptance.[103] Either way acceptance arrived by her deadline, so a variation was likely formed.
+
+B. Consideration for the extra $2,500
+
+A promise ‘to do no more than the promisor is bound to do under the contract’ is generally no consideration.[104] Klaus’s first answer is that the health orders freed him from the 7 September date, so promising to meet it exceeded his duty, as Lord Ellenborough CJ accepted crew ‘at liberty to quit the vessel’ could have done.[105] Yet Klaus promised to ‘recommence work as soon as he is permitted’, treating himself as bound, and whether the date survived is a frustration question.
+
+Klaus’s main answer is practical benefit, as Santow J, at first instance, recast Williams v Roffey.[106] With the exterior unstarted, Mary had reason to doubt completion; she promised more for his promise to finish on time; and, as ‘no one is currently available’, his performance was capable of being viewed as worth more than any likely remedy.[107] The $6,000 painter appeared only later.
+
+Mary’s strongest point is Santow J’s fifth element, which excludes a promise ‘induced as a result of unfair pressure’.[108] Klaus demanded more and drove away, near Glidewell LJ’s subcontractor who ‘declines to continue with it unless’ paid more,[109] though Klaus threatened only lateness. Williams v Roffey is distinguishable, as there the payer proposed the increase. Yet Mary fixed her own capped figure after canvassing other painters, and a concession extended ‘without extortion’ supports, though not conclusively, an inference of consideration.[110]
+
+Alternatively, ‘I agreed to that before the movement restrictions came in’ arguably asserted Klaus was no longer bound. A Wigan compromise needs no threat to sue or winning claim, only one honestly made and, on the stricter test, not ‘vexatious or frivolous’.[111] A claim resting on health orders meets both, though Mary may say ‘the COVID lockdown put me behind’ asserts only delay.
+
+On balance, the better view is that practical benefit likely supports the promise, though finely balanced, as duress may decide the fifth element. If so, the price is $13,500 rather than $11,000.
+
+C. The demand for $8,000
+
+Mary promised $8,000 only ‘[i]f you finish the whole job by 7 September’, and the original balance fell due only ‘on satisfactory completion’. Klaus never finished, so he has at most a damages claim against a contract sum of $8,000 or $5,500. Klaus therefore likely has a binding variation, but no debt of $8,000.
+
+II. LUNA’S CLAIM AGAINST MARY
+
+A. Agreement and intention
+
+Mary’s tentative ‘I’m wondering if you could do me a favour’ became an offer once she stated firm terms, and Luna, after protesting, ‘eventually agrees’ and took the $1,000.
+
+Luna bears the onus, and Ermogenous doubted the utility of presumptions.[112] The test is what would ‘objectively be conveyed by what was said or done’.[113]
+
+Luna’s strongest case is that Mary used the language of a paid booking: a ‘jazz singer and pianist’ asked to play four Saturday nights at ‘your usual fee’, with a deposit and a balance. When Luna protested that she was a ‘charity case’, Mary insisted she had ‘been trying to work out entertainment for those Saturdays’. Mary’s later remark that she was ‘just offering you that work to help you out’ cannot contradict those words,[114] and earlier in that call she spoke of Luna coming to ‘start your performances’.
+
+Mary’s answer is the setting: the parties were romantically involved, she asked ‘a favour’, she paid the deposit ‘so you have something in the meantime’, and Luna herself saw charity. Unlike the plaintiffs in Todd, who sold their belongings and left Scotland, Luna has changed nothing.[115] Yet affection no more excludes a contract than spirituality did in Ermogenous,[116] and Mary’s aim of sparing ‘Luna’s pride’ was never conveyed. On balance, the better view is that intention is likely present, because commercial form does the work that emigration did in Todd, though the romance keeps it arguable.
+
+B. Consideration and certainty
+
+Luna’s promise was the price of Mary’s, since Mary requested the performances,[117] and ‘[m]otive is not the same thing with consideration’.[118] Nor is ‘your usual fee’ uncertain, being an external standard that can be proved,[119] here $1,800. ‘[W]hen the restaurant opens’ leaves Mary discretion only over ‘the fulfilment of a condition’,[120] now set for 29 October.
+
+C. The $1,000
+
+Mary’s demand for ‘the $1,000 I let you borrow’ fails either way: under a contract it was a ‘deposit’ on the fee, and without one Luna never promised to repay. Mary is therefore likely bound to Luna, exposed on the $800 balance, and cannot recover the $1,000 in contract.
+
+III. FAULKNER LOCATIONS’ CLAIM AGAINST MARY
+
+A. The 28 August contract
+
+Identifying the parties demands ‘close attention’.[121] On 28 August Trent negotiated the hire for Shock Value, which paid the $8,000, but said that ‘Faulkner Locations takes care of a COVID clean’, a promise by his company to Mary. Read with ‘so you don’t need to worry about that’, it was promissory and made in the course of business,[122] so Faulkner was to bear the cost.
+
+Faulkner’s strongest case is that nothing bound Mary before its ‘usual Location Agreement which is a bit more detailed’, since where a contract ‘involving the possibility of new terms’ remains to be adopted, the parties are still negotiating.[123] Mary blocked the dates only ‘in my calendar in the meantime’.
+
+The better view is that the parties proposed only a restatement ‘fuller or more precise but not different in effect’.[124] Mary had only to ‘dot the i’s and cross the t’s’, and Trent offered ‘all of that’ in ‘black and white’. Conduct after formation is admissible on formation,[125] and Shock Value paid before any document was handed over. Masters is distinguishable: there the solicitors could add whatever they ‘may fairly consider appropriate’.[126]
+
+B. Clause 13
+
+Faulkner’s best case is Empirnall, where an admitted oral contract did not stop the offeree accepting later written terms by taking the benefit of continued work ‘with knowledge of its terms’.[127] Mary likewise read that the parties would carry out ‘their respective obligations set out in this Agreement’, then let three more days of filming and cleaning proceed. Stephen J treated failing to reject ‘after he has had an opportunity of learning of the conditions’ as acceptance.[128]
+
+Decisively, Mary lacked the knowledge Empirnall required. There a letter ‘made clear what was the basis’ of the work,[129] whereas Trent presented the document as ‘all of that’, Mary read only two paragraphs saying nothing of cleaning, and that morning she had handed over contrary terms. Stephen J addressed a ticket offered before any contract, not a document after one. Mary’s conduct, equally explained by the existing bargain, was not such ‘as necessarily to lead to the inference’ of acceptance.[130]
+
+Even if she assented, clause 13 offered only that Faulkner ‘will arrange’ cleaning it already owed her, so her promise to pay half lacked consideration.[131] Faulkner may say that duty was owed to Shock Value, and a promise to perform a third party’s duty can be consideration, as in Pao On,[132] but Trent promised Mary directly. Clause 24 cannot help Mary either: who is a party turns on construing the instrument,[133] and it binds ‘the person hiring the venue’, Shock Value. Faulkner, a party with obligations under the Location Agreement, faces no privity bar.
+
+If instead nothing bound Mary before the documents, Trent’s ‘That’s right’ acknowledged an exchange of terms rather than accepting hers, and the later Location Agreement, a counter-offer, killed her Hire Terms.[134] Three days of filming, unexplained by any prior contract, would likely accept it. Mary therefore likely owes Faulkner nothing rather than $420, provided the 28 August contract stands.
+
+2022 T1: Best Power, New Auto and Baker & Associates: Masters, supply term, extra fee
+
+First draft 80.5/100.
+
+What the first draft got wrong
+
+Draft v1 marked 80.5/100; main losses were a planted doctrine cut as ‘note only’, a test applied with the very evidence it excludes, and misquoted facts.
+
+-   A doctrine whose definition matches a planted phrase must be argued even if the materials hold it only in a casebook note (the fourth Masters class and Sunny’s ‘needs to be further negotiated’). Rule: map every planted phrase to its doctrine before budgeting, and cut weak analysis, never the doctrine the examiner planted.
+-   Apply a test by its own evidential limits. v1 proved essentiality under Whitlock from James’s later outburst, though Whitlock (461) excludes extrinsic evidence of importance. Rule: before applying a test, read what the passage says may not be used to satisfy it, and apply it only to what it admits (there, the contract’s terms).
+-   Read a party’s words in every legal character they could bear and keep the readings consistent. v1 read ‘we do need to ensure there will be sufficient supply’ only as a promise; as a condition for the buyer it is certain (Meehan’s crude oil condition). Rule: for each disputed clause, state its effect as a promise, as a condition and as no term, and say which reading each Part relies on.
+-   Quote the speaker, the whole utterance and the right speaker. v1 gave the narrator’s ‘merely a handful of minor edits’ to Sunny, halved James’s 18 July sentence and cut Nathan’s ‘but we will need to charge an extra A$5,000’. Rule: before quoting, check who says it in the problem and read the full sentence; if the omitted half bears on the issue, quote it or do not quote at all.
+-   RECURRED, sharpened (2020_T3 decisive ground): a judge’s conclusion about a clause rests on its words (Mason J’s ‘each party’ on ‘null and void’). Rule: before transposing a judge’s result, set the clause he construed beside ours and say whether the operative words match.
+-   When a fact names a non-party entity (‘will be the buyer’), run privity with the majority’s holding, not a dissent’s general statement, and reconcile it with the formation finding (who is party on each branch).
+-   RECURRED, sharpened (2021_T3 first question): on an existing-duty point, exhaust the promisee’s routes around the duty from the problem’s own words (‘estimated’, ‘will be prepared’, a variation agreed in the same call as acceptance) before any exception; and when you characterise a deal as unilateral, reconcile each element of the test that speaks of a promise.
+-   RECURRED: the revision with every accepted finding ran to 1,838 words; per-section estimates ran about 10% under the verifier’s count. Rule: draft each section at 90% of its budget and run the verifier after each section, not at the end.
+
+Final answer
+
+Word count: 1,496
+
+I. BEST POWER’S CLAIM AGAINST NEW AUTO
+
+A. Offer and acceptance
+
+Sunny’s 15 June email was likely only an invitation to treat: ‘We expect to sell’ is no firmer than ‘may be prepared to sell’ in Gibson,[135] and Best Power asked only ‘whether your company may be interested’, as the council invited only an application.[136] James’s 25 June email was therefore New Auto’s offer, which Sunny’s ‘sounds good’ accepted; were Sunny’s email an offer, the added finance term would make the reply a counter-offer.[137]
+
+B. Whether New Auto was bound before execution
+
+Parties contemplating a formal contract are bound if they meant to be bound at once (the first class) or made only performance conditional on execution (the second), not if they intended no ‘concluded bargain at all, unless and until they execute a formal contract’ (the third).[138]
+
+Best Power’s strongest case is that nothing remained to agree: no words made the deal subject to contract, James called the proposal ‘acceptable to us’, and the agreement was to be ‘based on what we have discussed’. Lord Blackburn treated a contract as complete once the drafters cannot vary the settled terms,[139] and Best Power made ‘merely a handful of minor edits’. Its best authority is the fourth class, where parties are ‘content to be bound immediately and exclusively by the terms which they had agreed upon’ while expecting further terms by consent,[140] just as Sunny said supply ‘needs to be further negotiated’.
+
+However, the better view is the third class. Decisively, Sunny’s assent asked for an agreement ‘for our review’, reserving Best Power’s approval of the formal terms. In Masters, a contract acceptable to the vendor’s solicitors could include ‘whatever else the solicitors may fairly consider appropriate’, so no contract arose;[141] review by Best Power itself is wider. Nothing limited Best Power’s review, it revised the draft, and nothing records signing; while a contract ‘involving the possibility of new terms’ remains to be adopted, the parties are still negotiating.[142] The fourth class fails too, since New Auto, having said it did ‘need to ensure’ supply, was never content to be bound ‘exclusively’ without it. Nor does the absence of subject to contract words matter, since ‘no special form of words is essential’.[143]
+
+New Auto, like Best Power, was therefore likely free to withdraw on 18 July, though this is finely balanced given the minor edits. On the first, second or fourth class, New Auto was bound to buy 49% for A$10 million, subject to the conditions below.
+
+C. The buyer
+
+Only a party may enforce a contract, and party status turns on the instrument itself.[144] Any contract formed on 27 June is New Auto’s, as offeror; but if one arises only on execution of an agreement naming New Auto Australia Pty Ltd as buyer, as James proposed, Best Power must sue the subsidiary, and New Auto, a stranger, could not enforce any supply promise ‘for New Auto’.
+
+D. The conditions
+
+If New Auto was bound, its finance condition was neither uncertain nor illusory: New Auto judges satisfaction honestly, for Gibbs CJ, and perhaps also reasonably, for Mason J,[145] so it could not invoke finance to escape a supply grievance. Mason J let each party avoid because the Meehan clause made the contract ‘null and void’;[146] New Auto’s clause lacks those words, so the right to avoid may be New Auto’s alone.
+
+Were the supply words a condition rather than a promise, they would be certain, like the Meehan condition meant to ensure ‘a sufficient supply of crude oil’,[147] and Sunny’s refusal would let New Auto honestly treat them as unmet; but, unlike the finance term, they carry no ‘subject to’.
+
+Sunny should therefore be advised that Best Power likely cannot enforce the sale.
+
+II. NEW AUTO’S CLAIM AGAINST BEST POWER
+
+New Auto’s strongest argument is that its supply requirement sat in the very email Sunny answered with ‘sounds good’. Yet the test is what ‘would objectively be conveyed by what was said’:[148] ‘we do need to ensure’ states New Auto’s need, not a promise by Best Power, which had ‘decided not to renew’ supply. Even if promissory, it fixes no quantity, price or delivery. New Auto would answer that commercial arrangements attract ‘no narrow or pedantic approach’[149] and that the expired contract supplies the standard; yet Best Power refused to renew it, and nothing adopted its terms. Unlike the Whitlock lease clause, which at least invoked terms in common use, these words fix no standard.[150]
+
+Were the term void, severance would turn on ‘the intention of the parties as disclosed by the contract’, not James’s later ‘the battery supply was all we wanted’.[151] New Auto’s offer put supply beside price, but the draft it forwarded ‘without reviewing it’ presumably omitted supply, so the contract’s own terms leave essentiality doubtful.
+
+New Auto therefore has no supply claim.
+
+III. BAKER & ASSOCIATES’ CLAIM AGAINST NEW AUTO
+
+A. The Engagement Letter
+
+James’s strongest argument is that he never returned the signed copy requested and stayed silent for 12 days, and silence is generally not acceptance.[152] Yet an offeree with ‘a reasonable opportunity to reject’ services who takes their benefit, in circumstances indicating payment according to the offer, may be held to accept.[153] Empirnall is closely analogous: the developer never signed the contract sent for signature, kept taking the work and was bound, because its objection went only ‘to the manner of acknowledging’ the terms.[154] Here James, on 28 June, said ‘well done. Please proceed with the other work’, a request stronger than Empirnall’s continued receipt of work. His private view that the fee was ‘a bit high’ is irrelevant.[155] A contract on the letter’s terms was likely formed on 28 June.
+
+Stage 1 preceded acceptance, a point Empirnall left undecided,[156] but the Pao On conditions are met: New Auto requested it, ‘Can you please let us know your fee?’ shows both parties expected payment, and a promise to pay for requested legal work would have been enforceable in advance.[157] Nathan is entitled to A$30,000, now paid.
+
+B. The extra A$5,000
+
+Because Nathan promised only to ‘try’, James’s promise was accepted by delivery of the draft, which was ‘also an executed consideration’.[158] A promise to perform an existing duty is no consideration, at least where one contracting party promises the other ‘to do no more than the promisor is bound to do’.[159]
+
+Nathan may deny that duty. Firstly, he may say the ‘estimated fee’ and ‘A draft agreement will be prepared’ gave only a forecast; yet ‘estimated’ qualifies the fee, the date followed ‘We understand the urgency in this matter’, and both parties called the A$5,000 ‘extra’. Secondly, he may say the A$5,000 was agreed in the same 28 June call as acceptance, forming part of the original bargain; yet ‘Please proceed’ accepted the letter before Nathan raised delay. Thirdly, illness did not release him: desertion in Stilk was ‘an emergency of the voyage as much as their death’,[160] and staff illness was likewise a risk his undertaking bore. Nor did he claim he was not bound, so no compromise arises.[161] Delivery on 10 July gave, if anything, less than ‘before 10 July 2021’.
+
+Nathan’s best route is practical benefit, adopted in New South Wales by Santow J, sitting alone, in Musumeci.[162] Nathan’s forecast of a 28 July draft gave James reason to doubt timely performance, and James’s ‘otherwise we may lose the deal to another competitor’ identifies the benefit: a draft 18 days earlier, protecting an A$10 million transaction, was capable of being ‘worth more’ than any likely remedy, even at A$5,000.[163] Element (iii) speaks of a promise by A, the performer, which Nathan never gave; but the proviso turns on ‘A’s performance’, and delivery, the bargain’s intended result, gave more than a promise.[164]
+
+The contest is Santow J’s element (v): whether New Auto’s promise was induced by ‘unfair pressure’ from Nathan, ‘having regard to the circumstances’.[165] James’s best point is that in Williams v Roffey the payer, persuaded by its own surveyor that the price was ‘too low’, chose to pay a bonus.[166] Here Nathan, who had promised the date knowing of the urgency, demanded the extra, like Glidewell LJ’s obiter subcontractor who ‘declines to continue with it unless’ paid more.[167] Even unforeseen hardship does not ‘justify a demand for re-negotiation backed by unfair pressure’.[168]
+
+The better view is Nathan’s, though finely balanced. Decisively, he did not decline to continue: he gave a cause, ‘Many of our lawyers are unwell’, and replied ‘we can try but we will need to charge an extra A$5,000’, while James framed the condition himself without objecting to the price. Genuine illness bears on the ‘proportionality of any pressure’,[169] and A$5,000 is only 17.9% of the A$28,000 Stage 2 fee.
+
+Nathan is therefore likely entitled to A$35,000, leaving A$5,000 owing; if a court found unfair pressure, New Auto would owe nothing beyond the A$30,000 paid. Further information is needed on whether the illness was genuine; if the delay was contrived, element (v) likely defeats Nathan.
+
+2022 T3: JammyJam: @#@, Ninja and Sventy7
+
+First draft 84/100.
+
+What the first draft got wrong
+
+Draft v1 marked 84/100; main losses were the opponent’s best formality rule left unstated, doctrinal branches not followed into later Parts, and attribution in footnotes.
+
+-   Classify every message in a chain (offer, acceptance, counter-offer, inquiry) before any formality doctrine: v1 went straight to Masters although ‘Yes’ plus a new term is a counter-offer that the next message accepted, which is what puts the stipulation inside the bargain.
+-   When you rely on a rule’s fallback (construction where words are not express), first state the presumption the opponent invokes in the source’s own words and pin (here Masters 363, ‘of similar import’ words prima facie create an overriding condition), then answer it. Asserting the fallback alone answers a weaker argument than the one the examiner planted.
+-   RECURRED, sharpened (2021_T3 branches): follow each branch of a multi-class doctrine into every later Part. v1 conceded class 2 in a clause (no waiver, no mutual duty to bring the document into existence) and never noticed that on class 3 a later ‘agreement’ forms the contract, so the existing-duty problem in the next Part disappears. Write one sentence per branch saying what it does to each later issue.
+-   Markers can reintroduce old errors: the examiner proposed proving essentiality from negotiation history, which Whitlock 461 excludes (2022_T1). Rule: test every marker-proposed application against the passage’s own evidential limits before accepting it; negotiation facts go to formation, not to essentiality.
+-   Tie each factual inference to the fact that proves it and check the other side’s words before characterising an act: knowledge came from ‘then remembers’, not ‘subscribes’; ‘all day’ and the auditor’s ‘unprompted’ were wrong (JammyJam had told Ninja to ‘just log in’). Adjectives about conduct (‘unprompted’, ‘uncommunicated’, ‘all day’) need a quoted fact.
+-   RECURRED (2020_T3): a dissenting judge’s words were credited to ‘four judges’. When several judges share a principle in different words, quote one, name him and his status in the body, and mark dissents in the footnote.
+-   Verifier (the marker-crossing, dissent-label and quoting issues are fixed in the tool, 9 Oct). Nested double marks trip the lint, so end a quotation before an inner quoted word (‘play for at least 20 minutes’ per war).
+-   RECURRED (every run): the revision with all accepted findings ran to 1,813 words. Rule: before rewriting, list each accepted addition with its word cost beside a named cut; the cuts that paid here were the threshold sentence, the weakest third factor of a walk, facts quoted twice, and a second authority for one point.
+
+Final answer
+
+Word count: 1,496
+
+I. @#@’S CLAIM AGAINST JAMMYJAM
+
+A. Parties
+
+Whether @#@ is a party turns on ‘the written instrument itself’.[170] Kai’s ‘We agree to pay you’ made the bargain one with both developers, so JammyJam’s promise to play was made to them jointly, as ‘our real names’ confirms; Coulls is distinguishable, as that contract ‘purports expressly to be one made between’ husband and company.[171] However, the discussion was ‘mostly between Kai and JammyJam’ and payment comes ‘from me’; yet a joint promise needs only, in the dissenting Windeyer J’s words, ‘a consideration given on behalf of them all’, a principle four judges accepted, though not as ratio.[172] @#@ therefore likely has standing, but must join Kai, who wants ‘nothing to do with the game’, as a defendant after tendering costs.[173]
+
+B. Formation
+
+Kai’s message, stating every term and asking only ‘All good?’, was an offer; JammyJam’s ‘Yes’ added that they ‘need final agreement to be sent through for electronic signatures under our real names’, a counter-offer which Kai’s ‘Strange but OK’ accepted.[174] Masters asks whether parties were then bound at once, bound with performance ‘conditional upon the execution of a formal document’, or not bound until execution.[175]
+
+JammyJam’s strongest argument is the third class: ‘need final agreement’ is arguably an expression ‘of similar import’ to subject to contract, which prima facie creates an overriding condition.[176] With the ‘Key points of contention’ left as formulae, ‘the possibility of new terms’ remained.[177]
+
+However, the reply is not expressly subject to contract, so construction decides ‘whether the parties intended that the terms agreed on should be put into form’.[178] Unlike Masters, where solicitors could add ‘whatever else’ seemed appropriate,[179] the stipulation adds no terms, only signatures, and Kai’s ‘Strange’ shows he saw a formality. As in Empirnall, signing went to ‘the manner of acknowledging’ terms, not their substance.[180] Post-contractual conduct is admissible on formation,[181] and decisively JammyJam acted as bound: they told Ninja of a ‘launch gig’ with ‘good money’, promoted the game, logged in with no final document, and said ‘their job is done’. Intention is likely, as a ‘professional gamer’ agreed a fee after ‘much negotiation’, though ‘All good?’ reads casually.[182]
+
+On balance, the better view is the first class, a contract on Kai’s ‘OK’, though ‘need’ and ‘final’ keep the third arguable. On the second, JammyJam’s play fell due only once both sides brought the document into existence,[183] unless JammyJam, by playing, waived a stipulation arguably ‘inserted solely for the benefit of one of the parties’.[184] On the third, launch-day conduct may still form a contract, including Part D’s 20-minute term, if ‘capable of proving all the essential elements of an express contract’,[185] though the period problem remains.
+
+C. Certainty and breach
+
+On the fee, JammyJam will say ‘market expectations’ for launch fees, like share packages in ‘a new and speculative field’, are unprovable.[186] Yet under a firm promise to pay for services, a conclusion of illusory consideration ‘will only be drawn where no standard exists by which the promise can be valued’.[187] Like Barwick CJ’s bridge at cost, a measure fixed ‘at the time of launch’ is certain though disputed in application.[188] The fee is therefore likely certain if a market is proved.
+
+JammyJam owed ‘at least three’ wars ‘every 24 hours for the period of the launch’, held only to that minimum.[189] Firstly, no end date was agreed, and a standard must be one ‘which is proved’,[190] whereas a week is only what the developers ‘claim is the industry standard’. Secondly, Kai’s ‘Anything less than a week is pointless’ is post-contractual, so inadmissible on meaning.[191] @#@ replies that the launch was a real event with a set start, so the term is not ‘so obscure and so incapable of any definite or precise meaning’ as to fail.[192] On balance, the period likely fails unless a one-week standard is proved and, defining JammyJam’s performance, cannot be severed, so the contract fails, as JammyJam may assert though they stopped.[193]
+
+JammyJam played at least eleven wars in the first 24 hours, which performs any one-day launch, but on a one-week launch is at least fifteen wars short, three for each 24 hours after hour 48. Further information is needed on hours 24 to 36, where up to three more may be owed.
+
+D. The promise to play 20 minutes per war
+
+The first question is what the developers gave for JammyJam’s promise to ‘play for at least 20 minutes’ per war; no new promise appears, and continuing to pay, doing ‘no more than the promisor is bound to do’, is no consideration.[194] @#@’s best route is a ‘bona fide compromise of a disputed claim’.[195] For it, the developers, as the parties giving the existing promise, must have asserted that JammyJam was in breach, honestly and, on the stricter test Mason J applied, not vexatiously or frivolously, though not necessarily soundly.[196] JammyJam’s reply that they ‘never promised to play for a minimum period of time’ suggests the developers claimed a breach, settled by the ‘further discussion’, though their ‘disappointment’ may be mere grievance. Practical benefit does not fit, as Williams v Roffey concerns a payer promising more.[197] Further information is needed on whether a breach was asserted: if so, the promise likely binds; if not, it is gratuitous, unless on the third class the promise to pay was fresh. Even if binding, the promise, read commercially, bars quitting early rather than requiring long wars, since a war ends when a team reaches 1,000 points or loses them all.[198] The eight Ninja wars, played ‘very successfully’, thus likely breach nothing, unlike, arguably, the later ‘short and ineffective playing’.
+
+@#@’s claim therefore likely fails unless a one-week standard is proved, and then covers at least fifteen missed wars; quantum is outside this advice.
+
+II. NINJA’S CLAIM AGAINST JAMMYJAM
+
+Whether Ninja’s reply rejected the $20 offer is a matter of construction, and JammyJam may say it was mere ‘posturing’, leaving the offer open to acceptance by logging in.[199] Yet ‘way too little money for me to be bothered’ named her own price, $50, a counter-offer whose effect was ‘to kill the original offer’.[200]
+
+Ninja’s best argument is that an offeree who, able to reject services, ‘takes the benefit of them under circumstances which indicate that they were to be paid for in accordance with the offer’ may be held to accept.[201] JammyJam read her reply and could have refused her, yet teamed up for eight wars as viewers rose, taking her play ‘with knowledge of its terms’;[202] JammyJam’s private plan to ‘negotiate a little more’ is irrelevant to ‘a reasonable bystander’.[203]
+
+The strongest counter is that silence is not acceptance,[204] and teaming up is equivocal, not conduct that ‘necessarily’ implies acceptance;[205] Ninja logged in and sent no message, and JammyJam teamed with random players too. Teaming up might revive JammyJam’s offer to ‘team up with you in-game’, on Heydon JA’s minority reasoning.[206] Yet JammyJam singled out the one player whose price they knew, and, as in Brambles, the benefit could not be ‘severed from the obligations proposed’.[207] That Ninja is an ‘old gamer friend’ does not displace intention in a paid ‘launch gig’.[208]
+
+Ninja therefore likely recovers $400, eight wars at $50, though $160 if the $20 offer survived or was revived, and nothing if teaming up was not acceptance.
+
+III. SVENTY7’S CLAIM AGAINST JAMMYJAM
+
+A. Offer
+
+Sventy7 will argue that the video was an offer to the world, binding to anyone who ‘performs the condition’,[209] as ‘$300 up for grabs if you’re the first person to jam me’ names a sum and a defined act. JammyJam replies that a generally accessible online proposal, which a video arguably is, ‘is to be considered as an invitation to make offers’ unless it clearly shows an intention to be bound,[210] and that ‘I dare you’ is banter, with no Carlill deposit.[211] On balance, the dare invites the act, and a reward for the first performer clearly shows that intention, so it is likely an offer. Further information is needed on whether JammyJam, promoting the game, spoke as the developers’ agent, making them party to any contract.[212]
+
+B. Acceptance
+
+The decisive question is whether Sventy7 acted ‘on the faith of’ the offer.[213] Performance with knowledge of the offer ‘establishes prima facie an acceptance’,[214] and Sventy7, who ‘then remembers the YouTube post’, knew of it and did jam JammyJam. However, the inference ‘may be excluded by evidence’, including his own statements or conduct.[215] Firstly, he was throwing ‘haphazardly in every direction’. Secondly, he answered congratulations with ‘?’. Thirdly, he remembered the post only once another player mentioned the $300, so his ‘Oh yeah’ came after the jam. Like Isaacs ACJ’s swimmer, he performed ‘without any thought of the offer’.[216] Clarke is analogous on its decisive ground, as the claimant’s own statements rebutted the presumption;[217] that Clarke alone acted ‘to clear himself’ matters little, since motive is only evidence and the offer was not in Sventy7’s mind.[218]
+
+Sventy7’s claim to $300 therefore likely fails, though knowledge and exact performance keep it arguable.
+
+2023 T3: Djarren, Thé, Greg and Igii: lost pets, fee increase, reward
+
+First draft 80/100.
+
+What the first draft got wrong
+
+Draft v1 marked 80/100; main losses were three passages applied beyond what they say (a joinder rule read as a bar, a notice illustration read as deciding who performed, a hedged dictum stated as settled), the advisee’s own formation case left unargued, and facts added by inference.
+
+-   A supplement entry can launder a misreading: register_supp S1 recorded Bowen LJ’s lost dog sentence for ‘finding is the essence’, but the passage answers whether notice of acceptance is needed and its own offer paid for bringing the dog to a place. Rule: before adding or using a passage, write down the question the court was answering in that paragraph and compare any hypothetical’s facts with ours; use it only for that question.
+-   Words like ‘must have been brought by both’ or ‘would fail if brought by one alone’ are joinder rules, not bars. Rule: read the same and adjacent pages for what happens when the co-party will not join (joined as defendant, judgment for both) and conclude on that remedy, never ‘no claim’.
+-   Hedges are part of the proposition. Quoting ‘not justify a demand … backed by unfair pressure’ without the next sentence (‘But … proportionality’), ‘without extortion’ without ‘though by no means conclusively’, and Gibbs J’s ‘Perhaps’ as ‘excepted’ each overstated the law for the opponent. Rule: for every quotation read the next sentence; if it opens ‘But’, ‘However’ or ‘Perhaps’, or the source hedges, quote or state the hedge.
+-   RECURRED, sharpened (2022_T3 inferences): ‘on Djarren’s instructions’, ‘the writing never came’ (it came on day one) and Roffey ‘offered the extra money’ (its surveyor persuaded it) were all inferences. Rule: list every verb of who did, said, instructed or proposed what, in the problem and in each distinguished case, and match each to a quoted line before drafting.
+-   RECURRED, sharpened (2020_T3): on a threshold that goes against the advisee, write the advisee’s case first with its authority (here Empirnall 535, photo as acceptance by conduct) and answer it with the opponent’s best planted fact (the requested writing added new terms); then follow both branches to the money.
+-   One planted phrase can test two doctrines (‘two fees for no extra work’: evidence rebutting reliance, and consideration from someone already paid by a third party). Rule: map each planted phrase to every doctrine it could serve, and read ambiguous references (‘Claim it if you can’: the job or the fee) in each meaning before building on one.
+-   Docx: pandoc rendered ‘$$ !!Reward!! $$’ as display maths and read the apostrophe in “(k)’s” as an opening mark, flipping the next quotation; the markdown verifier could not see either. Rule: no paired dollar signs in the body and no possessive after a closing bracket; after make_docx.py, scan word/document.xml for oMath and for reversed marks, and rerun the verifier on the .docx.
+-   RECURRED (every run): the first revision with all accepted findings ran to 1,815 words. The cuts that paid were a second pin for the same test, a second authority for the same answer (Isaacs ACJ on motive, Woolworths on adequacy), facts already stated in the next Part, and quoting a counter-offer’s terms twice; paraphrasing a lettered formula (A and B) instead of quoting it saved words and bracket substitutions.
+
+Final answer
+
+Word count: 1,494
+
+PART 1: DJARREN
+
+I. DJARREN’S CLAIM AGAINST THÉ
+
+A. Formation and the first day
+
+Djarren’s counter-offer killed Thé’s ‘$100’ offer,[219] and her hesitant reply was an inquiry that left his offer open.[220] Djarren’s best case is that Thé, knowing his terms, accepted by conduct when she sent her photo, since a reasonable bystander would read it ‘as signalling to the offeror that his offer has been accepted’.[221] The first day would then be payable, and her later ‘OK’ would adopt the written terms as a variation supported by the new promise in clause (k).
+
+Thé’s main defence is that she asked ‘Do you have anything in writing?’, and the writing added clauses (k) and (l); while a contract ‘involving the possibility of new terms’ remains to be adopted, the parties are still negotiating.[222] Nor does a bare photo ‘necessarily’ lead to the inference of acceptance.[223] On balance, the contract more likely formed at her ‘OK’ to the email carrying that writing. The first day then rests on the Pao On exception:[224] Thé asked for the search (‘I really need Loth back’), his stated fee showed both expected payment, and that fee would have been enforceable if promised in advance. Intention is plain between professionals.[225]
+
+B. Consideration for the increase
+
+Thé first argues that a promise ‘to do no more than the promisor is bound to do’ is no consideration.[226] Djarren’s ‘I don’t think I can complete it for the current fee’, she will say, shows he had sold his search until Loth was found, like the crew who ‘had sold all their services till the voyage should be completed’.[227]
+
+Decisively, however, clause (j) pays ‘per day’, and his only visible promise is the daily update in clause (k), so ‘complete it’ describes the job, not a duty. He was thus ‘at liberty to quit’, a position Lord Ellenborough CJ treated as different,[228] so his fourth day was likely fresh consideration.
+
+If Djarren was bound, practical benefit applies: Thé had reason to doubt completion, promised more, and gained Loth within the five days, which damages could never secure. Santow J counts her cost, and the fee ‘may end up costing her more than she will earn’; yet her ‘online reviews and ratings’ made finishing worth more to her than any likely remedy.[229] The contest is unfair pressure.[230] Unlike the promisor in Williams v Roffey, whose own surveyor persuaded it to pay a bonus,[231] Thé faced a demand, which Glidewell LJ thought might be duress where a subcontractor ‘declines to continue’.[232] Djarren’s ‘really challenging work’, for a cat that ‘would certainly be hard to miss’, cannot ‘justify a demand for re-negotiation backed by unfair pressure’.[233] Yet hardship bears on the ‘proportionality of any pressure’, and his was slight: no express threat, $50 a day more, and Thé agreed after ‘much thought’.[234] A concession so given ‘supports an inference, though by no means conclusively’ of real consideration.[235]
+
+On balance, the increase likely binds. Further information is needed on whether the omitted clauses bound him to finish; if so, it turns on unfair pressure and is finely balanced.
+
+C. Investigation expenses
+
+Thé’s strongest counter, echoing ‘Your terms seem a bit vague’, is that ‘any investigation expenses claimed’ leaves a vital matter to Djarren, so there is ‘no concluded bargain’, as Gibbs J suggested obiter, noting Cussen J drew no distinction where the promisee decides.[236] Yet a cost concept is certain however wide the disagreement over what it covers,[237] and Gibbs J added, tentatively, ‘Perhaps it may be different’ where only subsidiary matters are left to one party.[238] ‘Claimed’ lets Djarren choose which expenses to claim, not what counts as one, and Karga, the clause (l) arbitrator, can settle the boundary, though arbitration cannot save meaningless words.[239] The carrier ‘he bought for this very purpose’ is likely recoverable and the flashlight that found Loth arguably so, though he ‘lost his previous one’; the raincoat and lunch are personal, likely outside the term.
+
+Djarren therefore likely recovers $250 (three days at $50, one at $100), or $200 if the increase fails, less $50 if the first day is unpaid, plus the carrier and possibly the flashlight.
+
+II. DJARREN’S CLAIM AGAINST IGII
+
+A. Acceptance and consideration
+
+Igii’s poster is an offer binding Igii to anyone who, ‘before it is retracted, performs the condition’.[240] Igii’s main defence is Djarren’s own thought, ‘two fees for no extra work’: he was searching for Loth and found Moff beside it, so the reward induced nothing. Yet anyone ‘knowing of the offer who performs its conditions establishes prima facie an acceptance’, and because Igii dispensed with notice, that uncommunicated thought is admissible to show what induced him.[241] The pocketed poster, the carriers ‘he bought for this very purpose’ and the prescribed text confirm the inference.
+
+Igii’s stronger point is that the poster pays for ‘the return’, and performing some conditions gives no right to the reward ‘until he has completely performed them all’.[242] Yet the poster does not require the finder to return Moff personally, so Greg’s return likely completed Djarren’s performance.
+
+Igii may add that Djarren, already paid by Thé to search, gave ‘no extra work’. Yet his duty to Thé covered Loth, not Moff. Even a duty owed to a third party can support a promise, as in Pao On, which Glidewell LJ described as a promise to perform an obligation ‘owed to B, in return for a promise of payment by C’.[243]
+
+B. Intention
+
+Igii next relies on ‘this was always just a social, community thing’, and Djarren bears the onus.[244] Yet the test is ‘not a search for the uncommunicated subjective motives’.[245] Igii spoke only after performance, while the poster, headed ‘!!Reward!!’ between dollar signs, invited strangers ‘to claim reward’. Intention is therefore likely, though the sum is unnamed.
+
+C. Certainty
+
+Igii’s strongest defence is that ‘Big reward’ names no sum, so the promise is ‘simply too vague and uncertain’.[246] Read ‘as the public would understand it’,[247] the dollar signs answer ‘the reward isn’t money’. Kirby P would fill the amount from ‘a readily ascertainable external standard which is proved’,[248] but none is proved here. Further information is needed on customary lost-pet rewards; without a provable standard, the claim likely fails for uncertainty or, on McHugh JA’s alternative view, yields nominal damages.[249]
+
+Djarren therefore likely has a reward contract but may recover little.
+
+PART 2: GREG
+
+III. GREG’S CLAIM AGAINST THÉ
+
+Greg’s best case is that he became a party: Djarren’s email copied him with ‘I’ll need your help with this one’, he replied to all with a thumbs-up, and Thé sent her photo to both men. Clause (j) then promises to pay ‘the investigator(s)’, unlike Coulls, where there was ‘no express promise by the company to pay royalties to the wife’.[250] Alternatively, Djarren contracted as his agent, having enlisted him before sending the terms.
+
+Yet party status is ‘a question to be resolved upon a consideration of the written instrument itself’.[251] The terms are Djarren’s standard form, their ‘investigator(s)’ names no one, and they came by an email not said to be copied to Greg, whose thumbs-up answered Djarren, not Thé. Agency fails too: Lord Reid’s test requires the contract to show Djarren contracting as Greg’s agent,[252] yet Djarren dealt in his own name from the first call.
+
+‘Claim it if you can’ does not help. If ‘it’ means the job, Greg gains nothing against Thé; if it means the fee, it resembles the testator’s ‘authorise’ in Coulls, a mandate rather than a promise to Greg,[253] and words that permit rather than transfer preclude an equitable assignment.[254]
+
+Even as a joint promisee, on Taylor and Owen JJ’s conditional view, Greg could recover though Djarren gave the consideration, but ‘an action to recover must have been brought by both promisees’.[255] Barwick CJ and Windeyer J, dissenting, would let Greg join an unwilling Djarren as defendant, and Barwick CJ would give judgment for both.[256]
+
+Greg therefore likely has no claim of his own, except jointly with Djarren.
+
+IV. GREG’S CLAIM AGAINST IGII
+
+Greg’s best case is that the poster rewards ‘the return’ and treats the text only as the way ‘to claim reward’. He alone returned Moff, knowing of the reward, since he asked ‘for payment of the reward’, which prima facie establishes acceptance.[257] Yet he neither found Moff nor made the prescribed claim, and he delivered with ‘Igii’s details’ after Djarren handed Moff over, likely completing Djarren’s acceptance rather than acting ‘upon its faith’ for himself.[258] Igii’s defences also apply, so Greg’s claim likely fails.
+
+V. GREG’S CLAIM AGAINST DJARREN
+
+Read objectively, Greg’s thumbs-up likely accepted Djarren’s request for help, as an emoji did in South West Terminal, where past dealings, absent here, also counted.[259] Services under a commercial agreement are ordinarily ‘not intended to be performed gratuitously’,[260] but if ‘Claim it if you can’ meant the fee, Greg’s pay was whatever he could collect from Thé. Further information is needed on whether they share fees; if not, his claim likely fails.
+
+2024 T1: Carol Danvers, Nick, Monica and Kamala: holograms
+
+First draft 80.5/100; final re-marked cold at 85.5/100.
+
+What the first draft got wrong
+
+Draft v1 marked 80.5/100; main losses were the advisee’s own Part 2 case cut to a clause, a dissent’s remedy passage misstated again, and a textbook gloss and a timing rule presented as law.
+
+-   RECURRED despite the 2019_T3 lesson: Windeyer J’s damages view in Coulls (501 to 503) was again narrowed to the creditor case and treated as reaching the third party, and ‘cannot compel’ was stated without his hedge. Stronger rule: before writing any sentence on a promisee’s remedies, open W4 C4A Casebook pp 334 to 336 and copy into plan.md, verbatim, his four holdings with their labels: (1) he rejects the nominal-damages view (‘I do not see why’, 501; ‘(I do not think it is)’, 503); (2) three substantial-loss examples (creditor; someone the promisee feels a duty to reward or recompense; an activity the promisee wishes to promote); (3) the damages are the promisee’s own (‘why should A hold for C the proceeds’, 502); (4) ‘not persuaded’ that C could force A to sue, ‘always on the assumptions that there was no trust and that the transaction was as between A and C wholly gratuitous’ (502), with specific performance only ‘as at present advised’ (503). Every sentence on the point must be checked against that block, and the word ‘dissenting’ must appear.
+-   RECURRED, sharpened (2020_T3, 2023_T3): the advisee’s case in Part 2 got 46 words against Carol’s 200. Rule: when a Part’s advisee is a third party, list every route by which she could be a party or give consideration herself (joint promisee; offer accepted by her own act on an implied request, Australian Woollen Mills 458 and Clarke 244; a duty owed to a third party, Pao On as the textbook and Glidewell LJ report it; the dissent’s reading of the instrument), write them as her paragraph first, then answer each on the ground the promise was bargained for.
+-   A textbook’s framing sentence beside a quoted judicial illustration is not the judge’s words (‘a party who is not a joint promisee’ before the Trident gate example). Rule: when quoting an illustration known only through the textbook, describe it by its own facts (A, B, C, the act), name the case and judges in the body, cite ‘quoted in’ the textbook, and put no textbook sentence in the judges’ mouths.
+-   A test’s elements do not carry an unstated timing rule (‘the benefit is judged when Carol promised’). Rule: a proposition about when or from whose view a test is applied needs words in the passage that say so; otherwise reason from the element’s own words (Santow J’s ‘obtains in practice’, ‘capable of being viewed by B’).
+-   A message classification must follow the majority’s analysis, not a both-ways formula that only the minority’s approach supports (Butler: a reply adding a stipulation is a counter-offer on Lawton and Bridge LJJ’s analysis). Rule: classify each reply once, on the ratio, and cite the judge who applied it.
+-   Inferred facts about who did the work: the problem never said Kamala did it. Rule: when a route depends on a performance the narrator only implies, write ‘if, as planned, …’.
+-   RECURRED (every run): the revision with all accepted findings ran to 1,783 words. What paid this time: removing every second authority for one proposition, the agency clause that could not be reasoned in the space, quotations replaced by paraphrase where the citation carries the point, and facts quoted twice.
+-   Verifier: a short-form textbook reference (‘Paterson and Robertson (n 32)’) in a ‘quoted in’ citation gives a CHECK CASE/JUDGE although the full form passes; keep the AGLC short form and record the CHECK as expected.
+
+Final answer
+
+Word count: 1,497
+
+PART 1: CAROL DANVERS
+
+I. CAROL’S CLAIM AGAINST NICK
+
+A. Formation at the meeting
+
+Nick’s ‘$100,000’ rejected Carol’s opening fee, and her ‘$200,000’ subject to ‘satisfactory materials’ was a counter-offer.[261] Nick’s ‘Okay but I don’t do anything unless it’s in writing’ added a stipulation, so on the majority’s analysis it too was a counter-offer, which Carol’s ‘Great’ accepted.[262] Under Masters v Cameron, a contract binds if the writing only restates settled terms (the first class) or conditions performance (the second), but not if the parties intend no ‘concluded bargain at all’ until it is signed (the third).[263] Intention to create legal relations, ordinarily present in business, turns on the same stipulation.[264]
+
+For Carol, firstly, as the Court said in Masters, ‘All the essentials of a contract are there’: the holograms, price, deadline and her condition were settled, and Nick said ‘Okay’.[265] Secondly, Nick used no formula such as ‘subject to contract’, so ‘it becomes a question of construction’,[266] and a stipulation for a formal agreement ‘does not, by itself, show that they continue merely in negotiation’.[267] Thirdly, ‘I don’t do anything’ speaks of Nick’s performance, fitting the second class, where, as Rich and Starke JJ held in Niesmann, payment due on signing made signing ‘a condition of the obligation to pay’.[268] Fourthly, Carol promptly engaged Monica, and post-contractual conduct is admissible on formation.[269]
+
+The strongest counter is that writing ‘for my lawyers to look at’ is of similar import to ‘subject to contract’, words which ‘prima facie create an overriding condition’.[270] Masters itself turned on solicitors who could add ‘whatever else the solicitors may fairly consider appropriate’.[271] Carol’s ‘standard contract’ may likewise add terms, and Nick’s silence and resort to Dar-Benn point against a contract. Godecke v Kirwan, where a vendor’s solicitors could add terms yet a contract bound, is distinguishable: Walsh J (Mason J agreeing) confined them to consistent terms reasonable ‘in an objective sense’, whereas nothing confined Nick’s lawyers.[272] Carol’s conduct cannot displace ‘the intention disclosed by the language the parties have employed’.[273]
+
+On balance, the better view is the third class: no contract was made, and Nick, who signed nothing, could ‘withdraw at any time until the formal document is signed’.[274] The second class remains arguable; on that view, Nick was bound to join in executing the writing and pay $200,000, so his ‘Good bye!’ was a refusal to perform.[275]
+
+B. The materials condition
+
+If a contract was formed, Nick may call ‘satisfactory’ uncertain or illusory, as a promisor with ‘a discretion or option as to whether he will carry out’ a promise makes no contract.[276] Yet in Meehan v Jones all four judges upheld a condition of finance satisfactory to the purchaser.[277] Gibbs CJ found ‘nothing uncertain’ in terms satisfying the protected party, here Carol, and held that a discretion over fulfilling a condition, not over performance, is not illusory.[278] For Mason J (Wilson J agreeing), the purchaser’s judgment ‘is not an unfettered discretion’ but must be honest, or honest and reasonable, a choice he left undecided.[279] Murphy J added that the protected party may waive it.[280] Since the holograms were built, Carol found satisfactory materials or waived the condition.
+
+C. The emailed contract
+
+On the third class, Carol’s emailed ‘standard contract’ was at most an offer, and silent acceptance is ‘generally insufficient’.[281] Empirnall, where a developer that never signed was bound, turned on ‘taking the benefit of an offer with knowledge of its terms’, and Nick took nothing.[282] An email to an address found on LinkedIn is probably not received until Nick ‘has become aware’ that it was sent there.[283]
+
+Further information is needed on whether Nick contracted for EPEE, since the parties must be identified; if so, Carol’s claim may lie against EPEE.[284] Carol therefore likely has no contractual claim and bears the $100,000 paid to Monica, or $150,000 if Monica enforces the extra $50,000; on the second class, she sues on a $200,000 contract.
+
+PART 2: KAMALA KHAN
+
+II. KAMALA’S CLAIM AGAINST CAROL
+
+A. Party status
+
+Only a party may sue on a contract, as even the dissenting judges in Coulls accepted.[285] Carol’s promise of the extra $50,000 answered Monica’s proposal and was payable ‘once I deliver the holograms’.
+
+For Kamala, firstly, a promise made in her presence about her work and pay may have been made to her and Monica jointly, resting on consideration ‘given on behalf of them all’, as Windeyer J (dissenting) held and Taylor and Owen JJ conditionally accepted.[286] Secondly, by agreeing that Monica would ‘bring in Kamala to get it done’, Carol arguably requested Kamala’s work by implication.[287] If, as planned, Kamala did the work knowing of the promise, that ‘establishes prima facie an acceptance’, and her work would be consideration even if she owed it to Monica, a third party.[288] Thirdly, Windeyer J read the promisee’s ‘I authorise’ in Coulls as ‘equivalent to a requirement’, so ‘You can pay’ could make payment to Kamala a term.[289]
+
+Decisively, however, Carol and Monica met Kamala’s ‘we’re a team!’ with ‘We’re not a team’ before Carol agreed, a reply that objectively excluded Kamala from the bargain.[290] Carol’s promise was offered for Monica’s delivery, not as the price of Kamala’s work, which was Monica’s means of performing, and a request alone does not establish a contract.[291] Kamala is then like C in Mason CJ and Wilson J’s illustration in Trident: where A promises B and C to pay C if B erects a gate, C, though a party, is ‘a stranger to the consideration’.[292] Windeyer J’s reading of ‘authorise’ was a dissent; the majority treated it as a mandate.[293] Carol’s ‘I don’t even know who you are’ is immaterial. Kamala therefore very likely cannot herself sue Carol.
+
+B. Consideration for the extra $50,000
+
+Between Carol and Monica, intention to create legal relations is likely despite the family tie: presumptions are of doubtful utility, Monica is ‘an engineer who specialises in holography’, and Carol paid her from business funds.[294] If their original deal was not contractual, Monica owed no existing duty, but the same family facts would then undermine the $50,000 promise.
+
+On every route through Monica, Carol’s defence is that promising to perform an existing contractual duty to the promisee is no consideration.[295] Monica may answer that the $100,000 bought only the act of ‘developing the two holograms’, so that, unlike the crew in Stilk, she was ‘at liberty to quit’.[296] Yet her ‘I can’t complete the work in time for the current fee’ likely treats timely completion as her undertaking.
+
+The stronger answer is practical benefit, as Musumeci v Winadell recast Williams v Roffey.[297] Monica’s words gave Carol reason to doubt completion, and by promising more Carol obtained the holograms on time and obviated the risk that Nick would sue her, as Roffey sought to avoid a penalty for delay.[298] Monica’s performance was ‘capable of being viewed’ by Carol as worth more than any likely remedy against her.[299] If Nick was never bound, the feared suit was illusory, but Carol still obtained in practice the timely holograms any deal with Nick required.
+
+The strongest counter is element (v), Santow J’s fifth condition, which excludes a promise induced by ‘unfair pressure’.[300] Monica resembles Glidewell LJ’s subcontractor who ‘declines to continue’ unless paid more and may thereby take unfair advantage.[301] Unlike Roffey, whose own surveyor persuaded it to pay, Monica initiated the increase a week before delivery, and Carol agreed only after ‘some consternation’.[302] Yet Monica, whose task proved ‘even more complicated to create than she expected’, stated an inability and offered a solution. Unforeseen difficulty does not ‘justify a demand for re-negotiation backed by unfair pressure’, but may influence fairness through the proportionality of any pressure.[303] On balance, practical benefit likely supplies consideration, though element (v) is finely balanced.
+
+C. Enforcement through Monica
+
+On Deane J’s view alone in Trident, a trust intention ‘should be inferred if it clearly appears’ that the promisee intended the third party to be entitled to insist on performance, and if trust is the appropriate mechanism.[304] ‘You can pay’ reads, like Arthur Coulls’s ‘authorise’, as Monica’s revocable direction, not Kamala’s right to insist, so a trust is unlikely.[305]
+
+Otherwise, Monica may sue. Windeyer J, dissenting, would, ‘as at present advised’, order a promisor to perform a promise to pay a third person, here Kamala.[306] He also rejected the view that the promisee’s damages are only nominal, giving examples such as a third party she owes or feels bound to recompense, but those damages, which could be ‘less, or more’ than $50,000, would be Monica’s own.[307] Assuming no trust and a wholly gratuitous arrangement, he was ‘not persuaded’ that the third party could force the promisee to sue.[308] A trust or Monica’s suit could thus yield Kamala $50,000.
+
+III. KAMALA’S CLAIM AGAINST MONICA
+
+Further information is needed on whether Monica promised to pay Kamala for the work; if so, Kamala can likely recover the promised sum.[309] If Kamala, who ‘has always dreamed of working with’ Carol, helped without any promise, she has no claim.
+
+2026 T1: Advanced Technology, Tim, Helen and Smarty
+
+First draft 82/100; final re-marked cold at 84/100.
+
+What the first draft got wrong
+
+Draft v1 marked 82/100; main losses were an invented fact used to reconcile the Parts, a case cited for its test against the advisee when its holding favoured the advisee, a speculative route in place of the planted one, and recurring AGLC slips.
+
+-   A reconciling sentence must rest on quoted facts. v1 made an internal ‘both directors must agree’ rule bite in Part (b) by saying Thomas ‘was absent’, which the problem never says. Rule: when a rule decides one Part one way and another Part the other, decide both on one doctrinal footing (here the objective test, Ermogenous [25], plus privity’s burden side) and point to the quoted fact that differs between the Parts; never supply the differing fact.
+-   When you cite a case for a strict test, state whether the court found it met and on what facts. v1 gave Tim Ipp AJA’s ‘necessarily’ test from Brambles and omitted that the majority found it met by an offeree that protested and then took indivisible benefits (197), the Company’s closest analogy. Rule: for every test quoted, write one line on the result and on which side of our facts that result lies.
+-   On an existing-duty point, look first in the parties’ own words for completion and a separately priced category (‘After a full testing round’, ‘maintenance/repair work … standard hourly rate’) before any cause the problem does not state; v1 built fresh consideration on an unplanted ‘data beyond scope’ cause. Then compare who proposed the extra payment: in Roffey and Musumeci the payer offered it, so a payee’s demand weakens practical benefit (Santow J 744, ‘extended by B, without extortion’).
+-   State statutory conditions in full and say what they do not prove: s 13A receipt needs a designated address or awareness, and fixes only the time of receipt, not knowledge of the terms.
+-   Do not truncate a quotation before the words that confine it (‘of a contract of carriage or bailment’), and put the footnote straight after the quoted words when the rest of the sentence is your own inference (v1 footnoted ‘goes to consideration, not assent’ to McHugh JA).
+-   A promisee who paid an outlay gets her own route first (request; Pao On’s ‘was to be remunerated’; Roscorla’s ‘implied by law’) before the condition that defeats it; a planted ‘on your behalf’ gets a one-line agency flag.
+-   RECURRED (2023_T3 ‘Perhaps’; 2020_T3 judge named for a whole-court judgment, Roscorla; 2022_T3 and 2024_T1 unmarked dissent, Beaton). Rule: before the verifier, run a three-question footnote pass on every citation: does the passage open or contain ‘Perhaps’, ‘But’ or ‘though’ (quote the hedge); is it a judgment of the whole Court or Board (no judge); is the judge dissenting (write ‘dissenting’ in the footnote as well as the body).
+-   RECURRED (every run): the revision with all accepted findings ran to 1,823. What paid: cutting a second illustration of the same point (Glidewell LJ’s subcontractor), a roll call (McPherson J and Abbott v Lance), an unplanted further-information line, and a sentence that only restated a footnoted characterisation; then splitting four sentences over 45 words.
+
+Final answer
+
+Word count: 1,497
+
+I. PART (A): THE COMPANY’S CLAIM AGAINST TIM
+
+The parties come first:[310] the claimant is the Company, not Thomas or Tiffany, who emailed the offer ‘using the Company’s email account’.
+
+A. The development contract
+
+Tim’s request for a ‘cost estimate’ invited the email’s offer: ‘pleased to offer a fixed fee of $25,000’ is firm, unlike the fatal ‘may be prepared to sell’ in Gibson.[311] Tim’s reply added that the system be ‘ready for use’ before 15 September 2025, so on the classical rules Lawton LJ applied in Butler it was likely a counter-offer.[312] Since the offer invited ‘any further instructions’, it may instead have accepted with an invited instruction; either way the deadline is a term. Thomas’s ‘Let me double check with Tiffany’ withheld assent, but Tiffany’s email seeking the data within two days, to meet the deadline, accepted.
+
+Tim may invoke the Company’s requirement of ‘agreement from both of them’, but the inquiry is objective, ‘not a search for the uncommunicated subjective motives or intentions of the parties’.[313] Objectively both founders assented: the offer came from both, Thomas left only Tiffany’s assent outstanding, she gave it, and both performed. The same inquiry decides Part (b) the other way. Tim’s reference to ‘the initial agreement’ is admissible on formation,[314] and he refuses only ‘the extra amount’, so a $25,000 contract including the deadline is very likely.
+
+Incorporation of the unread standard terms is doubtful. Stephen J’s ticket-case reasoning treats failing to reject after an opportunity to read as acceptance,[315] but the email cited the terms only for the displaced hourly rate, as the Butler reference went only ‘as to the price’.[316] If they charge maintenance hourly, which is further information, and are incorporated, the $3,500 is due under them.
+
+B. Agreement to pay for the repair
+
+Tim’s strongest argument is that he never agreed to pay: he ‘did not read the email properly’, and his reply merely repeated his demand to ‘fix the issues ASAP’. Conduct must be ‘of such a character as necessarily to lead to the inference’ of acceptance,[317] and Empirnall turned on actual ‘knowledge of its terms’,[318] which Tim arguably lacked.
+
+However, the email was received once retrievable at an address Tim designated, or, if not designated, once he was aware of it, as his reply shows;[319] that fixes timing, not knowledge. McHugh JA held that where an offeree able to reject takes the benefit of services in circumstances indicating ‘that they were to be paid for in accordance with the offer’, acceptance may be found.[320] Tim replied to an email saying such work ‘will be charged’, then took a day’s work. In Brambles, Ipp AJA, for the majority, found acceptance where an offeree that had protested took benefits which ‘could not be severed from the obligations proposed’;[321] Tim likewise took a repair offered only on paid terms. In McHugh JA’s analogy, an offeree who has or ought to have knowledge ‘of the terms of a contract of carriage or bailment, is generally bound unless he raises objection’,[322] and Tim objected only once invoiced. The Laurel Race Course owner, who ‘made no reply’, was bound;[323] Tim replied.
+
+On balance, a reasonable bystander would likely read Tim’s reply and conduct as assent,[324] though this is finely balanced, as the reply also fits a repeated claim of right.
+
+C. Consideration for the repair
+
+Tim’s main defence is that ‘the repair work was part of your duties under the initial agreement’. Repairing is no consideration if it was ‘to do no more than the promisor is bound to do’.[325] Tim will say a system ‘ready for use’ for ‘a large group of new clients’ had to work during the carnival, as the Stilk crew ‘had sold all their services till the voyage should be completed’.[326]
+
+The Company’s first answer is fresh consideration. Firstly, ‘After a full testing round, Tim was very happy’: evidence of what was done, not a gloss on meaning, which post-contractual conduct cannot supply.[327] Secondly, the fixed fee bought development, whereas Tiffany priced ‘maintenance/repair work’ separately, so on-site repair was work the Company was ‘at liberty’ to refuse.[328] Thirdly, ‘ready for use’ fixed a date, which was met, and the system ‘operated well initially’. Further information is needed on whether the slowdown came from a defect present on delivery; if so, the repair was owed.
+
+If owed, the Company’s best exception is Mason J’s: performing an existing duty is consideration if given ‘by way of a bona fide compromise of a disputed claim’ after asserting that one is not bound.[329] Like the Wigan purchasers, the Company arguably asserted it need not repair without charge, and that claim, though perhaps wrong, was honest and not frivolous after successful testing.[330]
+
+Practical benefit, from Roffey and adopted in Musumeci at first instance, is weaker. In Roffey the promisor’s own surveyor persuaded it to pay more,[331] and Santow J treated a concession ‘extended by B, without extortion’ as supporting, not conclusively, an inference of consideration;[332] here the payee demanded the extra mid-carnival. Consideration is thus likely, though it matters only if Tim assented under B.
+
+The Company therefore very likely recovers $25,000 and likely $3,500 (seven hours at $500), $28,500 in all, or $25,000 if Tim did not assent, subject to any quality cross-claim outside these materials.
+
+II. PART (B): HELEN’S CLAIM AGAINST TIFFANY
+
+Tiffany said ‘Deal!’, so she is the promisor, to Helen or to ‘Live Together™’ if that is an entity.[333] Her ‘We need to pay you’ may make Thomas a joint promisor, but nothing shows he assented. On Part (a)’s objective inquiry the Company is not bound: Tiffany bargained about her own wedding, not for the Company, and a contract cannot impose obligations on a non-party.[334] Any promise of Smarty binds Tiffany alone.
+
+A. Intention to create legal relations
+
+Tiffany will call this a favour between friends: Helen said ‘I don’t want to charge you!’, and Tiffany later said ‘Thanks for your help’. Helen bears the onus,[335] and the objective inquiry weighs status, relationship and ‘other surrounding circumstances’.[336] Firstly, Helen acted ‘via her own business’, and Tiffany said ‘We need to pay you for this’. Secondly, Helen sought Smarty ‘to assist my business’, a commercial return. Thirdly, she did the requested work, and Mayo J in Todd preferred a reading not leaving such a party subject to ‘no more than the whim of the defendant’.[337] Tiffany’s thanks may serve ‘to explain, but not to contradict’ her assent.[338] Intention is likely, though finely balanced.
+
+B. Bargain and Tiffany’s withdrawal
+
+Helen’s tentative ‘it would be great if’ named Smarty instead of money, and ‘Deal!’ made it firm. Tiffany will say Helen would have helped anyway, so Smarty was a conditional gift, as where in Australian Woollen Mills A is ‘merely announcing’ a gift if B arrives in Sydney.[339] However, Tiffany asked Helen to ‘go ahead with the arrangements’ after offering to pay; a request ‘may often provide a useful test’,[340] and that offer shows the services were bought. Work finalised afterwards was consideration; earlier organising was past.[341]
+
+Tiffany’s best reply is that Helen never did the requested act, booking a $9,000 hotel approved only ‘if our budget allows’. Yet that condition qualified the hotel, not the program, which Helen finalised before Tiffany withdrew, so her ‘I have done my work as agreed’ likely holds. Her withdrawal thus refused performance or came after a completed act. If ‘the arrangements’ ran to the wedding, revocation during performance is contested: Mobil, in alternative reasoning, rejected any universal bar,[342] unlike McHugh JA, dissenting in Beaton.[343] Yet Mobil may imply a promise not to revoke where the offeror knows performance began and the detriment is real, with damages for the lost opportunity.[344]
+
+C. Certainty
+
+Tiffany may say the months are a vital matter left to one party, which Gibbs J, obiter, doubted could bind. Yet he added, ‘Perhaps it may be different’ where all essential terms are agreed and only ‘subsidiary matters’ are left,[345] as the months likely are, with robot, period and year fixed. Nor is it illusory, for Tiffany lacks a promisor’s discretion ‘as to whether he will carry out’ the promise.[346]
+
+D. The booking fee
+
+Helen’s best route is an implied promise to reimburse an outlay Tiffany requested (‘Please go ahead with the arrangements’). An act done at request on an understanding that it ‘was to be remunerated’ can support a promise to pay,[347] and a past act supports a promise ‘such as would be implied by law’.[348] Decisively, however, Tiffany wanted the hotel only ‘if our budget allows’, so she never requested a $9,000 commitment. A discretion over a condition, not performance, is not illusory,[349] and is fettered by honesty, perhaps also reasonableness, which Mason J left undecided;[350] ‘Our business is not going very well’ likely meets either. Any agency question from her payment ‘on your behalf’ lies outside these materials.
+
+Helen therefore likely holds Tiffany alone to three months of Smarty in 2026, but recovers none of the $1,000 and no part of the $9,000 hotel fee.
+
+Full lessons log
+
+Lessons log
+
+Every agent reads this first. Each practice run adds the mistakes it made and the fix, so later runs do not repeat them. Entries are short and concrete. Newest runs at the bottom of each section.
+
+Standing lessons (seeded before the first run)
+
+Law and sources
+
+-   The register (_register/*.md) is the only law the answer may state. If a proposition has no register entry, either find it in the sources and add it to the paper’s register_supp.md with a verbatim quote and pin, or cut it.
+-   Count the bench. Say who held what: majority, concurrence, dissent, obiter. Traps already met: Lord Denning MR’s Butler patterns were his alone; Heydon JA’s ‘much to be said’ in Brambles is obiter (Ipp JA, with whom Mason P agreed, is the majority route); Birkett LJ in Boots adopts Lord Goddard CJ; Lord Diplock in Gibson quotes Lord Denning MR to reject him; Coulls joint promisee principle is supported by four judges but is not ratio (Taylor and Owen JJ conditional, obiter at 486); Beaton splits three ways (Kirby P no consideration; Mahoney JA and McHugh JA a promise for an act; result: Kirby P and Mahoney JA dismissed, McHugh JA dissented); Meehan v Jones has no majority on honest versus reasonable; Mobil refused any universal revocation rule and its revocation reasoning is arguably obiter; Ermogenous doubts the utility of presumptions in that context.
+-   Never quote the slides or the casebook editors’ notes as law. Cases known only through other sources (Trident, Placer, middle of Pao On, Henthorn, Tallerman, Bressan, Goldsbrough Mort p 56) are cited to their report, pinned only where the materials give a pin, and never given words the materials do not attribute to the judge.
+-   Scope: Weeks 1 to 4 only. Topics beyond (promissory estoppel, terms and incorporation in depth, frustration, termination, damages quantum, duress as a vitiating factor, the ACL, agency beyond the privity chapter) get one line flagged as outside scope or as further information. Do not argue them.
+-   The Electronic Transactions Act 2000 (NSW) is in the 1B register; use it for email timing questions.
+
+Verifier behaviour (after the fixes of 8 Oct 2026)
+
+-   Run: python3 -I /home/claude/LAWS1150/_tools/verify.py check draft.md -c /home/claude/LAWS1150/_tools/corpus.json --facts question.txt --crops crops -o verify.json. Quotations from the problem pass as PASS (facts).
+-   Expected, explained CHECKs (confirm by hand, do not ‘fix’ by changing pins): Pao On has no printed AC pin in the extract; Meehan v Jones Mason J passages pinned 589 (no [589] marker printed; Kirby P in Pace cites 589); Milne v A-G pinned 473 from the casebook lead-in; Henthorn, Bressan and Tallerman as quoted in the casebook commentary at [3.210]; Brambles Heydon JA quoting Lord Wilberforce at 176-7; (fixed 9 Oct: Ipp JA’s words after the misprinted ‘[172]’ in Brambles, from ‘the increase in fees’ onward, are pinned 197, and the verifier maps the misprint); Pao On p 131 economic duress passage. Each register file has the detail.
+-   Two quotations separated only by a footnote marker can be merged by the parser: put words between them. A quotation that crosses a printed report-page marker should be split at the marker or pinned as a range. An apostrophe after a letter or digit is not read as an opening mark.
+-   Use your own scratch subfolder; never write to a shared r.json.
+
+Citation details settled
+
+-   Brambles: cite Ipp as ‘Ipp AJA’ (Mason P at 155 calls him ‘Ipp AJA’, as does the textbook; the casebook’s ‘IPP JA’ heading is editorial). Footnotes in the 1B register now read (Ipp AJA); body text may say ‘Ipp AJA’.
+-   make_docx.py runs pandoc, which converts straight quotation marks and apostrophes to curly ones in the .docx; straight marks in the markdown are fine. Dollar signs are no longer read as maths (fixed 9 Oct). Pandoc can still flip a quotation mark after a possessive like “(k)’s”; always run the verifier on the .docx.
+-   The verifier now checks two-word quotations as well, and a quotation found in the problem passes as facts even when the same words appear in a source.
+
+Writing
+
+-   See STYLE.md. No dashes, no double quotes, no contractions, no invented abbreviations, no bullet points, no block quotes, footnotes citation only.
+
+Run lessons
+
+Verifier changes, 9 Oct
+
+-   Footnotes are now matched citation by citation, and an ‘Ibid’ citation takes its case from the citation before it (and drops the earlier pin when it has its own). Short titles in brackets are never read as quotations. These were the causes of several ‘explained’ CHECKs in earlier runs; a CHECK now usually means a real pin or attribution problem. Also fixed: ‘(X J, dissenting)’ labels; ‘quoting’ and ‘quoted in’ citations (each case and its own judge are checked separately); statute footnotes (PASS (statute), confirm the section by hand); quotations that cross a printed page marker or a word split by one (pin the range).
+
+2019_T3
+
+Draft v1 marked 79/100; main losses were one-sided argument on the two most valuable contested points, and three source misreadings.
+
+-   Typography is fact. question.txt drops italics; here they marked pencil on a printed form, which decides the battle of forms and the third party’s status. Read the page images and treat italics, handwriting, strike-through and attachments as planted facts. Then quote only what the image shows: v1 said Bea pencilled the whole heading when only one word was pencilled. Rule: never describe who wrote or added a word without checking the image for exactly which words.
+-   Strongest counter, not the easiest one. v1 rebutted a weak counter (a narrow, price-limited dictum) and omitted the opponent’s best (the planted remark plus a broader alternative test). Rule: for each contested issue list every argument for the losing side, pick the one a good opponent would lead with, state it at full strength, then answer it; if a word budget forces a cut, cut the weak counter.
+-   No contested issue settled in one flat sentence. Rule: any point worth real money or a whole claim gets ‘likely … though …’ and, where it changes the advice, the figure each way.
+-   Meet the other side’s best facts on formation, and keep Parts consistent. v1 used the third party’s signature line to make him a party in Part II while calling it irrelevant to formation in Part I. Rule: when the same facts serve two issues, write the reconciling sentence (eg the offer to one offeree was accepted, the offer to the other was not).
+-   Argue even the easy elements both ways in a sentence. Intention on social facts needs the onus, the counter, and the decisive answer (later conduct, Todd v Nicol).
+-   Quantify every ‘is X entitled’ question: give the per-unit figure and the totals on each scenario, and say which clause limits the base.
+-   Read remedy passages of dissents to the end. v1 turned Windeyer J’s doubt about nominal damages into a rule that damages are nominal unless the promisee owed a debt; he gave several substantial-loss examples and rejected the nominal view. Rule: before stating what a judge ‘would’ award, read the whole passage and the next pages for the judge’s own conclusion and the ‘as at present advised’ or dissent label.
+-   Describe a distinguished case’s facts from the judgment, not memory: Meehan’s condition went to the obligation to complete, not to whether the contract bound at all. A test quoted from a case (Trident, Deane J) must keep its form: ‘should be inferred if … and if …’ is sufficient, not necessary, and has two limbs.
+-   Pin each footnote to the passage that supports the proposition stated, not only the quoted words (a ‘left open’ proposition needs the page where it is left open).
+-   Quote-stitching and length: one quotation from a source per sentence, split at the footnote; no sentence over about 45 words. Absolute constructions (‘X being obiter’) and trailing ‘besides’ read as broken.
+-   Do not quote three function words (‘at least where’); paraphrase. Do not put a judge’s words about the case before him into his mouth about your parties (‘on his view a promisor in X’s position …’).
+-   Verifier: the false CHECK PIN from a statute year in the .docx is fixed in the tool (8 Oct). The first full rewrite ran to 1,633 words: write it, count with the verifier, then cut low-yield roll calls of judges and repeated facts first.
+
+2020_T3
+
+Draft v1 marked 82/100; main losses were a one-sided treatment of the client’s own claim, dicta applied to the wrong party, and AGLC form.
+
+-   RECURRED, sharpened: one opening sentence for the advisee followed by five factors for the other side is still one-sided. Rule: on a claim the advisee brings, give its case a full paragraph built from every planted fact (costing, promotion, a minister’s ‘committing’, the closest case on its side), then answer each point, even when you expect the claim to fail.
+-   Where the register maps a point as contested (eg revoking a unilateral offer once performance has begun), work through each layer: the authority each way with its status and who rejected it, then the factor test applied to the facts, then the remedy. Settling it on the decisive fact alone loses most of the marks.
+-   Before applying a dictum, check whose position it describes (promisor or promisee, offeror or offeree, payer or payee) and whether your party is in that position. v1 applied ‘a discretion within specified parameters’ (a promisor’s discretion) to a payee’s choice of its own fee.
+-   When distinguishing a case or a court’s illustration, rely on the ground the court made decisive; reread the passage. The Woollen Mills Sydney example turns on request, not on benefit to A.
+-   When one doctrine appears in two claims (eg the range rule), apply it the same way in both and say why it helps one claimant and not the other (‘up to’ has a ceiling but no floor; ‘$2,000 to $4,000’ has a floor).
+-   RECURRED: never let a phrase like ‘like X in Case’ carry a single judge’s view, least of all a dissent’s. Write the judge, his status and his words. No adjective doing legal work (‘uncommunicated’, ‘expressly’, ‘all members’) may go beyond the problem’s own words.
+-   RECURRED: a threshold sentence still needs a pinpoint that states the proposition. If the cited paragraph only implies the point, cut the sentence or restate it as the paragraph says it.
+-   AGLC: name no judges for a judgment of the whole court or the whole Board (Woollen Mills HC, Mobil, Roscorla, Pao On). Use ‘quoting Case (year) report pin (Judge)’ and ‘citing’; never ‘adopting’ or ‘discussing’, and never a citation inside the judge’s brackets. Put en dashes in footnote pin ranges. Define a short title for every case later named in short form, in the body or by (n x). (The verifier quirk with two (‘Short’) titles in one footnote is fixed in the tool, 8 Oct.)
+-   RECURRED, sharpened (2019_T3 ran to 1,633): the first full revision, with every marker addition, ran to 2,036 words. Rule: before revising, set a word budget for each claim (about 36% for the claim worth the most marks) and pay for each addition with a named cut; cut repeated authorities for one point and unplanted further-information lines first.
+
+2021_T3
+
+Draft v1 marked 78.5/100; main losses were a case distinguished on facts it did not have, a rule cited to a case that does not state it, and a multi-party Part analysed without its parties.
+
+-   Check a case’s own facts before distinguishing it. v1 said Mary, unlike the Empirnall offeree, took no benefit she was not already owed; the casebook facts say Empirnall had admitted an oral contract, so the case was Faulkner’s best authority. Rule: before writing ‘unlike X in Case’, read the editors’ facts bracket and the passage the court decided on; if the case’s facts match the other side, present it as the opponent’s best case and distinguish on the ground the court made decisive (here knowledge of the terms, 536).
+-   Some basic rules are stated only in the textbook or slides, never in an extracted judgment: revocation must be actually communicated (textbook [3.110], fn to Byrne v Van Tienhoven); a bare promise to hold an offer open is not binding (textbook, Goldsbrough Mort); the postal rule’s probable non-application to email (textbook, Olivaylle); privity’s burden side (textbook [11.60]); the Pao On third-party holding (casebook note, Glidewell LJ, textbook). Rule: before citing a case for a rule, find the rule’s words in that judgment; if only the textbook states it, cite the case the textbook footnotes (report only, no pin, no quoted words) or reason from what the extracted cases do say. Never borrow a case that decides a neighbouring point (v1 used Felthouse, an acceptance case, for revocation).
+-   When a Part has three or more organisations or people, first name the parties to each contract and promise (Ermogenous [33]), then run privity both ways and the third-party-duty exception before any existing-duty consideration defence; v1’s ‘which it already owed’ ignored that the duty might be owed to a third party.
+-   Where a Part’s conclusion rests on one contested threshold (here a binding oral contract before the documents), give the other branch and its result in two sentences; otherwise the conclusion is unreasoned if the threshold fails.
+-   Apply a qualification by its own test, not by the words that explain its rationale. v1 used Mason J’s ‘threatening unscrupulously’ as a bar; the Wigan test is an honest claim, not vexatious or frivolous. Likewise ask the first question of a doctrine before its exceptions (did the event change the existing duty: Stilk ‘at liberty’).
+-   RECURRED, sharpened: the advisee’s best argument can lie in its own words (Mary’s ‘If you finish … I will pay’ reads as a unilateral offer). Read the advisee’s own communications for the reading that defeats formation.
+-   Bench labels in the register can be wrong: four judges in a joint judgment with a fifth concurring is a majority, not a plurality. Check the bench in the casebook before labelling.
+-   RECURRED: the revision with every marker addition ran to 1,882 words. Rule: draft the revision against a 1,450 budget and cut whole low-yield sentences (second authorities, unplanted further-information lines, duplicate quotations of the same fact) before polishing. Verifier: a (‘Short title’) after a pin page where the case name does not appear gives a false CHECK, and a report citation the materials cannot pin (Pao On) gives a lint line; both are expected and explained, not ‘fixed’ with an invented pin.
+
+2022_T1
+
+Draft v1 marked 80.5/100; main losses were a planted doctrine cut as ‘note only’, a test applied with the very evidence it excludes, and misquoted facts.
+
+-   A doctrine whose definition matches a planted phrase must be argued even if the materials hold it only in a casebook note (the fourth Masters class and Sunny’s ‘needs to be further negotiated’). Rule: map every planted phrase to its doctrine before budgeting, and cut weak analysis, never the doctrine the examiner planted.
+-   Apply a test by its own evidential limits. v1 proved essentiality under Whitlock from James’s later outburst, though Whitlock (461) excludes extrinsic evidence of importance. Rule: before applying a test, read what the passage says may not be used to satisfy it, and apply it only to what it admits (there, the contract’s terms).
+-   Read a party’s words in every legal character they could bear and keep the readings consistent. v1 read ‘we do need to ensure there will be sufficient supply’ only as a promise; as a condition for the buyer it is certain (Meehan’s crude oil condition). Rule: for each disputed clause, state its effect as a promise, as a condition and as no term, and say which reading each Part relies on.
+-   Quote the speaker, the whole utterance and the right speaker. v1 gave the narrator’s ‘merely a handful of minor edits’ to Sunny, halved James’s 18 July sentence and cut Nathan’s ‘but we will need to charge an extra A$5,000’. Rule: before quoting, check who says it in the problem and read the full sentence; if the omitted half bears on the issue, quote it or do not quote at all.
+-   RECURRED, sharpened (2020_T3 decisive ground): a judge’s conclusion about a clause rests on its words (Mason J’s ‘each party’ on ‘null and void’). Rule: before transposing a judge’s result, set the clause he construed beside ours and say whether the operative words match.
+-   When a fact names a non-party entity (‘will be the buyer’), run privity with the majority’s holding, not a dissent’s general statement, and reconcile it with the formation finding (who is party on each branch).
+-   RECURRED, sharpened (2021_T3 first question): on an existing-duty point, exhaust the promisee’s routes around the duty from the problem’s own words (‘estimated’, ‘will be prepared’, a variation agreed in the same call as acceptance) before any exception; and when you characterise a deal as unilateral, reconcile each element of the test that speaks of a promise.
+-   RECURRED: the revision with every accepted finding ran to 1,838 words; per-section estimates ran about 10% under the verifier’s count. Rule: draft each section at 90% of its budget and run the verifier after each section, not at the end.
+
+2022_T3
+
+Draft v1 marked 84/100; main losses were the opponent’s best formality rule left unstated, doctrinal branches not followed into later Parts, and attribution in footnotes.
+
+-   Classify every message in a chain (offer, acceptance, counter-offer, inquiry) before any formality doctrine: v1 went straight to Masters although ‘Yes’ plus a new term is a counter-offer that the next message accepted, which is what puts the stipulation inside the bargain.
+-   When you rely on a rule’s fallback (construction where words are not express), first state the presumption the opponent invokes in the source’s own words and pin (here Masters 363, ‘of similar import’ words prima facie create an overriding condition), then answer it. Asserting the fallback alone answers a weaker argument than the one the examiner planted.
+-   RECURRED, sharpened (2021_T3 branches): follow each branch of a multi-class doctrine into every later Part. v1 conceded class 2 in a clause (no waiver, no mutual duty to bring the document into existence) and never noticed that on class 3 a later ‘agreement’ forms the contract, so the existing-duty problem in the next Part disappears. Write one sentence per branch saying what it does to each later issue.
+-   Markers can reintroduce old errors: the examiner proposed proving essentiality from negotiation history, which Whitlock 461 excludes (2022_T1). Rule: test every marker-proposed application against the passage’s own evidential limits before accepting it; negotiation facts go to formation, not to essentiality.
+-   Tie each factual inference to the fact that proves it and check the other side’s words before characterising an act: knowledge came from ‘then remembers’, not ‘subscribes’; ‘all day’ and the auditor’s ‘unprompted’ were wrong (JammyJam had told Ninja to ‘just log in’). Adjectives about conduct (‘unprompted’, ‘uncommunicated’, ‘all day’) need a quoted fact.
+-   RECURRED (2020_T3): a dissenting judge’s words were credited to ‘four judges’. When several judges share a principle in different words, quote one, name him and his status in the body, and mark dissents in the footnote.
+-   Verifier (the marker-crossing, dissent-label and quoting issues are fixed in the tool, 9 Oct). Nested double marks trip the lint, so end a quotation before an inner quoted word (‘play for at least 20 minutes’ per war).
+-   RECURRED (every run): the revision with all accepted findings ran to 1,813 words. Rule: before rewriting, list each accepted addition with its word cost beside a named cut; the cuts that paid here were the threshold sentence, the weakest third factor of a walk, facts quoted twice, and a second authority for one point.
+
+2023_T3
+
+Draft v1 marked 80/100; main losses were three passages applied beyond what they say (a joinder rule read as a bar, a notice illustration read as deciding who performed, a hedged dictum stated as settled), the advisee’s own formation case left unargued, and facts added by inference.
+
+-   A supplement entry can launder a misreading: register_supp S1 recorded Bowen LJ’s lost dog sentence for ‘finding is the essence’, but the passage answers whether notice of acceptance is needed and its own offer paid for bringing the dog to a place. Rule: before adding or using a passage, write down the question the court was answering in that paragraph and compare any hypothetical’s facts with ours; use it only for that question.
+-   Words like ‘must have been brought by both’ or ‘would fail if brought by one alone’ are joinder rules, not bars. Rule: read the same and adjacent pages for what happens when the co-party will not join (joined as defendant, judgment for both) and conclude on that remedy, never ‘no claim’.
+-   Hedges are part of the proposition. Quoting ‘not justify a demand … backed by unfair pressure’ without the next sentence (‘But … proportionality’), ‘without extortion’ without ‘though by no means conclusively’, and Gibbs J’s ‘Perhaps’ as ‘excepted’ each overstated the law for the opponent. Rule: for every quotation read the next sentence; if it opens ‘But’, ‘However’ or ‘Perhaps’, or the source hedges, quote or state the hedge.
+-   RECURRED, sharpened (2022_T3 inferences): ‘on Djarren’s instructions’, ‘the writing never came’ (it came on day one) and Roffey ‘offered the extra money’ (its surveyor persuaded it) were all inferences. Rule: list every verb of who did, said, instructed or proposed what, in the problem and in each distinguished case, and match each to a quoted line before drafting.
+-   RECURRED, sharpened (2020_T3): on a threshold that goes against the advisee, write the advisee’s case first with its authority (here Empirnall 535, photo as acceptance by conduct) and answer it with the opponent’s best planted fact (the requested writing added new terms); then follow both branches to the money.
+-   One planted phrase can test two doctrines (‘two fees for no extra work’: evidence rebutting reliance, and consideration from someone already paid by a third party). Rule: map each planted phrase to every doctrine it could serve, and read ambiguous references (‘Claim it if you can’: the job or the fee) in each meaning before building on one.
+-   Docx: pandoc rendered ‘$$ !!Reward!! $$’ as display maths and read the apostrophe in “(k)’s” as an opening mark, flipping the next quotation; the markdown verifier could not see either. Rule: no paired dollar signs in the body and no possessive after a closing bracket; after make_docx.py, scan word/document.xml for oMath and for reversed marks, and rerun the verifier on the .docx.
+-   RECURRED (every run): the first revision with all accepted findings ran to 1,815 words. The cuts that paid were a second pin for the same test, a second authority for the same answer (Isaacs ACJ on motive, Woolworths on adequacy), facts already stated in the next Part, and quoting a counter-offer’s terms twice; paraphrasing a lettered formula (A and B) instead of quoting it saved words and bracket substitutions.
+
+2024_T1
+
+Draft v1 marked 80.5/100; main losses were the advisee’s own Part 2 case cut to a clause, a dissent’s remedy passage misstated again, and a textbook gloss and a timing rule presented as law.
+
+-   RECURRED despite the 2019_T3 lesson: Windeyer J’s damages view in Coulls (501 to 503) was again narrowed to the creditor case and treated as reaching the third party, and ‘cannot compel’ was stated without his hedge. Stronger rule: before writing any sentence on a promisee’s remedies, open W4 C4A Casebook pp 334 to 336 and copy into plan.md, verbatim, his four holdings with their labels: (1) he rejects the nominal-damages view (‘I do not see why’, 501; ‘(I do not think it is)’, 503); (2) three substantial-loss examples (creditor; someone the promisee feels a duty to reward or recompense; an activity the promisee wishes to promote); (3) the damages are the promisee’s own (‘why should A hold for C the proceeds’, 502); (4) ‘not persuaded’ that C could force A to sue, ‘always on the assumptions that there was no trust and that the transaction was as between A and C wholly gratuitous’ (502), with specific performance only ‘as at present advised’ (503). Every sentence on the point must be checked against that block, and the word ‘dissenting’ must appear.
+-   RECURRED, sharpened (2020_T3, 2023_T3): the advisee’s case in Part 2 got 46 words against Carol’s 200. Rule: when a Part’s advisee is a third party, list every route by which she could be a party or give consideration herself (joint promisee; offer accepted by her own act on an implied request, Australian Woollen Mills 458 and Clarke 244; a duty owed to a third party, Pao On as the textbook and Glidewell LJ report it; the dissent’s reading of the instrument), write them as her paragraph first, then answer each on the ground the promise was bargained for.
+-   A textbook’s framing sentence beside a quoted judicial illustration is not the judge’s words (‘a party who is not a joint promisee’ before the Trident gate example). Rule: when quoting an illustration known only through the textbook, describe it by its own facts (A, B, C, the act), name the case and judges in the body, cite ‘quoted in’ the textbook, and put no textbook sentence in the judges’ mouths.
+-   A test’s elements do not carry an unstated timing rule (‘the benefit is judged when Carol promised’). Rule: a proposition about when or from whose view a test is applied needs words in the passage that say so; otherwise reason from the element’s own words (Santow J’s ‘obtains in practice’, ‘capable of being viewed by B’).
+-   A message classification must follow the majority’s analysis, not a both-ways formula that only the minority’s approach supports (Butler: a reply adding a stipulation is a counter-offer on Lawton and Bridge LJJ’s analysis). Rule: classify each reply once, on the ratio, and cite the judge who applied it.
+-   Inferred facts about who did the work: the problem never said Kamala did it. Rule: when a route depends on a performance the narrator only implies, write ‘if, as planned, …’.
+-   RECURRED (every run): the revision with all accepted findings ran to 1,783 words. What paid this time: removing every second authority for one proposition, the agency clause that could not be reasoned in the space, quotations replaced by paraphrase where the citation carries the point, and facts quoted twice.
+-   Verifier: a short-form textbook reference (‘Paterson and Robertson (n 32)’) in a ‘quoted in’ citation gives a CHECK CASE/JUDGE although the full form passes; keep the AGLC short form and record the CHECK as expected.
+
+2026_T1
+
+Draft v1 marked 82/100; main losses were an invented fact used to reconcile the Parts, a case cited for its test against the advisee when its holding favoured the advisee, a speculative route in place of the planted one, and recurring AGLC slips.
+
+-   A reconciling sentence must rest on quoted facts. v1 made an internal ‘both directors must agree’ rule bite in Part (b) by saying Thomas ‘was absent’, which the problem never says. Rule: when a rule decides one Part one way and another Part the other, decide both on one doctrinal footing (here the objective test, Ermogenous [25], plus privity’s burden side) and point to the quoted fact that differs between the Parts; never supply the differing fact.
+-   When you cite a case for a strict test, state whether the court found it met and on what facts. v1 gave Tim Ipp AJA’s ‘necessarily’ test from Brambles and omitted that the majority found it met by an offeree that protested and then took indivisible benefits (197), the Company’s closest analogy. Rule: for every test quoted, write one line on the result and on which side of our facts that result lies.
+-   On an existing-duty point, look first in the parties’ own words for completion and a separately priced category (‘After a full testing round’, ‘maintenance/repair work … standard hourly rate’) before any cause the problem does not state; v1 built fresh consideration on an unplanted ‘data beyond scope’ cause. Then compare who proposed the extra payment: in Roffey and Musumeci the payer offered it, so a payee’s demand weakens practical benefit (Santow J 744, ‘extended by B, without extortion’).
+-   State statutory conditions in full and say what they do not prove: s 13A receipt needs a designated address or awareness, and fixes only the time of receipt, not knowledge of the terms.
+-   Do not truncate a quotation before the words that confine it (‘of a contract of carriage or bailment’), and put the footnote straight after the quoted words when the rest of the sentence is your own inference (v1 footnoted ‘goes to consideration, not assent’ to McHugh JA).
+-   A promisee who paid an outlay gets her own route first (request; Pao On’s ‘was to be remunerated’; Roscorla’s ‘implied by law’) before the condition that defeats it; a planted ‘on your behalf’ gets a one-line agency flag.
+-   RECURRED (2023_T3 ‘Perhaps’; 2020_T3 judge named for a whole-court judgment, Roscorla; 2022_T3 and 2024_T1 unmarked dissent, Beaton). Rule: before the verifier, run a three-question footnote pass on every citation: does the passage open or contain ‘Perhaps’, ‘But’ or ‘though’ (quote the hedge); is it a judgment of the whole Court or Board (no judge); is the judge dissenting (write ‘dissenting’ in the footnote as well as the body).
+-   RECURRED (every run): the revision with all accepted findings ran to 1,823. What paid: cutting a second illustration of the same point (Glidewell LJ’s subcontractor), a roll call (McPherson J and Abbott v Lance), an unplanted further-information line, and a sentence that only restated a footnoted characterisation; then splitting four sentences over 45 words.
+
+Cold re-mark of the 2024_T1 and 2026_T1 finals
+
+Finals re-marked cold at 85.5 and 84 (first drafts 80.5 and 82). A fresh tracer still found 3 and 2 certain errors, all in how a passage was used, none in quotation or pin. Hence Stage 5 for the real paper.
+
+-   Read the rest of the sentence you quote: Masters’ ‘All the essentials of a contract are there’ continues ‘but whether there is a contract depends entirely upon …’, and the Court then held no contract. A court’s description of the document it held not binding cannot be quoted for the party who lost.
+-   State multi-limb tests whole: Lord Scarman’s Pao On conditions are three (request; understanding that the act ‘was to be remunerated’; payment that ‘must have been legally enforceable had it been promised in advance’). Past-consideration authorities need a later promise; where there is none, the route is an implied promise from the request.
+-   Quote the full scope of what a reply referred to (Butler, Lawton LJ at 406: ‘the price and the identity of the machine’, not the small print).
+-   Words like ‘held’, ‘mandate’, ‘revocable’, ‘the majority’ must be the source’s: ‘observed’, McTiernan J’s ‘mandate’, Windeyer J’s ‘revocable’.
+-   Close each Part with one unambiguous concluding line; a closing sentence that reopens a route the Part rejected costs about 1.5 marks.
+-   About 50 quotations in 1,500 words reads as a string of quotations; aim for about 35, paraphrasing where the exact words carry no weight.
+
+[1] Electronic Transactions Act 2000 (NSW) s 14B(1).
+
+[2] Gibson v Manchester City Council [1979] 1 WLR 294, 298 (Lord Diplock) (‘Gibson’).
+
+[3] The Crown v Clarke (1927) 40 CLR 227, 244 (Starke J).
+
+[4] Ermogenous v Greek Orthodox Community of SA Inc (2002) 209 CLR 95, [26] (Gaudron, McHugh, Hayne and Callinan JJ).
+
+[5] Ibid [25].
+
+[6] Todd v Nicol [1957] SASR 72, 74 (Mayo J).
+
+[7] Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, 534 (McHugh JA) (‘Empirnall’).
+
+[8] Butler Machine Tool Co Ltd v Ex-Cell-O Corp (England) Ltd [1979] 1 WLR 401, 406 (Lawton LJ) (‘Butler’), quoting Trollope & Colls Ltd v Atomic Power Constructions Ltd [1963] 1 WLR 333, 337 (Megaw J).
+
+[9] Electronic Transactions Act 2000 (NSW) s 13A(1)(a), (2).
+
+[10] United Nations Commission on International Trade Law, Guide to Enactment of the UNCITRAL Model Law on Electronic Commerce (1996) [102] (‘UNCITRAL Guide’); Electronic Transactions Act 2000 (NSW) s 13A(1)(b).
+
+[11] UNCITRAL Guide (n 10) [102].
+
+[12] Brambles Holdings Ltd v Bathurst City Council (2001) 53 NSWLR 153, 195 (Ipp JA) (‘Brambles’), citing Brogden v Metropolitan Railway Co (1877) 2 App Cas 666, 686 (Lord Hatherley).
+
+[13] Masters v Cameron (1954) 91 CLR 353, 362 (Dixon CJ, McTiernan and Kitto JJ).
+
+[14] Brambles (n 12) 164 (Heydon JA).
+
+[15] Butler (n 8) 406 (Lawton LJ).
+
+[16] Ibid 405 (Lord Denning MR).
+
+[17] Ibid 405 (Lawton LJ).
+
+[18] Biotechnology Australia Pty Ltd v Pace (1988) 15 NSWLR 130, 151 (McHugh JA) (‘Pace’), quoting Thorby v Goldberg (1964) 112 CLR 597, 605 (Kitto J).
+
+[19] Meehan v Jones (1982) 149 CLR 571, 581 (Gibbs CJ) (‘Meehan’).
+
+[20] Ibid 591 (Mason J), 597–8 (Wilson J).
+
+[21] Ibid 582 (Gibbs CJ).
+
+[22] Ibid 589 (Mason J).
+
+[23] Wigan v Edwards (1973) 47 ALJR 586, 594 (Mason J).
+
+[24] Ibid 594–5.
+
+[25] Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 746–7 (Santow J) (‘Musumeci’).
+
+[26] Ibid 747.
+
+[27] Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1, 11, 16 (Glidewell LJ) (‘Roffey’).
+
+[28] Musumeci (n 25) 747 (Santow J).
+
+[29] Ibid 749.
+
+[30] Roffey (n 27) 13 (Glidewell LJ).
+
+[31] Musumeci (n 25) 744 (Santow J).
+
+[32] Ibid 746.
+
+[33] Hall v Busst (1960) 104 CLR 206, 222 (Fullagar J).
+
+[34] Pace (n 18) 151 (McHugh JA).
+
+[35] Ibid 136 (Kirby P); Whitlock v Brew (1968) 118 CLR 445, 456 (Kitto J).
+
+[36] Coulls v Bagot’s Executor & Trustee Co Ltd (1967) 119 CLR 460, 478 (Barwick CJ), 487 (Taylor and Owen JJ) (‘Coulls’).
+
+[37] Ibid 487 (Taylor and Owen JJ).
+
+[38] Ibid 482–3 (McTiernan J).
+
+[39] Empirnall (n 7) 534 (McHugh JA).
+
+[40] Coulls (n 36) 493 (Windeyer J).
+
+[41] Ibid 478–9 (Barwick CJ), 486 (Taylor and Owen JJ), 493 (Windeyer J).
+
+[42] Trident General Insurance Co Ltd v McNiece Bros Pty Ltd (1988) 165 CLR 107, 147 (Deane J), quoted in J Paterson and A Robertson, Principles of Contract Law (Lawbook Co, 7th ed, 2025) 295 [11.110].
+
+[43] Coulls (n 36) 504 (Windeyer J).
+
+[44] Ibid 503 (Windeyer J).
+
+[45] Ibid 478 (Barwick CJ).
+
+[46] Ibid 501–2 (Windeyer J).
+
+[47] Carlill v Carbolic Smoke Ball Co [1893] 1 QB 256, 262 (Lindley LJ) (‘Carlill’).
+
+[48] Ibid 261–2.
+
+[49] Australian Woollen Mills Pty Ltd v Commonwealth (1955) 93 CLR 546, 554.
+
+[50] Ibid 555.
+
+[51] Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 461 (‘Woollen Mills’).
+
+[52] Mobil Oil Australia Ltd v Wellcome International Pty Ltd (1998) 81 FCR 475, 499 (‘Mobil’).
+
+[53] Administration of Papua and New Guinea v Leahy (1961) 105 CLR 6, 19 (Kitto J) (‘Leahy’).
+
+[54] Ermogenous v Greek Orthodox Community of SA Inc (2002) 209 CLR 95, [26] (Gaudron, McHugh, Hayne and Callinan JJ) (‘Ermogenous’).
+
+[55] Placer Development Ltd v Commonwealth (1969) 121 CLR 353, 359–60 (Taylor and Owen JJ) (‘Placer’).
+
+[56] Biotechnology Australia Pty Ltd v Pace (1988) 15 NSWLR 130, 135 (Kirby P) (‘Pace’), quoting Placer (n 9) 359–60 (Taylor and Owen JJ).
+
+[57] Pace (n 10) 151 (McHugh JA).
+
+[58] Ibid 136 (Kirby P).
+
+[59] The Crown v Clarke (1927) 40 CLR 227, 244 (Starke J) (‘Clarke’).
+
+[60] Ibid 232 (Isaacs ACJ).
+
+[61] Beaton v McDivitt (1987) 13 NSWLR 162, 181 (McHugh JA) (‘Beaton’), quoting Thomas v Thomas (1842) 2 QB 851, 859; 114 ER 330, 333–4 (Patteson J).
+
+[62] Beaton (n 15) 181–2 (McHugh JA).
+
+[63] Veivers v Cordingley [1989] 2 Qd R 278 (McPherson J), quoted in Mobil (n 6) 505, citing Abbott v Lance (1860) 2 Legge 1283.
+
+[64] Beaton (n 15) 183–4 (McHugh JA).
+
+[65] Ibid 171 (Kirby P).
+
+[66] Mobil (n 6) 506.
+
+[67] Ibid 507.
+
+[68] Ibid 506.
+
+[69] Clarke (n 13) 244 (Starke J).
+
+[70] Ermogenous (n 8) [25] (Gaudron, McHugh, Hayne and Callinan JJ).
+
+[71] Roscorla v Thomas (1842) 3 QB 234, 237; 114 ER 496 (‘Roscorla’).
+
+[72] Pao On v Lau Yiu Long [1980] AC 614, 629–30 (‘Pao On’).
+
+[73] Ibid, quoting Re Casey’s Patents; Stewart v Casey [1892] 1 Ch 104, 115–16 (Bowen LJ).
+
+[74] Pao On (n 26) 629–30.
+
+[75] Woolworths Ltd v Kelly (1991) 22 NSWLR 189, 193 (Kirby P) (‘Woolworths’).
+
+[76] Beaton (n 15) 185 (McHugh JA).
+
+[77] Butler Machine Tool Co Ltd v Ex-Cell-O Corp (England) Ltd [1979] 1 WLR 401, 406 (Lawton LJ), quoting Trollope & Colls Ltd v Atomic Power Constructions Ltd [1963] 1 WLR 333, 337 (Megaw J).
+
+[78] Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, 534 (McHugh JA).
+
+[79] Ibid 535.
+
+[80] Meehan v Jones (1982) 149 CLR 571, 581 (Gibbs CJ) (‘Meehan’).
+
+[81] Pace (n 10) 151 (McHugh JA), quoting Thorby v Goldberg (1964) 112 CLR 597, 605 (Kitto J).
+
+[82] Meehan (n 34) 581 (Gibbs CJ).
+
+[83] Godecke v Kirwan (1973) 129 CLR 629, 647 (Gibbs J).
+
+[84] Pace (n 10) 136 (Kirby P).
+
+[85] Ibid, citing Lewandowski v Mead Carney-BCA Pty Ltd [1973] 2 NSWLR 640, 643 (‘Lewandowski’).
+
+[86] Pace (n 10) 151 (McHugh JA).
+
+[87] Ibid 136 (Kirby P).
+
+[88] Banque Brussels Lambert SA v Australian National Industries Ltd (1989) 21 NSWLR 502, 523 (Rogers CJ).
+
+[89] Todd v Nicol [1957] SASR 72, 74 (Mayo J).
+
+[90] Woollen Mills (n 5) 457.
+
+[91] Ibid 458.
+
+[92] Beaton (n 15) 181 (McHugh JA), quoting Currie v Misa (1875) LR 10 Ex 153, 162 (Lush J).
+
+[93] Pace (n 10) 151 (McHugh JA).
+
+[94] Wigan v Edwards (1973) 47 ALJR 586, 594 (Mason J).
+
+[95] Carlill (n 1) 268 (Bowen LJ).
+
+[96] Foakes v Beer (1884) 9 App Cas 605, 611 (Earl of Selborne LC).
+
+[97] Mobil Oil Australia Ltd v Wellcome International Pty Ltd (1998) 81 FCR 475, 500.
+
+[98] Byrne & Co v Leon Van Tienhoven & Co (1880) LR 5 CPD 344.
+
+[99] Tallerman & Co Pty Ltd v Nathan’s Merchandise (Vic) Pty Ltd (1957) 98 CLR 93, 111–12 (Dixon CJ and Fullagar J).
+
+[100] Electronic Transactions Act 2000 (NSW) s 13A(1)(a), (2).
+
+[101] UNCITRAL, Guide to Enactment of the UNCITRAL Model Law on Electronic Commerce (1996) [102].
+
+[102] Electronic Transactions Act 2000 (NSW) s 13A(1)(b)(ii).
+
+[103] Brinkibon Ltd v Stahag Stahl Und Stahlwarenhandelsgesellschaft mbH [1983] 2 AC 34, 41 (Lord Wilberforce).
+
+[104] Wigan v Edwards (1973) 47 ALJR 586, 594 (Mason J) (‘Wigan’).
+
+[105] Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1, 11 (Glidewell LJ) (‘Williams v Roffey’), quoting Stilk v Myrick (1809) 2 Camp 317, 318–19; 170 ER 1168 (Lord Ellenborough CJ).
+
+[106] Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 746–7 (Santow J) (‘Musumeci’); Williams v Roffey (n 9) 15–16 (Glidewell LJ).
+
+[107] Musumeci (n 10) 747 (Santow J).
+
+[108] Ibid (emphasis omitted).
+
+[109] Williams v Roffey (n 9) 13 (Glidewell LJ).
+
+[110] Musumeci (n 10) 744 (Santow J).
+
+[111] Wigan (n 8) 595 (Mason J).
+
+[112] Ermogenous v Greek Orthodox Community of SA Inc (2002) 209 CLR 95, [26] (Gaudron, McHugh, Hayne and Callinan JJ) (‘Ermogenous’).
+
+[113] Ibid [25].
+
+[114] Todd v Nicol [1957] SASR 72, 74–6 (Mayo J) (‘Todd’).
+
+[115] Ibid 79–80.
+
+[116] Ermogenous (n 16) [37] (Gaudron, McHugh, Hayne and Callinan JJ).
+
+[117] Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 458.
+
+[118] Beaton v McDivitt (1987) 13 NSWLR 162, 181 (McHugh JA), quoting Thomas v Thomas (1842) 2 QB 851, 859; 114 ER 330, 333–4 (Patteson J).
+
+[119] Biotechnology Australia Pty Ltd v Pace (1988) 15 NSWLR 130, 136 (Kirby P).
+
+[120] Meehan v Jones (1982) 149 CLR 571, 581 (Gibbs CJ).
+
+[121] Ermogenous (n 16) [33] (Gaudron, McHugh, Hayne and Callinan JJ).
+
+[122] Banque Brussels Lambert SA v Australian National Industries Ltd (1989) 21 NSWLR 502, 523 (Rogers CJ).
+
+[123] Masters v Cameron (1954) 91 CLR 353, 361 (‘Masters’), quoting Rossiter v Miller (1878) 3 App Cas 1124, 1149 (Lord O’Hagan).
+
+[124] Masters (n 27) 360.
+
+[125] Brambles Holdings Ltd v Bathurst City Council (2001) 53 NSWLR 153, 164 (Heydon JA) (‘Brambles’).
+
+[126] Masters (n 27) 364.
+
+[127] Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, 536 (McHugh JA) (‘Empirnall’).
+
+[128] MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) (1975) 133 CLR 125, 139 (Stephen J).
+
+[129] Empirnall (n 31) 536 (McHugh JA).
+
+[130] Brambles (n 29) 195 (Ipp JA), quoting Brogden v Metropolitan Railway Co (1877) 2 App Cas 666, 686 (Lord Hatherley).
+
+[131] Wigan (n 8) 594 (Mason J).
+
+[132] Williams v Roffey (n 9) 15 (Glidewell LJ), citing Pao On v Lau Yiu Long [1980] AC 614.
+
+[133] Coulls v Bagot’s Executor & Trustee Co Ltd (1967) 119 CLR 460, 487 (Taylor and Owen JJ).
+
+[134] Butler Machine Tool Co Ltd v Ex-Cell-O Corp (England) Ltd [1979] 1 WLR 401, 406 (Lawton LJ).
+
+[135] Gibson v Manchester City Council [1979] 1 WLR 294, 298 (Lord Diplock) (‘Gibson’).
+
+[136] Ibid.
+
+[137] Butler Machine Tool Co Ltd v Ex-Cell-O Corp (England) Ltd [1979] 1 WLR 401, 406 (Lawton LJ).
+
+[138] Masters v Cameron (1954) 91 CLR 353, 360 (‘Masters’).
+
+[139] Ibid 361, quoting Rossiter v Miller (1878) 3 App Cas 1124, 1151 (Lord Blackburn).
+
+[140] Baulkham Hills Private Hospital Pty Ltd v GR Securities Pty Ltd (1986) 40 NSWLR 622, 628 (McLelland J), quoting Sinclair, Scott & Co v Naughton (1929) 43 CLR 310, 317 (Knox CJ, Rich and Dixon JJ).
+
+[141] Masters (n 4) 364.
+
+[142] Ibid 361, quoting Rossiter v Miller (n 5) 1149 (Lord O’Hagan).
+
+[143] Masters (n 4) 362.
+
+[144] Coulls v Bagot’s Executor & Trustee Co Ltd (1967) 119 CLR 460, 478 (Barwick CJ), 487 (Taylor and Owen JJ).
+
+[145] Meehan v Jones (1982) 149 CLR 571, 581–2 (Gibbs CJ), 588–9, 591 (Mason J) (‘Meehan’).
+
+[146] Ibid 592 (Mason J).
+
+[147] Ibid 577, 582 (Gibbs CJ), 592 (Mason J).
+
+[148] Ermogenous v Greek Orthodox Community of SA Inc (2002) 209 CLR 95, [25] (Gaudron, McHugh, Hayne and Callinan JJ) (‘Ermogenous’).
+
+[149] Council of the Upper Hunter County District v Australian Chilling and Freezing Co Ltd (1968) 118 CLR 429, 437 (Barwick CJ).
+
+[150] Whitlock v Brew (1968) 118 CLR 445, 456–7 (Kitto J) (‘Whitlock’).
+
+[151] Ibid 461 (Taylor, Menzies and Owen JJ).
+
+[152] Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, 534 (McHugh JA) (‘Empirnall’).
+
+[153] Ibid 535 (McHugh JA).
+
+[154] Ibid 536 (McHugh JA).
+
+[155] Ermogenous (n 14) [25] (Gaudron, McHugh, Hayne and Callinan JJ).
+
+[156] Empirnall (n 18) 536 (McHugh JA).
+
+[157] Pao On v Lau Yiu Long [1980] AC 614.
+
+[158] Mobil Oil Australia Ltd v Wellcome International Pty Ltd (1998) 81 FCR 475, 500.
+
+[159] Wigan v Edwards (1973) 47 ALJR 586, 594 (Mason J) (‘Wigan’).
+
+[160] Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1, 11 (Glidewell LJ) (‘Williams v Roffey’), quoting Stilk v Myrick (1809) 2 Camp 317, 318–19; 170 ER 1168 (‘Stilk’).
+
+[161] Wigan (n 25) 594–5 (Mason J).
+
+[162] Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 746–7 (Santow J) (‘Musumeci’); Williams v Roffey (n 26) 15–16 (Glidewell LJ).
+
+[163] Musumeci (n 28) 747 (Santow J).
+
+[164] Ibid.
+
+[165] Ibid 744, 747 (Santow J).
+
+[166] Williams v Roffey (n 26) 10 (Glidewell LJ).
+
+[167] Ibid 13 (Glidewell LJ).
+
+[168] Musumeci (n 28) 744 (Santow J).
+
+[169] Ibid.
+
+[170] Coulls v Bagot’s Executor and Trustee Co Ltd (1967) 119 CLR 460, 487 (Taylor and Owen JJ) (‘Coulls’).
+
+[171] Ibid 486 (Taylor and Owen JJ).
+
+[172] Coulls (n 1) 478–9 (Barwick CJ, dissenting), 486 (Taylor and Owen JJ), 493 (Windeyer J, dissenting).
+
+[173] Ibid 479 (Barwick CJ, dissenting), 486 (Taylor and Owen JJ), 493 (Windeyer J, dissenting).
+
+[174] Butler Machine Tool Co Ltd v Ex-Cell-O Corp (England) Ltd [1979] 1 WLR 401, 404 (Lord Denning MR) (‘Butler’).
+
+[175] Masters v Cameron (1954) 91 CLR 353, 360 (‘Masters’).
+
+[176] Ibid 363.
+
+[177] Ibid 361, quoting Rossiter v Miller (1878) 3 App Cas 1124, 1149 (Lord O’Hagan).
+
+[178] Masters (n 6) 363, quoting Winn v Bull (1877) 7 Ch D 29, 32 (Jessel MR).
+
+[179] Masters (n 6) 364.
+
+[180] Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, 536 (McHugh JA) (‘Empirnall’).
+
+[181] Brambles Holdings Ltd v Bathurst City Council [2001] NSWCA 61; (2001) 53 NSWLR 153, 164 (Heydon JA) (‘Brambles’).
+
+[182] Banque Brussels Lambert SA v Australian National Industries Ltd (1989) 21 NSWLR 502, 523 (Rogers CJ Comm D).
+
+[183] Masters (n 6) 360.
+
+[184] Whitlock v Brew (1968) 118 CLR 445, 461 (Taylor, Menzies and Owen JJ) (‘Whitlock’).
+
+[185] Brambles (n 12) 178 (Heydon JA), quoting Integrated Computer Services Pty Ltd v Digital Equipment Corp (Aust) Pty Ltd (1988) 5 BPR 11,110, 11,117 (McHugh JA).
+
+[186] Biotechnology Australia Pty Ltd v Pace (1988) 15 NSWLR 130, 152 (McHugh JA) (‘Pace’).
+
+[187] Ibid 151 (McHugh JA).
+
+[188] Council of the Upper Hunter County District v Australian Chilling and Freezing Co Ltd (1968) 118 CLR 429, 437 (Barwick CJ) (‘Upper Hunter’).
+
+[189] Pace (n 17) 136 (Kirby P).
+
+[190] Ibid.
+
+[191] Brambles (n 12) 164 (Heydon JA).
+
+[192] Upper Hunter (n 19) 437 (Barwick CJ), quoting G Scammell and Nephew Ltd v Ouston [1941] AC 251, 268 (Lord Wright).
+
+[193] Whitlock (n 15) 461–2 (Taylor, Menzies and Owen JJ).
+
+[194] Wigan v Edwards (1973) 47 ALJR 586, 594 (Mason J).
+
+[195] Ibid 594–5 (Mason J).
+
+[196] Ibid 595 (Mason J).
+
+[197] Williams v Roffey Bros and Nicholls (Contractors) Ltd [1991] 1 QB 1, 15–16 (Glidewell LJ) (‘Williams v Roffey’).
+
+[198] Upper Hunter (n 19) 437 (Barwick CJ).
+
+[199] Brambles (n 12) 192–5 (Ipp JA).
+
+[200] Butler (n 5) 406 (Lawton LJ), quoting Trollope and Colls Ltd v Atomic Power Constructions Ltd [1963] 1 WLR 333, 337 (Megaw J).
+
+[201] Empirnall (n 11) 535 (McHugh JA).
+
+[202] Ibid 536 (McHugh JA).
+
+[203] Ibid 535 (McHugh JA).
+
+[204] Ibid 534 (McHugh JA).
+
+[205] Brambles (n 12) 195 (Ipp JA), quoting Brogden v Metropolitan Railway Co (1877) 2 App Cas 666, 686 (Lord Hatherley).
+
+[206] Brambles (n 12) 179 (Heydon JA).
+
+[207] Ibid 197 (Ipp JA).
+
+[208] Ermogenous v Greek Orthodox Community of SA Inc [2002] HCA 8; (2002) 209 CLR 95, [25]–[26] (Gaudron, McHugh, Hayne and Callinan JJ).
+
+[209] Carlill v Carbolic Smoke Ball Co [1893] 1 QB 256, 268 (Bowen LJ) (‘Carlill’).
+
+[210] Electronic Transactions Act 2000 (NSW) ss 5 (definition of ‘electronic communication’), 14A, 14B(1).
+
+[211] Carlill (n 40) 261–2 (Lindley LJ).
+
+[212] Port Jackson Stevedoring Pty Ltd v Salmond and Spraggon (Aust) Pty Ltd (1978) 139 CLR 231.
+
+[213] The Crown v Clarke (1927) 40 CLR 227, 242 (Higgins J) (‘Clarke’).
+
+[214] Ibid 244 (Starke J).
+
+[215] Ibid.
+
+[216] Ibid 235 (Isaacs ACJ).
+
+[217] Ibid 242 (Higgins J), 244–5 (Starke J).
+
+[218] Ibid 231–2 (Isaacs ACJ).
+
+[219] Butler Machine Tool Co Ltd v Ex-Cell-O Corp (England) Ltd [1979] 1 WLR 401, 406 (Lawton LJ).
+
+[220] Brambles Holdings Ltd v Bathurst City Council [2001] NSWCA 61; (2001) 53 NSWLR 153, 194–5 (Ipp AJA) (‘Brambles’).
+
+[221] Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, 535 (McHugh JA).
+
+[222] Masters v Cameron (1954) 91 CLR 353, 361, quoting Rossiter v Miller (1878) 3 App Cas 1124, 1149 (Lord O’Hagan).
+
+[223] Brogden v Metropolitan Railway Co (1877) 2 App Cas 666, 686 (Lord Hatherley), quoted in Brambles (n 2) 195 (Ipp AJA).
+
+[224] Pao On v Lau Yiu Long [1980] AC 614 (‘Pao On’).
+
+[225] Ermogenous v Greek Orthodox Community of SA Inc [2002] HCA 8; (2002) 209 CLR 95, [25] (Gaudron, McHugh, Hayne and Callinan JJ) (‘Ermogenous’).
+
+[226] Wigan v Edwards (1973) 47 ALJR 586, 594 (Mason J).
+
+[227] Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1, 11 (Glidewell LJ) (‘Williams v Roffey’), quoting Stilk v Myrick (1809) 2 Camp 317, 318–19; 170 ER 1168 (Lord Ellenborough CJ).
+
+[228] Williams v Roffey (n 9) 11 (Glidewell LJ), quoting Stilk v Myrick (n 9) 318–19 (Lord Ellenborough CJ).
+
+[229] Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 747 (‘Musumeci’).
+
+[230] Ibid.
+
+[231] Williams v Roffey (n 9) 10 (Glidewell LJ).
+
+[232] Ibid 13.
+
+[233] Musumeci (n 11) 744.
+
+[234] Ibid.
+
+[235] Ibid.
+
+[236] Godecke v Kirwan (1973) 129 CLR 629, 647 (Gibbs J) (‘Godecke’), citing Beattie v Fine [1925] VLR 363.
+
+[237] Council of the Upper Hunter County District v Australian Chilling and Freezing Co Ltd (1968) 118 CLR 429, 437 (Barwick CJ) (‘Upper Hunter’).
+
+[238] Godecke (n 18) 647 (Gibbs J).
+
+[239] Upper Hunter (n 19) 437–8 (Barwick CJ).
+
+[240] Carlill v Carbolic Smoke Ball Co [1893] 1 QB 256, 268 (Bowen LJ) (‘Carlill’).
+
+[241] The Crown v Clarke (1927) 40 CLR 227, 244 (Starke J) (‘Clarke’).
+
+[242] Ibid.
+
+[243] Williams v Roffey (n 9) 15 (Glidewell LJ), citing Pao On (n 6).
+
+[244] Ermogenous (n 7) [26] (Gaudron, McHugh, Hayne and Callinan JJ).
+
+[245] Ibid [25].
+
+[246] Mobil Oil Australia Ltd v Wellcome International Pty Ltd (1998) 81 FCR 475, 499.
+
+[247] Carlill (n 22) 266 (Bowen LJ).
+
+[248] Biotechnology Australia Pty Ltd v Pace (1988) 15 NSWLR 130, 136 (Kirby P) (‘Pace’).
+
+[249] Ibid 156 (McHugh JA).
+
+[250] Coulls v Bagot’s Executor & Trustee Co Ltd (1967) 119 CLR 460, 487 (Taylor and Owen JJ) (‘Coulls’).
+
+[251] Ibid.
+
+[252] Scruttons Ltd v Midland Silicones Ltd [1962] AC 446.
+
+[253] Coulls (n 32) 487 (Taylor and Owen JJ).
+
+[254] Ibid 486.
+
+[255] Ibid.
+
+[256] Ibid 479 (Barwick CJ, dissenting), 493 (Windeyer J, dissenting).
+
+[257] Clarke (n 23) 244 (Starke J).
+
+[258] Ibid.
+
+[259] South West Terminal Ltd v Achter Land & Cattle Ltd 2023 SKKB 116, [61]–[64].
+
+[260] Pace (n 30) 151 (McHugh JA).
+
+[261] Butler Machine Tool Co Ltd v Ex-Cell-O Corp (England) Ltd [1979] 1 WLR 401, 406 (Lawton LJ) (‘Butler’).
+
+[262] Ibid 404 (Lord Denning MR), 405–6 (Lawton LJ).
+
+[263] Masters v Cameron (1954) 91 CLR 353, 360 (‘Masters’).
+
+[264] Banque Brussels Lambert SA v Australian National Industries Ltd (1989) 21 NSWLR 502, 523 (Rogers CJ).
+
+[265] Masters (n 3) 360.
+
+[266] Ibid 363, quoting Winn v Bull (1877) 7 Ch D 29, 32 (Jessel MR).
+
+[267] Masters (n 3) 361, citing Rossiter v Miller (1878) 3 App Cas 1124.
+
+[268] Masters (n 3) 361, citing Niesmann v Collingridge (1921) 29 CLR 177.
+
+[269] Brambles Holdings Ltd v Bathurst City Council [2001] NSWCA 61; (2001) 53 NSWLR 153, 164 (Heydon JA).
+
+[270] Masters (n 3) 363.
+
+[271] Ibid 364.
+
+[272] Godecke v Kirwan (1973) 129 CLR 629, 642–3 (Walsh J), 648 (Mason J).
+
+[273] Masters (n 3) 362.
+
+[274] Ibid 361.
+
+[275] Ibid 360.
+
+[276] Meehan v Jones (1982) 149 CLR 571, 581 (Gibbs CJ) (‘Meehan’), quoting Placer Development Ltd v Commonwealth (1969) 121 CLR 353, 356 (Kitto J).
+
+[277] Meehan (n 16) 582 (Gibbs CJ), 590 (Mason J), 596 (Murphy J), 597 (Wilson J).
+
+[278] Ibid 580–1 (Gibbs CJ).
+
+[279] Ibid 590–1 (Mason J), 597–8 (Wilson J).
+
+[280] Ibid 596–7 (Murphy J).
+
+[281] Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, 534 (McHugh JA) (‘Empirnall’).
+
+[282] Ibid 536 (McHugh JA).
+
+[283] Electronic Transactions Act 2000 (NSW) s 13A(1)(b); United Nations Commission on International Trade Law, Guide to Enactment of the UNCITRAL Model Law on Electronic Commerce (1996) [102].
+
+[284] Ermogenous v Greek Orthodox Community of SA Inc [2002] HCA 8; (2002) 209 CLR 95, [33] (Gaudron, McHugh, Hayne and Callinan JJ) (‘Ermogenous’).
+
+[285] Coulls v Bagot’s Executor & Trustee Co Ltd (1967) 119 CLR 460, 478 (Barwick CJ, dissenting), 494 (Windeyer J, dissenting) (‘Coulls’).
+
+[286] Ibid 493 (Windeyer J, dissenting), 486 (Taylor and Owen JJ).
+
+[287] Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 458 (‘Australian Woollen Mills’).
+
+[288] The Crown v Clarke (1927) 40 CLR 227, 244 (Starke J); Pao On v Lau Yiu Long [1980] AC 614; Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1, 15 (Glidewell LJ) (‘Williams v Roffey’).
+
+[289] Coulls (n 25) 491 (Windeyer J, dissenting).
+
+[290] Ermogenous (n 24) [25] (Gaudron, McHugh, Hayne and Callinan JJ).
+
+[291] Australian Woollen Mills (n 27) 456; Australian Woollen Mills Pty Ltd v Commonwealth (1955) 93 CLR 546, 550.
+
+[292] Trident General Insurance Co Ltd v McNiece Bros Pty Ltd (1988) 165 CLR 107, 115–16 (Mason CJ and Wilson J) (‘Trident’), quoted in J Paterson and A Robertson, Principles of Contract Law (Lawbook Co, 7th ed, 2025) 104 [4.80].
+
+[293] Coulls (n 25) 487 (Taylor and Owen JJ).
+
+[294] Ermogenous (n 24) [26] (Gaudron, McHugh, Hayne and Callinan JJ).
+
+[295] Wigan v Edwards (1973) 47 ALJR 586, 594 (Mason J).
+
+[296] Williams v Roffey (n 28) 11 (Glidewell LJ), quoting Stilk v Myrick (1809) 2 Camp 317, 318–19; 170 ER 1168 (Lord Ellenborough CJ).
+
+[297] Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 747 (Santow J) (‘Musumeci’).
+
+[298] Williams v Roffey (n 28) 11, 16 (Glidewell LJ).
+
+[299] Musumeci (n 37) 747 (Santow J).
+
+[300] Ibid 744 (Santow J).
+
+[301] Williams v Roffey (n 28) 13 (Glidewell LJ).
+
+[302] Ibid 10 (Glidewell LJ).
+
+[303] Musumeci (n 37) 744 (Santow J).
+
+[304] Trident (n 32) 147 (Deane J), quoted in Paterson and Robertson (n 32) 295 [11.110].
+
+[305] Coulls (n 25) 487 (Taylor and Owen JJ).
+
+[306] Ibid 503 (Windeyer J, dissenting).
+
+[307] Ibid 501–3 (Windeyer J, dissenting).
+
+[308] Ibid 502 (Windeyer J, dissenting).
+
+[309] Australian Woollen Mills (n 27) 458.
+
+[310] Ermogenous v Greek Orthodox Community of SA Inc [2002] HCA 8; (2002) 209 CLR 95, [33] (Gaudron, McHugh, Hayne and Callinan JJ) (‘Ermogenous’).
+
+[311] Gibson v Manchester City Council [1979] 1 WLR 294, 298 (Lord Diplock).
+
+[312] Butler Machine Tool Co Ltd v Ex-Cell-O Corp (England) Ltd [1979] 1 WLR 401, 405–6 (Lawton LJ) (‘Butler’).
+
+[313] Ermogenous (n 1) [25].
+
+[314] Brambles Holdings Ltd v Bathurst City Council [2001] NSWCA 61; (2001) 53 NSWLR 153, 164 (Heydon JA) (‘Brambles’).
+
+[315] MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) (1975) 133 CLR 125, 139 (Stephen J).
+
+[316] Butler (n 3) 406 (Lawton LJ).
+
+[317] Brambles (n 5) 195 (Ipp AJA), quoting Brogden v Metropolitan Railway Co (1877) 2 App Cas 666, 686 (Lord Hatherley).
+
+[318] Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, 536 (McHugh JA) (‘Empirnall’).
+
+[319] Electronic Transactions Act 2000 (NSW) s 13A(1)–(2).
+
+[320] Empirnall (n 9) 535 (McHugh JA).
+
+[321] Brambles (n 5) 197 (Ipp AJA).
+
+[322] Empirnall (n 9) 535 (McHugh JA).
+
+[323] Ibid, citing Laurel Race Course Inc v Regal Construction Co Inc, 333 A 2d 319 (Md, 1975).
+
+[324] Empirnall (n 9) 535 (McHugh JA).
+
+[325] Wigan v Edwards (1973) 47 ALJR 586, 594 (Mason J) (‘Wigan’).
+
+[326] Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1, 11 (Glidewell LJ) (‘Roffey’), quoting Stilk v Myrick (1809) 2 Camp 317, 318–19; 170 ER 1168, 1168–9 (Lord Ellenborough CJ) (‘Stilk’).
+
+[327] Brambles (n 5) 164 (Heydon JA).
+
+[328] Roffey (n 17) 11 (Glidewell LJ), quoting Stilk (n 17) 318–19 (Lord Ellenborough CJ).
+
+[329] Wigan (n 16) 594–5 (Mason J).
+
+[330] Ibid 595.
+
+[331] Roffey (n 17) 10 (Glidewell LJ).
+
+[332] Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 744 (Santow J).
+
+[333] Ermogenous (n 1) [33].
+
+[334] Taddy and Co v Sterious and Co [1904] 1 Ch 354.
+
+[335] Ermogenous (n 1) [26].
+
+[336] Ibid [25].
+
+[337] Todd v Nicol [1957] SASR 72, 80 (Mayo J) (‘Todd’).
+
+[338] Ibid 74.
+
+[339] Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 457.
+
+[340] Ibid 458.
+
+[341] Roscorla v Thomas (1842) 3 QB 234, 237; 114 ER 496 (‘Roscorla’).
+
+[342] Mobil Oil Australia Ltd v Wellcome International Pty Ltd (1998) 81 FCR 475, 506 (‘Mobil’).
+
+[343] Beaton v McDivitt (1987) 13 NSWLR 162, 183–4 (McHugh JA, dissenting).
+
+[344] Mobil (n 33) 501–2, 506–7, 509.
+
+[345] Godecke v Kirwan (1973) 129 CLR 629, 646–7 (Gibbs J).
+
+[346] Meehan v Jones (1982) 149 CLR 571, 581 (Gibbs CJ) (‘Meehan’), quoting Placer Development Ltd v Commonwealth (1969) 121 CLR 353, 356 (Kitto J).
+
+[347] Pao On v Lau Yiu Long [1980] AC 614.
+
+[348] Roscorla (n 32) 237.
+
+[349] Meehan (n 37) 581 (Gibbs CJ).
+
+[350] Ibid 590–1 (Mason J).

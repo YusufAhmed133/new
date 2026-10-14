@@ -1,0 +1,135 @@
+Word count: 1,495
+
+I. ROCKY v GRACE
+
+A. Agreement and certainty
+
+The issue is whether the 12 February exchange formed a contract. While new terms remain to be adopted, the parties are still negotiating.[1] A promise leaving performance to the promisor’s discretion is illusory,[2] but not where the discretion relates only to the fulfilment of a condition, which must be assessed honestly, or honestly and reasonably.[3] However, Gibbs J doubted that an agreement leaving further terms, at least on a vital matter, to one party is a concluded contract.[4]
+
+Here, the email settled the amount, date, term and rate, and Grace’s unqualified ‘Confirmed’ would ordinarily accept it. However, Rocky would lend only ‘subject to satisfactory conditions’, which the email does not specify. Grace will argue that these were subsidiary or, as with the finance in Meehan, for Rocky to assess honestly. Yet they identify no subject matter, so they are arguably further loan terms for Rocky alone to settle, not a condition whose fulfilment he would assess.
+
+On balance, a court would likely find that no contract was formed, because whether Rocky lent depended on terms that he alone would settle. Further information is needed on what the conditions were, as Meehan-type conditions would likely bind. That finding protects Rocky, as nothing shows he lent by 15 February, but gives him no claim.
+
+B. Privity
+
+The issue is whether Rocky can enforce the Loan Agreement, as his 5 March demand assumed. Prima facie, only a party can enforce a contract, and a signature alone does not make one: in Coulls, the wife signed, yet was not a party, as the company made no promise to pay her.[5]
+
+Here, Grace promised repayment to AMPL alone, and neither Rocky’s request for the loan nor the guarantee, which makes him at most AMPL’s promisor, makes him Grace’s promisee. Grace’s ‘I never signed anything with you’ therefore reaches the right result. Nor does agency assist, as nothing suggests AMPL purported to lend as Rocky’s agent.[6]
+
+Rocky therefore likely cannot enforce the Loan Agreement and, as the Development Agreement discloses no breach, would likely fail in any claim against Grace.
+
+II. ROCKY v AMPL OR PIERRE
+
+A. Agreement
+
+The issue is whether the 8 April exchange formed a contract, and with whom. AMPL, a company, is bound if Pierre acted as its agent and purported to act for it,[7] and its consent may be implied where it placed him so that a reasonable person would understand him to have its authority.[8]
+
+Here, Rocky offered his promise for a promise to pay him $10,000 ‘directly’, and ‘Pierre agreed’. Pierre ‘owned and controlled’ AMPL, the meeting was at AMPL’s office, AMPL had performed his 27 February agreement the same day, and his expectation concerned payments to AMPL. Against this, Rocky addressed Pierre as ‘you’.
+
+AMPL is therefore likely the promisor, because Pierre spoke as its controller about its loan; Rocky should sue Pierre in the alternative.
+
+B. Intention to create legal relations
+
+The issue is whether the parties intended to create legal relations, which Rocky must prove and which is judged objectively; presumptions, such as those about ‘family arrangements’, are of doubtful utility.[9] Appropriately promissory statements made in the course of business should be enforced absent a clear indication otherwise.[10]
+
+AMPL will rely on Pierre being ‘Rocky’s cousin’, but that is only one circumstance, and the $10,000 was payment for a specific undertaking about a $1,150,000 loan, with nothing indicating otherwise.
+
+A court would therefore likely find intention, because the commercial setting outweighs the family relationship, though less clearly against Pierre personally.
+
+C. Consideration
+
+The issue is whether Rocky’s promise to ensure prompt payment was consideration. Prima facie, a promise to perform an existing duty is not consideration, at least where a party to a pre-existing contract promises the promisee under it no more than it requires.[11] In Sundell, the supplier was already bound to ‘do what was necessary to ensure’ delivery.[12]
+
+AMPL will argue that Rocky, as guarantor, already owed it that duty. Firstly, he promised before the Agreement was signed, so no contract yet bound him. Secondly, if Pierre promised personally, Rocky promised Pierre, and a promise to perform a duty owed to a third party can be consideration.[13] Thirdly, ensuring that Grace made all payments promptly, including monthly interest, differs from guaranteeing ‘repayment of the Loan’. Were the promises identical, practical benefit would not assist, as nothing suggests AMPL had reason to doubt Rocky’s performance.[14]
+
+Rocky’s promise was therefore likely consideration because, unlike the Sundell promise, it was not identical with an existing obligation, even if the guarantee bound him first.
+
+D. Privity
+
+If ‘the clause’ is the $10,000 term, the issue is whether Rocky, like Mrs Coulls, is a stranger to the Agreement. The clause in Coulls merely authorised payment to her,[15] whereas Rocky gave his own promise for AMPL’s promise to pay him ‘directly’. Coulls is therefore distinguishable, and privity is likely no bar.
+
+E. Condition of payment
+
+The issue is when the $10,000 is payable. As with the signing in Niesmann, a stipulation may make an event a condition of the obligation to pay rather than of agreement.[16]
+
+Here, the promise to pay ‘once Grace repays the Loan’ makes repayment such a condition, which may never be fulfilled if Rocky pays under the guarantee, given Grace’s ‘might not pay at all’.
+
+On balance, Rocky would likely hold an enforceable promise of $10,000, payable only if Grace repays.
+
+III. AMPL v ROCKY
+
+A. Agreement
+
+The issue is whether Rocky is bound by the guarantee. Prima facie, a contract ‘signed by Grace and AMPL’ cannot impose obligations on Rocky.[17] Silence is generally insufficient acceptance, but an offeree who takes the benefit of an offer, knowing its terms and with a reasonable opportunity to reject it, may be held to have accepted it.[18]
+
+Rocky’s recorded words promised to ensure payment, not to guarantee it. However, he requested the loan, attended the settling of an Agreement naming him as guarantor, and raised no recorded objection. The guarantee is also described as ‘provided by Rocky’. If ‘the clause’ is the guarantee, it was arguably included as part of his $10,000 bargain; if it is the $10,000 term, Rocky’s benefit was written into that Agreement.
+
+On balance, a court would likely find that Rocky accepted the guarantee by conduct, because he took a benefit tied to the Agreement without recorded objection. Further information is needed on whether he knew of, signed or expressly agreed to the guarantee.
+
+B. Consideration
+
+The issue is whether the guarantee, given after AMPL’s 27 February advance, is supported by consideration. Prima facie, a past act supports no promise beyond what the law implies,[19] unless it was done at the promisor’s request, the parties understood that it was to be remunerated, and the remuneration would have been enforceable if promised in advance.[20] However, consideration need not move to the promisor,[21] and may be a creditor’s forbearance.[22]
+
+Here, ‘Rocky asked’ for the advance, but nothing shows an understanding on 27 February that he would guarantee it. Yet, in the Loan Agreement, AMPL promised Grace 12 months’ credit at 4%, unless the advance was already made on that term. If ‘the clause’ is the guarantee, AMPL also arguably promised Rocky $10,000 for it. Rocky’s two defences therefore conflict: if 8 April created the term, as his timing argument requires, AMPL gave fresh consideration that day.
+
+On balance, the guarantee is likely supported by consideration, because AMPL’s 8 April promises, not the past advance, were given in exchange for it.
+
+C. Certainty and construction
+
+The issue is whether AMPL’s 9 March call was premature, which depends on when ‘the expiry of 12 months’ fell. A term is uncertain only if the court cannot decide which of its possible meanings the parties intended.[23] If a term is ambiguous, mutually known facts showing the genesis of the transaction are admissible to construe it,[24] but post-contractual conduct is not.[25]
+
+Rocky will argue that the Agreement created the term, as nothing shows a term was agreed on 27 February, when ‘Pierre agreed to provide the money to Grace’. AMPL will reply that the loan ‘was recorded as $1,150,000’, so the Agreement recorded money already lent, and that the advance, known to all three, shows the term ran from 27 February. Later conduct, including the interest payments and Rocky’s own 5 March demand, cannot construe the term.
+
+On balance, a court would likely find the term certain, running from 8 April 2024, because the Agreement created the term, and the advance shows only when the money was lent. Likewise, ‘recorded’ describes the amount, not the start of the term. Further information is needed on whether the Agreement tied the term or interest to the advance. If it did, the call was timely, and Rocky likely also breached his promise to ensure prompt payment.
+
+AMPL would therefore likely hold an enforceable guarantee but could not call on it before 8 April 2025, so Rocky should resist the 9 March call.
+
+[1] Masters v Cameron (1954) 91 CLR 353, 361 (‘Masters’), quoting Rossiter v Miller (1878) 3 App Cas 1124, 1149 (Lord O’Hagan).
+
+[2] Meehan v Jones (1982) 149 CLR 571, 581 (Gibbs CJ) (‘Meehan’), quoting Placer Development Ltd v Commonwealth (1969) 121 CLR 353, 356 (Kitto J).
+
+[3] Meehan (n 2) 581–2 (Gibbs CJ), 588–90 (Mason J).
+
+[4] Godecke v Kirwan (1973) 129 CLR 629, 646–7 (Gibbs J).
+
+[5] Coulls v Bagot’s Executor & Trustee Co Ltd (1967) 119 CLR 460, 486–7 (Taylor and Owen JJ) (‘Coulls’).
+
+[6] Picwoods Pty Ltd v Panagopoulos [2004] NSWSC 978, [84]–[85].
+
+[7] Ibid.
+
+[8] Pola v Commonwealth Bank of Australia (Unreported, Federal Court of Australia, Sundberg J, 19 December 1997) 12, quoted in Andrew Robertson and Jeannie Paterson, Principles of Contract Law (Lawbook Co, 7th ed, 2025) 289–90 [11.80].
+
+[9] Ermogenous v Greek Orthodox Community of SA Inc [2002] HCA 8; (2002) 209 CLR 95, [25]–[26] (Gaudron, McHugh, Hayne and Callinan JJ).
+
+[10] Banque Brussels Lambert SA v Australian National Industries Ltd (1989) 21 NSWLR 502, 523 (Rogers CJ Comm D).
+
+[11] Wigan v Edwards (1973) 47 ALJR 586, 594 (Mason J).
+
+[12] TA Sundell & Sons Pty Ltd v Emm Yannoulatos (Overseas) Pty Ltd (1955) 56 SR (NSW) 323, 327 (‘Sundell’).
+
+[13] Pao On v Lau Yiu Long [1980] AC 614, 631–2 (‘Pao On’); Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1, 15 (Glidewell LJ).
+
+[14] Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 747 (Santow J).
+
+[15] Coulls (n 5) 487 (Taylor and Owen JJ), 482–3 (McTiernan J).
+
+[16] Masters (n 1) 361, citing Niesmann v Collingridge (1921) 29 CLR 177 (‘Niesmann’).
+
+[17] Taddy & Co v Sterious & Co [1904] 1 Ch 354.
+
+[18] Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, 534–5 (McHugh JA).
+
+[19] Roscorla v Thomas (1842) 3 QB 234, 237; 114 ER 496.
+
+[20] Pao On (n 13) 629–30.
+
+[21] Robertson and Paterson (n 8) 103 [4.80].
+
+[22] Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 456.
+
+[23] Meehan (n 2) 578 (Gibbs CJ).
+
+[24] Brambles Holdings Ltd v Bathurst City Council [2001] NSWCA 61; (2001) 53 NSWLR 153, 163 (Heydon JA), 191 (Ipp AJA, Mason P agreeing).
+
+[25] Ibid 164 (Heydon JA).

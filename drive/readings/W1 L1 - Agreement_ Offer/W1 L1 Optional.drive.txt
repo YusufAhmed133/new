@@ -1,0 +1,777 @@
+CHAPTER 3
+
+Agreement
+
+\[3.10\] OFFER AND ACCEPTANCE
+
+\[3.20\] OFFER
+
+\[3.20\]
+
+The nature of an offer
+
+\[3.30\]
+
+Unilateral contracts
+
+\[3.40\]
+
+Offers and invitations to treat
+
+\[3.80\]
+
+Ticket cases
+
+\[3.90\]
+
+Electronic transactions.
+
+\[3.100\]
+
+Termination of an offer
+
+\[3.170\] ACCEPTANCE
+
+Conduct constituting an acceptance
+
+Consciousness of the offer
+
+\[3.170\]
+
+\[3.180\]
+
+\[3.190\]
+
+Communication of acceptance
+
+\[3.230\]
+
+Method of acceptance
+
+\[3.310\]
+
+\[3.320\]
+
+\[3.260\] Correspondence between offer and acceptance
+
+A MEETING OF THE MINDS
+
+AGREEMENT WITHOUT OFFER AND ACCEPTANCE
+
+\[3.330\] NON-CONTRACTUAL OBLIGATIONS
+
+OFFER AND ACCEPTANCE
+
+57
+
+58
+
+58
+
+60
+
+62
+
+66
+
+67
+
+69
+
+76
+
+76
+
+78
+
+80
+
+86
+
+88
+
+91
+
+92
+
+94
+
+\[3.10\] The traditional approach to establishing an agreement between two parties is to identify an offer made by one party and an acceptance of that offer by the other. Under that analysis, a contract is said to come into existence when acceptance of an offer has been communicated to the offeror.' This approach to contract formation by reference to offer and acceptance was developed in the 19th century. It is based on a 19th century model of contracting, in which negotiations are conducted through written correspondence, with a series of letters passing between the parties, leading ultimately to an agreement. This approach is also based on a 19th century idea of contracting, in which parties can bargain freely in an unregulated market, stipulating the terms they require, reaching a concluded bargain only if there is a real consensus between them.
+
+According to classical contract theory, the offer and acceptance formula identifies a "magic moment of formation" when the parties are ad idem (of one mind) and their individual wills come together to create binding obligations. In that moment, all of the parties' contractual obligations spring into existence. The rules about offer and acceptance are based on the idea that until the moment of formation the parties are under no obligation to one another and are free to withdraw from negotiations. Hugh Collins has observed that these rules "typify the formalist qualities of classical law: they are detailed, technical and mysterious, yet claim logical derivation from the idea of agreement".5
+
+1
+
+2
+
+3
+
+For example, Tallerman & Co Pty Ltd v Nathan's Merchandise (Vic) Pty Ltd (1957) 98 CLR 93, 110. See Stoljar, "Offer, Promise and Agreement" (1955) 50 Northwestern University Law Review 445, 453-6. Mensch, "Freedom of Contract as Ideology" (1981) 33 Stanford Law Review 753, 760.
+
+4
+
+5
+
+See Mensch, "Freedom of Contract as Ideology" (1981) 33 Stanford Law Review 753, 755-6. Collins, The Law of Contract (4th ed, 2003), p 159.
+
+\[3.10\] 57
+
+Part II: Formation
+
+The classical approach to contract formation has been softened by developments in the law of estoppel, misleading conduct, negligent misrepresentation and unjust enrichment, which mean that parties in negotiation today clearly owe obligations to one another before the moment of formation. The courts also find it difficult to fit the facts of some cases within the offer and acceptance framework. Even where the parties have clearly reached an agreement, it can be difficult to identify conduct that can be characterised as an offer on one side and conduct that can be characterised as an acceptance on the other. Many everyday transactions are entered into with little or no discussion of terms. A ticket may be purchased from a machine or over the telephone, for example, with very few terms having been spelt out. A contract may be made with a professional person, such as a medical specialist, without even any mention of price. In cases where there is extensive discussion of terms, such as commercial agreements drafted by solicitors, there is unlikely to be a formal offer made by one party which is accepted by the other. Instead there may be a series of negotiations, which culminates in the parties simultaneously signing a written document.
+
+Although the courts recognise its deficiencies, the traditional offer and acceptance approach is routinely applied when the courts need to decide whether a contract has been formed. In order to identify whether, when or where a contract has been formed, the courts will usually seek to attach the labels "offer" and "acceptance" to particular actions, even where it seems somewhat artificial to do so. As we will see, however, a contract can be established without an identifiable offer and acceptance, provided the parties have manifested mutual assent and appear to have reached a concluded bargain."
+
+OFFER
+
+The nature of an offer
+
+\[3.20\] An offer is an expression of willingness to enter into a contract on specified terms.10 A proposal only amounts to an offer if the person making it indicates that an acceptance is invited and will conclude the agreement between the parties." In Brambles Holdings Ltd v Bathurst City Council, Heydon JA suggested in obiter that an offer must take the form of a proposal for consideration which gives the offeree an opportunity to choose between acceptance and rejection.12 On this view, a communication which "uses the language of command" and "peremptorily requests" the other party to adopt a particular course of action may not be regarded as an offer.13
+
+It becomes important to determine whether particular conduct constitutes an offer when the party to whom it was directed purports to accept the offer and claims that a binding contract has been formed. Whether particular conduct amounts to an offer may also be
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+6 See \[3.330\].
+
+See, eg, MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) (1975) 133 CLR 125, 136. See, eg, MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) (1975) 133 CLR 125. See \[3.320\].
+
+Carter, Contract Law in Australia (8th ed, 2023), \[3-07\].
+
+American Law Institute, Restatement of Contracts (2d) (1981), § 24; Greig and Davis, The Law of Contract (1987), p 254.
+
+Brambles Holdings Ltd v Bathurst City Council \[2001\] NSWCA 61; (2001) 53 NSWLR 153, 171. This point is discussed further at \[3.320\].
+
+13 Brambles Holdings Ltd v Bathurst City Council \[2001\] NSWCA 61; (2001) 53 NSWLR 153, 171.
+
+58 \[3.20\]
+
+Agreement Chapter 3
+
+relevant in ascertaining the terms of a contract or in determining when or where a contract has been made. The cases discussed below show that it is also sometimes necessary to determine whether particular conduct constitutes an offer for other reasons, such as determining whether a statutory offence of offering prohibited goods for sale has been committed.
+
+In determining whether an offer has been made, the crucial issue is whether it would appear to a reasonable person in the position of the offeree that an offer was intended and that a binding agreement would be made upon acceptance. It does not matter whether the offeror in fact intended to make an offer; the court determines the offeror's intention objectively, according to outward manifestations.14 The decision of the English Court of Appeal in the quaint old case of Carlill v Carbolic Smoke Ball Co¹s provides a useful illustration of the classical principles..
+
+The defendants manufactured and sold a device called the "Carbolic Smoke Ball", which was claimed to prevent colds and influenza. They placed an advertisement in various newspapers which said that a £100 reward would be paid to any person who contracted a cold or influenza after having used the device three times daily for two weeks, in accordance with the directions supplied with each ball. The advertisement said: "£1000 is deposited with the Alliance Bank, Regent Street, shewing our sincerity in the matter". After reading the advertisement, the plaintiff purchased a smoke ball, used it for several weeks and then contracted influenza.
+
+The defendants refused to pay the reward to the plaintiff. The plaintiff's claim that there was a contract between the parties was met with five arguments. First, the defendants argued that no promise was intended and the advertisement was a "mere puff" which meant nothing. Secondly, no offer had been made to any particular person. Thirdly, the plaintiff had not notified her acceptance of any offer. Fourthly, the agreement was uncertain because it failed to stipulate a period within which the disease must be contracted. Fifthly, the plaintiff had supplied no consideration for the defendant's promise.
+
+The English Court of Appeal rejected these arguments and held unanimously that a contract had been formed between the plaintiff and the defendants. That contract obliged the defendants to pay £100 to the plaintiff. In relation to the first argument, the court held that the statement relating to the bank deposit made it clear that a promise was intended. 16 The court construed the advertisement objectively, according to what an ordinary person reading the document would think was intended, rather than by reference to what the defendant actually intended. In relation to the second argument, the court held that the offer was made to the whole world and could be accepted by any person who performed the conditions on the faith of the advertisement. Thirdly, the court held that, although acceptance of an offer must normally be notified to the offeror, the offeror may dispense with that notification. An offer that calls for performance of particular conditions may be accepted by performance of those conditions. An offer of a reward is typically this type of offer.19 Fourthly, the court held
+
+14 For example, Carlill v Carbolic Smoke Ball Co \[1893\] 1 QB 256; Storer v Manchester City Council \[1974\] 1
+
+WLR 1403.
+
+15
+
+Carlill v Carbolic Smoke Ball Co \[1893\] 1 QB 256.
+
+16
+
+Carlill v Carbolic Smoke Ball Co \[1893\] 1 QB 256, 261-2, 268, 273-4.
+
+17
+
+Carlill v Carbolic Smoke Ball Co \[1893\] 1 QB 256, 266.
+
+18
+
+Carlill v Carbolic Smoke Ball Co \[1893\] 1 QB 256, 262, 268.
+
+19
+
+Carlill v Carbolic Smoke Ball Co \[1893\] 1 QB 256, 262-3, 269-70, 274.
+
+\[3.20\] 59
+
+Part II: Formation
+
+that a reasonable construction must be placed on the advertisement, which made it sufficiently certain. It was possible to construe the document in three different ways, so that the reward would be paid to any person who contracted the disease during the epidemic, while the smoke ball was in use or within a reasonable time after using it.20 Each of those possible restrictions was clearly satisfied here. Fifthly, the court held that the use of the smoke ball by the plaintiff constituted both a benefit to the defendant and a detriment to the plaintiff, either of which would have been enough to constitute good consideration for the promise.21
+
+Unilateral contracts
+
+\[3.30\] The contract in Carlill v Carbolic Smoke Ball Co was of a kind known as a "unilateral" contract. A unilateral contract is one in which the offeree accepts the offer by performing their side of the bargain. As the High Court has explained, "the consideration on the part of the offeree is completely executed by the doing of the very thing which constitutes acceptance of the offer".22 The offer is accepted by performing an act, and the performance of that act is all that the contract requires of the offeree. Accordingly, by the time the contract is formed, the offeree has already performed all of their obligations. In Carlill v Carbolic Smoke Ball Co, the plaintiff accepted the company's offer to pay the reward by using the smoke ball in accordance with the instructions and then contracting influenza. The offer of a reward for a lost dog is another example of a unilateral contract; the finder accepts the offer by returning the dog and thereby does all that the contract requires of him or her.
+
+As the High Court explained in Australian Woollen Mills Pty Ltd v Commonwealth, the expression "unilateral contract" is a misnomer because there must necessarily be two parties to a contract.23 A unilateral contract is only unilateral in the sense that, because one party has performed their obligations by the time of formation, only one party is ever under a contractual obligation. The contract can thus be distinguished from a "bilateral" contract formed by an exchange of promises. At the time of formation of a bilateral contract, the obligations of both parties remain to be performed. In other words, in a bilateral contract, the obligations of both parties are executory at the time of formation. In the case of a unilateral contract, the obligations of one party (the offeree) are executed at the time of formation, while the obligations of the other party (the offeror) are executory.
+
+In Australian Woollen Mills Pty Ltd v Commonwealth, the plaintiff (AWM) claimed that a unilateral contract had arisen out of the Commonwealth Government's wool subsidy scheme. The scheme was introduced after the Second World War, at a time when wool was scarce. The Commonwealth subsidised purchases of wool by manufacturers of woollen products to enable those manufacturers to supply the products at low prices. In 1946, the Commonwealth announced in a series of letters to manufacturers, including AWM, that it would pay a subsidy on all wool purchased for domestic use by Australian manufacturers. AWM purchased large quantities of wool over the next two years, including purchases in April, May and June 1948 in respect of which the subsidy had not been paid. In June 1948, the Commonwealth announced that it was discontinuing the scheme but would ensure that each manufacturer would have a
+
+20
+
+21
+
+22
+
+23
+
+Carlill v Carbolic Smoke Ball Co \[1893\] 1 QB 256, 266-7, 263-4, 274. Carlill v Carbolic Smoke Ball Co \[1893\] 1 QB 256, 264-5, 270-1, 274-5. Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 456. Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 456.
+
+60 \[3.30\]
+
+Agreement Chapter 3
+
+certain amount of subsidised wool in stock on 30 June 1948. The stockpile of wool held by AWM exceeded this amount and so the Commonwealth required AWM to repay the subsidy paid on that excess. AWM repaid that amount but later sued to recover it, along with the unpaid subsidy on the April, May and June purchases.
+
+AWM claimed that each of the announcements by the Commonwealth constituted a contractual offer to pay the subsidy in return for AWM purchasing wool for domestic consumption. Each purchase of wool was therefore said to give rise to a unilateral contract. AWM claimed that each of its purchases of wool constituted both an acceptance of the Commonwealth's offer and consideration for the promise to pay the subsidy. The High Court held that, for a unilateral contract to arise, the promise must be made in return for the doing of the act.24 There must be a relation of quid pro quo (this for that) between the offeree's act and the offeror's promise. The court distinguished a unilateral contract from a conditional gift. If A says to B in Melbourne, "I will pay you £1000 on your arrival in Sydney", this alone does not establish the existence of a contract on B's arrival in Sydney. B must establish that the money was to be paid in return for B travelling to Sydney. The court referred to three different ways of stating this requirement, which all state essentially the same test.25 First, the principal test is whether the "offeror" has expressly or impliedly requested the doing of the act by the "offeree". Secondly, the court can look to whether the "offeror" has stated a price which the "offeree" must pay for the promise. Thirdly, the court can ask whether the offer was made in order to induce the doing of the act.
+
+In this case, AWM failed to establish that there was a relation of quid pro quo between the Commonwealth's promises and AWM's acts. AWM also failed to establish that, viewed objectively, the offer was intended to give rise to a contractual obligation.26 There was, therefore, no contract between the parties, and the Commonwealth was under no obligation to pay the subsidy. On appeal, the Privy Council accepted that the Commonwealth might be said to have impliedly requested the purchase of wool by manufacturers. They said: "There may be cases where the absence of a request negatives the existence of a contract. The presence of a request does not however in itself establish a contract".27 The Privy Council nevertheless upheld the High Court's decision on the basis that the Commonwealth's letters must be read as statements of policy and could not be regarded as offers to contract.28
+
+This case demonstrates the inextricable connection between the requirements of offer and acceptance, consideration and intention to create legal relations. An offer is effective only if it identifies a valid consideration and manifests an intention to create a legal obligation. The requirement of certainty is also inherent in offer and acceptance, as Carlill v Carbolic Smoke Ball Co shows. An offer can lead to a binding agreement only if the offer identifies the terms of the proposed agreement with sufficient certainty.
+
+In Harcus Sinclair LLP v Your Lawyers Ltd,29 a small law firm embarking on a large group litigation claim against a car manufacturer entered into a non-disclosure agreement (NDA) with a much larger and more experienced firm for the purpose of obtaining their
+
+24
+
+Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 456-7. 25 Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 458. 26 Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 457-8. 27 Australian Woollen Mills Pty Ltd v Commonwealth (1955) 93 CLR 546, 550. 28 Australian Woollen Mills Pty Ltd v Commonwealth (1955) 93 CLR 546.
+
+\[2021\] UKSC 32; \[2022\] AC 1271.
+
+29
+
+\[3.30\] 61
+
+Part II: Formation
+
+advice about funding the litigation. The agreement provided: (a) that Your Lawyers intended to disclose confidential information to Harcus Sinclair for the purpose of obtaining legal advice; and (b) that Harcus Sinclair would be bound by certain non-disclosure and non- compete undertakings with respect to that information and litigation. The United Kingdom Supreme Court held that the substance of the agreement was that "if" Your Lawyers were to provide the confidential information, Harcus Sinclair would be bound by the undertakings. The Court said: "The unilateral contract analysis of the NDA is to be preferred because it is hard to accept that Your Lawyers would be in breach of contract if it chose not to provide the confidential information."30
+
+Offers and invitations to treat
+
+\[3.40\] An offer is often distinguished from an invitation to treat, which is an invitation to others to make offers or enter into negotiations. An indication by the owner of property that they might be interested in selling at a certain price, for example, has been regarded as an invitation to treat.31 A wine merchant's circulation of a price list has been regarded as an invitation to treat on the basis that, if it was an offer, the merchant might find himself obliged to supply unlimited quantities of wine at the listed price. 32 Whether particular conduct amounts to an offer is a question to be decided on the facts of each case33 and there are no firm rules about whether particular types of conduct necessarily do or do not amount to an offer.34 Nevertheless, the courts have tended to take a consistent approach to the identification of offer and acceptance in common transactions.
+
+Shop sales
+
+\[3.50\] The display of goods for sale, whether in a shop window or on the shelves of a self- service store, is ordinarily treated as an invitation to treat and not an offer.35 In the English case Fisher v Bell,36 it was held that the owner of a shop who displayed a flick-knife in a shop window had not committed the statutory offence of "offering" the knife for sale. In Pharmaceutical Society of Great Britain v Boots Cash Chemists Ltd,37 it was necessary for the English Court of Appeal to determine when a sale occurred in a self-service pharmacy in order to determine whether sales took place under the supervision of a registered pharmacist. Pharmacists supervised transactions at the cash registers but did not supervise the customers' selection of goods from the shelves. The plaintiff argued that the display of goods should be regarded as an offer, which was accepted when a customer took an item from the shelf and placed it in their receptacle. The Court of Appeal rejected this argument on the basis that customers must be entitled to return and substitute articles they have chosen from the
+
+30
+
+\[2021\] UKSC 32; \[2022\] AC 1271, \[53\].
+
+31
+
+See, eg, Harvey v Facey \[1893\] AC 552.
+
+32
+
+Grainger v Gough \[1896\] AC 325, 334.
+
+33 Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 457; B Seppelt and Sons Ltd v
+
+Commissioner for Main Roads (1975) 1 BPR 9147, 9151.
+
+34
+
+For example, Carlill v Carbolic Smoke Ball Co \[1893\] 1 QB 256.
+
+35
+
+See Winfield, "Some Aspects of Offer and Acceptance" (1939) 55 Law Quarterly Review 499, 517.
+
+36
+
+Fisher v Bell \[1961\] 1 QB 394.
+
+37
+
+Pharmaceutical Society of Great Britain v Boots Cash Chemists Ltd \[1953\] 1 QB 401.
+
+62 \[3.40\]
+
+Agreement Chapter 3
+
+shelves.38 If the customers are entitled to return articles selected from the shelves, the court reasoned, customers must be regarded as making an offer when they present the items to the cashier and are not bound until the cashier has accepted that offer.39 Accordingly, the defendant was held to have complied with the legislative requirement that the sales be supervised. The characterisation of the display of goods as an offer is not, however, itself inconsistent with the entitlement of customers to return goods they have selected. A customer's acceptance would not be effective until communicated to the offeror, so a sale must on any interpretation take place at the checkout.40
+
+In both Fisher v Bell and Boots Cash Chemists, the issue before the court did not relate to the contractual rights of the parties, but to whether a statutory offence had been committed. The English courts took a technical approach in these cases to determining whether a statutory offence had been committed. In Australia, the courts have tended to take a less technical approach to deciding whether goods have been "offered for sale" for the purpose of determining whether a statutory provision has been breached. In Goodwin's of Newtown Pty Ltd v Gurrey, for example, the defendant was held to have been "offering goods for sale" in breach of the Early Closing Act 1926 (SA), although the defendant's conduct amounted to no more than an invitation to treat. The defendant displayed television sets with marked prices and provided information to prospective purchasers. Prospective purchasers were told that the sets on display were not for sale, but an equivalent set could be purchased from the defendant at the marked price.
+
+A similar approach has been favoured in the interpretation of the provision that was s 56(2) of the Trade Practices Act 1974 (Cth), now s 35(2) of the ACL, which requires a corporation that has advertised goods or services for supply at a specified price to "offer such goods or services for supply" at that price for a reasonable time and in reasonable quantities. Although it was held in one case that the corporation was required to make offers to sell in the technical contractual sense, 42 most judges have favoured a non-technical approach.43 In Wallace v Brodribb,44 Spender J said that unnecessary difficulties were introduced by drawing distinctions between offers and invitations to treat and the expression “offer to supply" should be given its ordinary meaning.
+
+Auctions
+
+\[3.60\] The holding of a public auction will also usually be regarded as an invitation to treat. It is well accepted that an auctioneer does not make an offer to sell but merely invites offers from those present at the auction. Each bid constitutes an offer, and the auctioneer communicates acceptance of the final bid by the fall of the hammer.45 This means that no contractual claim
+
+39
+
+40
+
+38 Pharmaceutical Society of Great Britain v Boots Cash Chemists Ltd \[1953\] 1 QB 401, 405-6.
+
+Pharmaceutical Society of Great Britain v Boots Cash Chemists Ltd \[1953\] 1 QB 401, 406, 408.
+
+Greig and Davis, The Law of Contract (1987), p 263.
+
+41
+
+Goodwin's of Newtown Pty Ltd v Gurrey \[1959\] SASR 295.
+
+42
+
+Reardon v Morley Ford Pty Ltd (1980) 33 ALR 417.
+
+43
+
+Attorney General for NSW v Mutual Home Loans Fund of Australia Ltd \[1971\] 2 NSWLR 162, 165; Attorney General for NSW v Australian Fixed Trusts \[1974\] 1 NSWLR 110, 117; WA Pines Pty Ltd v Registrar of Companies \[1976\] WAR 149, 153; Wallace v Brodribb (1985) 58 ALR 737.
+
+44
+
+Wallace v Brodribb (1985) 55 ALR 737.
+
+45
+
+Payne v Cave (1789) 3 TR 148; 100 ER 502; British Car Auctions Ltd v Wright \[1972\] 1 WLR 1591, 1524; AGC (Advances) Ltd v McWhirter (1977) 1 BPR 9454.
+
+\[3.60\] 63
+
+Part II: Formation
+
+can arise if the auction is cancelled, a bidder is entitled to withdraw their bid before it is accepted and the auctioneer is not obliged to sell to the highest bidder.48 The common law position is reflected in the Sale of Goods Acts, which provide that a sale of goods by auction is complete when the auctioneer announces its completion and, until such announcement, a bid may be retracted.49
+
+The situation becomes more complicated when an auction is advertised to be held "without reserve". In AGC (Advances) Ltd v McWhirter,50 it was held that an announcement that an auction was to be held without reserve did not alter the general rule. The holding of an auction without reserve did not constitute an offer and did not bind the vendor to sell to the highest bidder. The auction in that case was not advertised as being without reserve, but the auctioneer announced during the auction that the "property is on the market", which was held to have the same effect.
+
+It has been held in England that, by holding an auction without reserve, an auctioneer makes an offer to sell to the highest bidder. If the highest bid is not accepted, no contract arises between the bidder and the vendor, but the bidder is able to sue the auctioneer for damages under a separate, collateral contract. This contract governs the process by which the auction is conducted. By announcing the conditions of auction, the auctioneer offers to conduct the auction in a particular way and a bidder may accept that offer by making the highest bid. 52
+
+Tenders
+
+\[3.70\] A contract may also be formed by a tender process. Unlike an auction, a tender process involves each interested party submitting a single bid without knowing what other bids have been made. The tender process is sometimes used for the sale of commercial or residential property. It is commonly used by governments seeking to contract out the performance of government functions, such as the construction or operation of a prison. A call for written tenders will also usually constitute an invitation to treat, with each tender constituting an offer. A person calling for tenders can stipulate the basis on which the tender process will be conducted and will be bound by any conditions which they say will govern the tender process. In Harvela Investments Ltd v Royal Trust Co of Canada (CI) Ltd, for example, a call for tenders was held to amount to an offer because the vendor promised to accept the highest bid. In Harvela Investments Ltd v Royal Trust Co of Canada (CI) Ltd, two parties, Harvela and Outerbridge, were invited to submit written tenders for the purchase of shares. The successful tenderer would obtain control of the company. The letter sent by the vendors to the two tenderers said that "we bind ourselves to accept" the "highest offer" complying
+
+46
+
+Harris v Nickerson (1873) LR 8 QB 286.
+
+47
+
+Payne v Cave (1789) 3 TR 148; 100 ER 502.
+
+48
+
+AGC (Advances) Ltd v McWhirter (1977) 1 BPR 9454.
+
+49
+
+Sale of Goods Act 1954 (ACT), s 60; Sale of Goods Act 1923 (NSW), s 60; Sale of Goods Act 1972 (NT), s 60; Sale of Goods Act 1896 (Qld), s 59; Sale of Goods Act 1895 (SA), s 57; Sale of Goods Act 1896 (Tas), s 62; Goods Act 1958 (Vic), s 64; Sale of Goods Act 1895 (WA), s 57.
+
+50
+
+AGC (Advances) Ltd v McWhirter (1977) 1 BPR 9454.
+
+51
+
+52
+
+Warlow v Harrison (1859) 1 El & El 295; 120 ER 920; Barry v Davies \[2000\] 1 WLR 1962.
+
+This reasoning was applied in Ulbrick v Laidlaw \[1924\] VLR 247. See further Carter, "Auction 'Without Reserve' - Barry v Davies" (2001) 17 Journal of Contract Law 69.
+
+53
+
+Harvela Investments Ltd v Royal Trust Co of Canada (Cl) Ltd \[1986\] 1 AC 207.
+
+64 \[3.70\]
+
+Agreement Chapter 3
+
+with the conditions of tender. Harvela tendered to purchase the shares for $2.175m and Outerbridge for $2.1m "or $101 000 in excess of any other offer which you may receive". The vendor accepted Outerbridge's tender, but Harvela claimed it was entitled to purchase the shares for $2.175m.
+
+The trial judge, Peter Gibson J, held that the invitation to submit tenders amounted to an offer capable of acceptance by submission of the highest bid. The Court of Appeal upheld this conclusion and it was accepted by the House of Lords. The resulting contract was said to be a unilateral contract "in the sense of a contract brought into existence by the act of one party in response to a conditional promise made by the other". 55 The fact that the invitation described the tenders as “offers" did not require the court to conclude that they were offers in law, since it was for the court to determine the character of a document.56 The vendors' promise to accept the highest bid converted what would otherwise have been an invitation to treat into an offer which, when the highest bid was received, completed a contract.57 Whether this should be regarded as a contract to sell the shares or a contract to enter into an enforceable contract to sell the shares did not matter, since they amount to the same thing. The principal question, then, was whether the contract had been made with Harvela or Outerbridge. This depended on whether Outerbridge's tender conformed to the requirements of the vendor's invitation. The trial judge held that there was an implied term in the invitation that excluded referential bids.59 This meant that a contract had been made between the vendors and Harvela. Although the Court of Appeal regarded Outerbridge's tender as valid, Harvela successfully appealed to the House of Lords. The House of Lords held that the question whether the invitation allowed referential bids depended on the presumed intention of the vendors deduced from the terms of the invitation read as a whole. Those terms were inconsistent with the making of referential bids.60
+
+The use of the tender process for government procurement of goods and services has come under considerable judicial scrutiny.61 Although each case turns on its own facts, it has been held in a number of cases that governments and government instrumentalities calling for tenders have owed contractual obligations to tenderers under preliminary contracts governing the tender process. 62 These tender process contracts also impose obligations on tenderers, such as an obligation not to withdraw their tenders.63 In Blackpool and Fylde Aero Club Ltd v Blackpool Borough Council, the English Court of Appeal held that the Council was under an implied contractual obligation to give consideration to complying tenders. The call for tenders amounted to an offer, which was accepted by the submission of a complying
+
+54 Harvela Investments Ltd v Royal Trust Co of Canada (CI) Ltd \[1985\] 1 Ch 103, 119. Harvela Investments Ltd v Royal Trust Co of Canada (CI) Ltd \[1985\] 1 Ch 103, 119. Harvela Investments Ltd v Royal Trust Co of Canada (CI) Ltd \[1985\] 1 Ch 103, 119. Harvela Investments Ltd v Royal Trust Co of Canada (CI) Ltd \[1985\] 1 Ch 103, 119, 133-4, 137, 149. Harvela Investments Ltd v Royal Trust Co of Canada (Cl) Ltd \[1985\] 1 Ch 103, 121, 133-4, quoting Hillas & Co Ltd v Arcos (1937) 147 LT 503, 515.
+
+56
+
+57
+
+58
+
+5555 256
+
+59
+
+60
+
+61
+
+Harvela Investments Ltd v Royal Trust Co of Canada (CI) Ltd \[1985\] 1 Ch 103, 119.
+
+Harvela investments Ltd v Royal Trust Co of Canada (CI) Ltd \[1987\] 1 AC 207, 230-4, 225.
+
+See Seddon, Government Contracts: Federal State and Local (7th ed, 2023), ch 7.
+
+In addition to the cases mentioned below, see Martel Building Ltd v Canada \[2000\] 2 SCR 800.
+
+63
+
+See Ontario v Ron Engineering & Construction Eastern Ltd (1981) 1 SCR 111.
+
+64
+
+Blackpool and Fylde Aero Club Ltd v Blackpool Borough Council \[1990\] 1 WLR 1195. See Phang, "Tenders and Uncertainty" (1991) 4 Journal of Contract Law 46.
+
+\[3.70\] 65
+
+Part II: Formation
+
+tender. The Council was liable for damages under this preliminary contract when it mistakenly failed to consider the plaintiff's complying tender. In Hughes Aircraft Systems International v Airservices Australia,65 Finn J found that a tender process conducted by the Civil Aviation Authority (CAA) was governed by two "process contracts". The first contract was formed by signature of a letter in which the CAA and the two tenderers committed themselves to participate in a tender process. The terms of the second contract were set out in a request for tenders, which amounted to an offer accepted by each tenderer's lodgement of a tender. The CAA was obliged to conduct the tender process in accordance with those process contracts.
+
+Ticket cases
+
+\[3.80\] In some cases, the courts are concerned to identify offer and acceptance for the purpose of determining when, rather than whether, a contract was formed between two parties. It has been necessary to decide when a contract has been formed in order to determine whether a document is chargeable with stamp duty.66 When a contract has been entered into between parties in different jurisdictions, it is sometimes necessary for a court to determine when and where the contract was made so that the court can decide whether it can adjudicate on the contract.67
+
+It may also be important to determine when a contract has been formed in order to determine whether written conditions given by one party to another form part of the contract. If one party gives the other notice of terms after a contract has been formed, then those terms cannot form part of the contract.68 This problem is exemplified by cases involving the issue of tickets for passenger transport. Typically a ticket containing contractual terms is issued after the fare has been paid and it might therefore be thought that the contract is formed before the ticket is issued. The courts have usually regarded the issue of the ticket as an offer which can be accepted or rejected by the passenger after the passenger has had a reasonable opportunity to consider the conditions on the ticket. The difficulty of applying the offer and acceptance model to this type of transaction is illustrated by the decision of the High Court in MacRobertson Miller Airline Services v Commissioner of State Taxation (WA).69
+
+The issue before the High Court was whether an airline ticket issued by MacRobertson Miller was chargeable with stamp duty as an "agreement" or a "memorandum of agreement". The airline's practice was first to quote the fare and availability of seats and then to issue a ticket in return for the fare. The ticket contained a condition, giving the airline the right to cancel a flight or cancel a booking without incurring any liability. The court held unanimously that a ticket did not record the terms of an agreement, but rather the terms of an offer which was subsequently accepted by conduct. The judges' reasons for reaching that conclusion differed.
+
+Barwick CJ thought that the sweeping exemption clauses relieved the airline from any obligation to carry the passenger. The exemption conferred by clauses 2 and 5 "fully occupies the whole area of possible obligation, leaving no room for the existence of a contract of
+
+MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) (1975) 133 CLR 125.
+
+65
+
+Hughes Aircraft Systems International v Airservices Australia (1997) 76 FLR 151, 162-87.
+
+66
+
+67
+
+68
+
+See \[12.100\].
+
+69
+
+For example, Oceanic Sun Line Special Shipping Company Inc v Fay (1988) 165 CLR 197; Brinkibon Ltd v Stahag Stahl und Stahlwarenhandelsgesellschaft mbH \[1983\] 2 AC 34.
+
+MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) (1975) 133 CLR 125.
+
+66 \[3.80\]
+
+Agreement Chapter 3
+
+carriage".70 Even apart from those express terms, however, the uncertainties of air travel precluded any promise to carry the passenger from being inferred from the issue of the ticket. Barwick CJ therefore considered that the arrangement was similar to a unilateral contract. The passenger was in effect making an offer, which could be accepted by conduct. If the airline carried the passenger, then the airline would be entitled to retain the fare as a "reward". If the passenger was not carried, the airline incurred no obligation other than to refund the fare. On that basis, there were no contractual obligations between the airline and the passenger until the airline provided the passenger with a seat on the plane.71
+
+Stephen J adopted the conventional analysis in "ticket cases", which is that the ticket constitutes an offer by the airline, which is capable of acceptance or rejection by the passenger once the passenger has had a reasonable opportunity to read the conditions.72 On that basis, the ticket records the terms of an offer. Jacobs J agreed that no agreement was formed at the time the ticket was issued for the reasons advanced by both Stephen J and Barwick CJ. Jacobs J agreed with Stephen J that formation of the contract could not precede the notification of special conditions and the ticket simply recorded the terms of an offer made by an airline. He also agreed with Barwick CJ that clause 2 negatived any promise to carry which might have been implied. The lack of any obligation imposed on the airline prevented the ticket from representing an enforceable agreement. Jacobs J also noted that the person who buys the ticket may not be the passenger. Where the buyer is not the passenger, then two contracts will arise. The purchase of the ticket will result in an executory agreement between the purchaser of the ticket and the airline. The issue of the ticket will also constitute an offer made to the passenger, which the passenger can accept by presenting herself or himself for travel.74
+
+MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) provides a good illustration of the difficulties experienced in applying the doctrine of offer and acceptance "outside the realms of commerce and conveyancing, to the everyday contractual situations which are a feature of life in modern urban communities".75 As Stephen J noted, the contract involved sweeping restrictions on passengers' rights, passengers were not given the opportunity to negotiate the terms of the contract, and any attempt to negotiate would "in any event usually be pointless", since the carrier was willing to contract only on its standard terms.76
+
+Electronic transactions
+
+\[3.90\] The common law rules of offer and acceptance can be applied to electronic transactions in the same way they can be applied to other forms of communication." Electronic communications raise some particular issues about the mechanics of contract
+
+70 MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) (1975) 133 CLR 125, 133. 71 MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) (1975) 133 CLR 125, 133-4. 72 MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) (1975) 133 CLR 125, 137-40. 73 MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) (1975) 133 CLR 125, 148. 74 MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) (1975) 133 CLR 125, 146.
+
+75
+
+76
+
+77
+
+MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) (1975) 133 CLR 125, 136. MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) (1975) 133 CLR 125, 136. See Tolhurst and Peden, Tolhurst and Furmston on Contract Formation: Law and Practice (3rd ed, 2023), ch 6.
+
+\[3.90\] 67
+
+Part II: Formation
+
+formation but do not call for a fundamentally different approach.78 Although there is no particular need for legislation dealing with offer and acceptance in electronic transactions, Electronic Transactions Acts (ETAs) have been enacted in all Australian States and Territories with the broader object of providing a regulatory framework that facilitates and promotes confidence in electronic transactions." The ETAS were originally introduced pursuant to a national scheme to implement the United Nations Commission on International Trade Law (UNCITRAL) Model Law on Electronic Commerce 1996. The purpose of the Model Law was to remove obstacles to electronic commerce and ensure the validity of electronic transactions.80 Since the introduction of the ETAS, the Model Law has been supplemented by the United Nations Convention on the Use of Electronic Communications in International Contracts.¹ The purpose of the Convention is to facilitate electronic transactions between parties located in different countries. The Convention builds on the Model Law and clarifies some of the issues and fills some of the gaps in the regime introduced by the Model Law. The Convention was not intended to alter substantive contract law rules but only to clarify some of the legal issues.2 The ETAs have been amended in accordance with the Convention to clarify some questions about the formation of contracts by way of electronic communications. Although the Convention relates only to international contracts, the amendments to the ETAS extend the provisions of the Convention to contracts made within Australia, including personal, family and household contracts.
+
+First, the legislation provides that a proposal to make a contract through electronic communications which is not addressed to a particular person, but is made generally accessible to people using information systems, is to be treated as an invitation to make offers unless it clearly indicates an intention to be bound in the case of acceptance. This is clearly intended to ensure that websites offering goods or services should generally be considered to be making an invitation to treat, rather than an offer, and is consistent with the approach of the common law to non-electronic communications in cases such as Grainger v Gough.84 It has been suggested that this provision is misguided, that there should be no presumptions or technology-specific principles in this area, and that - at least where digital products are being
+
+78 Nolan, "Offer and Acceptance in the Electronic Age" in Burrows and Peel (eds), Contract Formation and
+
+Parties (2010), pp 86-7.
+
+79
+
+80
+
+81
+
+82
+
+83
+
+84
+
+Electronic Transactions Act 2001 (ACT), s 3; Electronic Transactions Act 1999 (Cth), s 3; Electronic Transactions Act 2000 (NSW), s 3; Electronic Transactions (Northern Territory) Act 2020, 3; Electronic Communications Act 2000 (SA), s 3 (facilitates and promotes confidence in the use of electronic transactions); Electronic Transactions (Queensland) Act 2001, s 3; Electronic Transactions (Victoria) Act 2000, s 4; Electronic Transactions Act 2011 (WA), s 3.
+
+UNCITRAL Secretariat, Guide to Enactment of the UNCITRAL Model Law on Electronic Commerce (1996), http:// www.uncitral.org.
+
+See Mik, "Updating the Electronic Transactions Act - Australia's Accession to the UN Convention on the Use of Electronic Communications in International Contracts 2005" (2010) 26 Journal of Contract Law 184. Explanatory note by the UNCITRAL Secretariat on the United Nations Convention on the Use of Electronic Communications in International Contracts, \[3\]-\[4\]; Explanatory Memorandum, Electronic Transactions Bill 2011 (Cth), p 3.
+
+Electronic Transactions Act 2001 (ACT), s 14B; Electronic Transactions Act 1999 (Cth), s 15B; Electronic Transactions Act 2000 (NSW), s 14B; Electronic Transactions (Northern Territory) Act 2000, s 148; Electronic Communications Act 2000 (SA), s 14B; Electronic Transactions Act 2000 (Tas), s 12B; Electronic Transactions (Victoria) Act 2000, s 14B; Electronic Transactions (Queensland) Act 2001, s 26B; Electronic Transactions Act 2011 (WA), s 18.
+
+Grainger v Gough \[1896\] AC 325. See \[3.40\].
+
+68 \[3.90\]
+
+Agreement Chapter 3
+
+sold - a website may be more closely analogous to a vending machine than an advertisement. 85 It is, however, difficult to see the presumption causing great difficulties in practice. In routine online transactions, the idea that a customer's attempt to buy or order a good or service constitutes an offer and the automated confirmation an acceptance seems intuitively correct and consistent with what a reasonable person would expect. Of course, as with non- electronic transactions, the legal characterisation of the parties' communications depends ultimately on the objectively manifested intentions of the parties in light of the form of those communications and the broader circumstances, so there can be no hard and fast rules.
+
+Secondly, the ETAs confirm that a contract formed between a natural person and an automated system, or between two automated systems, is not invalid merely on the ground that a natural person was not directly involved in the process.87 Thirdly, and more significantly, the ETAS provide that where a natural person makes an "input error" in the course of a transaction with an automated system, and the system provides no opportunity to correct that error, then the person making the error is entitled to "withdraw the portion of the electronic communication in which the input error was made", provided they do so as soon as possible after learning of the error and provided they have not received any material benefit from goods or services provided by the other party.ss The ETAS specifically provide that the right to withdraw a portion of an electronic communication is not a right to rescind a contract. The consequences of withdrawal of the relevant portion of the communication are to be determined in accordance with applicable legal rules, but clearly in some circumstances this will undermine the validity of the contract. If, for example, a consumer booking a ticket for air travel through a website accidentally booked a seat for travel on the wrong date, and was not given an opportunity to correct the error, the withdrawal of that portion of the communication would undermine the validity of the contract, since the withdrawn communication would have identified the subject matter of the contract.89 Since most websites provide an opportunity to correct input errors, it seems unlikely that this provision will be widely used.
+
+Termination of an offer
+
+\[3.100\] An offer will cease to be available for acceptance when it is withdrawn by the offeror, lapses or is rejected by the offeree.
+
+85
+
+86
+
+87
+
+88
+
+89
+
+Tolhurst and Peden, Tolhurst and Furmston on Contract Formation: Law and Practice (3rd ed, 2023), \[6.13\]. Compare Beale (ed), Chitty on Contracts (35th ed, 2023), \[4.098\], noting that an automated confirmation will not always constitute an acceptance.
+
+Electronic Transactions Act 2001 (ACT), s 14C; Electronic Transactions Act 1999 (Cth), s 15C; Electronic Transactions Act 2000 (NSW), s 14C; Electronic Transactions (Northern Territory) Act 2000, s 14C; Electronic Communications Act 2000 (SA), s 14C; Electronic Transactions Act 2000 (Tas), s 12C; Electronic Transactions (Victoria) Act 2000, s 14C; Electronic Transactions (Queensland) Act 2001, s 26C; Electronic Transactions Act 2011 (WA), s 19.
+
+Electronic Transactions Act 2001 (ACT), s 14D; Electronic Transactions Act 1999 (Cth), s 15D; Electronic Transactions Act 2000 (NSW), s 14D; Electronic Transactions (Northern Territory) Act 2000, s 14D; Electronic Communications Act 2000 (SA), s 14D; Electronic Transactions Act 2000 (Tas), s 12D; Electronic Transactions (Victoria) Act 2000, s 14D; Electronic Transactions (Victoria) Act 2000, s 14D; Electronic Transactions Act 2011 (WA), s 20.
+
+See the Explanatory note by the UNCITRAL Secretariat on the United Nations Convention on the Use of Electronic Communications in International Contracts, \[241\].
+
+\[3.100\] 69
+
+Part II: Formation
+
+Withdrawal
+
+General rule
+
+\[3.110\] An offer may be revoked at any time before it is accepted. At common law, a promise to hold an offer open for a specified period is not binding unless the offeree has given consideration for that promise." The offeror can therefore revoke the offer before the specified period for acceptance has expired, provided the offer has not been accepted in the meantime. The withdrawal of an offer is effective only when it has been actually communicated to the offeree. No exception is made for a withdrawal sent by post."1
+
+In civil law systems, a promise to hold an offer open is binding: in France, an offeror who wrongfully revokes an offer will be liable in damages," while in Germany, an attempt to withdraw an offer prematurely will simply be ineffective."3 The German approach is adopted in both the United Nations Convention on International Contracts for the Sale of Goods (Vienna Convention) and the UNIDROIT Principles of International Commercial Contracts 2016 (UPICC). Article 16(2) of the Vienna Convention and art 2.1.4 of the UPICC both provide that an offer cannot be revoked if it states a fixed time for acceptance or otherwise indicates that it is irrevocable.
+
+Options
+
+\[3.120\] A promise to hold an offer open is binding at common law if consideration has been given in return for that promise. The agreement between the parties is then described as an option. An option is an agreement between an option holder and a grantor under which the option holder is entitled to enter into a contract with the grantor on specified terms, either at a specified time or within a specified period. The option holder is then free to choose whether to exercise the option at that time or within that period. In Goldsbrough, Mort & Co Ltd v Quinn, for example, the grantor gave the option holder an option to purchase certain land at a specified price at any time within one week of the agreement in return for the sum of five shillings paid to the grantor. The grantor's attempt to repudiate the offer before acceptance was held to be ineffective. The option holder exercised the option within the specified period and was able to force the grantor to sell the land as agreed.
+
+There was a difference of opinion in Goldsbrough, Mort & Co Ltd v Quinn as to the true nature of an option. Griffith CJ and O'Connor J regarded an option to purchase a property as a contract for the sale of that property, conditional upon the option being exercised within the specified period. This has been confirmed in subsequent cases as the preferred interpretation. Isaacs J regarded an option as a preliminary contract to hold open an offer
+
+96
+
+90 Dickinson v Dodds (1876) LR 2 Ch D 463; Goldsbrough Mort & Co v Quinn (1910) 10 CLR 674, 678, 690. It is important to note that such a promise can give rise to an estoppel if it is relied upon: see \[9.380\]. To similar effect is UNIDROIT Principles of International Commercial Contracts 2016, art 2.1.4(2)(b).
+
+91 Byrne & Co v Leon Van Tienhoven & Co (1880) LR 5 CPD 344.
+
+222 222
+
+92
+
+93
+
+94
+
+95
+
+96
+
+Zweigert and Kötz, Introduction to Comparative Law (3rd ed, 1998), pp 359-60.
+
+Burgerliches Gesetzbuch (BGB), § 145; Zweigert and Kötz, Introduction to Comparative Law (3rd ed, 1998), pp 361-2.
+
+See \[1.380\].
+
+Goldsbrough, Mort & Co Ltd v Quinn (1910) 10 CLR 674.
+
+Goldsbrough, Mort & Co Ltd v Quinn (1910) 10 CLR 674, 678-9, 685.
+
+97 Carter v Hyde (1923) 33 CLR 115; Laybutt v Amoco Australia Pty Ltd (1974) 132 CLR 57, 71-6.
+
+70 \[3.110\]
+
+Agreement Chapter 3
+
+to sell the property, with the exercise of the option giving rise to a separate contract of sale.98 The significance of the distinction between an irrevocable offer and a conditional contract in this case related to the remedy available to the option holder if the grantor purported to revoke the option. Griffith CJ preferred to treat the agreement as a conditional sale, which was enforceable by specific performance once the condition was satisfied. He took the view that, if regarded as an irrevocable offer, the only remedy available to the offeree in the event of revocation was damages. Isaacs J, however, held that the grantor's attempt to revoke the offer was ineffective, and so the option was successfully exercised and specific performance was available. On either view, therefore, the grantor's attempt to revoke the option was ineffective and, once the option holder had exercised the option, a contract of sale enforceable by specific performance subsisted between the parties.
+
+In England, it has been said that an option is neither a conditional contract nor an irrevocable offer.99 In Spiro v Glencrown Properties Ltd, in determining whether an option agreement satisfied the statutory requirement of a written contract for the sale of land, Hoffmann J did not find it useful or necessary to characterise the agreement as a conditional contract or an irrevocable offer. He found the analogy of the irrevocable offer useful to describe the position of the option holder and the analogy of a conditional contract useful to describe the position of the grantor of the option. An option resembles each of them but does not have all of the incidents of either. It is a legal relationship sui generis (of its own kind),100 It cannot be regarded as a conditional contract, according to Hoffmann J, because "one generally thinks of a conditional contract as one that does not lie within the sole power of one of the parties to the contract".101 Nor can it be regarded as an irrevocable offer, since it conveys an equitable interest in land to the grantee. 102 Hoffmann J held that the option agreement satisfied the statutory requirement of writing because such a result was consistent with the intention of the legislature. 103
+
+Lapse
+
+\[3.130\] An offer which is expressed to be available for acceptance for a particular period of time will lapse at the end of that period. If no period is stipulated, the offer will lapse after a reasonable time has passed. This can be explained either on the basis that a term can be implied that the offer lapses after a reasonable time has passed or on the basis that the court can infer rejection from the offeree's failure to accept the offer within a reasonable time. 104 What period of time is reasonable will depend on the circumstances, including the nature of the subject matter and the form in which the offer was made. A verbal offer to buy a car, for example, is likely to lapse after a short period, whereas a written offer to purchase a substantial parcel of land will be open for acceptance for a relatively longer period.
+
+98 Goldsbrough Mort & Co v Quinn (1910) 10 CLR 674, 696. See also Carter v Hyde (1923) 33 CLR 115, 123. 99 Spiro v Glencrown Properties Ltd \[1991\] Ch 536.
+
+100 Spiro v Glencrown Properties Ltd \[1991\] Ch 536, 544.
+
+101
+
+Spiro v Glencrown Properties Ltd \[1991\] Ch 536, 544. 102 Spiro v Glencrown Properties Ltd \[1991\] Ch 536, 543. 103 Spiro v Glencrown Properties Ltd \[1991\] Ch 536, 546.
+
+104
+
+See Farmers Mercantile Union and Chaff Mills Ltd v Coade (1921) 30 CLR 113; Manchester Diocesan Council v Commercial & General Investments Ltd \[1970\] 1 WLR 241, 247-8.
+
+\[3.130\] 71
+
+Part II: Formation
+
+Identifying the duration of an offer will in some cases simply be a matter of determining how a reasonable person in the position of the offeree would interpret the offer. In Bartolo v Hancock, an offer made at the beginning of a five-day trial to settle the litigation on the basis that the parties would discontinue their claims against each other and bear their own costs was interpreted, in its context, to be "a 'here and now' offer", the aim of which was "to dispose of the case then and there". 105 An attempt to accept the offer on the fifth day of the trial was unsuccessful.
+
+There is some uncertainty as to whether an offer lapses on the death of the offeror or the offeree. In Fong v Cilli, 106 Blackburn J held that an offeree could not accept an offer after the offeror's death, where the offeree knew of the death before the purported acceptance. In Smith v Woods,107 an offer was held to have been validly accepted after the death of the offeror by an offeree who was unaware of the offeror's death. The offer in question was an offer to compromise a dispute concerning the ownership and control of two companies. Ferguson JA held that "there is no reason why an offer should automatically be revoked upon death of the offeror. It is likely to depend upon the type of contract involved and the intention of the offeror assessed objectively".108 Since the contract was not personal to the offeror, and there was no reason to think he would have intended the offer to lapse on his death, it remained open and was validly accepted. There are judicial statements to the effect that both the death of an offeror 109 and the death of the offeree¹10 will necessarily terminate the offer, but those statements appear to be too wide.
+
+In the case of an option, there is at least a presumption that the death of the option holder does not prevent the option from being exercised by the option holder's personal representatives.¹¹¹ However, if the offer is personal to the option holder, then the option lapses. There seems to be no good reason why a similar presumption should not apply to the case of the death of the grantor of the option. Gibbs J has suggested that since an option is in essence a conditional contract, it can be enforced against the estate of a grantor, unlike an ordinary offer.112
+
+Failure of condition and changed circumstances
+
+\[3.140\] An offer may be made subject to an express or implied condition that must be fulfilled before the offer can be accepted. Alternatively, it may be made subject to an express or implied condition that it should lapse upon the happening of a certain event. In Financings Ltd v Stimson, the defendant signed an offer to purchase a car on hire-purchase terms from a finance company, the document having been given to him by a car dealer. The document contained a clause stating that the agreement contained therein would not be binding until it had been accepted on the finance company's behalf. Before the company signed the agreement, the defendant took possession of the car, but later returned it because he was dissatisfied
+
+105 Bartolo v Hancock \[2010\] SASC 305, \[16\].
+
+106 Fong v Cilli (1968) 11 FLR 495, 498. 107 Smith v Woods \[2014\] VSC 646.
+
+108 Smith v Woods \[2014\] VSC 646, \[20\].
+
+109 Dickinson v Dodds (1876) 2 Ch D 463, 475; Laybutt v Amoco Australia Pty Ltd (1974) 132 CLR 57, 72-3.
+
+110 Reynolds v Atherton (1921) 125 LT 690, 625. See further Greig and Davis, The Law of Contract (1987), p 344.
+
+Carter v Hyde (1923) 33 CLR 115, 121, 125, 132.
+
+111
+
+112 Laybutt v Amoco Australia Pty Ltd (1974) 132 CLR 57, 76.
+
+113 Financings Ltd v Stimson \[1962\] 1 WLR 1184.
+
+72 \[3.140\]
+
+Agreement Chapter 3
+
+with the car's performance. The car was stolen from the dealer's premises and was eventually recovered in a badly damaged condition. In ignorance of this fact, the finance company then purported to accept the defendant's offer. The company sued the defendant for breach of the hire-purchase agreement. The English Court of Appeal held that the defendant's offer was subjected to an implied condition that the car should continue in the condition it was in when the offer was made and that, on the failure of that condition, the defendant's offer lapsed.
+
+The "implied condition" approach adopted in Financings Ltd v Stimson is the traditional method of dealing with cases in which circumstances change between the making and acceptance of an offer but is not the only approach. In Neilsen v Dysart Timbers Limited, the Supreme Court of New Zealand explored the different ways of dealing with the problem of changed circumstances. 114 The offer in question was an offer to compromise or settle litigation. Dysart had obtained judgment against the Neilsen brothers for almost $315,000 under a guarantee given by the Neilsens for the debts of their company. The Neilsens disputed liability under the guarantee and applied for leave to appeal the decision against them. Three days after the leave application was heard, the Neilsens offered, through their solicitors, to pay Dysart $250,000 in full satisfaction of the judgment debt. Dysart's solicitors were asked to obtain urgent instructions from their client. Only three hours later, the parties were told by the court registrar that leave to appeal had been granted. There had been real doubt as to whether leave would be granted, and the granting of leave meant that Dysart was now faced with the costs of the appeal and the risk that it would be successful.115 Dysart accepted the offer 42 minutes after receiving the news, but the Neilsens claimed that the offer was no longer available for acceptance. The New Zealand Supreme Court held (3-2) that the offer remained open for acceptance. The judges were agreed that a fundamental or important change of circumstances had the effect of terminating the offer but did not agree on the conceptual basis for that rule or how it applied to these facts.116 First, as in Financings Ltd v Stimson, a court can ask whether the offer was subject to an implied condition that it would remain open only while a particular factual state of affairs continued. Secondly, the relevant principle can be seen, like the doctrine of frustration, as a rule that an offer will lapse in the event of fundamentally changed circumstances as a matter of law, rather than as an implication as to the intentions of the parties. Thirdly, the court can take the broader interpretive approach of asking "whether, having regard to the terms of the offer, the change of circumstances, and the subsequent acceptance', viewed as a whole and objectively, there is a concluded agreement".118 The third approach could be seen as the same as the first, on the basis that "a condition that an offer lapse upon the occurrence of a particular change of circumstances should be implied into the offer only if it is objectively apparent that the willingness of the offeror to be bound by the offer has been fundamentally undermined by the change of circumstances".119 This is consistent with the view recently expressed by the Privy Council that the implication of a term
+
+114 Neilsen v Dysart Timbers Limited \[2009\] NZSC 43; \[2009\] 3 NZLR 160.
+
+115
+
+116
+
+Neilsen v Dysart Timbers Limited \[2009\] NZSC 43; \[2009\] 3 NZLR 160, \[37\] (Tipping and Wilson JJ). McLauchlan and Bigwood, "Lapse of Offers Due to Changed Circumstances: A Contract Conversation" (2011) 27 Journal of Contract Law 222, 222.
+
+117 Neilsen v Dysart Timbers Limited \[2009\] NZSC 43; \[2009\] 3 NZLR 160, \[54\]-\[60\] (McGrath J); \[30\]-\[32\]
+
+(Tipping and Wilson JJ).
+
+118 Neilsen v Dysart Timbers Limited \[2009\] NZSC 43; \[2009\] 3 NZLR 160, \[61\] (McGrath J).
+
+119 Neilsen v Dysart Timbers Limited \[2009\] NZSC 43; \[2009\] 3 NZLR 160, \[26\] (Tipping and Wilson JJ).
+
+\[3.140\] 73
+
+Part II: Formation
+
+in an instrument is simply a matter of spelling out "in express words what the instrument, read against the relevant background, would reasonably be understood to mean",120
+
+This implication of conditions has an important application to contracts involving more than two parties. Although each case must be decided on its own facts, a written contract signed by one party is often construed as an offer made by that party. That offer may well be subject to an implied condition that the document is ineffective until signed by all the parties to it. In Neill v Hewens, 121 only one of two co-vendors signed a contract of sale. The purchasers signed the agreement and later sought specific performance, even though the second vendor had not signed. The High Court held that no contract had been concluded. When one of the co-vendors signed, the presumption was that she did not intend to bind herself unless her co- vendor also signed. 122
+
+Rejection and counter offer
+
+\[3.150\] Once an offer has been rejected, it is no longer available for acceptance. 123 A rejected offer may, however, later be revived or may form the basis of an agreement which is inferred in the absence of a valid offer and acceptance. 124 The making of a counter-offer is treated as a rejection of the original offer and will, therefore, also extinguish it.125 The courts draw a distinction between a counter-offer and an inquiry relating to an alteration of the terms. 126 By requesting information, the offeror is not intending to reject the offer but only to obtain some guidance in deciding whether to accept or reject. In determining whether an agreement has been made, the courts are principally concerned to ascertain the intentions of the parties from the language and circumstances of their communications. 127 The characterisation of conduct as a counter-offer or an inquiry is really stating a conclusion about the manifested intentions of the parties. If a seller offers to sell a tonne of widgets for $1000 to a buyer, the buyer might be said to make a counter-offer if she responds by saying, "I'll give you $900". In applying this label, the court is saying that the buyer has implicitly rejected the seller's offer and the offer should therefore no longer be available for acceptance. The buyer might be said to make an inquiry or request for information if she asks whether there is some room for movement on the price. The label "inquiry" signifies that the buyer has not manifested an intention to reject and so the seller's original offer should be treated as remaining open.
+
+Unilateral contract
+
+\[3.160\] The revocation of an offer to enter into a unilateral contract raises more difficult questions. There is no difficulty if the offer is withdrawn before the offeree begins to perform. The difficulty arises where the offeree has begun to perform but has not completed the acts that constitute acceptance. If, for example, the offeror offered to pay $100,000 to the first person
+
+120 Attorney-General of Belize v Belize Telecom Ltd \[2009\] UKPC 10; \[2009\] 1 WLR 1988, \[21\].
+
+121 Neill v Hewens (1953) 89 CLR 1.
+
+122 Neill v Hewens (1953) 89 CLR 1, 13. As to deeds, see Federal Commissioner of Taxation v Taylor (1929) 42 CLR
+
+81, 87.
+
+123
+
+124
+
+125
+
+Tinn v Hoffman & Co (1873) 29 LT 271, 278.
+
+Brambles Holdings Ltd v Bathurst City Council \[2001\] NSWCA 61; (2001) 53 NSWLR 153, 179. See \[3.320\]. Harris v Jenkins \[1922\] SASR 59; Hyde v Wrench (1840) 3 Beav 334; 49 ER 132.
+
+126 Stephenson, Jacques & Co v McLean (1880) 5 QBD 346; Brambles Holdings Ltd v Bathurst City Council \[2001\]
+
+NSWCA 61; (2001) 53 NSWLR 153.
+
+127 Greig and Davis, The Law of Contract (1987), p 338.
+
+74 \[3.150\]
+
+Agreement Chapter 3
+
+to swim backstroke across Bass Strait, it might seem unfair if the offer could be revoked when a swimmer was halfway across. It has been held that an offer made in exchange for the doing of an act becomes irrevocable once the act has been partly performed. 128 This principle has been justified on the basis that the offeror is subject to an implied obligation not to revoke the offer after the offeree has started to perform. 129 In a broader sense, it can be justified on the basis that an offeror has power to stipulate the terms on which their offer is made and can expressly reserve the right to withdraw the offer. It is more difficult for an offeree to protect himself or herself against the risk of loss once the offeree begins to perform. The notion that there is a general principle preventing revocation of offers in exchange for acts was, however, rejected by the Full Federal Court in Mobil Oil Australia Ltd v Wellcome International Pty Ltd (Mobil v Wellcome), 130
+
+Mobil v Wellcome involved an incentive scheme operated by Mobil to improve the performance of franchisees operating Mobil service stations. Mobil told its franchisees that it was seeking to implement a proposal whereby a franchisee who achieved certain performance targets within the "Circle of Excellence" scheme over a period of six years would be granted a nine-year renewal of their franchise. Mobil's representative acknowledged that there was a great deal of work to do on the proposal but made a commitment "that we will find a way to extend your tenure automatically no costs to you if you consistently achieve 90% or better in Circle of Excellence judgings", 131
+
+Several franchisees claimed to have spent time and money improving the operation of their retail operations in order to meet the 90 per cent performance target. After four years, Mobil unilaterally abandoned the Circle of Excellence scheme by which the franchisees' performance was judged. Wilcox J at first instance held that Mobil had made an offer to enter into a unilateral contract and was not entitled to revoke it once the franchisees had embarked on performance. 132 Since Mobil's abandonment of the scheme prevented the franchisees from completing performance, those franchisees who had achieved the 90 per cent performance target in each year up to the time of revocation should be treated as though they had achieved the same in the remaining years. Those franchisees were, therefore, entitled to performance of the agreement to extend their franchises.
+
+On appeal, the Full Court held that Mobil had not made an offer to the franchisees. There were numerous indications that the scheme was only at a developmental stage and what Mobil said was not in the nature of an offer.133 The commitment to "find a way" to extend tenure was "simply too vague and uncertain to be capable of giving rise to contractual obligation".134 Nevertheless, the court went on to address the question whether Mobil had successfully revoked any offer that had been made.
+
+The court held that a person offering to enter into a unilateral contract may, in some circumstances, be prevented from revoking the offer by an implied ancillary contract not to revoke. Revocation in breach of such a contract would be effective, leaving the offeror liable
+
+128 Veivers v Cordingly \[1989\] 2 Qd R 278, 297-8.
+
+129
+
+Daulia Ltd v Four Millbank Nominees Ltd \[1978\] Ch 231, 239.
+
+130
+
+131
+
+Mobil Oil Australia Ltd v Wellcome International Pty Ltd (1998) 81 FCR 475.
+
+Mobil Oil Australia Ltd v Wellcome international Pty Ltd (1998) 81 FCR 475, 498. 132 Lyndel Nominees Pty Ltd v Mobil Oil Australia Ltd (1997) IPR 599, 636.
+
+133 Mobil Oil Australia Ltd v Wellcome International Pty Ltd (1998) 81 FCR 475, 496.
+
+Mobil Oil Australia Ltd v Wellcome International Pty Ltd (1998) 81 FCR 475, 499-500.
+
+134
+
+\[3.160\] 75
+
+Part II: Formation
+
+in damages. 135 An estoppel may arise where the offeree has acted to their detriment on an assumption that the offer will not be revoked. The Full Court found, however, that there is no universal principle that the offeror may not revoke once the offeree embarks upon performance of the act of acceptance. 136 If there is no implied contract and no estoppel,137 the offeror is free to revoke the offer. There is no basis for any universal principle, according to the Full Court, because the circumstances vary greatly from one unilateral contract to another. Whether it is unjust for the offeror to revoke the offer once the offeree has commenced performance may depend on whether the offeror knows the offeree has commenced performance, whether the offeree understands that incomplete performance is at their risk, whether the parties intended that the offeror should be at liberty to revoke the offer and whether the acts towards performance are detrimental or beneficial to the offeree. 138 In the present case, it was difficult to say when a franchisee should be taken to have "embarked upon" performance; the actions of the franchisees were of benefit to both parties and little or no detriment had been established. There was therefore no basis for an implied contract not to revoke the offer. 139 Accordingly, even if Mobil could be said to have made an offer to the franchisees, Mobil was free to revoke that offer.
+
+The effect of Mobil v Wellcome is that, in general, an offer made in return for performance of an act is, like any other offer, revocable at any time. The offeror will only be prevented from revoking the offer where there is an implied contract not to revoke or an estoppel. An estoppel will arise only where the offeree is induced to adopt the assumption that the offer will not be revoked and relies on that assumption in such a way that they will suffer detriment if the offer is revoked.140
+
+ACCEPTANCE
+
+Conduct constituting an acceptance
+
+\[3.170\] An acceptance is an unqualified assent to the terms of an offer. An important question is whether the acceptance must result in an actual consensus between the parties or a "meeting of the minds". Where A makes an offer to B and B appears to accept, but was seriously mistaken as to what A was offering, is B bound? Whether a real meeting of the minds is required depends in theory on whether one adopts an objective or subjective approach to agreement.¹¹¹ Under a subjective approach, no contract is formed unless there was a real consensus between the parties. An objective approach, on the other hand, looks only to the external manifestations of consent, disregarding the offeree's actual state of mind. In Taylor v Johnson,142 the High Court noted that, while there is a significant difference in legal technique between the subjective and objective theories, there is little difference in practice. The reason is that the subjective theory is coupled with a principle of estoppel that operates where a person
+
+135 Mobil Oil Australia Ltd v Wellcome International Pty Ltd (1998) 81 FCR 475, 506. 136 Mobil Oil Australia Ltd v Wellcome International Pty Ltd (1998) 81 FCR 475. 137 The estoppel aspects of the decision are discussed \[9.110\].
+
+138 Mobil Oil Australia Ltd v Wellcome International Pty Ltd (1998) 81 FCR 475, 501-2.
+
+139
+
+See \[9.110\].
+
+140
+
+See Chapter 9.
+
+141
+
+See further \[1.60\] and \[3.310\].
+
+142 Taylor v Johnson (1983) 151 CLR 422, 428.
+
+76 \[3.170\]

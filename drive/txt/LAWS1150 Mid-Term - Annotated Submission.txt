@@ -1,0 +1,311 @@
+Annotated submission: the flow of legal reasoning
+Left column: the submission, sentence by sentence, exactly as submitted (footnote numbers as superscripts). Middle: the reasoning step that sentence performs. Right: why it follows, with the
+authority and where to check it (casebook file and printed page). Read top to bottom: each paragraph moves issue, rule, the other side, application, conclusion; open branches are flagged and
+shown being closed.
+
+I. ROCKY v GRACE
+
+The primary issue between Rocky and Grace is whether their February                        ISSUE                    Frames Part I from Rocky's side: the only way Grace could sue him is if the
+dealings formed a binding loan, since, if they did, Grace could claim that                                          February dealings formed a contract, so formation is tested first.
+Rocky failed to lend 'by 15 February'.
+By asking Rocky on 5 February to offer a two-year loan, Grace invited an                   FACTS + RULE +           5 February: Grace asked Rocky to make an offer. A request for an offer is an
+                                                                                           CONCLUSION               invitation to treat (Gibson). Rocky said he was 'not interested', so nothing could
+offer rather than making one1, and Rocky declined, so no contract formed.
+                                                                                                                    be accepted. Clears the first communication as negotiation only.
+                                                                                                                    fn 1: Gibson v Manchester City Council [1979] 1 WLR 294, 298 (Lord Diplock) ('Gibson').
+                                                                                                                    Check: W1 C1A Offer/Casebook (casebook/reading p 42, pdf p 4)
+
+Rocky could argue his 12 February email was merely a negotiating step, as it               ROCKY'S ARGUMENT         Rocky's best reading of the email: a record of negotiations, not an offer.
+opens 'Confirming discussions' and its other points promise nothing.                                                Supported by its opening words and the two non-promissory bullet points.
+
+However, 'I will lend' fixes the amount, date, term and rate, and 'Please                  OTHER SIDE + RULE +      Against Rocky: 'I will lend' is promissory and complete on amount, date, term
+                                                                                           CONCLUSION (hedged)      and rate, and the email invites acceptance. Gibson is distinguished: 'may be
+confirm agreement' invites acceptance; unlike 'may be prepared to sell' in
+Gibson, these words are promissory2, so the first point is likely an offer,                                         prepared to sell' was not promissory. Likely an offer, but the qualifier is flagged
+                                                                                                                    for the next step.
+though made 'subject to satisfactory conditions'.                                                                   fn 2: Ibid.
+                                                                                                                    Check: W1 C1A Offer/Casebook (casebook/reading p 42, pdf p 4)
+
+
+Acceptance requires 'an external manifestation of assent to an offer'3.                    RULE                     Acceptance test (Empirnall): an external manifestation of assent.
+                                                                                                                    fn 3: Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, 534
+                                                                                                                    (McHugh JA) ('Empirnall').
+                                                                                                                    Check: W1 C1B Acceptance/Casebook (casebook/reading p 71, pdf p 6)
+
+Rocky could argue that 'Confirmed' only confirmed the email's accuracy, but                ROCKY'S ARGUMENT +       Rocky's reading of 'Confirmed' (confirming accuracy only) is put, then answered:
+                                                                                           APPLICATION +            it replied to 'confirm agreement' and added nothing, so it is not a counter-offer.
+it answered a request to 'confirm agreement' and added no new terms, so it
+                                                                                           CONCLUSION               Likely acceptance.
+likely accepted the first point, qualifier included.
+Consideration would also exist, Rocky's promise to lend being exchanged for                CONSIDERATION            Completes formation: a promise to lend for a promise to repay is an exchange of
+Grace's implied promise to repay with interest4.                                                                    promises (Brambles quoting Integrated).
+                                                                                                                    fn 4: Brambles Holdings Ltd v Bathurst City Council (2001) 53 NSWLR 153, 177 (Heydon JA)
+                                                                                                                    ('Brambles'), quoting Integrated Computer Services Pty Ltd v Digital Equipment Corp (Aust) Pty
+                                                                                                                    Ltd (1988) 5 BPR 11,110, 11,117–18 (McHugh JA).
+                                                                                                                    Check: W1 C1B Acceptance/Casebook (casebook/reading p 78, pdf p 11)
+
+
+The qualifier, however, raises whether the parties intended immediate                      ISSUE + RULE             Turns to the qualifier: intention to be bound now. Objective test; onus on the
+obligations, which is assessed objectively, with the onus on Grace as the                                           party alleging the contract (Ermogenous [26]); the parties' commercial status
+party alleging the contract, although their commercial status as 'project                                           points toward intention (Ermogenous [25]).
+                                                                                                                    fn 5: Ermogenous v Greek Orthodox Community of SA Inc (2002) 209 CLR 95, [25]–[26]
+developers' supports it5.                                                                                           (Gaudron, McHugh, Hayne and Callinan JJ) ('Ermogenous').
+                                                                                                                    Check: W3 C3A Intention/Casebook (casebook/reading p 137, pdf p 3)
+
+The question is whether the terms were settled and merely to be 'put into                  RULE                     Masters v Cameron test: settled terms merely to be 'put into form', or terms
+form', or were 'subject to a new agreement'6.                                                                       'subject to a new agreement'. This is the line between a contract and a step in
+                                                                                                                    negotiation.
+                                                                                                                    fn 6: Masters v Cameron (1954) 91 CLR 353, 363, quoting Winn v Bull (1877) 7 Ch D 29, 32
+                                                                                                                    (Jessel MR).
+                                                                                                                    Check: W3 C3A Intention/Casebook (casebook/reading p 156, pdf p 22)
+
+Grace may rely on Godecke, where an agreement letting the vendor's                         OTHER SIDE (best         Grace's best case: Godecke, where terms left to the vendor's solicitors still bound
+                                                                                           authority)               because they had to be objectively reasonable.
+solicitors add terms bound because those terms had to be reasonable 'in an
+                                                                                                                    fn 7: Godecke v Kirwan (1973) 129 CLR 629, 642–3 (Walsh J) ('Godecke').
+objective sense'7.                                                                                                  Check: W3 C3B Certainty/Casebook (casebook/reading p 189, pdf p 25)
+
+                                                                                           APPLICATION
+Rocky's qualifier contains no such standard: 'satisfactory' leaves the                (distinguishing)      Godecke distinguished: Rocky's qualifier has no objective standard; 'satisfactory'
+judgment to the party the condition protects8, here Rocky, and the                                          leaves the judgment to the protected party (Meehan, Gibbs CJ), and the
+'conditions', naming no external event, are most naturally further terms of                                 'conditions' are unstated loan terms, not an external event.
+                                                                                                            fn 8: Meehan v Jones (1982) 149 CLR 571, 580–1 (Gibbs CJ) ('Meehan').
+the loan itself.                                                                                            Check: W3 C3B Certainty/Casebook (casebook/reading p 183, pdf p 19)
+
+Gibbs J doubted that an agreement leaving 'further terms to be settled by one         RULE + CONCLUSION     Gibbs J in Godecke doubted that leaving further terms to one party binds. On
+                                                                                      (on balance)          balance, the loan terms were left to a new agreement: no intention to be bound
+of the parties' binds9, so on balance the loan was likely left to a new
+agreement, negating intention to be bound immediately.                                                      immediately.
+                                                                                                            fn 9: Godecke (n 7) 646–7 (Gibbs J).
+                                                                                                            Check: W3 C3B Certainty/Casebook (casebook/reading p 190, pdf p 26)
+
+
+On certainty, Grace may argue that, as in Meehan, Rocky must decide                   OTHER SIDE + RULE     Certainty: Grace's answer that Rocky must act honestly (Meehan, Gibbs CJ 581),
+honestly10, which takes a promise outside the principle that a promisor with 'a                             which can save a promise from being illusory (Mason J quoting Thorby).
+                                                                                                            fn 10: Meehan (n 8) 581 (Gibbs CJ).
+discretion or option as to whether he will carry out' the promise makes no                                  Check: W3 C3B Certainty/Casebook (casebook/reading p 183, pdf p 19)
+contract11.                                                                                                 fn 11: Ibid 589–90 (Mason J), quoting Thorby v Goldberg (1964) 112 CLR 597, 605.
+                                                                                                            Check: W3 C3B Certainty/Casebook (casebook/reading p 185, pdf p 21)
+
+However, honesty in Meehan governed a judgment on an external condition,              APPLICATION           Meehan distinguished: honesty there governed an external condition (finance);
+                                                                                      (distinguishing)      Rocky's discretion goes to the loan's own content, and honesty cannot supply
+the availability of finance, whereas Rocky's discretion arguably concerns the
+content of his loan rather than relating 'only to the fulfilment of a condition'12,                         terms never agreed.
+                                                                                                            fn 12: Meehan (n 8) 581 (Gibbs CJ).
+and honesty cannot supply terms never agreed.                                                               Check: W3 C3B Certainty/Casebook (casebook/reading p 183, pdf p 19)
+
+Rocky's promise is therefore arguably illusory, and unless the conditions             CONCLUSION +          Promise arguably illusory; the email likely bound neither party. The open branch
+                                                                                      BRANCH                ('unless settled this morning') is carried forward and closed in sentence 17.
+were settled 'this morning', the email likely bound neither party.
+
+Rocky's 5 March demand for repayment under 'the Loan Agreement with                   ISSUE + RULE          Rocky's 5 March demand under the Loan Agreement: privity rule stated in
+AMPL' faces privity, under which 'only those who are parties to a contract                                  Windeyer J's words (Coulls 494).
+                                                                                                            fn 13: Coulls v Bagot's Executor & Trustee Co Ltd (1967) 119 CLR 460, 494 (Windeyer J
+can sue upon it'13.                                                                                         dissenting) ('Coulls').
+                                                                                                            Check: W4 C4A Privity/Casebook (casebook/reading p 333, pdf p 7)
+
+Party status is determined from 'the written instrument itself'14, and the Loan       APPLICATION           Party status from the instrument (Coulls 487): the Loan Agreement is between
+Agreement was made between AMPL and Grace, whose promises to repay                                          AMPL and Grace; no promise to Rocky, so he is not a joint promisee either
+were made to AMPL; none was made to Rocky, even as a joint promisee15.                                      (Coulls 486).
+                                                                                                            fn 14: Ibid 487 (Taylor and Owen JJ).
+                                                                                                            Check: W4 C4A Privity/Casebook (casebook/reading p 331, pdf p 5)
+                                                                                                            fn 15: Ibid 486 (Taylor and Owen JJ).
+                                                                                                            Check: W4 C4A Privity/Casebook (casebook/reading p 330, pdf p 4)
+
+Nor was AMPL his agent: though Rocky 'asked' it to lend, it lent in its own           BRANCH CLOSED         Closes the other route: AMPL lent in its own name and took Rocky's guarantee,
+                                                                                      (agency)              so it was not his agent (Port Jackson 269, Lord Reid's conditions). This also
+name and took his guarantee, so it contracted for itself16, and its $1,150,000
+advance neither performed his email nor made him a party.                                                   answers the open branch: even if the email bound, AMPL's advance was not
+                                                                                                            Rocky's performance.
+                                                                                                            fn 16: Port Jackson Stevedoring Pty Ltd v Salmond & Spraggon (Aust) Pty Ltd (1978) 139 CLR
+                                                                                                            231, 269 (Mason and Jacobs JJ, quoting Lord Reid in Scruttons Ltd v Midland Silicones Ltd
+                                                                                                            [1962] AC 446, 474), rev'd (1980) 144 CLR 300 ('Port Jackson').
+                                                                                                            Check: 96 Official judgments/Port Jackson Stevedoring v Salmond [1978] HCA 8.txt (next page
+                                                                                                            marker after passage: p 269)
+
+Grace's 'I never signed anything with you' is therefore right, but signature is       OTHER SIDE            Grace's own defence ('never signed') is right, but for the wrong test: signature
+                                                                                      ANSWERED              does not decide party status (Mrs Coulls signed yet was not a party).
+not the test, as Mrs Coulls signed yet was not a party17.
+                                                                                                            fn 17: Coulls (n 13) 487 (Taylor and Owen JJ).
+                                                                                                            Check: W4 C4A Privity/Casebook (casebook/reading p 331, pdf p 5)
+
+
+Thus, beyond the Development Agreement, which pays only 'if the Project               CONCLUSION (Part I)   Rocky's claims against Grace: none, apart from the Development Agreement
+made a profit' and is not shown breached, Rocky has no contractual claim                                    (which pays only on profit and is not shown breached). Grace likely has no claim
+against Grace, whenever the 12 months began, and Grace likely has none                                      against him. No promise by Grace to reimburse him.
+against him for failing to lend; nor did Grace promise to reimburse Rocky for
+anything he pays AMPL.
+
+II. ROCKY v AMPL (ALTERNATIVELY PIERRE)
+On whether a contract for the $10,000 formed at the 8 April meeting, Pierre's    ISSUE + FACTS + RULE   Part II formation: Pierre's 'expected' promised nothing, so it was an invitation to
+statement that he 'expected' Rocky to ensure Grace's payments promised                                  treat (Gibson).
+                                                                                                        fn 18: Gibson (n 1) 298 (Lord Diplock).
+nothing, so it was likely an invitation to treat18.                                                     Check: W1 C1A Offer/Casebook (casebook/reading p 42, pdf p 4)
+
+Rocky's reply, 'I will do that if you also promise', offered a promise for a     APPLICATION            Rocky's conditional reply is the offer (a promise for a promise); Pierre's 'agreed'
+promise19, which Pierre accepted when he 'agreed'20.                                                    is acceptance.
+                                                                                                        fn 19: Brambles (n 4) 177 (Heydon JA).
+                                                                                                        Check: W1 C1B Acceptance/Casebook (casebook/reading p 78, pdf p 11)
+                                                                                                        fn 20: Empirnall (n 3) 534 (McHugh JA).
+                                                                                                        Check: W1 C1B Acceptance/Casebook (casebook/reading p 71, pdf p 6)
+
+AMPL may argue that nothing bound until the Loan Agreement was signed,           OTHER SIDE             AMPL's signing argument (Eccles via Brambles 176): bound when and how the
+                                                                                 ANSWERED +             parties intend. Little suggests the oral bargain awaited signature, so a contract
+but parties are bound 'when, and in the manner in which, they intend'21, and     CONCLUSION
+little suggests Rocky's undertaking was to await any signature, so a contract                           likely formed orally.
+                                                                                                        fn 21: Brambles (n 4) 176 (Heydon JA), quoting Eccles v Bryant [1948] Ch 93, 104 (Lord Greene
+likely formed orally.                                                                                   MR).
+                                                                                                        Check: W1 C1B Acceptance/Casebook (casebook/reading p 77, pdf p 10)
+
+
+The same agency conditions guide whether Pierre, with AMPL's authority,          ISSUE + RULE           Who promised: the same agency conditions decide whether Pierre contracted for
+contracted on its behalf rather than solely for himself22.                                              AMPL or for himself.
+                                                                                                        fn 22: Port Jackson (n 16) 269 (Mason and Jacobs JJ).
+                                                                                                        Check: 96 Official judgments/Port Jackson Stevedoring v Salmond [1978] HCA 8.txt (next page
+                                                                                                        marker after passage: p 269)
+
+Rocky's 'you' points to Pierre, but Pierre controls AMPL and spoke at its        APPLICATION +          'You' points to Pierre, but he controls AMPL and spoke at its office about its loan:
+                                                                                 CONCLUSION +           AMPL likely promised. Alternative branch kept: if Pierre promised personally,
+office about its loan, so AMPL likely made the promise; if Pierre instead        BRANCH
+contracted for himself, Rocky's undertaking ran to Pierre, and AMPL can rely                            AMPL relies only on the clause.
+only on the guarantee clause.
+
+On consideration, AMPL may invoke the existing legal duty rule, arguing that     OTHER SIDE + RULE      Existing legal duty rule (Sundell): if Rocky already owed the guarantee, his
+Rocky had already guaranteed the Loan, so his promise to ensure Grace's                                 undertaking gave nothing new.
+                                                                                                        fn 23: TA Sundell & Sons Pty Ltd v Emm Yannoulatos (Overseas) Pty Ltd (1955) 56 SR (NSW)
+payments gave it nothing new23.                                                                         323, 327.
+                                                                                                        Check: W2 C2A Consideration 1/Casebook (casebook/reading p 113, pdf p 15)
+
+However, the rule presupposes a duty, as under 'a pre-existing contract' with    RULE + APPLICATION     The rule presupposes a duty, as under a pre-existing contract with the promisee
+the promisee24, and none existed: on 27 February Rocky only 'asked' AMPL to                             (Wigan 594). None existed: on 27 February Rocky only 'asked', and the narrative
+advance the money, and 'Pierre agreed and the clause was included' suggests                             order suggests the clause followed the bargain.
+                                                                                                        fn 24: Wigan v Edwards (1973) 47 ALJR 586, 594 (Mason J).
+the clause followed the bargain.                                                                        Check: W2 C2B Consideration 2/Casebook (casebook/reading p 131, pdf p 14)
+
+Even if the guarantee came first, ensuring that Grace made 'all payments'        EVEN IF +              Even if the guarantee came first, ensuring 'all payments' 'promptly' exceeds
+                                                                                 CONCLUSION             guaranteeing repayment, so consideration likely exists either way.
+'promptly' goes beyond guaranteeing 'repayment of the Loan', so Rocky likely
+provided consideration.
+
+Intention is in issue because Pierre is Rocky's cousin, but presumptions about   ISSUE + RULE           Intention: the cousin relationship, answered by Ermogenous [26] (presumptions
+family arrangements at most identify who bears the onus25, here Rocky.                                  only identify the onus, here on Rocky).
+                                                                                                        fn 25: Ermogenous (n 5) [26] (Gaudron, McHugh, Hayne and Callinan JJ).
+                                                                                                        Check: W3 C3A Intention/Casebook (casebook/reading p 137, pdf p 3)
+
+A promise to pay a fixed sum, made at AMPL's office as its loan was finalised,   APPLICATION +          A fixed-sum promise at AMPL's office while its loan was finalised is promissory
+                                                                                 CONCLUSION             and commercial (Banque Brussels 523): intention likely present whoever
+is 'appropriately promissory in character' and commercial26, so intention is
+likely present whoever promised.                                                                        promised.
+                                                                                                        fn 26: Banque Brussels Lambert SA v Australian National Industries Ltd (1989) 21 NSWLR 502,
+                                                                                                        523 (Rogers CJ).
+                                                                                                        Check: W3 C3A Intention/Casebook (casebook/reading p 144, pdf p 10)
+
+
+Rocky's undertaking to 'ensure' payment is not 'so obscure' as to be             CERTAINTY: RULE +      'Ensure' is certain enough because the Loan Agreement fixes the payments
+                                                                                 APPLICATION            (Upper Hunter 437).
+uncertain, because the Loan Agreement fixes the payments27.
+                                                                                                        fn 27: Council of the Upper Hunter County District v Australian Chilling and Freezing Co Ltd
+                                                                                                        (1968) 118 CLR 429, 437 (Barwick CJ) ('Upper Hunter'), quoting G Scammell & Nephew Ltd v
+                                                                                                        Ouston [1941] AC 251, 268 (Lord Wright).
+                                                                                                          Check: W3 C3B Certainty/Casebook (casebook/reading p 161, pdf p 3)
+
+Read objectively, his unqualified 'I will do that', answering Pierre's             CONSTRUCTION +         Read objectively (Ermogenous [25]), 'I will do that' answering 'ensure' promised
+                                                                                   CONCLUSION             a result, not mere effort.
+expectation that he 'ensure' payment, likely promised that Grace would pay,
+                                                                                                          fn 28: Ermogenous (n 5) [25] (Gaudron, McHugh, Hayne and Callinan JJ).
+not merely that Rocky would try28.                                                                        Check: W3 C3A Intention/Casebook (casebook/reading p 137, pdf p 3)
+
+
+A separate issue is whether the guarantee clause binds Rocky.                      ISSUE                  Separate issue: does the written guarantee clause bind Rocky, who did not sign
+                                                                                                          it?
+
+AMPL's call 'under the personal guarantee provided by Rocky' assumes, but          RULE + APPLICATION     AMPL's call assumes his assent; privity's burden aspect (Trident, Deane J) means
+does not prove, his assent, and because privity prevents AMPL and Grace's                                 AMPL must prove it.
+                                                                                                          fn 29: Trident General Insurance Co Ltd v McNiece Bros Pty Ltd (1988) 165 CLR 107 (Deane J).
+contract imposing obligations on Rocky29, AMPL must show that assent.                                     Check: W4 C4A Privity/Trident (course reading) (casebook/reading p n/a, pdf p 3)
+
+Silence while a clause is included is generally not 'an external manifestation'    RULE + APPLICATION     Silence is not assent (Empirnall 534), but 'I will do that', given for the $10,000,
+of assent30, but Rocky's 'I will do that', given for the $10,000 promise, likely                          binds him at least to his oral undertaking (Australian Woollen Mills: quid pro
+binds him at least to his oral undertaking31.                                                             quo).
+                                                                                                          fn 30: Empirnall (n 3) 534 (McHugh JA).
+                                                                                                          Check: W1 C1B Acceptance/Casebook (casebook/reading p 71, pdf p 6)
+                                                                                                          fn 31: Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 456–7 ('Australian
+                                                                                                          Woollen Mills').
+                                                                                                          Check: W2 C2A Consideration 1/Casebook (casebook/reading p 101, pdf p 3)
+
+Having 'attended' with a reasonable opportunity to object, he arguably knew        APPLICATION (hedged)   Arguably he assented to the clause by retaining the $10,000 promise with an
+                                                                                   + ROCKY'S ANSWER       opportunity to object (Empirnall 535 to 536); Rocky's answer that the $10,000
+the clause's terms and assented to them by retaining the $10,000 promise32,
+although Rocky could answer that the $10,000 priced his own words, not the                                priced his own words is put.
+                                                                                                          fn 32: Empirnall (n 3) 535–6 (McHugh JA).
+clause.                                                                                                   Check: W1 C1B Acceptance/Casebook (casebook/reading p 72, pdf p 7)
+
+
+Consideration for the guarantee must move from AMPL33, and if AMPL                 RULE + APPLICATION     Consideration must move from AMPL as promisee (Coulls 495); if AMPL
+promised the $10,000, that promise supplies it.                                                           promised the $10,000, that supplies it.
+                                                                                                          fn 33: Coulls (n 13) 495 (Windeyer J dissenting).
+                                                                                                          Check: W4 C4A Privity/Casebook (casebook/reading p 333, pdf p 7)
+
+If Pierre promised personally, AMPL's earlier advance is past consideration34,     BRANCH (Pierre) +      If Pierre promised: AMPL's earlier advance is past consideration (Roscorla 237),
+                                                                                   RULE + APPLICATION     saved only if both understood it was to be remunerated (Pao On 629 to 630),
+which, though Rocky 'asked' for it, counts only if both understood it 'was to      + CONCLUSION
+be remunerated'35, and that is doubtful; AMPL's stronger answer is that it                                which is doubtful. AMPL's better answer: signing only after the clause was
+                                                                                                          included (Australian Woollen Mills 456). Guarantee likely supported if Rocky
+signed the Loan Agreement only after the clause was included, an act likely
+                                                                                                          assented.
+'really done in consideration of' the guarantee36, so the guarantee is likely                             fn 34: Roscorla v Thomas (1842) 3 QB 234, 237; 114 ER 496 (Lord Denman CJ).
+supported if Rocky assented.                                                                              Check: W2 C2A Consideration 1/Casebook (casebook/reading p 113, pdf p 15)
+                                                                                                          fn 35: Pao On v Lau Yiu Long [1980] AC 614, 629–30 (Lord Scarman for the Board).
+                                                                                                          Check: W2 C2A Consideration 1/Pao On extract (casebook/reading p n/a, pdf p 1)
+                                                                                                          fn 36: Australian Woollen Mills (n 31) 456.
+                                                                                                          Check: W2 C2A Consideration 1/Casebook (casebook/reading p 101, pdf p 3)
+
+
+Whether AMPL's call was premature depends on when the 12 months began.             ISSUE                  When did the 12 months begin? This decides whether the 9 March call was
+                                                                                                          premature.
+
+Post-contractual conduct cannot interpret the term37, but because the term         RULE                   Post-contractual conduct cannot interpret a term (Brambles 164); where a term
+apparently specifies no start and is arguably ambiguous, mutually known                                   is ambiguous, facts showing 'the genesis of the transaction' are admissible
+facts showing 'the genesis of the transaction' are admissible38.                                          (Brambles 191, Ipp AJA).
+                                                                                                          fn 37: Brambles (n 4) 164 (Heydon JA).
+                                                                                                          Check: W1 C1B Acceptance/Casebook (casebook/reading p 73, pdf p 8)
+                                                                                                          fn 38: Ibid 191 (Ipp AJA).
+                                                                                                          Check: W1 C1B Acceptance/Casebook (casebook/reading p 82, pdf p 15)
+
+AMPL may argue the term ran from its 27 February advance, since the                OTHER SIDE             AMPL's reading: 'recorded' a loan already advanced on 27 February.
+agreement 'recorded' a loan already made.
+However, 'recorded' applies equally to the 4% rate, which nothing shows was        APPLICATION (answer)   'Recorded' equally governs the 4% rate, first shown on 8 April; the genesis shows
+agreed before 8 April, and the genesis shows only when the money moved,                                   when money moved, not when a term agreed on 8 April began.
+not that a term first agreed on 8 April began earlier.
+                                                                                   CONCLUSION (hedged)    The term arguably ran from 8 April 2024, so the call was premature unless the
+The term therefore arguably ran from 8 April 2024, making the 9 March 2025                               Loan Agreement itself dates it from the advance.
+call premature unless the Loan Agreement dates it from the advance.
+
+The $10,000 is payable only 'once Grace repays the Loan', a condition             RULE + APPLICATION     'Once Grace repays the Loan' is a condition precedent to payment, not to the
+precedent to the obligation rather than to the contract, which bound                                     contract (Meehan 582): nothing was payable on 9 March 2025.
+                                                                                                         fn 39: Meehan (n 8) 582 (Gibbs CJ).
+immediately39, so nothing was payable on 9 March 2025, when Grace 'had not                               Check: W3 C3B Certainty/Casebook (casebook/reading p 184, pdf p 20)
+yet repaid'.
+Rocky could argue that, read commercially, his own repayment satisfies the        ROCKY'S ARGUMENT +     Rocky's commercial reading (Upper Hunter 437) is put and answered: the words
+                                                                                  ANSWER +               name Grace, and the $10,000 priced his promise that Grace would pay, so his
+condition40; however, the words refer to Grace, and the $10,000 priced his
+                                                                                  CONCLUSION             own payment likely does not satisfy it.
+promise that Grace would pay, so his payment likely leaves the condition
+                                                                                                         fn 40: Upper Hunter (n 27) 437 (Barwick CJ).
+unfulfilled.                                                                                             Check: W3 C3B Certainty/Casebook (casebook/reading p 161, pdf p 3)
+
+
+Accordingly, if Rocky assented to the clause, by which he 'personally             EXPOSURE (guarantee    If he assented to the clause: liable for $1,150,000 once due and unpaid, now on
+                                                                                  branch)                the 27 February reading or from 8 April 2025 on the other.
+guaranteed repayment of the Loan', he is liable for $1,150,000 once the Loan
+is due and unpaid: immediately if the term ran from 27 February, or from 8
+April 2025 if Grace has still not repaid.
+If bound only by his oral undertaking, he likely breaches it, and faces           EXPOSURE               If bound only by his oral undertaking: a failure by Grace to pay when due likely
+                                                                                  (undertaking branch)   breaches it, sounding in damages.
+damages, if Grace fails to pay any amount when due.
+His $10,000 claim, against AMPL or alternatively Pierre, likely stands but is     EXPOSURE ($10,000)     The $10,000 claim stands but is conditional: never due if Grace never repays (his
+conditional41: it falls due only when Grace repays, so never if Grace, who said                          'might not pay at all'), and likely never if Rocky pays himself.
+                                                                                                         fn 41: Meehan (n 8) 582 (Gibbs CJ).
+he 'might not pay at all', never repays, and likely never if Rocky pays it                               Check: W3 C3B Certainty/Casebook (casebook/reading p 184, pdf p 20)
+himself.
+

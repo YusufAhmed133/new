@@ -1,0 +1,1426 @@
+
+===== PDF 171 | expected printed p 133 | footer: [5.05]    133
+CHAPTER 5
+
+
+Intention
+[5.10]   PRESUMPTIONS.......................................................................................................... 134
+                  [5.10]   Ermogenous v Greek Orthodox Community of SA..................................... 134
+[5.30]   COMMERCIAL TRANSACTIONS................................................................................... 139
+                  [5.30]   Banque Brussels Lambert v Australian National Industries.......................... 139
+[5.45]   DOMESTIC AND SOCIAL AGREEMENTS...................................................................... 144
+                  [5.50]   Todd v Nicol.................................................................................... 144
+[5.60]   GOVERNMENT AGREEMENTS..................................................................................... 150
+                  [5.65]   Administration of Papua and New Guinea v Leahy................................... 150
+[5.80]   PRELIMINARY AGREEMENTS........................................................................................ 152
+                  [5.80]   Masters v Cameron........................................................................... 152
+
+
+[5.05] The third element of contract formation is that the parties must manifest an intention
+to create legal relations. There are several situations in which parties may reach a clear and
+certain agreement that satisfies the consideration requirement, but may not be intended to
+create legal relations:
+1.   Where an agreement is made in a commercial context, a question may arise whether the
+     parties intend to make an honourable, rather than legal commitment.
+2.   The issue may arise in a social or domestic context. An agreement to help a friend to
+     move some furniture in return for dinner involves an exchange of promises, but is clearly
+     not intended to be legally binding. An agreement relating to more substantial matters,
+     such as employment or the sale of valuable property, may be intended to attract legal
+     consequences even when it is made with a close relative.
+3.   An issue of intention to contract may arise where an agreement is made between a
+     government and an individual. The implementation of government policy may, for
+     example, lead a government to reach an agreement with a particular individual to
+     provide some assistance. The fact that the individual is providing something in return
+     for that assistance does not necessarily mean that the parties intend to make a contract.
+4.   Where parties reach a preliminary agreement, the question may arise whether the parties
+     intend to be bound immediately, or not until some time in the future when the parties
+     have finalised some outstanding issues or recorded their agreement in a more formal
+     manner.
+The intention to create legal relations requirement has often been approached on the basis
+that certain types of agreements are presumed to be intended to be binding, while others
+are presumed not to be made with such an intention. It is said that parties to commercial
+agreements are presumed to intend legal consequences, while parties to social or domestic
+agreements are presumed not to intend legal consequences. Such presumptions determine who
+bears the onus of proof. A person denying the enforceability of a commercial agreement has
+been said to bear the onus of proving that the parties did not intend legal consequences.
+A person seeking to enforce a social or domestic agreement is said to bear the onus of proving
+
+
+                                                                                                                   [5.05]    133
+
+===== PDF 172 | expected printed p 134 | footer: 134   [5.10]
+Part II: Formation
+
+
+
+that it was intended to be binding. The decision of the High Court in Ermogenous v Greek
+Orthodox Community of SA Inc [2002] HCA 8; (2002) 209 CLR 95 (extracted at [5.10])
+suggests that considerable caution should be exercised in using presumptions to determine
+whether the intention to create legal relations requirement is satisfied. It has even been said
+that the court in Ermogenous “rejected the use of presumptions as a basis for ascertaining
+whether parties intended to enter into contractual relations”: Evans v Secretary, Department
+of Families, Housing, Community Services and Indigenous Affairs [2012] FCAFC 81, [12].
+   The objective nature of the inquiry as to intention and the circumstances that should be
+taken into account were clearly articulated in the joint judgment of Gaudron, McHugh, Hayne
+and Callinan JJ in Ermogenous v Greek Orthodox Community of SA Inc. The admissibility
+and relevance of evidence as to the actual intentions of the parties were considered by the
+New South Wales Court of Appeal in Air Great Lakes Pty Ltd v KS Easter (Holdings) Pty Ltd
+(1985) 2 NSWLR 309. A good illustration of the application of these principles is Shahid v
+Australasian College of Dermatologists [2008] FCAFC 72; (2008) 168 FCR 46.
+
+PRESUMPTIONS
+
+
+               Ermogenous v Greek Orthodox Community of SA
+[5.10] Ermogenous v Greek Orthodox Community of SA Inc [2002] HCA 8; (2002) 209 CLR 95 (High
+Court of Australia) –​Appeal from the Supreme Court of South Australia.
+    [FACTS: The appellant served as the Archbishop of the autocephalous Greek Orthodox Church in
+Australia for more than 23 years. He claimed that he had been employed by the respondent to serve in
+that position. After he resigned from the position, the Archbishop claimed that the respondent owed
+him certain sums of money in respect of accumulated annual leave and long service leave entitlements.
+He could only claim those payments if he was an employee of the respondent. The respondent was
+a community organisation founded to foster Greek culture as well as the Greek Orthodox faith. It
+organised cultural, sporting and social activity, built churches and recruited and paid consecrated
+clergy. The respondent recruited the appellant to the position of Archbishop, paid him a salary or
+stipend during his period of service and treated him as an employee, reserving the right to control
+the way in which he discharged his duties. An industrial magistrate found that he was an employee
+of the respondent and was therefore entitled to the payments. The Full Court of the Supreme Court
+of South Australia (by majority) allowed an appeal on the basis that the parties had not intended to
+create legal relations. The Archbishop appealed to the High Court.]
+    GAUDRON, McHUGH, HAYNE and CALLINAN JJ: [103] Both members of the majority in the Full
+Court of the Supreme Court (Doyle CJ and Bleby J) took, as their stated starting point, the proposition
+that an intention to enter a contractual relationship about the remuneration and maintenance and
+support of a minister of religion is not to be presumed ((2000) 77 SASR 523 at 524–​5 [4]‌per
+Doyle CJ, 575–​6 [207] per Bleby J). This proposition was said to find its origin, or at least its support,
+in several decisions in the United Kingdom … and one Australian decision (Knowles v Anglican Church
+Property Trust, Diocese of Bathurst (1999) 89 IR 47 a decision of the Industrial Relations Commission
+of New South Wales). Both Doyle CJ (2000) 77 SASR 523 at 529 [19]–​[20] and Bleby J (2000)
+77 SASR 523 at 577-​578 [212] concluded that the Industrial Magistrate had not considered, as a
+distinct issue, whether the parties had intended to enter a legally binding relationship. Their Honours
+then proceeded to consider whether there had been such an intention and concluded that there
+had not …
+Intention to create contractual relations
+[5.15] [105] “It is of the essence of contract, regarded as a class of obligations, that there is a voluntary
+assumption of a legally enforceable duty” (Australian Woollen Mills Pty Ltd v Commonwealth (1954)
+
+134   [5.10]
+
+===== PDF 173 | expected printed p 135 | footer: [5.15]   135
+                                                                                      Intention    Chapter 5
+
+
+Ermogenous v Greek Orthodox Community of SA cont.
+
+92 CLR 424 at 457 per Dixon CJ, Williams, Webb, Fullagar and Kitto JJ). To be a legally enforceable
+duty there must, of course, be identifiable parties to the arrangement, the terms of the arrangement
+must be certain, and, unless recorded as a deed, there must generally be real consideration for
+the agreement. Yet “[t]‌he circumstances may show that [the parties] did not intend, or cannot be
+regarded as having intended, to subject their agreement to the adjudication of the courts” (South
+Australia v Commonwealth (1962) 108 CLR 130 at 154 per Windeyer J).
+    Because the inquiry about this last aspect may take account of the subject-​       matter of the
+agreement, the status of the parties to it, their relationship to one another, and other surrounding
+circumstances (South Australia v Commonwealth (1962) 108 CLR 130 at 154; Placer Development Ltd
+v Commonwealth (1969) 121 CLR 353 at 367 per Windeyer J), not only is there obvious difficulty
+in formulating rules intended to prescribe the kinds of cases in which an intention to create
+contractual relations should, or should not, be found to exist, it would be wrong to do so. Because
+the search for the “intention to create contractual relations” requires an objective assessment of
+the state of affairs between the parties (Masters v Cameron (1954) 91 CLR 353 at 362 per Dixon CJ,
+McTiernan and Kitto JJ; ABC v XIVth Commonwealth Games Ltd (1988) 18 NSWLR 540 at 548–​9 per
+Gleeson CJ) (as distinct from the identification of any uncommunicated subjective reservation or
+intention that either may harbour) the circumstances which might properly be taken into account
+in deciding whether there was the relevant intention are so varied as to preclude the formation
+of any prescriptive rules. Although the word “intention” is used in this context, it is used in the
+same sense as it is used in other contractual contexts. It describes what it is that would objectively
+be conveyed by what was said or done, having regard to [106] the circumstances in which those
+statements and actions happened (Codelfa Construction Pty Ltd v State Rail Authority of NSW (1982)
+149 CLR 337 at 348-​353 per Mason J; Royal Botanic Gardens and Domain Trust v South Sydney City
+Council [2002] HCA 5; (2002) 240 CLR 45). It is not a search for the uncommunicated subjective
+motives or intentions of the parties.
+    In this context of intention to create legal relations there is frequent reference to “presumptions”. It
+is said that it may be presumed that there are some “family arrangements” which are not intended to
+give rise to legal obligations and it was said in this case that it should not be presumed that there was
+an intention to create legal relations because it was a matter concerning the engagement of a minister
+of religion. For our part, we doubt the utility of using the language of presumptions in this context. At
+best, the use of that language does no more than invite attention to identifying the party who bears
+the onus of proof. In this case, where issue was joined about the existence of a legally binding contract
+between the parties, there could be no doubt that it was for the appellant to demonstrate that there
+was such a contract. Reference to presumptions may serve only to distract attention from that more
+basic and important proposition.
+    More importantly, the use of the language of presumptions may lead, as it did in this case, to treating
+one proposition (that an intention to create legal relations is not to be presumed) as equivalent to
+another, different proposition (that generally, or usually, or it is to be presumed that, an arrangement
+about remuneration of a minister of religion will not give rise to legally enforceable obligations).
+References to “the usual non-​contractual status of a priest or minister” and factors which “generally
+militate against” a finding of intention to create legal relations (cf (2000) 77 SASR 523 at 576 [207]
+per Bleby J) illustrate the point. The latter proposition may then be understood as suggesting, in some
+way, that proof to the contrary is to be seen as particularly difficult and yet offer no guidance at all
+about how it may be done. Especially is that so when the chief factor said to justify the proposition
+that an intention to create legal relations must be proved (the essentially spiritual role of a minister of
+religion) is then put forward as the principal reason not to find that intention in a particular case, and
+any other matters suggesting that there may be an intention to create legal relations are treated as
+dealing only with “collateral” or “peripheral” aspects of the relationship between the parties ((2000)
+77 SASR 523 at 576 [207] per Bleby J). In practice, the latter proposition may rapidly ossify into a rule
+of law, that there cannot be a contract of employment of a minister of religion, distorting the proper
+application of basic principles of the law of contract.
+
+                                                                                                  [5.15]   135
+
+===== PDF 174 | expected printed p 136 | footer: 136   [5.15]
+Part II: Formation
+
+
+Ermogenous v Greek Orthodox Community of SA cont.
+
+   It is equally important to notice that the second form of proposition that we have identified may
+hide the making of some unwarranted [107] assumptions that certain principles and practices of
+church governance are “usual” or “general”, or that a particular kind of relationship between clergy
+and the church or community in which they work is the norm. No such assumptions can be made.
+   It is convenient to turn now to examine some of the cases said to support the proposition that an
+intention to create legal relations about remuneration of a minister of religion is not to be presumed.
+As Bleby J pointed out (2000) 77 SASR 523 at 563 [173], it was held in most of the cases to which he
+referred that the minister of religion concerned was not employed under a contract of employment.
+The cases did not all take the same path to reach that conclusion and, on analysis, it can be seen that
+there are several different and distinct questions that were seen as determinative.
+   In the Curates Case, Parker J noted [1912] 2 Ch 563 at 568–​70 that a curate in the Church of
+England owed duties to the vicar of the parish and to the bishop of the diocese, but his Lordship
+concluded that the authority which each had over the curate came not from some contractual
+relationship, it came from the fact that the curate held an office subject to the laws of the Church in
+which that office was held….
+   In other cases to which reference was made, both in argument and in the reasons of Bleby J, there
+was a real question about who would be the employer if there was a contract of employment. In
+Parfitt [1984] QB 368, a minister sued the President of the Methodist Conference because that person
+was nominated by statute to represent the Methodist Church in all legal proceedings [1984] QB 368
+at 371 but the contract which he sought to establish was one to which it was said that the Church (an
+unincorporated body) was party …
+   [108] As was pointed out in Cameron v Hogan (1934) 51 CLR 358 at 371, there are at least
+two difficulties that arise if action is brought to enforce a contract said to have been made with
+an unincorporated body. First, there is difficulty in properly constituting the action by sufficiently
+identifying all the proper parties to the suit (difficulties that may not always be met by constituting
+the action as a representative proceeding). Secondly, there is the further difficulty ((1934) 51 CLR 358
+at 372) of identifying who it is who is said to be responsible for the breach which is alleged. Are all
+members of the body to be said to be in breach of the contract; are only some to be [109] said to be
+in breach? These are not mere formal difficulties. They invite close attention to identifying the contract
+that is alleged to have been made and, in particular, the identification of its parties.
+   Similar but not identical problems in identifying who it is who is said to be the employer can be
+seen to be reflected in the decision in Diocese of Southwark v Coker [1998] ICR 140. The “Diocese of
+Southwark”, initially named by Dr Coker as the respondent to his claim for unfair dismissal, was a
+description of the district under the jurisdiction of the Bishop of Southwark…. It was the Bishop who
+had legal responsibility for licensing the appointment of assistant curates, and for the termination
+or revocation of such an appointment. But as Mummery LJ pointed out [1998] ICR 140 at 148, the
+Bishop could not be regarded as the employer:
+   [T]‌
+      hat relationship [between bishop and curate], cemented by the oath of canonical
+   obedience, is governed by the law of the established church, which is part of the public law
+   of England, and not by a negotiated, contractual arrangement.
+Finally, reference must also be made to the statements, found in several cases, that the relationship
+between a minister of religion and a church is pre-​eminently or even entirely spiritual, not contractual
+(Rogers v Booth [1937] 2 All ER 751 at 754 per Sir Wilfrid Greene MR; Lewery v Salvation Army in
+Canada (1993) 104 DLR (4th) 449 at 453).
+    [110] That the relationship between a minister of religion and the relevant religious body or group
+in which, and to which, he or she ministers is, at its root, concerned with matters spiritual is self-​
+evidently true. That the minister’s conduct as minister will at least be informed, if not wholly governed,
+by consideration of matters spiritual is likewise self-​evident. It by no means follows, however, that
+it is impossible that the relationship between the minister and the body or group which seeks or
+
+
+136   [5.15]
+
+===== PDF 175 | expected printed p 137 | footer: [5.20]   137
+                                                                                     Intention    Chapter 5
+
+
+Ermogenous v Greek Orthodox Community of SA cont.
+
+receives that ministry will be governed by a contract, and the respondent in this appeal did not
+seek to advance any such absolute proposition. Rather, the respondent advanced the more limited
+proposition, adopted by Doyle CJ and Bleby J, that an intention to enter contractual relations is
+not to be presumed where the arrangement concerns the engagement of a minister of religion but
+must affirmatively be proved ((2000) 77 SASR 523 at 524 [4]‌per Doyle CJ, 576 [207], 584 [236]
+per Bleby J). Nevertheless, it is as well to identify some aspects of the more absolute proposition
+earlier identified –​that the relationship between minister and church is pre-​eminently or even entirely
+spiritual because, in the end, the conclusion at which the majority of the Full Court arrived, was that
+the only arrangement or relationship which the appellant had was with a church not the respondent,
+and was a spiritual, not a contractual relationship.
+   First, although the proposition that the relationship between minister and church is pre-​eminently
+or even entirely spiritual is couched in apparently absolute terms, it has been recognised that there
+are aspects of that relationship which may give rise to legally enforceable rights and duties. As was
+pointed out in Davies [1986] 1 WLR 323 at 329 per Lord Templeman; [1986] 1 All ER 705 at 710:
+   Until the applicant [in that case] was deprived of his pastorate in accordance with the
+   procedures laid down in the book of rules, he was entitled to be paid his stipend out of the
+   income of the sustentation fund and to occupy his manse. (emphasis added)
+Secondly, the “essentially spiritual” character of the relationship may take on a different character
+when one of the parties to the arrangement (the putative employer) is not itself a spiritual body but
+is, as Staughton LJ said in Coker [1998] ICR 140 at 150, “a school, or a duke, or an airport authority”
+or, we would add, an incorporated body having the characteristics of the present respondent. To say
+that a minister of religion serves God and those to whom he or she ministers (Diocese of Southwark v
+Coker [1998] ICR 140 at 150 per Staughton LJ) may be right, but that is a description of the minister’s
+spiritual duties. It leaves open the possibility that the minister has been engaged to do this under a
+contract of employment.
+     Against the background of this examination of some of the cases [111] relied on by the respondent,
+it is convenient to turn again to the facts of the present case.
+The present case
+[5.20] The Industrial Magistrate’s finding that the appellant was employed by the respondent under a
+contract of employment proceeded from the premise of his unchallenged finding that the respondent
+(and other similar Australian bodies in the same tradition) had previously recruited and employed
+clergy who were, as we noted earlier, generally subject to the directions of the Communities. Those
+clergy were, and were treated as, employees of the relevant Community. The respondent, and other
+Communities, had employed clergy because to do so was to provide for a fundamental element in the
+preservation of the Hellenic and Orthodox culture they had been formed to enhance and preserve …
+    [112] We do not accept that the Industrial Magistrate failed to consider the question of intention to
+create legal relations. The Industrial Magistrate described the issue as being “Can a minister of religion
+be in law an employee?” and he dealt at length with the principal cases upon which the respondent
+relied both in this Court and in the Full Court of the Supreme Court. It seems that, at trial, the
+respondent advanced an argument framed in absolute terms. The Industrial Magistrate recorded it as
+being that “a minister of religion —​any religion —​can not in law be considered an employee of any
+other person or legal entity”. This proposition was rejected. But, read as a whole, the reasons of the
+Industrial Magistrate reveal that whether the arrangement which he had found to have been made
+between the appellant and the respondent was intended by them to be subject to the adjudication of
+the courts was a question at the centre of his consideration.
+   No less importantly, the Industrial Magistrate expressly recognised that, in each of the several cases
+to which the respondent had referred in support of its submissions, there had been (1997) 64 SAIR
+622 at 734:
+
+
+                                                                                                 [5.20]   137
+
+===== PDF 176 | expected printed p 138 | footer: 138   [5.25]
+Part II: Formation
+
+
+Ermogenous v Greek Orthodox Community of SA cont.
+
+   a close consideration of the particular facts of the matter, including the charters, statutes and
+   documents of fundamental belief of each creed considered, the documented position of the
+   clergy in respect of each of the churches mentioned, and the special provisions of statute
+   which govern the actual situation in the law of that particular church.
+He undertook a similarly close examination of the evidence that had been called at the trial of this
+matter about those subjects. That is, he examined, with care, all of the objective circumstances which
+bore on whether the parties intended to make a contract, as distinct from an arrangement binding
+only in honour.
+   The Industrial Magistrate did not make the error which the majority in the Full Court of the Supreme
+Court attributed to him. Even if the Industrial Magistrate did make that error, the inference which
+the Full Court drew about the absence of an intention to create legal relations was an inference that
+was not open on the facts that had been found at trial. An inference that there was no intention to
+create legal relations depended upon making an assumption, contrary to the facts found below, that
+the “church” was distinct from the “Community”, or it depended upon discerning from the decided
+cases a proposition more general or absolute than those decisions warrant.
+   In its appeal to the Full Court the respondent had put forward, as a separate ground of appeal,
+that “[i]‌f there was any enforceable contract it was not in law a contract of employment”. The leave
+to appeal granted by the Full Court was not restricted and it follows that this ground was before it,
+but the conclusions reached by the majority on the question of intention to create legal relations
+made it [113] unnecessary for their Honours to decide it. Accordingly, as things now stand, there
+remains for further argument in the Full Court, the issue whether the contract found to have been
+made between the appellant and the respondent was a contract of employment. Given the resolution
+of the question which appears to have been the chief foundation for the Full Court granting leave
+to appeal to it, despite there having been two previous unsuccessful appeals in this matter, there
+may be an issue whether this remaining question should be agitated further or, instead, the leave
+previously granted by the Full Court should to that extent now be revoked. That is a matter for the
+Full Court.
+   The appeal to this Court should be allowed with costs. Paragraphs 3 to 6 inclusive of the order of
+the Full Court of the Supreme Court should be set aside and the matter remitted to that Court for
+further hearing and determination conformably with the reasons of this Court.
+[5.25] KIRBY J: [119] I am unconvinced that the English cases cited by Bleby J warrant a conclusion
+that, in Australia, a contract partaking of the usual features of one of employment, necessarily loses
+that character because it relates to the vocation of a minister of religion. A minister of religion must be
+housed, must eat, be clothed and otherwise be provided for. The fact that his or her vocation is, at one
+level, spiritual in purpose and character does not, of itself, remove the possibility that arrangements
+for necessities may have been intended to be enforced when it is proved that such arrangements have
+been breached. If one starts with the proposition that a religious vocation is in law an “office” created
+by the public law and in its essential character is only a “spiritual” one, it is comparatively simple to
+arrive at a different result than if one accepts the postulates that have developed in Australian law
+because of the different history of churches and other religious organisations in this country. Courts
+here, as elsewhere, will be hesitant to enforce purely spiritual and theological rules (as in Wylde (1948)
+78 CLR 224 and Scandrett v Dowling (1992) 27 NSWLR 483). But they will not hesitate to enforce, as
+arrangements intended to have contractual or other binding force, rules of a proprietorial character
+concerned with proprietoral rights.
+    Within this dichotomy, a proved agreement with a body such as the respondent to provide for
+the necessities of life of a minister of religion, or even of an archbishop, is an arrangement of the
+second kind. It is not one which, of its character, Australian law will refuse to enforce because the law
+presumes a lack of intention to enter legal relations or classifies the resulting dispute as non-​justiciable.
+To the extent that English decisions, starting from a different history and legal foundation and taking a
+different approach, reach a different conclusion, they do not express the common law of Australia …
+
+138   [5.25]
+
+===== PDF 177 | expected printed p 139 | footer: [5.30]   139
+                                                                                   Intention    Chapter 5
+
+
+Ermogenous v Greek Orthodox Community of SA cont.
+
+    [121] There is therefore no presumption that contracts between religious or associated bodies and
+ministers of religion, of their nature, are not intended to be legally enforceable. At least where the
+contracts concern proprietary and economic entitlements, of the kind which in this case Archbishop
+Ermogenous sought to enforce (and certainly where they are not intertwined with questions of
+religious doctrine that a court would not feel competent to resolve according to legal norms) there
+is no inhibition either of a legal or discretionary character that would prevent enforcement of such
+claims when they are otherwise proved to give rise to legal rights and duties …
+    [123] Even if, contrary to my view, there were something in the spiritual calling of a minister of
+religion (including an archbishop) that put that person in relation to his or her church beyond the
+kind of contractual relations that might be enforced in a court of law, any such rule would not apply
+to arrangements for the provision of necessities made with a secular community organisation such as
+the respondent. Every day of his life, Archbishop Ermogenous, like everyone else in Australia, made
+contractual arrangements of an express or implied kind with secular organisations and individuals of
+great variety. Most of these were insubstantial but some would be substantial. It would be contrary to
+basic principle to suggest that his spiritual calling somehow placed him outside the rights and duties
+of the law of obligations.
+   Appeal allowed.
+
+                                                 
+
+
+COMMERCIAL TRANSACTIONS
+
+
+      Banque Brussels Lambert v Australian National Industries
+[5.30] Banque Brussels Lambert SA v Australian National Industries Ltd (1989) 21 NSWLR 502 (Supreme
+Court of New South Wales –​Action).
+    [FACTS: The defendant (ANI), a public company listed on the stock exchange, provided a letter
+of comfort to the plaintiff (BBL) in relation to a loan facility provided by the plaintiff to Spedley
+Securities Ltd (Spedley). The defendant held a controlling interest in Spedley’s parent company,
+Spedley Holdings Ltd (Holdings). The defendant provided a strongly worded letter of comfort at
+the plaintiff’s insistence after some negotiation and the exchange of several drafts. In the letter, the
+defendant consented to the making of the loan, agreed to provide the bank with 90 days notice
+of any decision to dispose of its interest in Holdings and confirmed that it was the defendant’s
+practice to ensure that Spedley will at all times be in a position to meet its financial obligations.
+The defendant disposed of its shareholding in Holdings without giving the required notice to the
+plaintiff. Spedley was unable to repay the debt to the plaintiff and later went into liquidation.
+The plaintiff sought relief on the basis of breach of contract, equitable estoppel or misleading or
+deceptive conduct in breach of s 52 of the Trade Practices Act 1974 (Cth). The defendant denied
+liability in contract on the basis, inter alia, that the parties did not manifest an intention to create
+legal relations.]
+   ROGERS CJ:
+The proceedings
+[504] In 1982, Spedley Securities Ltd (Spedley) wished to obtain a loan facility of US$5 million
+from the plaintiff, a Belgian bank. The plaintiff (BBL) wanted, to adopt a neutral term, additional
+reassurance that any draw down loan would be repaid. Spedley was a fully owned subsidiary of
+Spedley Holdings Ltd (Holdings). In turn, 45 per cent of the capital of Holdings was held by the
+defendant (ANI). The reassurance to the plaintiff took the form of a letter from the defendant in the
+following terms:
+
+                                                                                               [5.30]   139
+
+===== PDF 178 | expected printed p 140 | footer: 140   [5.30]
+Part II: Formation
+
+
+Banque Brussels Lambert v Australian National Industries cont.
+
+   We confirm that we are aware of the eurocurrency facility of US$5 million which your Bank
+   has granted to Spedley Securities Limited, which is a wholly-​owned subsidiary of Spedley
+   Holdings Limited.
+      We acknowledge that the terms and conditions of the arrangements have been accepted
+   with our knowledge and consent and state that it would not be our intention to reduce
+   our shareholding in Spedley Holdings Limited from the current level of 45% during the
+   currency of this facility. We would, however, provide your Bank with ninety (90) days notice
+   of any subsequent decisions taken by us to dispose of this shareholding, and furthermore we
+   acknowledge that, should any such notice be served on your Bank, you reserve the right to
+   call for the repayment of all outstanding loans within thirty (30) days.
+      We take this opportunity to confirm that it is our practice to ensure that our affiliate
+   Spedley Securities Limited, will at all times be in a position to meet its financial obligations as
+   they fall due. These financial obligations include repayment of all loans made by your Bank
+   under the arrangements mentioned in this letter.
+[His Honour then set out a letter from Spedley to the bank which referred to the letter from ANI and
+which further stated that should ANI give the 90 days notice, Spedley would repay all outstanding
+loans within 30 days.]
+   In fact, in 1989, the defendant sold its shares in Holdings without first giving 90 days notice and
+the plaintiff lost the opportunity of calling for repayment of its outstanding loan to Spedley within that
+period. The defendant did not ensure that Spedley was in a position to meet its financial obligation
+to the plaintiff as it fell due.
+   [505] It is common ground between the plaintiff and the defendant that the defendant failed to
+act in accordance with the statements it made in its letter. It did not, at any time, notify the plaintiff
+that it did not intend to so act.
+   Put simply, the plaintiff, BBL, lent Spedley a large sum of money (approximately A$ 7 million)
+on the “security” of the letter from the defendant. The plaintiff seeks to recover damages from the
+defendant in respect of its losses, as Spedley is now in liquidation. It has been agreed that only liability
+should be argued and depending on the outcome, quantum shall be decided later.
+   The defendant maintains that it is not liable to compensate the plaintiff for any damage it may
+have suffered. At the forefront of the defendant’s argument stands the judgment in Kleinwort Benson
+Ltd v Malaysia Mining Corp Berhad [1989] 1 WLR 379. Three of the Lord Justices in the English Court
+of Appeal held that the statement in the letter of comfort given by the defendant, concerning its
+policy with respect to the liabilities of subsidiaries, involved it in no enforceable legal obligation. Ralph
+Gibson LJ, delivering the judgment of the court, concluded (at 394):
+   If my view of this case is correct, the plaintiffs have suffered grave financial loss as a result of
+   the collapse of the tin market and the following decision by the defendants not to honour
+   a moral responsibility which they assumed in order to gain for their subsidiary the finance
+   necessary for the trading operations which the defendants wished that subsidiary to pursue.
+   The defendants have demonstrated, in my judgment, that they made no relevant contractual
+   promise to the plaintiffs which could support the judgment in favour of the plaintiffs. The
+   consequences of the decision of the defendants to repudiate their moral responsibility are
+   not matters for this court.
+Before me, two Queen’s Counsel, their juniors and a platoon of solicitors were engaged over five days
+in argument as to whether, as in Kleinwort Benson, the defendant in this case, assumed merely a moral
+responsibility, or whether it was liable at law …
+   The plaintiff puts its case in a number of ways. First, that the letter of comfort constitutes a binding
+contractual obligation, which the defendant breached. The plaintiff claims that the letter made two
+promises enforceable at law. One, that whilst the facility was on foot, the defendant was to provide
+the plaintiff with 90 days notice of any sale by the defendant of its 45 per cent shareholding in
+
+
+140   [5.30]
+
+===== PDF 179 | expected printed p 141 | footer: [5.40]   141
+                                                                                     Intention    Chapter 5
+
+
+Banque Brussels Lambert v Australian National Industries cont.
+
+Holdings. Two, that, during the life of the facility, the defendant would ensure that Spedley would at
+all times be in a position to meet its financial obligations as they fell due …
+   [His Honour then set out the evidence and continued:]
+Letters of comfort
+[5.35] [520] This is an appropriate point to examine in general terms the learning on letters of
+comfort, for their purpose and the various modes of their interpretation are indicative of their general
+standing. As was noted in Kleinwort Benson, there is no general rule concerning letters of comfort,
+although trends can be detected in the academic analysis. The letter of comfort developed as an
+alternative to a guarantee or surety where the writer, more often than not the parent company, either
+was unable, or unwilling, to issue one of these more traditional securities. According to Mr Osterreith,
+letters of comfort were first used in the 1960s in the United States. United States parents were reluctant
+to give guarantees because they had to be disclosed in the accounts as contingent liabilities. Letters
+of comfort were not required to be so shown. The same situation applied in Europe and so letters
+of comfort came into use there as well. In Mr Osterreith’s experience, letters of comfort have been
+invariably sufficient to secure payment to the creditor. Letters of comfort were issued where the parent
+simply did not want to incur legal liability, where the parent was primarily concerned to protect its
+own credit rating, where the parent wanted to avoid showing a contingent liability on its balance
+sheet as this would contravene limits on commitments, and also where there were unfavourable tax
+and foreign exchange consequences: see generally, “Letters of Responsibility” (1978) 6 International
+Business Lawyer 288–​332.
+    Letters of comfort have become so frequent in international commercial transactions that a German
+writer characterised them as “collateral sui generis” (Franken, “The Force of Comfort Letters Under
+German Law” (1985) 6(4) International Financial Law Review 14 at 15), although this same writer
+acknowledges that a great deal of uncertainty surrounds the practical legal obligations imposed by
+a letter of comfort. This view is reiterated throughout the literature. In each case, it ultimately turns
+on the terms of the [521] letter. Yet, in this context, the French approach to letters of comfort is
+refreshingly honest and sensible. Writing in the section on France in the compilation on Letters of
+Responsibility (at 302), Léon Proscour states that:
+
+   A so called “letter of responsibility” will, under French law, be considered as a commitment
+   to perform (“obligation de faire”) because in the commercial world the creation of a
+   meaningless instrument or document is unthinkable. It is not a full-​sized guaranty [sic] —​
+   otherwise it would say it is so —​but some performance is provided in order to help a creditor
+   insure his rights. Refusal of such performance opens a case for damages; this is the legal rule
+   of violation of an “obligation de faire”.
+
+In Société Viuda de Jose Tolra v Sodler (21 December 1987, La Revue Banque March 1988) the Cour de
+Cassation recognised as enforceable security a letter of comfort from a parent company to a creditor
+of its subsidiary.
+The claim in contract
+[5.40] This claim turns on the existence or otherwise, of an intention to create legal obligations and
+whether the terms of the letter are of a sufficiently promissory nature to be held to be contractual.
+The two questions arise independently, but are interrelated in that it is from the terms of the letter
+seen against the backdrop of surrounding circumstances that the parties’ intentions in both respects
+fall to be determined.
+   Turning first to the question of intention to enter into a legal relationship in order to ascertain
+whether the letter of comfort was intended to give rise to legal obligations, it is necessary to examine
+the events surrounding its inception. BBL starts with the prima facie presumption that in commercial
+transactions there is an intention to create legal relations, and the onus of proving the absence of such
+intention rests with the party “who asserts that no legal effect is intended, and the onus is a heavy
+
+                                                                                                 [5.40]   141
+
+===== PDF 180 | expected printed p 142 | footer: 142   [5.40]
+Part II: Formation
+
+
+Banque Brussels Lambert v Australian National Industries cont.
+
+one”: Edwards v Skyways Ltd [1964] 1 WLR 349 at 355 per Megaw J. The defendant submits that the
+Skyways onus is discharged by pointing to the course of negotiations leading to the final version of
+the letter, coupled with a close textual analysis of its terms.
+   Greig and Davis in The Law of Contract (1987) state that: “The overriding test is, of course, that
+the intentions of the parties, as deduced from the document as a whole seen against the background
+of the practices of the particular trade or industry”: 229–​30. Nothing turns on the nomenclature of
+“letter of comfort”, as was observed by the Court of Appeal in Kleinwort Benson.
+   It is clear that at the time of negotiating the initial US$1 million facility, and its subsequent increase
+to US$5 million, it was made quite clear to both Spedley and ANI that the facility was subject to BBL
+obtaining a suitable letter of comfort or some other indication of commitment from ANI….
+   [523] In a very different field of discourse, Lord Justice Scrutton remarked “there will be no Alsatia
+in England”. I believe it was that kind of sentiment that informed the judgment of Sir John Megaw in
+Edwards v Skyways Ltd. There should be no room in the proper flow of commerce for some purgatory
+where statements made by businessmen, after hard bargaining and made to induce another business
+person to enter into a business transaction would, without any express statement to that effect, reside
+in a twilight zone of merely honourable engagement. The whole thrust of the law today is to attempt
+to give proper effect to commercial transactions. It is for this reason that uncertainty, a concept so
+much loved by lawyers, has fallen into disfavour as a tool for striking down commercial bargains. If
+the statements are appropriately promissory in character, courts should enforce them when they are
+uttered in the course of business and there is no clear indication that they are not intended to be
+legally enforceable.
+   If I may say, the judgments of Hirst J, at first instance in Kleinwort Benson [1988] 1 WLR 799 and
+Staughton J, whose unreported judgment in Chemco Leasing SpA v Redifusion plc Staughton J, 19 July
+1985 is extensively referred to by Hirst J, reflect the bias of experienced commercial judges to pay high
+regard to the fact that the comfort letters in issue before them came into existence as part and parcel
+of a commercial banking transaction and that the promises were an important feature of the letters.
+    In the Court of Appeal in Kleinwort Benson, Ralph Gibson LJ held the principle in Edwards v Skyways
+Ltd inapplicable, saying that the presumption of intention only became significant when the words of
+the agreement were clearly promissory. The Court of Appeal pointed [out] that, in a sense, the trial
+judge had been asked the incorrect question. The parties had conceded that one of the statements
+in the letter was a contractual promise and intended to have legal effect. The true question therefore
+was whether the statement sued upon was promissory in character. It was to this question that the
+Court of Appeal returned a negative answer.
+    The Court of Appeal subjected the letters to minute textual analysis. Courts will become irrelevant
+in the resolution of commercial disputes if they allow this approach to dominate their consideration
+of commercial documents.
+   Probably at the heart of the judgment delivered by Ralph Gibson LJ is the statement (at 792): “In
+my judgment, the defendants made a statement as to what their policy was, and did not in para 3 of
+the comfort letters expressly promise that such policy would be continued in future”.
+   That construction of the letter renders the document a scrap of paper. If the Lord Justice is correct,
+the writer has not expressed itself on anything relevant as a matter of honour.
+   [524] The test prescribed by the law of Australia to determine whether a statement was promissory
+or only representational is different from that in England. This has been pointed out by McPherson J
+in Nemeth v Bayswater Road Pty Ltd [1988] 2 Qd R 406. His Honour said (at 416):
+   The question to be determined therefore is whether the passages in the evidence set out
+   above can be said to give rise to a warranty or promise having contractual effect. In Dick
+   Bentley Productions Ltd v Harold Smith (Motors) Ltd [1965] 1 WLR 623 at 627, the matter was
+   stated thus by Lord Denning MR:
+
+
+142   [5.40]
+
+===== PDF 181 | expected printed p 143 | footer: [5.40]   143
+                                                                                         Intention    Chapter 5
+
+
+Banque Brussels Lambert v Australian National Industries cont.
+
+          It was said by Holt CJ, and repeated in Heilbut, Symons & Co v Buckleton, that: “An
+      affirmation at the time of the sale is a warranty, provided it appear on evidence to be so
+      ‘intended’. But that word ‘intended’ has given rise to difficulties. I endeavoured to explain in
+      Oscar Chess Ltd v Williams that the question whether a warranty was intended depends on
+      the conduct of the parties, on their words and behaviour, rather than on their thoughts. If an
+      intelligent bystander would reasonably infer that a warranty was intended, that will suffice.
+      What conduct, then? What words and behaviour lead to the inference of a warranty?”
+   Adopting that approach, the problem nevertheless remains of determining what it is in the
+   conduct or words of the parties that in an objective sense demonstrates that they intended
+   a particular statement to be legally binding upon the party making it. After the passage
+   from the case just cited, Lord Denning went on to say that there was prima facie ground for
+   inferring that a warranty was intended if the statement or representation in question was
+   made “for the very purpose of inducing the other party to act upon it, and actually inducing
+   him to act upon it” by entering into the contract. But there is authority binding upon us
+   to hold that such factors alone are not sufficient to convert the statement or representation
+   into a promise or undertaking to be contractually bound to its factual accuracy or to its
+   fulfilment: see JJ Savage & Sons Pty Ltd v Blakney (1970) 119 CLR 435 at 443; Ross v Allis-​
+   Chalmers Australia Pty Ltd (1980) 55 ALJR 8.
+Greig and Davis discuss in helpful detail (p 480 et seq) the various matters to be taken into account in
+determining this objective intention. Obviously the actual words used are a very important indicator.
+   Nonetheless, it is inimical to the effective administration of justice in commercial disputes that a
+court should use a finely tuned linguistic fork. A good illustration of where this leads is the well meant
+effort by counsel for the defendant in the present case in providing me with a schedule showing the
+similarities and differences between the letter in Kleinwort Benson and the present case.
+    Turning to the terms of this particular letter of comfort, it is clear that the first paragraph contains no
+contractual representation, but merely an indication of awareness. The second paragraph may be split
+into two sections; for ease of reference, let the statement in relation to ANI’s intention as to reduction of
+its shareholdings in Holdings be called 2(a), and that pertaining to giving 90 days notice be called 2(b).
+   Looking at para 2 as a whole, the plaintiff argued that it was expressed in the language of promise,
+and that the amendments made in the course of [525] negotiations did not detract from this. The
+defendant, on the other hand, maintained that the inclusion of the word “would” softened the
+statement to such an extent that it could not be regarded as anything more than a statement of
+present intention. In addition, the inclusion of “however” indicates that the second part (2(b)) is also
+only intended to be a statement of intention.
+    In my opinion, 2(b) contains an undertaking of a contractual nature, which is in no way diminished
+by the presence of “however”. The reason for the use of the word is easily explained. The first limb,
+2(a), caters for the contemplated intention. Then 2(b) deals with the situation where, for whatever
+reason, that intention is to be departed from. In that context, to say “however” should my intentions
+change is perfectly appropriate use of language in preceding the promise of the action to be taken
+in that circumstance. That action, that is, the 90 days notice, is intended to confer a clear benefit
+on the plaintiff. The nature of the benefit appears most clearly from an earlier draft. It enables the
+plaintiff to obtain immediate reimbursement. The 90 days notice, together with the 30 days period of
+demand, is a carefully crafted trigger to allow for recovery. The two letters need to be read together
+as a scheme. That deprives the employment of the word “would” of any significance. The Spedley
+letter in the second paragraph, in speaking of the 90 days notice for ANI, speaks of “they (that is ANI)
+will provide you” with the requisite notice. I can see no reason why 2(b) should not be regarded as a
+promissory statement.
+   As to 2(a), the now famous letter in Kleinwort Benson contained a similar, albeit somewhat stronger,
+provision: “We confirm that we will not reduce our current financial interest in MMC Metals Ltd until
+
+                                                                                                     [5.40]   143
+
+===== PDF 182 | expected printed p 144 | footer: 144   [5.45]
+Part II: Formation
+
+
+Banque Brussels Lambert v Australian National Industries cont.
+
+the above facilities have been repaid …” The parties there agreed that it was a promise intended to
+give rise to legal relationships: compare Commonwealth Bank of Australia v TLI Management Pty Ltd
+[1990] VR 510. In the present case, the statement “it would not be our intention to reduce” carries
+the same import. The only reason for splitting the analysis of para 2 into (a) and (b) would be if the
+foregoing was held to be incorrect, in that 2(a) was determined not to be contractual. There can, in
+any case, be no doubt as to the status of 2(b) …
+   The question whether the third paragraph of the letter of comfort is promissory is far more thorny.
+However, in my view, if the paragraph is read as follows: “it is our practice to ensure that Spedley is
+at all times in a position to repay all loans made to it by your Bank”, its promissory nature is much
+clearer. I see no relevant difference between that and saying that “we promise to ensure that” Spedley
+will at all times be in a position to repay the [526] plaintiff. The letter needs to be read in the light
+of the statement of policy ascribed to Mr Maher (at 508G): “it is our corporate policy to support our
+subsidiaries”. …
+  In my view, the plaintiff has made out its claim that the defendant was in breach of two enforceable
+contractual promises. This enables me to deal with the other issues in a summary fashion.
+   Judgment for the plaintiff on liability.
+
+                                                  
+
+
+DOMESTIC AND SOCIAL AGREEMENTS
+[5.45] Domestic and social agreements have in the past been approached on the basis that
+parties to such agreements are presumed not to intend legal obligations (see, eg, Jones v
+Padavatton [1969] 1 WLR 328, 332–​3). In some cases, including the well-​known decision
+of the English Court of Appeal in Balfour v Balfour [1919] 2 KB 571, 579, it has almost
+appeared that there is a rule of law that financial agreements between spouses will not attract
+legal consequences. In Ermogenous v Greek Orthodox Community of SA Inc [2002] HCA 8;
+(2002) 209 CLR 95 (extracted at [5.10]) Gaudron, McHugh, Hayne and Callinan JJ rejected
+the idea that any rules can or should be formulated to prescribe the types of cases in which an
+intention to create legal relations should or should not be found. It is now accepted that, since
+Ermogenous, no presumption should be made about the enforceability of agreements made in
+a social or domestic context: Ashton v Pratt [2015] NSWCA 12; (2015) 88 NSWLR 281, [73];
+Evans v Secretary, Department of Families, Housing, Community Services and Indigenous
+Affairs [2012] FCAFC 81, [12]–​[16]. Each case will be considered on its own facts, although
+the nature of the relationship between the parties and the context in which the agreement was
+made remain important considerations.
+
+
+                                              Todd v Nicol
+[5.50] Todd v Nicol [1957] SASR 72 (Supreme Court of South Australia –​Action).
+   [FACTS: The defendant, a woman living in Australia, invited the plaintiffs, the sister (Margaret Todd)
+and niece (Grace Todd) of the defendant’s deceased husband, to move from Scotland to Australia
+to share her house and provide her with company. The defendant proposed the arrangement in
+a letter to the plaintiffs. The defendant promised to alter her will (by making a codicil) so that the
+house would be theirs until they died (or, in the case of Grace, married). The plaintiffs accepted the
+offer. They sold their belongings, and the niece resigned her employment. The plaintiffs moved from
+
+144   [5.45]
+
+===== PDF 183 | expected printed p 145 | footer: [5.50]   145
+                                                                                       Intention    Chapter 5
+
+
+Todd v Nicol cont.
+
+Scotland to South Australia and resided with the defendant for several years. The relationship between
+the plaintiffs and the defendant deteriorated, and the defendant asked the plaintiffs to leave the
+house. The plaintiffs claimed they were entitled by contract to remain in the house. The defendant
+counterclaimed for possession of the house, either on the basis that there was no contract between
+the parties, or that any contract had been validly terminated.]
+    MAYO J: [74] In this action the plaintiffs (sister and niece of the defendant’s husband, now
+deceased) claim a declaration that pursuant to a certain contract they are entitled to reside rent free
+in the premises, 254 Greenhill Road, Hazelwood Park until their respective deaths, or, in the case of
+the second plaintiff, until marriage. Ancillary relief is also sought in respect of the contract described in
+the statement of claim. The defendant denies the contract alleged, but, if there be any such contract,
+she seeks its rescission by counterclaim. There is a reply on behalf of the plaintiffs….
+   The contract, on which the plaintiffs rely, is said to be contained in letters which passed between the
+parties. I will quote so much of the correspondence as in my opinion has bearing on the preliminary
+question that counsel have asked to be determined before other matters are investigated, viz whether
+there is an agreement legally binding between plaintiffs and defendant whereby the former became
+entitled to live in the premises mentioned.
+   Important parts of the defendant’s letter to the plaintiffs of date April 6th, 1947, may be cited:
+   I have wondered if you would like to come and live with me. That is what I want to know
+   first of all. I must have company at my age and it is not good for anyone to live alone …
+   This is a funny old house … there is quite room enough for you both to come to me (and
+   May Holt, later, when she wants to and has opportunity –​which will not be yet as far as we
+   both can see). You would share my home … and no rent at all … All in it we could share for
+   I have enough I think, for all. If … you do sell your belongings –​keep your china, and house
+   linen and cutlery for I may not have enough of those things to go round … It is a big thing
+   for you to do … but I think we would be happy together … once you are here or on the
+   way, I would alter my will that the home was to be yours and Gracie’s (unless you marry …)
+   until you passed on … and if May Holt is with me, may be she to share it too … I have not
+   mentioned this to Willie but will you consult him? I may tell him in my next letter … of my
+   proposition … think well before accepting my suggestions … if this does not eventuate I will
+   have to work out some other plan for myself.
+To that “proposition” the plaintiffs sent a cable and a letter to the defendant. These were not
+produced, having been destroyed. In substance both these communications were to the effect that
+they accepted the invitation. It is alleged by the plaintiffs that these documents were productive of
+the contract. Steps were promptly taken by them to engage passages by steamer for the voyage to
+Adelaide.
+   It is an accepted principle that regard may be had to the subsequent conduct of, and communications
+between, parties for the purpose of discovering whether the intention to be attributed to them was to
+make a binding arrangement or otherwise, and if the former what the parties understood the terms to
+be, that is to say, in so far as the words used were not productive of certainty. The acts of parties, where
+meaning is in doubt, may be used to remove uncertainty, or to explain, but not to contradict, the
+language used (Van Diemen’s Land Co v Table Cape Marine Board [1906] AC 92; Watcham v Attorney-​
+General of the East Africa Protectorate [1919] AC 533). The manner in which parties act, with the
+apparent approval of all concerned, may indicate their view of what has been agreed between them.
+  Upon receipt of the plaintiffs’ cable the defendant wrote again, the communication being dated
+April 16th, 1947. The introductory words are:
+   How perfectly thrilling it was to me to get your cable this morn … The little place … we will
+   try and make it home for us all … Today I went in to the solicitor and added a codicil to my
+   will, for I want to protect you both in case anything happens to me before your arrival here
+   … When I sign it the house is yours for life Margaret without expense, also you Gracie (unless
+
+
+                                                                                                   [5.50]   145
+
+===== PDF 184 | expected printed p 146 | footer: 146   [5.50]
+Part II: Formation
+
+
+Todd v Nicol cont.
+
+   you marry) … and if Miss Holt wishes to share the home too she is also protected … I am
+   longing now to get your letter … so that I can know a little more of your immediate plans
+   and how far you have gone and when you can really come … When I know I will try and get
+   the place as I think you would enjoy it best. Anyway we can change round to suit each other
+   when the time comes … I want you to have the beautiful sunshine and freedom of life that
+   one enjoys in Australia…. If you sail before you get another letter … bring your china and
+   linen … hoping we can soon meet.
+A letter from the defendant of April 24th refers to a codicil:
+   to the effect … you both were to be allowed to live on in this home until you either died
+   too –​or were married … and also if I were to die before you came out you were to receive a
+   sum of money to help to carry you on….
+      I am doing my darndest to think things out for your protection just in case … I went to the
+   Immigration Office … and secured two forms of nomination … although we sound alright
+   on paper you might not like me … when you have to live with me. Still I think you will …
+   Margaret … if I can make life … brighter and easier for you and Gracie I would be so happy
+   in doing it.
+
+The plaintiffs left Scotland in June, 1947. They gave up the tenancy of their house, sold furniture and
+belongings. Grace gave up her employment a fortnight before sailing. Passages were obtained on
+RMS Stratheden costing about £79 each (tourist class). They arrived in Adelaide about the end of
+July, and have lived under the same roof as the defendant ever since. A copy of clauses 7 and 8 of the
+defendant’s will was handed to them by her, or on her behalf, after their arrival. The clauses contain
+certain additions that were not foreshadowed in the [77] correspondence, but it can be said that in
+substance the provisions secure the home, rent free, to the plaintiffs (with two others) during life if
+they do not marry, and desire to continue in residence at 254 Greenhill Road.
+   Unhappily, cordial relationship has not been sustained. As a result the questions involved in the
+present proceedings have come up for determination by a court of law. The request at present made
+by counsel for both sides is for a decision whether, as between the parties, there is a contract of a
+kind that is enforceable, or which, on breach, will sound in damages. If there be such a contract,
+it may be necessary to ascertain the precise terms (express or implied), also whether a breach was
+threatened, or has occurred on either side, and what consequences follow. The alternative findings
+are said to be: (1) The arrangement was purely social. The parties had no actual intention to create
+legal obligations, and no such intention will be attributed to them. (2) A contract legally enforceable
+between the parties was entered into. (3) There is no contract other than a licence to reside in the
+defendant’s home, which may be revocable, or irrevocable.
+   Mr Cleland, for the defendant, claimed that the understanding to which acceptance of the
+proposal in the letter of April 6th gave rise was in the nature of a family or domestic expedient for
+mutual convenience, or alternatively a social project based on courtesy. He contended the plaintiffs
+must show that there was a deliberate promise by the defendant seriously made and supported
+by consideration. As between relatives or persons on intimate terms of good will, the prima-​facie
+presumption will always be, he claimed (where visits and friendly intercourse are involved) that the
+basis is not legal obligation but affection and trust. Dr Bray submitted that there was a complete
+mutuality of wills which gave rise to a contract cognizable and enforceable at law.
+    I do not suppose that it came into the conscious thoughts of any of the parties (ie either plaintiffs or
+the defendant) that legal sanctions would be called in aid of the plan that was proposed and followed.
+But even so, that does not solve the problem. There is no explicit reference to, nor indeed any
+latent indication concerning, methods of enforcement, in the correspondence. Where mutual trust is
+present, it is unlikely that such an aspect will enter the mind of any party to negotiations. Still less is it
+likely to be expressed in speech or writing. Nevertheless there is an allusion in the letter of April 24th,
+to which reference has been made. There was of course a consensus, and that was responsible for the
+
+146   [5.50]
+
+===== PDF 185 | expected printed p 147 | footer: [5.50]   147
+                                                                                     Intention    Chapter 5
+
+
+Todd v Nicol cont.
+
+voyage by the plaintiffs to Australia. The purpose of the voyage was for them to take up residence with
+the defendant at her home. Certainly the plaintiffs were licensed to enter upon those premises and
+reside there. But that fact does not conclude the matter. Residence in the home of another may be
+on a licence determinable forthwith or by notice. Such a situation could be incidental to travel from
+Scotland here, or even to a purpose to remain here indefinitely.
+    Much argument was addressed to the elements that go to make up an enforceable bargain.
+A contract may be defined as an agreement between two or any number of persons that is intended
+to be enforceable at law. [78] It comes into being by virtue of an offer on one side which is accepted
+on the other. The offer and the acceptance may be explicit in precise terms, or implied from conduct,
+or language, which can be properly so construed. The contract may result from communications, by
+word of mouth, in writing, or by inference from conduct, or by a combination of all or any two of
+these media.
+   The subject matter usually involves the parties on either side doing, or abstaining from, conduct
+of some sort. A factor that is requisite is the presence of valuable consideration. Some right, interest,
+profit or benefit must be provided for, or some forbearance, detriment, loss or responsibility given,
+suffered or undertaken. Consideration must “move” from both sides. The adequacy of the benefit or
+burden, or the balance of equality, does not come up for investigation provided the law attributes
+some real value to it.
+   If an intention to enter into an enforceable undertaking does not appear by the express terms of
+the engagement, it must be capable of being properly read into the provisions. The language used,
+or the relative situation of the parties to the understanding, may be such as to indicate no such
+intention was present (Balfour v Balfour [1919] 2 KB 571). When the circumstances or conduct of the
+parties demonstrate that no such purpose was present it will not be imputed (Booker v Palmer [1942]
+2 All ER 674, at 676–​7; Cobb v Lane [1952] 1 All ER 1199). If the arrangement by its terms indicates
+that the plan is merely to take effect as an honourable pledge, or is not to be followed by any legal
+consequences, it will not have legal enforceability attributed (Jones v Vernon’s Pools Ltd [1938] 2 All
+ER 626; Appleson v H Littlewood Ltd [1939] 1 All ER 464.) The status in this respect may be explicitly
+set out in a document (Rose and Frank Co v JR Crompton & Bros Ltd [1925] AC 445). Where business
+arrangements are involved the presumption of enforceability will be readily presumed. Where,
+however, the situation is not of that kind, such an implication is necessarily more doubtful.
+   The intention must, of course; be shown to be that of all parties. Where the parties are ad idem
+consensu, a common purpose will be attributed to them. Neither side will be permitted to prove an
+intention that is not in conformity with what has passed between them. If the existence of mutuality
+be in issue, one party or the other may demonstrate by reference to the negotiations (whether
+committed to paper or oral), that the alleged acceptance was not unqualified, or unconditional,
+in relation to the terms of the offer, or that the respective intentions of the negotiators differed in
+material aspects.
+   Another element concerns the certainty that is required. A contract will not be formulated for
+parties if they have left important conditions hidden in obscure language, or there are details subject
+to further negotiation. If provisions are too vague, or too indefinite, for reasonable certainty to be
+discovered concerning what is intended, the engagements will not be enforced unless the uncertain
+features are severable from that [79] part constituting the substantive arrangement. As to this aspect
+arrangements between parties will not necessarily be expected to cover every possible contingency
+that may arise, particularly where the duration of performance will be lengthy and the circumstances
+in detail unpredictable. Solvitur ambulando may be the principle for meeting some of such future day
+to day problems.
+   It is conceded the plaintiffs had a licence to enter upon the defendant’s land and live in her home.
+The question whether that licence was irrevocable was referred to in argument. It was pointed out
+that such a licence will be revocable unless (i) there be a grant of an interest in the land, (ii) an
+agreement for such a licence that is specifically enforceable, or (iii) there is conduct raising an equity
+
+                                                                                                 [5.50]   147
+
+===== PDF 186 | expected printed p 148 | footer: 148   [5.50]
+Part II: Formation
+
+
+Todd v Nicol cont.
+
+in favour of the licensees. “Putting it briefly, they must show grant, contract, or estoppel” (Moffat v
+Sheppard (1909) 9 CLR 265 at 286).
+   As already noticed, in the communications quoted in part, there is no explicit reference to intention,
+that is to say, to an intention to create obligations that are legally enforceable. In the absence of any
+statement concerning that purpose it is necessary to inquire whether there is any material from which
+an inference may be drawn. By a process of reasoning it may be possible to ascertain if any such
+an intention can be attributed to the parties having regard to the features with which they have
+enveloped the project.
+   The essentials of the scheme are somewhat submerged in rather dithyrambic passages of
+explanation. Counsel have drawn attention to extracts that they have deemed important, and I have
+essayed a selection. The references show to some extent what the parties contemplated on either side,
+and accordingly the underlying animus may perhaps be extracted by a process a posteriori. There
+can be no definite rule or formula for deducing the purpose or intention entertained, that is to say,
+whether enforcement of a plan is to depend on trust or legal sanction. The process of elucidation will
+be empirical.
+   Certain elements incidental to the suggested scheme or plan may be noticed. The expense of
+travel from Scotland to Australia by two persons who do not seem to be over-​endowed with wealth,
+and the absence of any condition covering a return to Scotland, seem to negative the notion of a visit;
+a visit that was to provide opportunity for social intercourse. Although one letter from the defendant
+shows that the possible incompatibility of temperament or temper, the possibility of a “misfit”, had
+occurred to her, no provision for separating or leaving the home before death, except on marriage
+(the reference to which is concluded in terms suggesting the jocular), was formulated. No provision is
+put forward to enable the discharge of joint residence, or a termination of the arrangement.
+   The expectation that certain belongings of the plaintiffs would have to be sold ex necessitate rei,
+and the suggestion that the sale should not comprise certain household articles probably required
+to render the premises a home for all, are significant. Thereby is demonstrated an [80] intended
+combination of resources of an apparently permanent nature. The provision of a testamentary adjunct
+to give security to the plaintiffs in the administration of the defendant’s estate justifies the view that
+the defendant thought security for the plaintiffs during her lifetime was adequately provided by the
+plan laid down in the letter of April 6th. The provision by will might be construed, I suppose, as
+indicating that her goodwill was the safeguard, but I incline to the alternative that the arrangement
+inter vivos was expected to be binding in some way upon her during her lifetime.
+   It is undeniable that features in the letters are capable of being harmonised with an hypothesis that
+the plan was quite safe and secure for the plaintiffs because of the defendant’s honourable assurances
+accompanying or implicit in her invitation, backed up (as it were) by her affection for her deceased
+husband. But in my view that theory cannot measure up when compared with the weight that must
+be given to an interpretation that does not place the future of the plaintiffs so largely subject to what
+would be no more than the whim of the defendant in so material an aspect.
+   My conclusion is that the intention to be attributed to the parties was to enter into a contract that
+was legally binding. The element of consideration gives no difficulty provided the other ingredients
+necessary to form a binding contract are present. Mr Cleland did not suggest that the disposal of
+property, the expense of travel, the change of location, and the abandonment of employment and
+of the security of their Scottish residence in exchange for the Australian domicile, had no features
+capable of being so regarded. I have not yet directed attention to the terms and conditions of that
+contract express or implicit. Counsel purposely refrained from addressing any arguments on that
+aspect….
+   [After further hearing, Majo J considered whether the terms of the contract had been breached by
+the plaintiffs and, if so, the consequences of such a breach.]
+
+
+
+148   [5.50]
+
+===== PDF 187 | expected printed p 149 | footer: [5.50]   149
+                                                                                     Intention    Chapter 5
+
+
+Todd v Nicol cont.
+
+    [75] The defendant sets up an implied term in the contract that the plaintiffs should, whilst residing
+in the premises mentioned, “behave in a reasonable and decent manner”. …
+   [85] Provision is to be implied in a contract when the matter, to which the same relates, is not
+covered by express terms, nor annexed thereto by usage, statute or otherwise. But the implication
+will, even then, be treated as proper to be read into the text, only when it is clearly necessary [86]
+to introduce the term in order to make the contract operative according to the intention of the
+parties as indicated by the express terms: per Latham CJ in Scanlan’s New Neon Ltd v Tooheys Ltd
+(1943) 67 CLR 169, at 194 et seq. The term must be directly related to the project entertained
+by the parties. If they did not direct their minds to the necessity for some condition to enable
+the purpose to be carried out, an interpretation of the transaction may be worked out where it is
+shown to be required, from its character, from the elements which are contained within it. The
+nature and circumstances of the transaction will supply the grounds from which the intention is
+to be deduced: eg per Dixon J (as he then was) in Bonython v The Commonwealth (1948) 75 CLR
+589, at 626.
+   The most famous and oft repeated passage on this topic emanated from Bowen LJ in The Moorcock
+(1889) 14 PD 64, at 68. Another case that has been highlighted is Hamlyn & Co v Wood & Co [1891]
+2 QB 488. But it has been commented that the “general remarks” of Bowen LJ do not accurately state
+the principle as it is now understood (McKinnon LJ in Shirlaw v Southern Foundries (1926) Ltd (1939)
+2 KB 206, at 227). An implication may be manifestly necessary as an adjunct, so that, if such a term
+had been suggested to the parties at the time they were negotiating, they would have immediately
+agreed such a term was indispensable. Ordinarily it appears to be accepted that the provision to be
+implied must be necessary in the “business sense” to give efficacy to the contract: eg per Scrutton LJ
+in Reigate v Union Manufacturing Co [1918] 1 KB 592, at 605. The bestowal of such efficacy to a
+contract to join in a home suggests the importation of some sort of “business” activity into a domestic
+scene. But I suppose “business” in that sense does not limit the principle to contracts of a commercial
+or trading kind.
+   A home is a place where the residents ordinarily eat morning and night, and where they usually
+sleep. With adults it may have the characteristic of permanency. A home is, or used to be regarded as
+a place of refuge and rest. With modern conveniences, and under the present conditions of life, these
+aspects may perhaps be regarded as undergoing change. References to “sharing a home” can be
+taken to import an intention by the parties to live together under conditions of mutual indulgence and
+forbearance, of propriety, decorum and friendliness, and, if necessary, of resignation and toleration as
+might be reasonably expected in a home.
+   Will not a contract to share a home necessarily have implied in it conditions concerning behaviour?
+I have no difficulty in giving an affirmative answer to that question as a generalization. Acceptance of
+the licence to enter and remain upon premises for use of the same as a home results in the privilege
+taking effect as a licence. A limited privilege under licence must, I think carry with it an implicit
+engagement not to act in any manner that exceeds the scope of the permission….
+   [88] That plaintiff [Mrs Todd] has not behaved in a reasonable and decent manner in the home. Her
+conduct is, in my opinion, responsible for the cessation of reasonable home conditions. The contract
+to which all litigants were parties, the licence under which all three persons lived together at the
+Hazelwood Park address, came into being in an expectation that all would contribute to satisfactory
+home conditions. The plaintiffs’ licence was to enable them to join in, establish and continue a home
+for all three persons. Mrs Todd has been responsible for breaches of conditions implied in the contract
+by virtue of the nature of the licence….
+   [89] If I am correct in my conclusion, did the breach by the elder plaintiff give the defendant the
+right to terminate contractual relations and withdraw the licence? I accept the proposition that the
+plaintiffs on their side, and the defendant on her side, were under duty to conduct themselves, or
+herself, in a sufficiently reasonable manner that the ordinary features of a home should be available
+
+
+                                                                                                 [5.50]   149
+
+===== PDF 188 | expected printed p 150 | footer: 150   [5.60]
+Part II: Formation
+
+
+Todd v Nicol cont.
+
+to them all. Only under such conditions would life for elderly people under the same roof be possible.
+In the presence of persistent disruptive influences the locality ceases to be a home, it ceases to have
+the qualities of a home. As it is no longer a home the licence is ended. Such being the position the
+defendant was entitled to act, and bring the agreement to an end. Notice by the defendant’s solicitors
+was effective. The arrangements no longer avail the plaintiffs.
+   There will be judgment for the defendant on the claim and on the counterclaim. Order that the
+plaintiffs do vacate the premises. The plaintiffs will pay the defendant’s costs.
+   Judgment for defendant on claim and counterclaim.
+
+                                                  
+
+
+GOVERNMENT AGREEMENTS
+[5.60] Governments and governmental bodies routinely enter into contracts with suppliers
+of goods and services in the usual fashion. An intention to create legal relations is likely
+to be manifested when a government enters into a commercial transaction expressed in
+contractual language (see Placer Development v Commonwealth (1969) 121 CLR 353, 367–​
+8 (per Windeyer J extracted at [6.200])). Where the administrative or political activities of
+government are concerned, however, the courts are likely to find that an intention to create
+legal relations does not exist (in addition to the following case, see Australian Woollen Mills
+Pty Ltd v Commonwealth, extracted at [4.20]).
+
+
+               Administration of Papua and New Guinea v Leahy
+[5.65] Administration of Papua and New Guinea v Leahy (1961) 105 CLR 6 (High Court of Australia) –​
+Appeal from the Supreme Court of the Territory of Papua and New Guinea.
+    [FACTS: For several years, the plaintiff had experienced difficulty controlling an infestation of cattle
+ticks on his property. He was provided with equipment and advice by the Commonwealth Department
+of Agriculture as part of its tick eradication program. He requested further assistance. In a meeting
+with representatives of the Department, an arrangement was made that officers of the Department
+would take over the spraying of the plaintiff’s property. The plaintiff was to supply and pay for the
+other labour required, and to muster the cattle. The department’s officers failed to carry out the
+spraying skilfully and efficiently, and the plaintiff’s cattle became even more seriously infected with
+ticks. The plaintiff sued the Administration for damages for breach of contract. The plaintiff succeeded
+at first instance.]
+   DIXON CJ: [10] In my opinion this appeal must be allowed on the simple ground that the facts
+in no way support the conclusion that the defendant, the Administration of the Territory, entered
+into any such contractual relation with the plaintiff as his pleading alleges or as has been found
+in his favour. I am clearly of opinion that the Administration of the Territory, by its officers, did
+not contract with the plaintiff; there was no intention on their part to enter into any contract, to
+undertake contractual obligations or to do or undertake more than was considered naturally and
+properly incident to carrying out their governmental or departmental function in the conditions
+prevailing. They were merely pursuing the policy adopted for the eradication of tick. I do not wish to
+add anything to the reasons for this view of the case given by Kitto J whose judgment I have had the
+advantage of reading …
+[5.70] McTIERNAN J: I think that this appeal should be allowed … [11] The arrangement consisted
+of agreed promises but that is not enough to make a contract, unless it was the common intention
+
+150   [5.60]
+
+===== PDF 189 | expected printed p 151 | footer: [5.70]   151
+                                                                                    Intention    Chapter 5
+
+
+Administration of Papua and New Guinea v Leahy cont.
+
+of the parties to enter into legal obligations, mutually communicated, expressly or impliedly. It was
+not an express or implied term of the arrangement that the respondent should make any payment
+for the treatment of the cattle. I cannot agree that the Administration through its officers intended
+to enter into legal relations when, at the request of the respondent, it undertook the organization of
+the tick eradication campaign with respect to his cattle. The conduct of the parties constituted an
+administrative arrangement by which the Administration in pursuance of its agricultural policy, gave
+assistance to an owner of stock to prevent that stock contracting a disease which was prevalent in the
+Territory. The work done by the Administration was analagous [sic] to a social service which generally
+does not have as its basis a legal relationship of a contractual nature and from which no right of action
+would arise in favour of the citizen who is receiving the services if the Government acts inefficiently
+in performing them …
+    KITTO J: [13] In the statement of claim one cause of action only against the Administration was
+alleged, and that was in contract. After setting out that the respondent was the lessee and the
+appellant, the Administration, was the lessor of a property at Zenag in the Territory, on which for
+a number of years the respondent had been grazing and rearing dairy and beef cattle and carrying
+on the business of a producer and vendor of dairy products, beef cattle and meat, the statement
+of claim alleged a contract between the Administration and the respondent by which the former
+agreed that it would carry on at Zenag a campaign for the eradication of cattle tick from the
+respondent’s cattle, and that the campaign would be carried out thoroughly and skilfully. The
+consideration alleged was that the respondent would allow the Administration’s servants to enter
+upon his property and spray the cattle thereon, would make available to the Administration the
+services of six native labourers, and would forbear from interfering with the work of the servants
+in carrying out the campaign. The breach assigned was that the Administration, although its
+servants sprayed the respondent’s cattle between June 1954 and July 1955, failed to carry out the
+spraying thoroughly and skilfully. Particulars of resulting damage were given, comprising loss of
+cattle by death, loss of natural increase, loss of milk production, and deterioration of condition
+of the herd …
+   On the appeal the controversy has been as to whether the proved and admitted facts, when
+considered in their setting of time and circumstance, establish a contract, or only an arrangement
+having no legally binding force. The question is whether the parties to [14] the correspondence
+which passed and the conversations which took place evinced an intention to make a bargain
+mutually binding between the Administration and the respondent in the sphere of legal rights and
+obligations …
+   [18] In the judgment of the learned Chief Justice there occurs the following passage:
+   Considering the position of the plaintiff it is clear that he was assuming some liabilities and
+responsibilities and agreed to depart from his own proposals to the extent of co-​operating with the
+Administration to carry out its campaign. I [19] think that it is clear that the plaintiff expected the
+Department to honour its promises and to see that the campaign was carried out properly. He was
+prepared to leave the entire conduct of the campaign to the Department and in fact he was insisting
+that they should take complete charge of it. I think that the proper conclusion is that Mr Leahy was
+entering into a transaction which as between individuals would amount to a contract and which
+was intended to impose obligations of a legal character on both parties. There remains of course the
+question whether in relation to this transaction the Administration should be considered as being
+upon a different footing from that of an ordinary individual.
+    It must be remembered, however, that there are not two questions, whether the interviews were
+such as would have produced a contract if they had taken place between private individuals, and
+if so whether it makes a difference that they took place between a private individual on the one
+hand and government officers acting in their official capacities on the other hand. There is only one
+inquiry: whether, taking into account all the circumstances, it is right to conclude that the respondent
+and the Administration were dealing with one another on a contractual basis, or were merely arranging
+
+                                                                                                [5.70]   151
+
+===== PDF 190 | expected printed p 152 | footer: 152   [5.80]
+Part II: Formation
+
+
+Administration of Papua and New Guinea v Leahy cont.
+
+the manner and extent of gratuitous assistance to the respondent which the Department was willing
+to render in execution of the Administration’s policy concerning the eradication of cattle tick in the
+Territory …
+    [20] From first to last the Department showed itself to be doing no more than giving effect
+to a general policy of dispensing aid to individual cattle owners as a means of coping with a
+recognized menace to an important part of the Territory’s economy. And the respondent’s [21]
+attitude throughout was that of a private person appealing for government assistance on the
+ground that the Department, by doing for him what it insisted ought to be done on his property,
+would be performing a function of government in accordance with its settled policy. The whole
+atmosphere of the correspondence and discussions that took place was different from that which
+exists between contracting parties. True it is that the Department relied upon the continuing co-​
+operation of the respondent in performing his part of what was arranged between them. The
+officers concerned were no doubt quite fully aware that if the respondent should make substantial
+failure at any time in affording the co-​operation he was promising, all that had been put into the
+campaign up to that time would go for nought. But they knew too that he had every incentive to
+make the campaign a success. The loss, if it should be abandoned, would be far more serious for
+him than for the Administration, and he had already shown that he felt he was in a cleft stick: he
+could not afford to carry out a thorough spraying campaign himself, but unless it were carried out
+he could not get permission to move his cattle from his eaten-​out pastures to new country. In the
+circumstances, the fact that in the absence of a contract he might draw out at any time has no real
+weight in considering whether a contract was entered into.
+   For the reasons given, the case falls into the class of which illustrations may be found in Australian
+Woollen Mills Pty Ltd v The Commonwealth (1954) 92 CLR 424; (1955) 93 CLR 546, and Milne v
+Attorney-​General for the State of Tasmania (1956) 95 CLR 460, at 472, 473. The arrangements made
+on 7th June 1954 were not contractual and the judgment giving damages for the failure of the
+Administration, through the two defaulting officers, to give effect to them on its part cannot be
+sustained.
+   Appeal allowed.
+
+                                                 
+
+
+PRELIMINARY AGREEMENTS
+
+
+                                     Masters v Cameron
+[5.80] Masters v Cameron (1954) 91 CLR 353 (High Court of Australia) –​Appeal from the Supreme
+Court of Western Australia.
+   [FACTS: Cameron (the respondent) and Mr and Mrs Masters (the appellants) signed a document
+whereby Cameron agreed to sell and the Masters agreed to buy for £17,500 a certain property owned
+by Cameron. A deposit of £1,750 was paid by the purchasers to a farm agent. The document contained
+the following clause: “This agreement is made subject to the preparation of a formal contract of sale
+which shall be acceptable to my [Cameron’s] solicitors on the above terms and conditions”. The
+purchasers encountered financial difficulties, denied that they were legally bound to purchase the
+property, and sought to recover the deposit.]
+   THE COURT (DIXON CJ, McTIERNAN and KITTO JJ): [360] The first question in the appeal is
+whether, as Wolff J considered, this document on its true construction constitutes a binding contract
+between the respondent and the appellants, or only a record of terms upon which the signatories
+
+
+152   [5.80]
+
+===== PDF 191 | expected printed p 153 | footer: [5.95]   153
+                                                                                   Intention    Chapter 5
+
+
+Masters v Cameron cont.
+
+were agreed as a basis for the negotiation of a contract. Plainly enough they were agreed that there
+should be a sale and purchase, and the parties, the property, the price, and the date for possession
+were all clearly settled between them. All the essentials of a contract are there; but whether there is
+a contract depends entirely upon the meaning and effect of the final sentence in that portion of the
+document which the [male] appellant signed.
+    Where parties who have been in negotiation reach agreement upon terms of a contractual nature
+and also agree that the matter of their negotiation shall be dealt with by a formal contract, the
+case may belong to any of three classes. It may be one in which the parties have reached finality in
+arranging all the terms of their bargain and intended to be immediately bound to the performance
+of those terms, but at the same time propose to have the terms restated in a form which will be fuller
+or more precise but not different in effect. Or, secondly, it may be a case in which the parties have
+completely agreed upon all the terms of their bargain and intend no departure from or addition to
+that which their agreed terms express or imply, but nevertheless have made performance of one or
+more of the terms conditional upon the execution of a formal document. Or, thirdly, the case may be
+one in which the intention of the parties is not to make a concluded bargain at all, unless and until
+they execute a formal contract.
+[5.85] In each of the first two cases there is a binding contract: in the first case a contract binding
+the parties at once to perform the agreed terms whether the contemplated formal document comes
+into existence or not, and to join (if they have so agreed) in settling and executing the formal
+document; and in the second case a contract binding the parties to join in bringing the formal
+contract into existence and then to carry it into execution. Of these two cases the first is the more
+common. Throughout the decisions on this branch of the law the proposition is insisted upon which
+Lord [361] Blackburn expressed in Rossiter v Miller (1878) 3 App Cas 1124, where he said that the
+mere fact that the parties have expressly stipulated that there shall afterwards be a formal agreement
+prepared, embodying the terms, which shall be signed by the parties does not, by itself, show that
+they continue merely in negotiation. His Lordship proceeded: “as soon as the fact is established of
+the final mutual assent of the parties so that those who draw up the formal agreement have not the
+power to vary the terms already settled, I think the contract is completed”: (1878) 3 App Cas 1124
+at 1151.
+[5.90] A case of the second class came before this court in Niesmann v Collingridge (1921) 29 CLR
+177, where all the essential terms of a contract had been agreed upon, and the only reference to the
+execution of a further document was in the term as to price, which stipulated that payment should
+be made “on the signing of the contract”. Rich and Starke JJ observed that this did not make the
+signing of a contract a condition of agreement, but made it a condition of the obligation to pay, and
+carried a necessary implication that each party would sign a contract in accordance with the terms
+of agreement. Their Honours, agreeing with Knox CJ, held that there was no difficulty in decreeing
+specific performance of the agreement, “and so compelling the performance of a stipulation of the
+agreement necessary to its carrying out and due completion”: (1921) 29 CLR 177 at 185.
+[5.95] Cases of the third class are fundamentally different. They are cases in which the terms of
+agreement are not intended to have, and therefore do not have, any binding effect of their own. The
+parties may have so provided either because they have dealt only with major matters and contemplate
+that others will or may be regulated by provisions to be introduced into the formal document, as in
+Summergreene v Parker (1950) 80 CLR 304 or simply because they wish to reserve to themselves a right
+to withdraw at any time until the formal document is signed. These possibilities were both referred to
+in Rossiter v Miller (1878) 3 App Cas 1124. Lord O’Hagan said (1878) 3 App Cas 1124 at 1149:
+   Undoubtedly, if any prospective contract, involving the possibility of new terms, or the
+   modification of those already discussed, remains to be adopted, matters must be taken to
+   be still in a train of negotiation, and a dissatisfied party may refuse to proceed. But when an
+   agreement [362] embracing all the particulars essential for finality and completeness, even
+   though it may be desired to reduce it to shape by a solicitor, is such that those particulars
+
+
+                                                                                               [5.95]   153
+
+===== PDF 192 | expected printed p 154 | footer: 154   [5.100]
+Part II: Formation
+
+
+Masters v Cameron cont.
+
+   must remain unchanged, it is not, in my mind, less coercive because of the technical formality
+   which remains to be made.
+And Lord Blackburn said (1878) 3 App Cas 1124 at 1152:
+   Parties often do enter into a negotiation meaning that, when they have (or think they have)
+   come to one mind, the result shall be put into formal shape, and then (if on seeing the result
+   in that shape they find they are agreed) signed and made binding; but that each party is to
+   reserve to himself the right to retire from the contract, if, on looking at the formal contract, he
+   finds that though it may represent what he said, it does not represent what he meant to say.
+   Whenever, on the true construction of the evidence, this appears to be the intention, I think
+   that the parties ought not to be held bound till they have executed the formal agreement.
+So, as Parker J said in Von Hatzfeldt-​Wildenburg v Alexander [1912] 1 Ch 284 at 289, in such a case
+there is no enforceable contract, either because the condition is unfulfilled or because the law does
+not recognise a contract to enter into a contract.
+   The question depends upon the intention disclosed by the language the parties have employed,
+and no special form of words is essential to be used in order that there shall be no contract binding
+upon the parties before the execution of their agreement in its ultimate shape. Nor is any formula,
+such as “subject to contract”, so intractable as always and necessarily to produce that result. But the
+natural sense of such words was shown by the language of Lord Westbury when he said in Chinnock v
+Marchioness of Ely (1865) 46 ER 1066 at 1069: “if to a proposal or offer an assent be given subject to
+a provision as to a contract, then the stipulation as to the contract is a term of the assent, and there is
+no agreement independent of that stipulation”. …
+   This being the natural meaning of “subject to contract”, “subject to the preparation of a formal
+contract”, and expressions [363] of similar import, it has been recognised throughout the cases on
+the topic that such words prima facie create an overriding condition, so that what has been agreed
+upon must be regarded as the intended basis for a future contract and not as constituting a contract.
+Indeed, Lord Greene MR remarked during the argument in Eccles v Bryant and Pollock [1948] Ch 93 at
+94, that when the expression “subject to contract” was used he had never known a case in which it
+had been suggested, much less held, that this did not import that there was nothing binding till the
+exchange of parts of the formal contract was made. The effect of the early cases on the subject was
+stated by Sir George Jessel MR in Winn v Bull (1877) 7 Ch D 29, when he said in a passage which has
+become well-​known (1877) 7 Ch D 29 at 32:
+   It comes, therefore, to this, that where you have a proposal or agreement made in writing
+   expressed to be subject to a formal contract being prepared, it means what it says; it is
+   subject to and is dependent upon a formal contract being prepared. When it is not expressly
+   stated to be subject to a formal contract it becomes a question of construction, whether the
+   parties intended that the terms agreed on should be put into form, or whether they should
+   be subject to a new agreement the terms of which are not expressed in detail …
+
+[5.100] [364] In the present case the context provides no reason for holding that the case is outside
+the application of these authorities. The formal contract, it is true, is to be “on the above terms
+and conditions”, but it is to be acceptable to the vendor’s solicitors, and the meaning is sufficiently
+evident that the contract shall contain, not only the stated terms and conditions expressed in a form
+satisfactory to the solicitors, but also whatever else the solicitors may fairly consider appropriate to the
+case. Accordingly the first of the four questions which went to trial should have been answered by
+saying that no binding contract for the sale and purchase of the property mentioned in the document
+dated 6 December 1951, was made between [Cameron] and [Masters] …
+   Appeal allowed.
+
+                                                  
+
+154   [5.100]
+
+===== PDF 193 | expected printed p 155 | footer: [5.105]   155
+                                                                                     Intention   Chapter 5
+
+
+
+
+[5.105]                                           Note
+In Baulkham Hills Private Hospital Pty Ltd v GR Securities Pty Ltd (1986) 40 NSWLR 622,
+628, McLelland J suggested that:
+     There is in reality a fourth class of case additional to the three mentioned in Masters v Cameron,
+     as recognised by Knox CJ, Rich J and Dixon J, in Sinclair, Scott & Co v Naughton (1929) 43
+     CLR 310 at 317, namely, “… one in which the parties were content to be bound immediately and
+     exclusively by the terms which they had agreed upon whilst expecting to make a further contract
+     in substitution for the first contract, containing, by consent, additional terms”.
+
+The existence of a “fourth category” has been accepted in many subsequent cases. In
+Anaconda Nickel Ltd v Tarmoola Australia Pty Ltd [2000] WASCA 27; (2000) 22 WAR 101,
+for example, the Full Court of the Supreme Court of Western Australia (by majority) held
+that a heads of agreement relating to a mineral exploration venture fell within this category
+and was therefore binding. As to whether there is a need for the fourth category, see Peden,
+Carter and Tolhurst, “When Three Just Isn’t Enough: The Fourth Category of the ‘Subject to
+Contract’ Cases” (2004) 20 Journal of Contract Law 156 and McLauchlan, “In Defence of
+the Fourth Category of Preliminary Agreements: Or Are There Only Two?” (2005) 21 Journal
+of Contract Law 286. In Tasman Capital Pty Ltd v Sinclair [2008] NSWCA 248; (2008) 75
+NSWLR 1, [26] Giles JA (with whom McColl JA and Young CJ agreed) referred to this debate
+and observed that:
+     The Masters v Cameron (1954) 91 CLR 353 categories, and a possible fourth category, are
+     intellectual aids, but whether parties have come to a binding agreement is a matter of their
+     objectively ascertained intention. Categorisation does not greatly contribute to the decision in
+     the particular case, which is concerned with finding what agreement, if any, the parties came to.
+  
+
+
+
+
+                                                                                             [5.105]   155
+
+===== PDF 194 | expected printed p 156 | footer: 
+
+===== PDF 195 | expected printed p 157 | footer: [6.05]    157
+CHAPTER 6
+
+
+Certainty
+[6.10]       COMPLETENESS.......................................................................................................... 158
+[6.15]       CERTAINTY.................................................................................................................. 158
+                           [6.20]        Council of the Upper Hunter County District v Australian Chilling
+                                         and Freezing.................................................................................... 158
+             [6.25]   Implying objective standards....................................................................... 159
+                               Biotechnology Australia v Pace............................................................. 159
+                           [6.25]
+                               Whitlock v Brew................................................................................ 168
+                           [6.55]
+                               Hall v Busst..................................................................................... 170
+                           [6.65]
+             [6.80]   Agreements to negotiate............................................................................. 172
+                      [6.80]   United Group Rail Services Ltd v Rail Corporation NSW............................. 172
+[6.145]      ILLUSORY PROMISES................................................................................................... 179
+                      [6.145]  Meehan v Jones................................................................................ 179
+                      [6.175]  Godecke v Kirwan............................................................................. 186
+                      [6.185]  Placer Development v Commonwealth................................................... 188
+
+
+[6.05] The fourth requirement of contract formation is that the agreement must be sufficiently
+certain and sufficiently complete that the parties’ rights and obligations can be identified and
+enforced. The topic of certainty encompasses three related problems, which often overlap:
+1.      The agreement may be incomplete because the parties have failed to reach agreement on
+        all of the essential elements or have decided that an essential matter should be determined
+        by future agreement.
+2.      The agreement may be uncertain because the terms are too vague or ambiguous for a
+        meaning to be attributed by a court.
+3.      A particular promise may be illusory because the contract effectively gives the promisor
+        an unfettered discretion as to whether to perform the promise.
+The categories of uncertainty, incompleteness and illusory promises are not always clearly
+distinguished in the cases. A particular set of facts may be capable of being analysed in terms
+of more than one category. As the cases on this topic also illustrate, it is difficult to define in the
+abstract what is required for a contract to be sufficiently certain and complete. The issue will
+necessarily depend on the circumstances of the particular case in question. As Lord Tomlin
+said in Hillas & Co Ltd v Arcos Ltd (1932) 38 Com Cas 23, 29:
+     The principles are not in dispute. It is in the application of them to the facts of a particular case
+     that the difficulty arises; and the difficulty is of such a kind as often affords room for much
+     legitimate difference of opinion and to present a problem the solution of which is not as a rule
+     to be found by examining authorities.
+
+The cases reflect the tension between, on the one hand, the desire to hold parties to their
+bargains in accordance with the principle of pacta sunt servanda (agreements must be kept)
+and, on the other hand, the courts’ reluctance to make a bargain for the parties. The difference
+in judicial opinion as to the role of the court in giving effect to a contract is illustrated by the
+judgments in Biotechnology Australia Pty Ltd v Pace (1988) 15 NSWLR 130, extracted at
+[6.25] and Hall v Busst (1960) 104 CLR 206, extracted at [6.65].
+
+                                                                                                                             [6.05]    157
+
+===== PDF 196 | expected printed p 158 | footer: 158   [6.10]
+Part II: Formation
+
+
+
+COMPLETENESS
+[6.10] In Milne v Attorney-​General (Tas) (1956) 95 CLR 460, 473 the High Court (Dixon CJ,
+McTiernan, Williams, Fullagar and Taylor JJ) after referring to certain documents which the
+plaintiff alleged contained the terms of a contract said:
+   Furthermore, apart from the fact that the general purport of the communications in question
+   evinces anything but an intention to affect legal relations, those documents deal with only some
+   of the terms which must of necessity be settled before a binding contract can exist. This is not
+   really a case at all where parties are negotiating with a view to contract, but, even if it be treated
+   as such a case, no contract is concluded until the parties negotiating are agreed on all the terms
+   of their bargain —​unless indeed the terms left outstanding are “such as the law will supply” ….
+   Here the transaction ultimately contemplated was of a very complex character, and it is clear
+   that the law cannot supply its terms.
+
+
+CERTAINTY
+[6.15] A contract must be expressed in sufficiently clear and precise terms for it to be given
+meaning by a court. Uncertainty may exist because deficiencies in expression, semantic or
+conceptual difficulties prevent the court from understanding what the parties are trying to
+say. It may exist because, although what the parties have said seems to be clear enough, the
+application of the language to persons or things is not intelligible, either because no facts exist
+which fit the contractual description or because more than one set of facts exists, all of which fit
+the description (see Raffles v Wichelhaus (1864) 2 H & C 906; 159 ER 375). The courts have
+indicated that too high a degree of precision should not be demanded from contracting parties.
+
+
+                 Council of the Upper Hunter County District v
+                       Australian Chilling and Freezing
+[6.20] Council of the Upper Hunter County District v Australian Chilling and Freezing Co Ltd (1968) 118
+CLR 429 (High Court of Australia) –​Appeal from the Supreme Court of New South Wales.
+    [FACTS: The council, which purchased electricity in bulk from a generating authority, agreed to
+supply the company with electricity at certain rates. The agreement provided for automatic changes
+in the rates according to changes in the basic wage and the cost of coal delivered to the generating
+authority. These changes affected the price at which the council purchased electricity. Clause 5 of the
+agreement provided:
+   It is agreed that during the term of this agreement if the supplier’s [the council’s] costs shall vary
+   in other respects than has been hereinbefore provided the supplier shall have the right to vary the
+   maximum demand charge and the energy charge by notice in writing to the purchaser.
+The agreement also provided for arbitration in the event of a dispute between the parties. The council
+sought to increase the charge pursuant to cl 5. The company claimed that clause uncertain and
+that, accordingly, the council had no entitlement to increase the charge. The Court of Appeal of the
+Supreme Court of New South Wales held that cl 5 of the agreement was void for uncertainty. The
+High Court allowed an appeal.]
+   BARWICK CJ: [436] Clause 5 speaks of the supplier’s costs varying “in other respects” … It is
+sufficient for present purposes that at least the council’s costs of supplying electricity to the company
+other than variations in the price it pays to one of the named suppliers for the bulk supply to it are
+included in the operation of cl 5.
+   It is surely indisputable that the council would incur other costs than the price of the bulk electricity
+in order to supply the company as agreed, for example, as a minimal item, the cost of bringing the
+
+158   [6.10]
+

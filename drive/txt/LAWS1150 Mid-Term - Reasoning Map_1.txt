@@ -1,0 +1,801 @@
+Reasoning map: Rocky, LAWS1150 T3 2026 mid-term (final submission PANEL/f9/ANSWER_F10.md)
+Conventions. F1 to F40 are the problem’s sentences, verbatim and in order, from question.txt (the cover lines, course title, word limit and due date, are administrative and not facts). P1 to P16
+are the submission’s body paragraphs in order (headings excluded); P7.3 means paragraph 7, sentence 3. Submission text is verbatim except that footnote markers are shown as [fn N] and
+italics asterisks are dropped. Source words are given in double quotation marks exactly as printed in the course text, with the casebook’s printed page; CB1A, CB1B, CB2A, CB2B, CB3A, CB3B
+and CB4A are the casebook transcriptions for classes 1A to 4A; OFF means the saved official judgment text in 96 Official judgments; TRI means the Trident course reading. Every source
+quotation below was string-checked against those files. Strength scale: strong, moderate, weak.
+
+This map is updated to the final text (ANSWER_F10.md; changes from the f9 version are in F9_to_F10.diff). Gates on this text (verify.py check, rerun on the final text): 39 quotations, 0 FAIL;
+every CHECK line is a quotation of the problem’s own words, the known Brambles 176 parser artefact, or the new Pao On words (‘was to be remunerated’, fn 34), which the course extract
+prints without page markers (pin 629 to 630 is the brief-verified pin) (the ‘p67’ comes from a citation inside Heydon JA’s paragraph; the casebook marker is [176]). Body 1,496 words; the stated
+‘Word count: 1,499’ is the body plus the count line’s own three words. Lint: fn 28 (Trident) has no pinpoint; neither the course reading nor the official text prints page markers inside Deane J’s
+reasons, so none can be given.
+
+1. FACT COVERAGE TABLE
+
+No.                                              Fact (verbatim)                                           Where used (paragraph and exact words)                   How used, or why omitted
+F1                                               Mr Grace and Mr Rocky are both project developers         P3.2: ‘their commercial status as ’project developers’   Supports intention on the email (Ermogenous [25],
+                                                 who pursued various projects together since 2017 to       supports it’                                             ‘the status of the parties’). ‘stellar success’ and the
+                                                 stellar success.                                                                                                   history since 2017 omitted: cumulative with ‘project
+                                                                                                                                                                    developers’ and adds nothing to any element.
+F2                                               In January 2020, Grace and Rocky agreed to develop a      Not quoted                                               Background only; the Hail Mary Project is named
+                                                 project which they named the ‘Hail Mary Project’.                                                                  through F3 in P6.2.
+F3                                               Grace and Rocky entered into a legally binding           P6.2: ‘Their only binding contract, the Development       Closes off a claim by Rocky against Grace under the
+                                                 agreement that determined the scope of their             Agreement, operates only ’if the Project made a           one agreement the facts declare binding: its only
+                                                 development relationship and included a valid and        profit’’                                                  stated obligation is conditional on profit and no
+                                                 binding clause that if the Project made a profit, Rocky,                                                           breach is shown.
+                                                 as the investor for the Project, would be repaid his
+                                                 investment and a portion of the profit in priority to
+                                                 Grace (the ‘Development Agreement’).
+F4                                               Over the course of the Hail Mary Project, there were a Not quoted; P6.2 ‘no breach of it is shown’                 Delays were ‘unavoidable’ and imposed by public
+                                                 number of unavoidable delays due to COVID-19                                                                       health orders, so they ground no breach either way;
+                                                 related public health orders that affected the ability                                                             omitted as no element turns on them.
+                                                 for construction to proceed.
+F5                                               In January 2024, the Hail Mary Project was near      Not quoted; P6.2 ‘no breach of it is shown’                   Explains Grace’s motive. Minimal profit means the
+                                                 completion, and Rocky and Grace realised that the                                                                  priority clause may still operate in Rocky’s favour, but
+                                                 profit from the Project would be minimal and, due to                                                               no step toward a claim is stated, so it is not
+                                                 the terms of their Development Agreement, Grace was                                                                developed.
+                                                 unlikely to make a profit.
+F6                                               At this time, Grace was experiencing significant          Not used                                                 Considered and excluded (section 3, item 6): it could
+                                                 financial difficulties and had been relying on expected                                                            support reading ‘satisfactory conditions’ as a real
+                                                 profits from the Hail Mary Project.                                                                                lender’s reservation.
+F7                                               He was quite angry at Rocky, who he blamed for the        Not used                                                 Motive and blame; Grace’s demand is not an offer and
+                                                 delays to the Project, and demanded Rocky’s                                                                        the blame for delays founds no contractual claim (F4:
+                                                 assistance.                                                                                                        ‘unavoidable’).
+F8                                               On 5 February 2024, Grace called Rocky and                P1.2: ‘By asking Rocky on 5 February to offer a two-     Grace proposed that Rocky make the offer; so no offer
+                                                 proposed that Rocky offer Grace a ‘$1 million dollar      year loan, Grace invited an offer rather than making     by Grace (Gibson 298).
+                                                 working capital loan for 2 years at 5% interest’.         one’
+F9                                               Rocky told Grace he was not interested in offering        P1.2: ‘and Rocky declined, so no contract formed’        Any proposal on the call ended there; no contract on 5
+                                                 Grace a long-term loan but proposed that they meet in                                                              February.
+                                                 person to discuss.
+F10                                              On 12 February 2024, Rocky and Grace met in person. P1.3: ‘only records their meeting’; P4.3: ‘unless the          The meeting is where the ‘conditions’ may have been
+                                                                                                     conditions were settled ’this morning’’                        settled; the unknown that could flip P3 and P4.
+F11                                              Later that same day, Rocky sent an email to Grace         P1.3: ‘his 12 February email only records their          Rocky’s ‘mere record’ argument.
+                                                 confirming the details of their discussion.               meeting’
+F12                                              The email read as follows:                                n/a                                                      Framing sentence.
+F13   ’Mr Grace, Confirming discussions from our meeting        P1.3: ‘it opens ’Confirming discussions’‘; P4.3:’‘this      Rocky’s argument that the email records rather than
+      this morning:                                             morning’’                                                   offers; ‘this morning’ marks what may already have
+                                                                                                                            been settled.
+F14   - I will lend $1 million to you by 15 February for 1      P1.1: ‘failed to lend ’by 15 February’‘; P1.4:’‘I will      The key words of the whole of Part I: promissory form
+      year at a rate of 5% interest subject to satisfactory     lend’ fixes the amount, date, term and rate’ and            (offer), and the qualifier that defeats intention (P3)
+      conditions.                                               ‘though made ’subject to satisfactory conditions’‘;         and certainty (P4).
+                                                                P3.5:’‘satisfactory’’ and ‘the ’conditions’’
+F15   - Potential project over in Eastwood subject to success   P1.3: ‘its other points promise nothing’                    Supports Rocky’s ‘record of discussion’ reading; the
+      of Hail Mary Project.                                                                                                 submission concedes it and limits the offer to the first
+                                                                                                                            point.
+F16   - Threatened litigation from subcontractor from           P1.3: ‘its other points promise nothing’                    Same use as F15.
+      Bowral Project – wait and see at present.
+F17   Please confirm agreement. Rocky’                          P1.4: ‘’Please confirm agreement’ invites acceptance’;      Shows the email sought assent (offer) and frames
+                                                                P2.2: ‘it answered a request to ’confirm agreement’’        ‘Confirmed’ as acceptance.
+F18   Grace responded to the email 15 minutes later saying,     P2.2: ‘Rocky may argue that ’Confirmed’ only                The acceptance question; held likely acceptance of the
+      ‘Mr Rocky, Confirmed. Best, Grace.’                       confirmed the email’s accuracy’                             first point, qualifier included.
+F19   On 27 February 2024, Rocky asked A-Maize Pty Ltd,         P9.2: ‘on 27 February Rocky only ’asked’ AMPL to            Request without promise (no pre-existing contract for
+      (‘AMPL’) a company owned and controlled by Rocky’s        advance the money’; P8.2: ‘Pierre controls AMPL’;           the existing duty rule); control (agency); family tie
+      cousin, Pierre, to advance $1,150,000 to Grace.           P10.1: ‘Pierre is Rocky’s cousin’; P13.2: ‘though Rocky     (intention); the request limb of the Pao On exception
+                                                                ’asked’ for it’                                             to past consideration.
+F20   Pierre agreed to provide the money to Grace and the       P13.2: ‘AMPL’s earlier advance is past consideration’;      Past consideration branch and AMPL’s 12-month
+      $1,150,000 was advanced by AMPL on the same day.          P14.3: ‘its 27 February advance’; P14.4: ‘the genesis       argument. Whether the advance performed Rocky’s
+                                                                shows only when the money moved’                            email promise (agency) is considered and excluded
+                                                                                                                            (section 3, item 1).
+F21   On 8 April 2024, Rocky, Grace, and Pierre attended a      P8.2: ‘spoke at its office about its loan’; P10.2: ‘made    Capacity (Pierre for AMPL), commercial setting
+      meeting at AMPL’s office.                                 at AMPL’s office’; P12.4: ‘having ’attended’’               (intention), and Rocky’s opportunity to know the
+                                                                                                                            clause (assent).
+F22   At the meeting, AMPL and Grace entered into a             P5.2: ‘the Loan Agreement was made between AMPL             Party status on the instrument (Coulls 487): Rocky not
+      written loan agreement (the ‘Loan Agreement’).            and Grace’                                                  a promisee.
+F23   The loan was recorded as $1,150,000 (‘Loan’) with an      P14.3 to P14.4: ‘the agreement ’recorded’ a loan            Rebuts AMPL’s reading that ‘recorded’ dates the term
+      interest rate of 4% per annum.                            already made’ and ‘’recorded’ applies equally to the        from the advance.
+                                                                4% rate’
+F24   Interest was to be paid by Grace monthly, and the         P11.1: ‘the Loan Agreement fixes the payments’;             Certainty of ‘ensure’; the timing issue on AMPL’s call.
+      Loan was repayable at the expiry of 12 months.            P14.1: ‘when the 12 months began’
+F25   The Loan Agreement also included a clause that            P9.3: ‘guaranteeing ’repayment of the Loan’‘; P12.1 to Scope comparison for the existing duty rule; whether
+      Rocky personally guaranteed repayment of the Loan.        P12.2; P16.1: ’personally guaranteed repayment of the the clause binds Rocky; measure of liability.
+                                                                Loan’
+F26   Pierre expressed during the meeting that he expected      P7.2: ‘Pierre’s statement that he ’expected’‘; P9.3:’‘all   Not an offer; the content of Rocky’s undertaking;
+      Rocky to ensure that Grace made all payments under        payments’ ‘promptly’‘; P11.2: ’Pierre’s expectation         result, not effort.
+      the Loan Agreement promptly.                              that he ’ensure’ payment’
+F27   Rocky said, ‘I will do that if you also promise to pay    P7.3: ‘’I will do that if you also promise’‘; P8.2:         The offer, its addressee, AMPL’s existing duty
+      $10,000 to me directly once Grace repays the Loan.’       ’Rocky’s ’you’‘; P9.1:’‘also’‘; P11.2 and P12.3:’‘I will    argument, the content of the promise, and the
+                                                                do that’‘; P15.1:’‘once Grace repays the Loan’’             condition on the $10,000.
+F28   Pierre agreed and the clause was included in the Loan     P7.3: ‘Pierre accepted when he ’agreed’‘; P7.4:             Acceptance; oral formation; order of events (clause
+      Agreement before it was signed by Grace and AMPL.         ’nothing bound until the Loan Agreement was signed’;        after bargain); AMPL’s signing as consideration for
+                                                                P9.2: ‘’Pierre agreed and the clause was included’‘;        the guarantee.
+                                                                P13.2: ’it signed the Loan Agreement only after the
+                                                                clause was included’
+F29   Between 8 April 2024 and 8 February 2025, Grace           Not quoted; P16.2: ‘Grace’s failure to pay any amount       The silence about the 8 March 2025 instalment is
+      made appropriate monthly repayments of the interest       when due’                                                   considered and excluded (section 3, item 5).
+      on the Loan to AMPL.
+F30   Throughout this period Rocky would check in               Not used in the final text (the f9 words ‘, as his check-   Shows effort was given; it would matter only if Rocky
+      consistently with Grace via email.                        ins did’ at the end of P11.2 were cut)                      promised effort rather than result, and P11.2 holds he
+                                                                                                                            promised the result, so the fact adds nothing to the
+                                                                                                                            advice (see section 3).
+F31   On 13 February 2025, Rocky sent an email to Grace         Not used                                                    Post-contractual conduct cannot construe the term
+      asking, ‘when and how [Grace] intend[ed] to repay the                                                                 (P14.2, Brambles 164), so Rocky’s own question does
+      principal of the Loan – the $1.15m?’.                                                                                 not fix when the principal fell due.
+F32                                                        Grace did not respond to Rocky’s email by 27             Not used                                                 Grace’s silence has no contractual effect: no offer was
+                                                           February 2025 and did not respond to Rocky’s                                                                      outstanding to which silence could answer, and it is
+                                                           subsequent emails of 28 February 2025 and 2 March                                                                 not repudiation within weeks 1 to 4.
+                                                           2025.
+F33                                                        On 5 March 2025, Rocky instructed his solicitor to       P5.1: ‘Rocky’s 5 March demand for repayment under        Rocky’s only demand against Grace; tested and failed
+                                                           send a letter of demand to Grace requiring repayment     ’the Loan Agreement with AMPL’’                          on privity.
+                                                           of the principal amount under the Loan Agreement
+                                                           with AMPL.
+F34                                                        In response to the letter of demand, on 7 March 2025,    P5.3: ‘Grace’s ’I never signed anything with you’        Corrects Grace’s reasoning (signature is not the test:
+                                                           Grace called Rocky and said, ‘I never signed anything    therefore reaches the right result for the wrong         Coulls 487).
+                                                           with you, so you can’t enforce anything. Leave me        reason’
+                                                           alone!’
+F35                                                        On that same date, AMPL contacted Grace directly,        Not quoted; P14.5 adopts Grace’s 8 April reading         Grace’s view of the term; not quoted because the
+                                                           however, Grace refused to pay, saying, ‘I have until 8   (‘arguably ran from 8 April 2024’)                       point is argued from the agreement, not from Grace’s
+                                                           April 2025 to repay and you won’t see a cent before                                                               assertion.
+                                                           then’.
+F36                                                        AMPL argued that the Loan was advanced on 27             P14.3: ‘AMPL would argue that the term ran from its      AMPL’s case on the start of the 12 months.
+                                                           February, and thus the 12 months had begun then.         27 February advance’
+F37                                                        Grace disagreed, saying, ‘if you don’t leave off, I      P16.3: ‘so never if Grace, who said he ’might not pay    Shows the practical risk that the $10,000 condition
+                                                           might not pay at all!’                                   at all’, never repays’                                   never occurs.
+F38                                                        Unfortunately, AMPL required the $1,150,000 as soon      P12.2: ‘AMPL’s call ’under the personal guarantee        Proves a guarantee was given but not its terms;
+                                                           as possible and so on 9 March 2025, when Grace had       provided by Rocky’‘; P14.5: ’the 9 March 2025 call       timing of the call; condition unmet on 9 March.
+                                                           not yet repaid the Loan, AMPL called for payment of      premature’; P15.1: ‘when Grace ’had not yet repaid’’
+                                                           the Loan under the personal guarantee provided by
+                                                           Rocky.
+F39                                                        Assuming that all of the above takes place in New        Whole answer; headings ‘I. ROCKY v GRACE’ and ‘II.       Structure follows the call of the question: Rocky’s
+                                                           South Wales, advise Rocky on the success of any          ROCKY v AMPL (ALTERNATIVELY PIERRE)’                     claims and the claims he must answer.
+                                                           contractual claims he could make.
+F40                                                        In your answer, only consider the course materials       All footnotes                                            Every authority is a week 1 to 4 casebook or course-
+                                                           from weeks 1 to 4 of Principles of Private Law.                                                                   reading case except Port Jackson 269 (fn 21), which
+                                                                                                                                                                             the course names at CB4A p 328 and p 336 but whose
+                                                                                                                                                                             text is official-only (see P8).
+
+
+2. PARAGRAPH MAP
+
+P1. Was the 12 February email an offer?
+
+  a.
+
+Mid-term facts (verbatim)                                                                                           Submission (verbatim)
+F14: - I will lend $1 million to you by 15 February for 1 year at a rate of 5% interest subject to satisfactory     The primary issue between Rocky and Grace is whether their February dealings formed a binding loan, since,
+conditions.                                                                                                         if they did, Grace could claim that Rocky failed to lend ‘by 15 February’.
+F8: On 5 February 2024, Grace called Rocky and proposed that Rocky offer Grace a ‘$1 million dollar working         By asking Rocky on 5 February to offer a two-year loan, Grace invited an offer rather than making one,[fn 1]
+capital loan for 2 years at 5% interest’. F9: Rocky told Grace he was not interested in offering Grace a long-      and Rocky declined, so no contract formed.
+term loan but proposed that they meet in person to discuss.
+F11: Later that same day, Rocky sent an email to Grace confirming the details of their discussion. F13: ’Mr         Rocky would say his 12 February email only records their meeting, as it opens ‘Confirming discussions’ and its
+Grace, Confirming discussions from our meeting this morning: F15: - Potential project over in Eastwood              other points promise nothing.
+subject to success of Hail Mary Project. F16: - Threatened litigation from subcontractor from Bowral Project –
+wait and see at present.
+F14: - I will lend $1 million to you by 15 February for 1 year at a rate of 5% interest subject to satisfactory     However, ‘I will lend’ fixes the amount, date, term and rate, and ‘Please confirm agreement’ invites
+conditions. F17: Please confirm agreement. Rocky’                                                                   acceptance; unlike ‘may be prepared to sell’ in Gibson, these words are promissory,[fn 2] so the first point is
+                                                                                                                    likely an offer, though made ‘subject to satisfactory conditions’.
+
+  b. Issue. Whether anything Grace or Rocky said or wrote in February was an offer; it matters because a binding loan would let Grace sue Rocky for failing to lend by 15 February.
+
+  c. Arguments. Rocky: the email is a minute (‘Confirming discussions’); two of its three points promise nothing (Eastwood ‘subject to success’, Bowral ‘wait and see’), so the first is a record
+     too. Grace: the first point is in promissory form (‘I will lend’), complete on amount, date, term and rate, and asks for assent (‘Please confirm agreement’).
+  d. Rule and authority. fn 1 and fn 2: Gibson v Manchester City Council [1979] 1 WLR 294, 298, Lord Diplock (unanimous House of Lords). CB1A p 42: “The words “may be prepared to sell”
+     are fatal to this; so is the invitation, not, be it noted, to accept the offer, but “to make formal application to buy” upon the enclosed application form.”
+
+  e. Why this source. Gibson is the course’s leading case on the line between promissory words and an invitation, and its contrast phrase (‘may be prepared to sell’) lets the answer show the
+     difference in one clause. Alternatives rejected: Carlill (CB1A p 43; a unilateral offer to the world, wrong shape) and the Boots invitation-to-treat line (display of goods, not correspondence).
+
+  f. Appropriateness. Used for what it decided: tentative words are not an offer; the answer applies the converse (promissory words can be). Lord Diplock’s speech is the leading speech. Fn 1
+     is also used for Grace’s 5 February proposal; Gibson does not itself use the term ‘invitation’ for a request that the other side make an offer, so that use is by analogy.
+
+  g. Calculus. ‘I will lend’ plus fixed terms plus a request for agreement outweighs the minute-style opening; the other points are severable because each has its own qualifier. Flip: evidence
+     that the meeting left the loan open, which is the same evidence that drives P3. Strength: moderate. Hedge ‘likely an offer, though made ’subject to satisfactory conditions’’ is right, and
+     carrying the qualifier forward is what sets up P3. Drafting note: FIXED in the final text. The f9 wording ‘since Grace could otherwise claim’ had the wrong connective; P1.1 now reads
+     ‘since, if they did, Grace could claim’, and P1.2 now states the 5 February reasoning before its conclusion (‘so no contract formed’).
+
+P2. Acceptance and consideration on the email
+
+  a.
+
+Mid-term facts (verbatim)                                                                                         Submission (verbatim)
+F18: Grace responded to the email 15 minutes later saying, ‘Mr Rocky, Confirmed. Best, Grace.’                    Acceptance requires ‘an external manifestation of assent to an offer’.[fn 3]
+F17: Please confirm agreement. Rocky’ F18: Grace responded to the email 15 minutes later saying, ‘Mr Rocky,       Rocky may argue that ‘Confirmed’ only confirmed the email’s accuracy, but it answered a request to ‘confirm
+Confirmed. Best, Grace.’                                                                                          agreement’ and added no new terms, so it likely accepted the first point, qualifier included.
+F14: - I will lend $1 million to you by 15 February for 1 year at a rate of 5% interest subject to satisfactory   Consideration would also exist, Rocky’s promise to lend being exchanged for Grace’s implied promise to repay
+conditions. F18: Grace responded to the email 15 minutes later saying, ‘Mr Rocky, Confirmed. Best, Grace.’        with interest.[fn 4]
+
+  b. Issue. Whether ‘Confirmed’ accepted the first point, and whether there was consideration.
+
+  c. Arguments. Rocky: ‘Confirmed’ verifies the minute’s accuracy, it does not assent. Grace: it answers ‘Please confirm agreement’ in its own terms, within 15 minutes, adding nothing, so it is
+     assent to the offer as made.
+
+  d. Rule and authority. fn 3: Empirnall Holdings v Machon Paull Partners (1988) 14 NSWLR 523, 534, McHugh JA (Samuels JA agreeing; majority). CB1B p 71: “The objective theory of
+     contract requires an external manifestation of assent to an offer.” fn 4: Australian Woollen Mills v Commonwealth (1954) 92 CLR 424, 456 to 457, the Court (unanimous). CB2A p 101:
+     “there must subsist, so to speak, [457] the relation of a quid pro quo.”
+
+  e. Why this source. Empirnall states the objective test of acceptance in one line and is reused in P7 and P12, so one authority carries three acceptance points. AWM states the bargain
+     requirement (quid pro quo). Alternatives rejected: the mirror-image and counter-offer cases in 1B (no new term was added, so they would only confirm); Felthouse (silence; not in issue
+     here).
+
+  f. Appropriateness. Empirnall 534 is a general statement of principle, correctly used. AWM’s passage is framed for unilateral offers (an act done for a promise); using it for a promise
+     exchanged for a promise is a fair use of its general ‘quid pro quo’ language but not its exact context.
+
+  g. Calculus. The reply mirrors the request (‘confirm agreement’ and ‘Confirmed’), so the objective reading is assent; Rocky’s ‘accuracy’ reading is possible but would make his request for
+     ‘agreement’ pointless. Flip: a later course of dealing showing both treated the email as a minute. Strength: moderate. ‘likely accepted the first point, qualifier included’ is right; ‘qualifier
+     included’ is essential, as acceptance cannot remove the qualifier. Consideration (‘would also exist’) is strong if a promise was made, and correctly conditional.
+
+P3. Intention: did ‘subject to satisfactory conditions’ postpone obligations?
+
+  a.
+
+Mid-term facts (verbatim)                                                                                         Submission (verbatim)
+F14: - I will lend $1 million to you by 15 February for 1 year at a rate of 5% interest subject to satisfactory   The qualifier, however, raises whether the parties intended immediate obligations.
+conditions.
+F1: Mr Grace and Mr Rocky are both project developers who pursued various projects together since 2017 to         Intention is assessed objectively, with the onus on Grace as the party alleging the contract, although their
+stellar success.                                                                                                  commercial status as ‘project developers’ supports it.[fn 5]
+F13: ’Mr Grace, Confirming discussions from our meeting this morning: F14: - I will lend $1 million to you by     The question is whether the terms were settled and merely to be ‘put into form’, or were ‘subject to a new
+15 February for 1 year at a rate of 5% interest subject to satisfactory conditions.                               agreement’.[fn 6]
+F14: - I will lend $1 million to you by 15 February for 1 year at a rate of 5% interest subject to satisfactory   Grace would rely on Godecke, where an agreement letting the vendor’s solicitors add terms still bound
+conditions.                                                                                                       because those terms had to be reasonable ‘in an objective sense’.[fn 7]
+F14: - I will lend $1 million to you by 15 February for 1 year at a rate of 5% interest subject to satisfactory   Rocky’s qualifier contains no such standard: ‘satisfactory’ leaves the judgment to the party the condition
+conditions.                                                                                                       protects,[fn 8] here Rocky, and the ‘conditions’, naming no external event, are most naturally further terms of
+                                                                                                                  the loan itself.
+F14: - I will lend $1 million to you by 15 February for 1 year at a rate of 5% interest subject to satisfactory   Gibbs J doubted that an agreement leaving ‘further terms to be settled by one of the parties’ binds at all,[fn 9]
+conditions.                                                                                                       so on balance the loan was likely left to a new agreement, and intention to be bound immediately is likely
+                                                                                                                  absent.
+
+  b. Issue. Whether the parties intended to be bound now or left the loan to a further agreement.
+
+  c. Arguments. Grace (strongest): the parties are commercial developers; Godecke shows a bargain can bind even though one side may add terms, so ‘satisfactory conditions’ is a mechanism
+     inside a concluded contract. Rocky: ‘satisfactory’ is his own judgment, the ‘conditions’ are unstated terms of his own loan, so the case is Masters’ third class, a new agreement still to be
+     made.
+
+  d. Rule and authority. fn 5: Ermogenous (2002) 209 CLR 95, [25] to [26] (Gaudron, McHugh, Hayne and Callinan JJ; majority). CB3A p 137 at [25]: “the status of the parties to it, their
+     relationship to one another, and other surrounding circumstances”; at [26]: “it was for the appellant to demonstrate that there was such a contract.” fn 6: Masters v Cameron (1954) 91
+     CLR 353, 363 (Dixon CJ, McTiernan and Kitto JJ), quoting Winn v Bull 32 (Jessel MR). CB3A p 156: “When it is not expressly stated to be subject to a formal contract it becomes a question
+     of construc- tion, whether the parties intended that the terms agreed on should be put into form, or whether they should be subject to a new agreement the terms of which are not
+     expressed in detail” (line-break hyphen as printed). fn 7: Godecke v Kirwan (1973) 129 CLR 629, 642 to 643, Walsh J (Mason J agreeing; majority). CB3B p 189: “It means that what is
+     required must be reasonable in an objective sense, and in case of [643] dispute this is a matter which the court can decide.” fn 8: Meehan v Jones (1982) 149 CLR 571, 580 to 581, Gibbs CJ
+     (majority). CB3B p 183: “its natural effect is to leave it to the purchaser to determine whether or not the available finance is suitable to his needs” and “Such a condition is generally
+     entirely for the protection of the purchaser”. fn 9: Godecke 646 to 647, Gibbs J (concurring). CB3B p 190: “it does not necessarily follow from what I have said that an agreement which left
+     further terms to be settled by one of the parties, rather than by his solicitors, would be treated as a concluded contract.”
+
+  e. Why this source. Ermogenous is the course’s statement of the objective test and the onus. Masters supplies the exact construction question for an agreement not expressly ‘subject to
+     contract’ (Winn v Bull passage), which fits an email that says ‘subject to satisfactory conditions’ rather than ‘subject to contract’. Godecke is Grace’s best authority and is met head on.
+     Meehan supplies who judges ‘satisfactory’. Alternatives rejected: Placer Development (cited by Gibbs J at CB3B p 190; a discretion over payment, closer to P4’s illusory-promise point and
+     already covered there by the Thorby words); the ‘subject to finance’ line beyond Meehan (no extra value).
+
+  f. Appropriateness. Ermogenous, Masters, Walsh J in Godecke and Gibbs CJ in Meehan are majority reasoning, used for what they decided. Meehan concerned a condition protecting a
+     purchaser of land; transferring ‘satisfactory’ to a lender’s conditions is an analogy, fairly drawn. Gibbs J’s Godecke passage is obiter in a concurring judgment; the answer signals this only
+     by ‘doubted’. Two limits not disclosed: (1) Gibbs J at 647 immediately adds “Perhaps it may be different where agreement has been reached on all essential terms but the determination of
+     subsidiary matters has been left to one of the parties” (CB3B p 190), so ‘binds at all’ slightly overstates his doubt (the reservation was cut for words; section 3, item 7); (2) Walsh J, the
+     majority, at 642 (OFF only; not in the casebook) said “there is no reason in principle for holding that there cannot be any binding contract if some matter is left to be determined by one of
+     the contracting parties”. The answer survives both because what was left to Rocky is the content of his own loan, an essential matter, not a subsidiary one.
+
+  g. Calculus. The deciding contrast is between an objective standard (Godecke: terms ‘reasonable in an objective sense’, so a court can police them) and a bare ‘satisfactory’ to the promisor
+     with no standard (Meehan: his own satisfaction). With no standard and no stated content, the terms were not ‘agreed on’ to be ‘put into form’. Gibbs J at 647 adds a further point the
+     answer could have used: discretion left to the promisor (here Rocky, the lender) is the case for the Thorby principle. Flip: evidence that ‘conditions’ meant routine security or
+     documentation already settled at the meeting (Gibbs J’s subsidiary-matters reservation, Walsh J’s majority view). Strength: moderate. ‘on balance … likely absent’ is right.
+
+P4. Certainty: was Rocky’s promise illusory?
+
+  a.
+
+Mid-term facts (verbatim)                                                                                         Submission (verbatim)
+F14: - I will lend $1 million to you by 15 February for 1 year at a rate of 5% interest subject to satisfactory   On certainty, Grace would argue that, as in Meehan, Rocky must decide honestly,[fn 10] which takes a promise
+conditions.                                                                                                       outside the principle that a promisor with ‘a discretion or option as to whether he will carry out’ the promise
+                                                                                                                  makes no contract.[fn 11]
+F14: - I will lend $1 million to you by 15 February for 1 year at a rate of 5% interest subject to satisfactory   However, honesty in Meehan governed a judgment on an external condition, the availability of finance,
+conditions.                                                                                                       whereas Rocky’s discretion concerns the content of his own loan rather than relating ‘only to the fulfilment of
+                                                                                                                  a condition’,[fn 12] and honesty cannot supply terms never agreed.
+F10: On 12 February 2024, Rocky and Grace met in person. F13: ’Mr Grace, Confirming discussions from our          Rocky’s promise is therefore arguably illusory, and unless the conditions were settled ‘this morning’, the email
+meeting this morning:                                                                                             likely bound neither party.
+
+  b. Issue. Whether a promise to lend ‘subject to satisfactory conditions’ leaves Rocky a discretion whether to perform, making it illusory.
+  c. Arguments. Grace: Meehan implies honesty into a ‘satisfactory’ clause, and Mason J held that limit takes the case out of the illusory-promise principle. Rocky: Meehan’s discretion went to
+     an external condition (finance); his goes to the content of the very obligation, which the honesty limit cannot fill.
+
+  d. Rule and authority. fn 10: Meehan 581, Gibbs CJ. CB3B p 183: “No doubt it may be implied that the purchaser will act honestly in deciding whether or not he is satisfied.” fn 11: Meehan
+     589 to 590, Mason J (Wilson J agreeing; majority), quoting Thorby v Goldberg 605. CB3B p 185: “The limitation that the purchaser must act honestly, or honestly and reasonably, takes the
+     case out of the principle that: where words which by themselves constitute a promise are accompanied by words which show that the promisor is [590] to have a discretion or option as to
+     whether he will carry out that which purports to be the promise, the result is that there is no contract on which an action can be brought.” fn 12: Meehan 581, Gibbs CJ. CB3B p 183: “that
+     principle does not apply where the discretion or option of the contracting party relates, not to the performance of the contractual obligations themselves, but only to the fulfilment of a
+     condition upon which the contract depends.”
+
+  e. Why this source. Meehan is the course’s case on ‘satisfactory’ clauses and contains both sides: Grace’s (honesty, Mason J) and Rocky’s distinction (Gibbs CJ’s condition versus obligation).
+     Alternatives rejected: Placer Development (cited by Gibbs J at CB3B p 190; discretion as to amount payable, a strong analogy for Rocky but it would add a case for a point Meehan already
+     makes); Upper Hunter (saves uncertain words, not discretionary ones).
+
+  f. Appropriateness. Both judges were in the majority; the Thorby words are correctly attributed through ‘, quoting’. Gibbs CJ’s distinction is applied as he drew it. Limit: Meehan’s ratio is
+     that the finance clause was valid; the answer uses the distinction drawn within that reasoning to reach the opposite result on different facts, which is legitimate distinguishing, openly
+     done.
+
+  g. Calculus. Honesty can police a yes-or-no judgment on an outside event; it cannot write the missing terms of a loan. So the discretion is over performance itself and the Thorby principle
+     bites. Flip: proof that the conditions were settled at the meeting (‘this morning’), in which case ‘satisfactory’ would refer to known conditions and honesty could operate. Strength:
+     moderate. ‘arguably illusory’ and ‘likely bound neither party’ are correctly pitched, and the conditional (‘unless the conditions were settled’) names the flip.
+
+P5. Privity: Rocky’s demand under the Loan Agreement
+
+  a.
+
+Mid-term facts (verbatim)                                                                                      Submission (verbatim)
+F33: On 5 March 2025, Rocky instructed his solicitor to send a letter of demand to Grace requiring repayment   Rocky’s 5 March demand for repayment under ‘the Loan Agreement with AMPL’ faces privity, under which
+of the principal amount under the Loan Agreement with AMPL.                                                    only a party who provided consideration may enforce a contract.[fn 13]
+F22: At the meeting, AMPL and Grace entered into a written loan agreement (the ‘Loan Agreement’). F23: The     Party status is determined from ‘the written instrument itself’,[fn 14] and the Loan Agreement was made
+loan was recorded as $1,150,000 (‘Loan’) with an interest rate of 4% per annum. F24: Interest was to be paid   between AMPL and Grace, whose promises to repay were exchanged for AMPL’s promises; none was made to
+by Grace monthly, and the Loan was repayable at the expiry of 12 months.                                       Rocky, even as a joint promisee.[fn 15]
+F34: In response to the letter of demand, on 7 March 2025, Grace called Rocky and said, ‘I never signed        Grace’s ‘I never signed anything with you’ therefore reaches the right result for the wrong reason, as Mrs
+anything with you, so you can’t enforce anything. Leave me alone!’                                             Coulls signed and was still not a party.[fn 16]
+
+  b. Issue. Whether Rocky can enforce Grace’s repayment promise in a contract between AMPL and Grace.
+
+  c. Arguments. Rocky: the Loan Agreement contains his guarantee and he arranged the loan, so he is within it. Grace: ‘I never signed anything with you’. Best answer: Rocky provided no
+     consideration for Grace’s promise and is not its promisee, so the result is Grace’s but the reason is privity, not signature.
+
+  d. Rule and authority. fn 13: Coulls v Bagot’s Executor & Trustee Co (1967) 119 CLR 460, 494 to 495, Windeyer J (dissenting). CB4A p 333: “By the common law of England only those who
+     are parties to a contract can sue upon it.” and “For us the rule prevails that a plaintiff who sues on a promise must show a consideration for it provided by him” (OFF prints ‘shew’). fn 14
+     and fn 16: Coulls 487, Taylor and Owen JJ (majority). CB4A p 331: “But the mere fact that her signature appears does not make her a party; this is a question to be resolved upon a
+     consideration of the written instrument itself.” fn 15: Coulls 486, Taylor and Owen JJ. CB4A p 330: “We do not accept the contention advanced on behalf of the appellant that if one, only, of
+     two joint promisees provides the consideration for a promisor’s promise the other prom- isee cannot, in any circumstances, sue” (line-break hyphen as printed).
+
+  e. Why this source. Coulls is the course’s privity case and supplies all three steps: the rule, the test for party status (the instrument), and the answer to ‘I never signed’ (Mrs Coulls signed
+     and was not a party). Its joint promisee passage closes Rocky’s only route in. Alternatives rejected: Trident for the rule (used at P12 for the ‘bound by’ limb, where it fits better); Dunlop v
+     Selfridge (not extracted in the course).
+
+  f. Appropriateness. The rule at 494 to 495 is Windeyer J’s, in dissent, and is disclosed as such; the dissent was on the construction of the document, and the privity and consideration rule is
+     common ground with the majority. Taylor and Owen JJ’s passages are majority. The joint promisee route at 486 is put correctly: it is available only to a promisee, and none of Grace’s
+     promises was made to Rocky.
+
+  g. Calculus. Rocky is a guarantor, not a promisee of Grace’s repayment promise; nothing he gave was the price of Grace’s promise. Flip: wording in the Loan Agreement making Grace’s
+     promises run to Rocky jointly with AMPL (unknown, and unlikely given F22). Strength: strong. ‘therefore reaches the right result for the wrong reason’ is a firm statement and justified.
+P6. Conclusion, Rocky v Grace
+
+  a.
+
+Mid-term facts (verbatim)                                                                                            Submission (verbatim)
+F33: On 5 March 2025, Rocky instructed his solicitor to send a letter of demand to Grace requiring repayment         Thus Rocky has no contractual claim against Grace, whenever the 12 months began, and Grace likely has none
+of the principal amount under the Loan Agreement with AMPL. F36: AMPL argued that the Loan was                       against him for failing to lend.
+advanced on 27 February, and thus the 12 months had begun then.
+F3: Grace and Rocky entered into a legally binding agreement that determined the scope of their development          Their only binding contract, the Development Agreement, operates only ‘if the Project made a profit’, and no
+relationship and included a valid and binding clause that if the Project made a profit, Rocky, as the investor for   breach of it is shown; nor did Grace promise to reimburse Rocky for anything he pays AMPL.
+the Project, would be repaid his investment and a portion of the profit in priority to Grace (the ‘Development
+Agreement’). F5: In January 2024, the Hail Mary Project was near completion, and Rocky and Grace realised
+that the profit from the Project would be minimal and, due to the terms of their Development Agreement,
+Grace was unlikely to make a profit.
+
+  b. Issue. Net result between Rocky and Grace.
+
+  c. Arguments. Rocky: some contract with Grace must support his demand. Grace: none does; and if the email bound, Rocky failed to lend by 15 February.
+
+  d. Rule and authority. No new footnote; rests on P1 to P5 and the problem’s own words (‘if the Project made a profit’).
+
+  e. Why this source. None needed: conclusion from the analysis above.
+
+  f. Appropriateness. The Development Agreement is correctly treated as the only contract the facts declare binding; no reimbursement promise by Grace exists in F1 to F38.
+
+  g. Calculus. No claim by Rocky against Grace: strong, because privity defeats the demand on either reading of the 12 months. Grace’s claim against Rocky: moderate, as it rests on P3 and P4
+     (‘likely has none’). Hedges right.
+
+P7. Formation of the $10,000 contract
+
+  a.
+
+Mid-term facts (verbatim)                                                                                            Submission (verbatim)
+F21: On 8 April 2024, Rocky, Grace, and Pierre attended a meeting at AMPL’s office. F27: Rocky said, ‘I will         The primary issue between Rocky and AMPL is whether a contract for the $10,000 formed at the 8 April
+do that if you also promise to pay $10,000 to me directly once Grace repays the Loan.’                               meeting.
+F26: Pierre expressed during the meeting that he expected Rocky to ensure that Grace made all payments               Pierre’s statement that he ‘expected’ Rocky to ensure Grace’s payments promised nothing, so it was likely an
+under the Loan Agreement promptly.                                                                                   invitation to treat.[fn 17]
+F27: Rocky said, ‘I will do that if you also promise to pay $10,000 to me directly once Grace repays the Loan.’      Rocky’s reply, ‘I will do that if you also promise’, offered a promise for a promise,[fn 18] which Pierre accepted
+F28: Pierre agreed and the clause was included in the Loan Agreement before it was signed by Grace and               when he ‘agreed’.[fn 19]
+AMPL.
+F28: Pierre agreed and the clause was included in the Loan Agreement before it was signed by Grace and               AMPL may argue that nothing bound until the Loan Agreement was signed, but parties are bound ‘when, and
+AMPL.                                                                                                                in the manner in which, they intend’,[fn 20] and nothing suggests Rocky’s undertaking was to await any
+                                                                                                                     signature, so a contract likely formed orally.
+
+  b. Issue. Whether an oral contract for the $10,000 formed at the 8 April meeting.
+
+  c. Arguments. Rocky: Pierre’s expectation invited a response; Rocky offered a promise for a promise (‘I will do that if you also promise’); Pierre ‘agreed’. AMPL: no one was bound until the
+     written Loan Agreement was signed, and the arrangement was absorbed into it.
+
+  d. Rule and authority. fn 17: Gibson 298 (as P1). fn 18: Brambles Holdings v Bathurst City Council (2001) 53 NSWLR 153, 177, Heydon JA, quoting Integrated Computer Services 11,117 to
+     11,118 (McHugh JA). CB1B p 78: “In classical theory, the typical contract is a bilateral one and consists of an exchange of promises by means of an offer and its acceptance together with
+     an intention to create a binding legal relationship”. fn 19: Empirnall 534 (as P2). fn 20: Brambles 176, Heydon JA, quoting Eccles v Bryant 104 (Lord Greene MR). CB1B p 77: “Parties
+     become bound by contract when, and in the manner in which, they intend and contemplate becoming bound.”
+
+  e. Why this source. Gibson and Empirnall are reused at no word cost. Brambles gives the bilateral exchange of promises in a course text and, through Eccles v Bryant, the answer to AMPL’s
+     ‘nothing until signing’ argument. Alternatives rejected: Masters for the signing point (built for ‘subject to contract’ wording, absent here); the 1B postal and instantaneous communication
+     cases (the parties were face to face).
+  f. Appropriateness. Heydon JA’s offer-and-acceptance discussion in Brambles was not the route the majority took (Ipp AJA, Mason P agreeing, decided on a different basis), so both Brambles
+     footnotes cite a concurring judge for general statements; the statements are general and uncontroversial, and the answer does not claim them as the court’s holding. Gibson does not use
+     the label ‘invitation to treat’; its use for ‘expected’ is by analogy (words that promise nothing are not an offer).
+
+  g. Calculus. Pierre’s words are a statement of expectation, not a promise, so Rocky’s conditional undertaking is the offer and Pierre’s agreement the acceptance. Nothing in F28 makes
+     signing a condition of Rocky’s undertaking; Rocky did not sign anything. Flip: evidence that everyone treated the written document as the only bargain (for example an entire agreement
+     clause). Strength: moderate to strong. ‘likely formed orally’ is right.
+
+P8. Who promised the $10,000: AMPL or Pierre?
+
+  a.
+
+Mid-term facts (verbatim)                                                                                         Submission (verbatim)
+F19: On 27 February 2024, Rocky asked A-Maize Pty Ltd, (‘AMPL’) a company owned and controlled by                 Whether Pierre promised for AMPL or for himself turns on whether, with AMPL’s authority, he contracted on
+Rocky’s cousin, Pierre, to advance $1,150,000 to Grace. F27: Rocky said, ‘I will do that if you also promise to   its behalf rather than solely for himself.[fn 21]
+pay $10,000 to me directly once Grace repays the Loan.’
+F19: On 27 February 2024, Rocky asked A-Maize Pty Ltd, (‘AMPL’) a company owned and controlled by                 Rocky’s ‘you’ points to Pierre personally, but Pierre controls AMPL and spoke at its office about its loan, so
+Rocky’s cousin, Pierre, to advance $1,150,000 to Grace. F21: On 8 April 2024, Rocky, Grace, and Pierre            AMPL likely made the promise; if Pierre instead contracted for himself, Rocky’s undertaking ran to Pierre, and
+attended a meeting at AMPL’s office. F27: Rocky said, ‘I will do that if you also promise to pay $10,000 to me    AMPL can rely only on the guarantee clause.
+directly once Grace repays the Loan.’
+
+  b. Issue. Whether Pierre made the $10,000 promise for AMPL (as its agent) or personally.
+
+  c. Arguments. Rocky (against AMPL): Pierre owns and controls AMPL, spoke at its office about its loan, so AMPL promised. AMPL: Rocky’s ‘you’ addressed Pierre, so Pierre promised
+     personally and AMPL owes nothing.
+
+  d. Rule and authority. fn 21: Port Jackson Stevedoring v Salmond & Spraggon (1978) 139 CLR 231, 269 (Mason and Jacobs JJ, quoting Lord Reid in Scruttons v Midland Silicones [1962] AC
+     446, 474), rev’d (1980) 144 CLR 300 (final text reorders the footnote so ‘rev’d’ attaches to Port Jackson). OFF (at p269): “the carrier, in addition to contracting for these provisions on his
+     own behalf, is also contracting as agent for the stevedore that these provisions should apply to the stevedore, (thirdly) the carrier has authority from the stevedore to do that”.
+
+  e. Why this source. It is the course’s agency case (named at CB4A p 328 and p 336) and states the two elements the answer needs: contracting for the principal and authority. Alternatives
+     rejected: the casebook editors’ note at CB4A p 336 (“The privity rule does not apply if a per- son promised a benefit under a contract can show that one of the parties involved in the acts of
+     contract formation entered into the contract as their agent”) and Trident, Mason CJ and Wilson J (TRI); either was available inside the course text and would have avoided an official-only,
+     later-reversed citation.
+
+  f. Appropriateness. Limits: (1) official-only: the course casebook pages for this class end at p 336 and do not print the Port Jackson reasons, so the words are from the official report; (2) the
+     High Court decision was reversed by the Privy Council in New York Star (1980) 144 CLR 300, which the footnote discloses (‘rev’d’); the reversal was on the application, and Lord Reid’s
+     agency test itself had been accepted by the Privy Council in The Eurymedon (OFF Port Jackson at p269: “In The Eurymedon Lord Reid’s observation was accepted as a correct statement of
+     the law”), so the proposition survives; (3) Lord Reid’s test was framed for a carrier contracting for a stevedore; applying it to a director speaking for his company is an analogy.
+
+  g. Calculus. Control plus place plus subject-matter (AMPL’s own loan) outweighs the single pronoun ‘you’. Flip: evidence that Pierre was to pay from his own pocket. Strength: moderate.
+     ‘AMPL likely made the promise’ is right, and the answer runs the Pierre branch so nothing depends on the call.
+
+P9. Consideration from Rocky: the existing legal duty rule
+
+  a.
+
+Mid-term facts (verbatim)                                                                                         Submission (verbatim)
+F25: The Loan Agreement also included a clause that Rocky personally guaranteed repayment of the Loan.            On consideration, AMPL would invoke the existing legal duty rule, arguing that ‘also’ implies Rocky had
+F27: Rocky said, ‘I will do that if you also promise to pay $10,000 to me directly once Grace repays the Loan.’   already guaranteed the Loan, so his promise to ensure Grace’s payments gave nothing new.[fn 22]
+F19: On 27 February 2024, Rocky asked A-Maize Pty Ltd, (‘AMPL’) a company owned and controlled by                 However, the rule applies to a duty under ‘a pre-existing contract’ with the promisee,[fn 23] and none existed:
+Rocky’s cousin, Pierre, to advance $1,150,000 to Grace. F28: Pierre agreed and the clause was included in the     on 27 February Rocky only ‘asked’ AMPL to advance the money, and ‘Pierre agreed and the clause was
+Loan Agreement before it was signed by Grace and AMPL.                                                            included’ suggests the clause followed the bargain.
+F25: The Loan Agreement also included a clause that Rocky personally guaranteed repayment of the Loan.            Even if the guarantee came first, ensuring that Grace made ‘all payments’ ‘promptly’ goes beyond
+F26: Pierre expressed during the meeting that he expected Rocky to ensure that Grace made all payments            guaranteeing ‘repayment of the Loan’, so Rocky likely provided consideration.
+under the Loan Agreement promptly.
+  b. Issue. Whether Rocky’s promise to ensure Grace’s payments was consideration, or only a promise to do what he already owed under the guarantee.
+
+  c. Arguments. AMPL: ‘also’ shows the guarantee already existed, so Rocky promised nothing new (Sundell). Rocky: no pre-existing contract existed (on 27 February he only ‘asked’; the
+     clause was included after Pierre agreed), and in any event ensuring ‘all payments’ ‘promptly’ exceeds guaranteeing ‘repayment of the Loan’.
+
+  d. Rule and authority. fn 22: TA Sundell & Sons v Emm Yannoulatos (1955) 56 SR (NSW) 323, 327 (Full Court, as quoted in the casebook note). CB2B p 114: “the only consideration which
+     was suggested in argument as being given in exchange for the alleged promise was that the [defendant] would do what was necessary to ensure that the goods were delivered. But we are
+     satisfied that the [defendant] was bound to do so under the original contract.” fn 23: Wigan v Edwards (1973) 47 ALJR 586, 594, Mason J (majority). CB2B p 131: “The general rule is that a
+     promise to perform an existing duty is no consideration, at least when the promise is made by a party to a pre-existing contract, when it is made to the promisee under that contract, and it
+     is to do no more than the promisor is bound to do under the contract.”
+
+  e. Why this source. Sundell is AMPL’s best case and its facts mirror Rocky’s (‘ensure’); Wigan gives the three limbs, two of which Rocky uses (no pre-existing contract; more than he was
+     bound to do). Alternatives rejected: Williams v Roffey and Musumeci (practical benefit; unnecessary where the rule does not apply at all); Pao On 632 for a duty owed to a third party
+     (considered and excluded, section 3, item 2).
+
+  f. Appropriateness. Wigan’s ‘at least when’ marks where the rule certainly applies; the answer’s ‘applies to’ (the f9 ‘clearly’ is cut) fairly states that without claiming the rule is confined to it.
+     Sundell is cited from the casebook’s note, which quotes the court; no judge is named because the note quotes the court jointly.
+
+  g. Calculus. Order of events is not stated, but F28 (‘Pierre agreed and the clause was included’) reads as clause after bargain; and even if the guarantee came first, the scope comparison
+     (timeliness of every payment versus ultimate repayment of principal) gives Rocky the third Wigan limb. Flip: proof that the guarantee clause was agreed and drafted before Rocky’s
+     statement, and that it covered interest and timeliness. Strength: moderate to strong. ‘likely provided consideration’ is right.
+
+P10. Intention to create legal relations (family tie)
+
+  a.
+
+Mid-term facts (verbatim)                                                                                      Submission (verbatim)
+F19: On 27 February 2024, Rocky asked A-Maize Pty Ltd, (‘AMPL’) a company owned and controlled by              Intention is contested because Pierre is Rocky’s cousin, but presumptions about family arrangements at most
+Rocky’s cousin, Pierre, to advance $1,150,000 to Grace.                                                        identify who bears the onus,[fn 24] here Rocky.
+F21: On 8 April 2024, Rocky, Grace, and Pierre attended a meeting at AMPL’s office. F27: Rocky said, ‘I will   A promise to pay a fixed sum, made at AMPL’s office as its loan was finalised, is ‘appropriately promissory in
+do that if you also promise to pay $10,000 to me directly once Grace repays the Loan.’                         character’ and commercial,[fn 25] and since Pierre spoke as AMPL’s controller rather than as a cousin,
+                                                                                                               intention is likely present whoever promised.
+
+  b. Issue. Whether the cousin relationship displaces intention.
+
+  c. Arguments. AMPL or Pierre: a family arrangement between cousins is presumed not binding. Rocky: presumptions only allocate the onus; the setting was commercial (a company’s office, a
+     loan document, a fixed sum).
+
+  d. Rule and authority. fn 24: Ermogenous [26] (joint majority). CB3A p 137: “At best, the use of that language does no more than invite attention to identifying the party who bears the onus of
+     proof.” fn 25: Banque Brussels Lambert v Australian National Industries (1989) 21 NSWLR 502, 523, Rogers CJ (Comm D; first instance). CB3A p 144: “If the statements are appropriately
+     promissory in character, courts should enforce them when they are uttered in the course of business and there is no clear indication that they are not intended to be legally enforceable.”
+
+  e. Why this source. Ermogenous is the High Court’s statement that the presumptions are at most an onus device; Banque Brussels is the course’s commercial-promise case and states the test
+     the answer applies. Alternatives rejected: Balfour v Balfour style domestic cases (the relationship here is not domestic and the answer sidesteps the presumption anyway); Todd v Nicol
+     (CB3A, family, closer facts but pointing to the same onus analysis).
+
+  f. Appropriateness. Ermogenous is majority and used for what it said. Banque Brussels is a first instance decision about a letter of comfort; using its general test is fair, and the factual
+     comparison was cut (section 3, item 3). Onus correctly placed on Rocky, as the party alleging the contract.
+
+  g. Calculus. Commercial setting and fixed sum outweigh kinship; Pierre spoke as AMPL’s controller. Flip: facts showing a private family favour (none). Strength: strong to moderate. ‘likely
+     present whoever promised’ is right.
+
+P11. Certainty and content of Rocky’s undertaking
+
+  a.
+
+Mid-term facts (verbatim)                                                                                      Submission (verbatim)
+F24: Interest was to be paid by Grace monthly, and the Loan was repayable at the expiry of 12 months. F26:     Rocky’s undertaking to ‘ensure’ payment is not ‘so obscure’ as to be uncertain, because the Loan Agreement
+Pierre expressed during the meeting that he expected Rocky to ensure that Grace made all payments under           fixes the payments.[fn 26]
+the Loan Agreement promptly.
+F26: Pierre expressed during the meeting that he expected Rocky to ensure that Grace made all payments            Read objectively, his unqualified ‘I will do that’, answering Pierre’s expectation that he ‘ensure’ payment,
+under the Loan Agreement promptly. F27: Rocky said, ‘I will do that if you also promise to pay $10,000 to me      likely promised that Grace would pay, not merely that Rocky would try.[fn 27]
+directly once Grace repays the Loan.’
+
+  b. Issue. Whether ‘ensure’ is too vague, and whether Rocky promised a result (that Grace would pay) or effort.
+
+  c. Arguments. Rocky: ‘ensure’ is uncertain, or at most a promise to try, which his check-ins performed. AMPL: the payments are fixed by the Loan Agreement, and an unqualified ‘I will do
+     that’ answering ‘ensure’ promises the outcome.
+
+  d. Rule and authority. fn 26: Council of the Upper Hunter County District v Australian Chilling and Freezing (1968) 118 CLR 429, 437, Barwick CJ, quoting Scammell v Ouston 268 (Lord
+     Wright). CB3B p 161: “So long as the language employed by the parties, to use Lord Wright’s words in G Scammell & Nephew Ltd v Ouston [1941] AC 251, is not “so obscure and so
+     incapable of any definite or precise meaning that the court is unable to attribute to the parties any particular contractual intention”, the contract cannot be held to be void or uncertain or
+     meaningless.” fn 27: Ermogenous [25]. CB3A p 137: “It describes what it is that would objectively be conveyed by what was said or done, having regard to the circumstances in which
+     those statements and actions happened”.
+
+  e. Why this source. Upper Hunter is the course’s statement of the ‘so obscure’ threshold and its commercial-construction gloss is reused at P15; Ermogenous [25] gives the objective lens for
+     what ‘I will do that’ conveyed. Alternatives rejected: Scammell directly (not extracted; only quoted); Hillas v Arcos (not needed where the reference point is the written Loan Agreement).
+
+  f. Appropriateness. Barwick CJ was in the majority; the Scammell words are attributed by ‘, quoting’. Ermogenous [25] is about intention, used here for objective meaning of words, which is
+     within what it says (‘what was said or done’).
+
+  g. Calculus. The words answer Pierre’s ‘ensure’ without qualification, so the objective meaning is a promise of the outcome; the check-ins (F30, no longer mentioned in the final text) would
+     show only effort and cannot redefine the promise. Flip: any words of limitation at the meeting (‘I will do what I can’). Strength: moderate. Cutting ‘, as his check-ins did’ loses nothing: the
+     comparison only mattered on the effort reading the answer rejects. ‘likely promised that Grace would pay’ is right.
+
+P12. Does the written guarantee clause bind Rocky?
+
+  a.
+
+Mid-term facts (verbatim)                                                                                         Submission (verbatim)
+F25: The Loan Agreement also included a clause that Rocky personally guaranteed repayment of the Loan.            A separate issue is whether the guarantee clause binds Rocky.
+F38: Unfortunately, AMPL required the $1,150,000 as soon as possible and so on 9 March 2025, when Grace           AMPL’s call ‘under the personal guarantee provided by Rocky’ shows that a guarantee was given but not its
+had not yet repaid the Loan, AMPL called for payment of the Loan under the personal guarantee provided by         terms, and because privity prevents AMPL and Grace’s contract imposing obligations on Rocky,[fn 28] AMPL
+Rocky. F22: At the meeting, AMPL and Grace entered into a written loan agreement (the ‘Loan Agreement’).          must show that he assented to the clause.
+F27: Rocky said, ‘I will do that if you also promise to pay $10,000 to me directly once Grace repays the Loan.’   Silence while a clause is included is generally not ‘an external manifestation’ of assent,[fn 29] but Rocky’s ‘I
+F28: Pierre agreed and the clause was included in the Loan Agreement before it was signed by Grace and            will do that’, given for the $10,000 promise, likely binds him at least to his oral undertaking.[fn 30]
+AMPL.
+F21: On 8 April 2024, Rocky, Grace, and Pierre attended a meeting at AMPL’s office. F28: Pierre agreed and        Having ‘attended’ with a reasonable opportunity to object, he arguably knew the clause’s terms and assented
+the clause was included in the Loan Agreement before it was signed by Grace and AMPL.                             to them by taking the $10,000 promise,[fn 31] although Rocky would answer that the $10,000 priced his own
+                                                                                                                  words, not the clause.
+
+  b. Issue (final text drops ‘at all’ from P12.1, ‘, though not necessarily by signing’ from P12.2, changes ‘while others draft a clause’ to ‘while a clause is included’ in P12.3, and drops ‘Further,’
+     from P12.4; the analysis is unchanged). Whether Rocky is bound by the clause ‘Rocky personally guaranteed repayment of the Loan’ in a document signed only by AMPL and Grace.
+
+  c. Arguments. AMPL: the call proves a guarantee; Rocky was present, the clause was included in front of him, and he took the $10,000 promise in the same exchange. Rocky: he signed
+     nothing; privity prevents a contract between AMPL and Grace imposing liability on him; his ‘I will do that’ priced his own words, not their clause.
+
+  d. Rule and authority. fn 28: Trident General Insurance v McNiece Bros (1988) 165 CLR 107, Deane J (majority in result; no pin available). TRI and OFF: “the general rule that only the
+     parties to a contract are bound by, and entitled to enforce, its terms.” fn 29: Empirnall 534. CB1B p 71: “Under the common law theory of contract, the silent acceptance of an offer is
+     generally insufficient to create any contract” fn 30: AWM 456 to 457 (as P2). fn 31: Empirnall 535 to 536. CB1B p 72: “where an offeree with a reasonable opportunity to reject the offer of
+     goods or services takes the benefit of them under circumstances which indicate that they were to be paid for in accordance with the offer, it is open to the tribunal of fact to hold that the
+     offer was accepted according to its terms” and “The case is not so much one of acceptance by silence as one of taking the benefit of an offer with knowledge of its terms”.
+
+  e. Why this source. Trident (Deane J) is the only course text stating the ‘bound by’ limb of privity in terms, which is the limb in issue (a burden, not a benefit). Empirnall gives both the silence
+     rule and its exception (taking a benefit with knowledge of terms), which is exactly AMPL’s best argument. Alternatives rejected: Coulls (benefit side only); the ticket cases (Empirnall itself
+     draws the analogy, so citing them separately adds nothing).
+  f. Appropriateness. Deane J was in the majority on the result (appeal dismissed; Brennan and Dawson JJ dissenting); his general statement is uncontroversial. No pin: TRI and OFF carry no
+     page markers in his reasons (verify lint). Empirnall 535 to 536 concerns accepting services with knowledge of a price; applying it to accepting a promise of $10,000 with knowledge of a
+     guarantee clause is an analogy. ‘with a reasonable opportunity to object’ is stated as fact, but the facts show only that Rocky ‘attended’ and the clause was included before signing; the
+     ‘arguably’ later in the sentence carries the hedge for the inference.
+
+  g. Calculus. Two tiers: (1) his oral undertaking binds him (P7 to P11): moderate, ‘likely’; (2) assent to the written clause depends on whether he knew its words when he took the $10,000
+     promise; the facts do not say he saw it: weak to moderate, and ‘arguably’ is the right word. The counter-argument is stated at its strongest. Flip: evidence that the draft was read out or
+     shown to him (raises tier 2), or that he objected (defeats it).
+
+P13. Consideration for the guarantee
+
+  a.
+
+Mid-term facts (verbatim)                                                                                         Submission (verbatim)
+F27: Rocky said, ‘I will do that if you also promise to pay $10,000 to me directly once Grace repays the Loan.’   Consideration for the guarantee must move from AMPL,[fn 32] and if AMPL promised the $10,000, that
+F28: Pierre agreed and the clause was included in the Loan Agreement before it was signed by Grace and            promise supplies it.
+AMPL.
+F19: On 27 February 2024, Rocky asked A-Maize Pty Ltd, (‘AMPL’) a company owned and controlled by                 If Pierre promised personally, AMPL’s earlier advance is past consideration,[fn 33] which, though Rocky
+Rocky’s cousin, Pierre, to advance $1,150,000 to Grace. F20: Pierre agreed to provide the money to Grace and      ‘asked’ for it, counts only if both understood it ‘was to be remunerated’,[fn 34] and nothing suggests that;
+the $1,150,000 was advanced by AMPL on the same day. F28: Pierre agreed and the clause was included in            AMPL’s stronger answer is that it signed the Loan Agreement only after the clause was included, an act likely
+the Loan Agreement before it was signed by Grace and AMPL.                                                        ‘really done in consideration of’ the guarantee,[fn 35] so the guarantee is likely supported if Rocky assented.
+
+  b. Issue. Whether AMPL gave consideration for Rocky’s guarantee.
+
+  c. Arguments. Rocky: the $1,150,000 was advanced on 27 February, before any guarantee, so it is past consideration. AMPL: if it promised the $10,000, that promise is consideration; if not,
+     it signed the Loan Agreement only after the clause went in, an act done for the guarantee.
+
+  d. Rule and authority. fn 32: Coulls 495, Windeyer J (dissenting) (as P5). fn 33: Roscorla v Thomas (1842) 3 QB 234, 237; 114 ER 496, Lord Denman CJ (judgment of the Court). CB2B p 113:
+     “the present, which appears to us to fall within the general rule, that a consideration past and executed will support no other promise than such as would be implied by law.” fn 34: Pao On
+     v Lau Yiu Long [1980] AC 614, 629 to 630, Lord Scarman for the Board (Privy Council). Pao On extract (no page markers): “The act must have been done at the promisors’ request: the
+     parties must have understood that the act was to be remunerated either by a payment or the conferment of some other benefit”. fn 35: AWM 456. CB2A p 101: “it should be made to
+     appear that the statement or announcement which is relied on as a promise was really offered as consideration for the doing of the act, and that the act was really done in consideration of
+     a potential promise inherent in the statement or announcement.”
+
+  e. Why this source. Coulls for the rule that consideration must move from the promisee; Roscorla is the course’s past consideration case; Pao On supplies the exception the casebook flags at
+     CB2A p 112 ([4.170]: “rendered on the basis that they were to be paid for (see Pao On v Lau Yiu Long [1980] AC 614 at [4.310)])”), so the answer meets AMPL’s best reply on the past
+     advance; AWM states the causal link AMPL must show between its signing and the guarantee. Alternative rejected: Pao On 632 (third-party duty; section 3, item 2), which goes to Rocky’s
+     consideration, not AMPL’s.
+
+  f. Appropriateness. Windeyer J’s statement is in dissent but the rule is common ground (as P5). Roscorla is used for what it decided. FIXED in the final text: the f9 version said the advance
+     ‘cannot support it’, ignoring the Pao On exception; P13.2 now says the advance ‘counts only if both understood it ’was to be remunerated’‘, concedes the request limb (’though Rocky
+     ’asked’ for it’), and finds the remuneration limb unmet (‘nothing suggests that’). That is Lord Scarman’s test applied as stated by the Board, for what the case decided; the third limb
+     (enforceable if promised in advance) is not reached because the second fails. The only limit is that the pin 629 to 630 rests on the brief, as the course extract carries no page markers.
+     AWM’s passage concerns an act done for a promise; AMPL’s signing for Rocky’s guarantee fits it directly.
+
+  g. Calculus. On the Pierre branch the past advance fails Pao On’s second limb: on 27 February Rocky only ‘asked’ and nothing shows a guarantee or other return was then contemplated
+     (moderate to strong). On the AMPL branch, the $10,000 promise is plainly consideration (strong). On the Pierre branch, AMPL’s signing after the clause’s inclusion is a present act likely
+     done in return for the guarantee (moderate). Flip: proof that AMPL had already committed to sign regardless. Overall ‘likely supported if Rocky assented’ is right, and correctly conditional
+     on P12.
+
+P14. When did the 12 months begin?
+
+  a.
+
+Mid-term facts (verbatim)                                                                                         Submission (verbatim)
+F24: Interest was to be paid by Grace monthly, and the Loan was repayable at the expiry of 12 months. F38:        Whether AMPL’s call was premature depends on when the 12 months began.
+Unfortunately, AMPL required the $1,150,000 as soon as possible and so on 9 March 2025, when Grace had
+not yet repaid the Loan, AMPL called for payment of the Loan under the personal guarantee provided by
+Rocky.
+F20: Pierre agreed to provide the money to Grace and the $1,150,000 was advanced by AMPL on the same              Post-contractual conduct cannot interpret the term,[fn 36] but because the term specifies no start and is
+day. F24: Interest was to be paid by Grace monthly, and the Loan was repayable at the expiry of 12 months.        arguably ambiguous, mutually known facts showing ‘the genesis of the transaction’ are admissible.[fn 37]
+F31: On 13 February 2025, Rocky sent an email to Grace asking, ‘when and how [Grace] intend[ed] to repay
+the principal of the Loan – the $1.15m?’.
+F20: Pierre agreed to provide the money to Grace and the $1,150,000 was advanced by AMPL on the same              AMPL would argue the term ran from its 27 February advance, since the agreement ‘recorded’ a loan already
+day. F23: The loan was recorded as $1,150,000 (‘Loan’) with an interest rate of 4% per annum. F36: AMPL           made.
+argued that the Loan was advanced on 27 February, and thus the 12 months had begun then.
+F21: On 8 April 2024, Rocky, Grace, and Pierre attended a meeting at AMPL’s office. F23: The loan was             However, ‘recorded’ applies equally to the 4% rate, which nothing shows was agreed before 8 April, and the
+recorded as $1,150,000 (‘Loan’) with an interest rate of 4% per annum.                                            genesis shows only when the money moved, not that a term first agreed on 8 April began earlier.
+F35: On that same date, AMPL contacted Grace directly, however, Grace refused to pay, saying, ‘I have until 8     The term therefore arguably ran from 8 April 2024, making the 9 March 2025 call premature unless the Loan
+April 2025 to repay and you won’t see a cent before then’. F38: Unfortunately, AMPL required the $1,150,000       Agreement dates it from the advance.
+as soon as possible and so on 9 March 2025, when Grace had not yet repaid the Loan, AMPL called for
+payment of the Loan under the personal guarantee provided by Rocky.
+
+  b. Issue. Whether ‘repayable at the expiry of 12 months’ ran from the 27 February 2024 advance (due 27 February 2025, so AMPL’s call was timely) or from the 8 April 2024 agreement (due
+     8 April 2025, so the call was premature).
+
+  c. Arguments. AMPL: the agreement ‘recorded’ a loan already made; a loan’s term naturally runs from the money moving; the advance is part of the genesis. Grace and Rocky (on timing):
+     the term was first agreed on 8 April; ‘recorded’ also governs the 4% rate, which nothing shows existed before 8 April, so ‘recorded’ cannot date the term back.
+
+  d. Rule and authority. fn 36: Brambles 164, Heydon JA (Ipp AJA agreeing on construction). CB1B p 73: “post-contractual conduct is not admissible on the question of what a contract means
+     as distinct from the question of whether it was formed.” fn 37: Brambles 191, Ipp AJA (Mason P agreeing; majority). CB1B p 82: “Where ambiguities exist, mutually known facts
+     establishing the commercial purpose of the contract, the genesis of the transaction, the background and the context in which the parties are operating will be admissible”.
+
+  e. Why this source. Brambles is the course’s construction authority and gives both the exclusion (post-contractual conduct, which removes the 13 February email and the 7 March arguments)
+     and the admission (genesis), so the answer can test AMPL’s best evidence. Alternatives rejected: Codelfa (cited inside Brambles, not extracted); Upper Hunter (construction of uncertain
+     words, not of an ambiguous start date).
+
+  f. Appropriateness. Ipp AJA’s words are majority reasons; Heydon JA’s 164 principle had Ipp AJA’s agreement. Brambles concerned whether a contract formed and its terms; using its
+     construction principles for a start date is within what it states. Limit: the course supplies the method, not the answer; the settled pre-drafting view (ISSUES_SETTLED S-1) leaned weakly
+     the other way, to 27 February.
+
+  g. Calculus. The genesis proves when money moved; it does not prove that a term agreed on 8 April was meant to begin earlier, and ‘recorded’ cuts both ways because it governs the 4% rate
+     too. Against that, a loan’s term is commonly counted from drawdown, and interest presumably ran from the advance. This is a genuine toss-up resolved by the Loan Agreement’s own
+     words, which the facts do not give. Strength: weak. ‘arguably ran from 8 April 2024’ and ‘unless the Loan Agreement dates it from the advance’ are exactly right; P16 then states liability
+     on both readings, so the advice does not depend on the lean.
+
+P15. The condition on the $10,000
+
+  a.
+
+Mid-term facts (verbatim)                                                                                         Submission (verbatim)
+F27: Rocky said, ‘I will do that if you also promise to pay $10,000 to me directly once Grace repays the Loan.’   Finally, the $10,000 is payable only ‘once Grace repays the Loan’, a condition precedent to AMPL’s obligation
+F38: Unfortunately, AMPL required the $1,150,000 as soon as possible and so on 9 March 2025, when Grace           rather than to the contract, which bound immediately,[fn 38] so nothing was payable on 9 March 2025, when
+had not yet repaid the Loan, AMPL called for payment of the Loan under the personal guarantee provided by         Grace ‘had not yet repaid’.
+Rocky.
+F27: Rocky said, ‘I will do that if you also promise to pay $10,000 to me directly once Grace repays the Loan.’   Rocky may argue that, read commercially, his own repayment satisfies the condition;[fn 39] however, the
+                                                                                                                  words refer to Grace, and the $10,000 priced his promise that Grace would pay, not his paying instead, so his
+                                                                                                                  payment likely leaves the condition unfulfilled.
+
+  b. Issue. Whether the $10,000 is payable now, and whether Rocky’s own payment under the guarantee satisfies ‘once Grace repays the Loan’.
+
+  c. Arguments. Rocky: read commercially, the purpose (the Loan repaid) is achieved whoever pays, so his payment triggers the $10,000. AMPL: the words name Grace; the $10,000 was the
+     price of Rocky ensuring Grace pays, not of Rocky paying instead.
+
+  d. Rule and authority. fn 38: Meehan 582, Gibbs CJ. CB3B p 184: “It is clear that the condition in Special Condition 1(b) is not a condition precedent to contract. Certain obligations under the
+         contract attached immediately the contract was signed although the condition had not been fulfilled.” fn 39: Upper Hunter 437, Barwick CJ. CB3B p 161: “In the search for that intention,
+         no narrow or pedantic approach is warranted, particularly in the case of commercial arrangements.”
+
+    e. Why this source. Meehan supplies the distinction between a condition precedent to the contract and to an obligation, which keeps the contract alive while the payment waits; Upper
+       Hunter is Rocky’s best commercial-construction argument, reused from P11. Alternatives rejected: Beaton and Secured Income on the duty to co-operate (considered and excluded, section
+       3, item 4).
+
+    f. Appropriateness. Gibbs CJ, majority; Barwick CJ, majority. Meehan’s condition was a finance clause in a land sale; the general distinction transfers cleanly.
+
+    g. Calculus. The text names Grace, and the bargain priced Rocky’s promise that Grace would pay; Rocky paying instead is the failure of what he promised, so it cannot earn the reward for it.
+       Flip: words in the Loan Agreement making the $10,000 payable on the Loan being ‘repaid’ by anyone. Strength: moderate to strong. ‘likely leaves the condition unfulfilled’ is right.
+
+P16. Bottom line in the submission
+
+    a.
+
+Mid-term facts (verbatim)                                                                                         Submission (verbatim)
+F25: The Loan Agreement also included a clause that Rocky personally guaranteed repayment of the Loan.            Accordingly, if Rocky assented to the clause, by which he ‘personally guaranteed repayment of the Loan’, he is
+F36: AMPL argued that the Loan was advanced on 27 February, and thus the 12 months had begun then. F35:           liable for $1,150,000 once the Loan is due and unpaid: immediately if the term ran from 27 February, or from
+On that same date, AMPL contacted Grace directly, however, Grace refused to pay, saying, ‘I have until 8 April    8 April 2025 if Grace has still not repaid.
+2025 to repay and you won’t see a cent before then’.
+F24: Interest was to be paid by Grace monthly, and the Loan was repayable at the expiry of 12 months. F26:        If he is bound only by his oral undertaking, Grace’s failure to pay any amount when due likely breaches it and
+Pierre expressed during the meeting that he expected Rocky to ensure that Grace made all payments under           exposes him to damages.
+the Loan Agreement promptly. F29: Between 8 April 2024 and 8 February 2025, Grace made appropriate
+monthly repayments of the interest on the Loan to AMPL.
+F27: Rocky said, ‘I will do that if you also promise to pay $10,000 to me directly once Grace repays the Loan.’   His $10,000 claim, against AMPL or alternatively Pierre, likely stands but is conditional:[fn 40] it falls due only
+F37: Grace disagreed, saying, ‘if you don’t leave off, I might not pay at all!’                                   when Grace repays, so never if Grace, who said he ‘might not pay at all’, never repays, and likely never if
+                                                                                                                  Rocky pays the Loan himself.
+
+    b. Issue. Rocky’s exposure and the value of his own claim.
+
+    c. Arguments. As in P12 to P15.
+
+    d. Rule and authority. fn 40: Meehan 582, Gibbs CJ (as P15).
+
+    e. Why this source. Reuses the condition authority for the conclusion; no new law.
+
+    f. Appropriateness. Correct; the conclusion states liability on both readings of the 12 months and on both bases (clause or oral undertaking). Dates check: 27 February 2024 plus 12 months
+       is 27 February 2025 (passed by 9 March, so ‘immediately’); 8 April 2024 plus 12 months is 8 April 2025.
+
+    g. Calculus. Liability under the clause: moderate overall, capped by the assent question in P12. Liability on the oral undertaking for breach if Grace fails to pay when due: moderate. $10,000:
+       likely binding but likely never payable if Rocky pays. Hedges right.
+
+3. CONSIDERED AND EXCLUDED
+
+No.                                                      Point                                                    Why excluded                                                Effect on the advice
+1                                                        AMPL’s 27 February advance was not Rocky’s               Words; it matters only if the email bound, which P3         Nil on the primary branch. On the fallback branch
+                                                         performance of the email (agency)                        and P4 hold unlikely. The answer would be that AMPL         (email binding) Rocky would be exposed to Grace for
+                                                                                                                  advanced $1,150,000 rather than $1 million and took         failing to lend by 15 February, though any loss is
+                                                                                                                  Rocky’s guarantee, so it contracted for itself, not as      doubtful as Grace received more money 12 days later;
+                                                                                                                  Rocky’s agent (Port Jackson 269).                           the answer does not price that branch.
+2                                                        Pao On 632: a promise to perform a duty owed to a        Words. If Pierre personally promised the $10,000,           Nil on the result: P9’s Wigan point (no pre-existing
+                                                         third party can be consideration (if Pierre contracted   Rocky’s undertaking to Pierre may duplicate a duty          contract with the promisee) already covers it in part;
+                                                         personally)                                              owed to AMPL under the guarantee. OFF: “a promise           Pao On would add positive authority for the Pierre
+                                                                                                                  to perform, or the performance of, a pre-existing           branch.
+                                                                                                                  contractual obligation to a third party can be valid
+                                                                                                                  consideration” (official-only; the course states the
+                                                                                                                  principle at CB2B [4.300]).
+3                                                        Banque Brussels letter-of-comfort comparison             Words. The case is still cited for its test at P10.2; the   Nil; it would strengthen intention, already strong to
+                                                                                                         factual comparison (ANI’s ‘policy’ statement held       moderate.
+                                                                                                         promissory in a commercial letter) would show that
+                                                                                                         even soft commercial assurances can bind.
+4                                                 Rocky’s duty-to-co-operate argument on the $10,000     Words, and it fails: the duty reaches only what is   Nil; including it would only show the argument
+                                                  (Beaton 185, citing Secured Income 607)                necessary on AMPL’s part. CB2A p 109: “a contractual considered and rejected.
+                                                                                                         duty to do everything necessary on their part to
+                                                                                                         enable the plaintiff to have the benefit of the
+                                                                                                         contract”. Grace’s repayment is not AMPL’s to
+                                                                                                         procure. McHugh JA’s reasons in Beaton were a
+                                                                                                         minority on the result.
+5                                                 The March 2025 interest instalment as a possible       Words, and the facts are silent: F29 records interest   Potentially material: it would make a breach of
+                                                  breach                                                 only ‘Between 8 April 2024 and 8 February 2025’. If     Rocky’s oral undertaking (‘all payments … promptly’)
+                                                                                                         an instalment fell due on 8 March 2025 and was          likely already, and could support AMPL’s call even on
+                                                                                                         unpaid, Grace was in default the day before AMPL’s      the 8 April reading if the clause covers interest (its
+                                                                                                         call.                                                   words, ‘repayment of the Loan’, point to principal).
+                                                                                                                                                                 P16.2 covers it only generally (‘any amount when
+                                                                                                                                                                 due’).
+6                                                 Grace’s ‘significant financial difficulties’ (F6) as   Words. A lender to a borrower in difficulty would       Nil on result; would strengthen P3.
+                                                  support for reading ‘satisfactory’                     reserve real control over the conditions, which
+                                                                                                         supports Rocky’s reading in P3.
+7                                                 Gibbs J’s ‘subsidiary matters’ reservation (Godecke    Words. CB3B p 190: “Perhaps it may be different         Nil on the result, because the terms left were
+                                                  647)                                                   where agreement has been reached on all essential       essential (the loan’s own terms), but omitting it makes
+                                                                                                         terms but the determination of subsidiary matters has   P3.6 (‘binds at all’) slightly overstate Gibbs J.
+                                                                                                         been left to one of the parties”. It cuts for Grace.
+
+Also cut in the final text: Rocky’s email check-ins (F30), formerly used at the end of P11.2 (‘, as his check-ins did’); they show effort only, so they matter only on the effort reading the answer
+rejects, and the cut has no effect on the advice. Also not addressed, correctly: anticipatory breach or repudiation by Grace (‘I might not pay at all’) and termination, which fall outside weeks 1 to
+4; a guarantor’s right of indemnity or subrogation against Grace, which is equitable or restitutionary and not a contractual claim on these facts; any claim by Grace for the delays (F4
+‘unavoidable’).
+
+4. BOTTOM LINE
+    1. Rocky has no contractual claim against Grace: the email was probably not binding because the loan was left ‘subject to satisfactory conditions’ that Rocky alone would settle (P3, P4), and
+       his 5 March demand fails on privity because Grace’s promises in the Loan Agreement were made to AMPL, not to him (P5, P6).
+    2. For the same reason Grace probably cannot sue Rocky for failing to lend by 15 February (P1 to P4, P6).
+    3. Rocky probably made a binding oral contract with AMPL (or, if Pierre spoke for himself, with Pierre): he promised that Grace would make all payments promptly, in return for $10,000 (P7
+       to P11).
+    4. Rocky is probably liable to AMPL at least on that oral undertaking if Grace does not pay when due, and for $1,150,000 under the written clause only if he assented to it, which is arguable
+       but not certain because he signed nothing (P12, P13, P16).
+    5. Whether AMPL’s 9 March 2025 call was premature turns on whether the 12 months ran from 27 February 2024 (call timely) or 8 April 2024 (call premature until 8 April 2025); this is open
+       and depends on the Loan Agreement’s own words (P14, P16).
+    6. Rocky’s $10,000 is owed only once Grace repays, so it is likely never payable if Grace defaults and Rocky pays instead (P15, P16).
+
+Where the submission is not the best possible:
+
+       FIXED: P1.1’s wrong connective (‘otherwise’) now reads ‘since, if they did, Grace could claim’.
+       P3.6 ‘binds at all’ overstates Gibbs J, who reserved subsidiary matters (CB3B p 190), and the answer does not signal that the passage is obiter in a concurring judgment; Walsh J’s majority
+       view at 642 (official only) is broader in Grace’s favour than the answer shows.
+       P3 could have used Gibbs J’s own point at 647 that a discretion left to the promisor attracts the Thorby principle; it fits Rocky (the lender) exactly and costs few words.
+       P8 relies on an official-only and later-reversed authority (Port Jackson 269) for the agency test when the casebook’s own note at CB4A p 336 or Trident (Mason CJ and Wilson J) would
+       carry it inside the course text.
+       FIXED: P13.2’s past-consideration error (‘cannot support it’) is corrected with Pao On 629 to 630 (fn 34): the request limb is conceded and the remuneration limb found unmet (‘nothing
+       suggests that’).
+       P12.4 states ‘with a reasonable opportunity to object’ as fact; the facts show only attendance and the clause’s inclusion before signing.
+       The March 2025 interest instalment (section 3, item 5) is the one excluded point that could change Rocky’s exposure on the oral undertaking, and it is covered only by the general words
+       ‘any amount when due’.
+       Brambles 176 and 177 are cited to Heydon JA, whose offer-and-acceptance discussion was not the majority’s route; harmless for general statements but a strict marker may note it.
+       fn 28 (Trident) has no pinpoint; none is available in the course reading or official text, so this is an accepted limit rather than a fixable error.
+

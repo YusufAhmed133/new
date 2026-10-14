@@ -1,0 +1,333 @@
+Term 3 2026 – JURD7150 | LAWS1150
+     Principles of Private Law
+
+
+
+              Class 2B
+        Consideration: Part 2
+                                                      Consideration: Part 2
+
+
+
+
+A. The elements of consideration?
+
+   –   Detriment + benefit
+
+   –   Must flow between the parties in both directions
+
+B. How much is enough?
+
+C. Past consideration (from Class 2A)
+
+D. Performance of an existing legal duty
+
+
+
+                                                                      2
+                         PS: From Class 2A
+
+
+
+Adequacy of consideration might be relevant in some contexts:
+
+• Unconscionability
+
+• Fraud
+   – Eg: to check correct stamp duty
+
+• Specific statutory angle:
+   – Eg: S 23 Australian Consumer Law – unfair contract terms
+Deeds
+• formal agreements
+
+• Higher level of formality required – traditionally ‘signed
+  sealed and delivered’ eg Foakes v Beer
+
+• Promises made in a deed do not require consideration
+
+   – Eg: Will, gift, Deed of amendment of lease, Power of
+     Attorney, Deed of Company Arrangement
+                          Performance of an existing legal duty
+
+
+General rule
+• A promise to perform an existing legal duty is not sufficient
+   consideration.
+• Part payment of a debt (Foakes v Beer)
+
+
+3 exceptions to the rule
+• Practical benefit (Williams v Roffey; Musumeci v Winadell)
+• Promises to third parties
+• Genuine compromise (Wigan v Edwards)
+                        Part payment of a debt
+
+
+               Pinnel’s case [1602] 5 Co. Rep. 117a
+
+• The rule in Pinnel’s case: a promise to pay part of a debt will
+  not constitute consideration for a promise to accept the
+  payment in satisfaction of the debt.
+
+   – When would the rule in Pinnel’s case not apply?
+
+• ‘…the gift of a horse, hawk, or robe etc. in satisfaction is good.
+  For it shall be intended that a hawk, horse, or robe, etc. might
+  be more beneficial to the plaintiff than the money’
+                               Part payment of a debt
+
+Foakes v Beer (1884) 9 App Cas 605
+
+• Foakes owed Beer     2,090 19s
+• Agreement to pay by instalments
+   – 500 up front
+   – 150 each month until all paid
+   – Beer agreed not to sue for the money awarded to her in the judgement
+   – No mention in judgment of interest payable
+      • but: ‘an acquittance under seal [ie DEED], in full satisfaction of the whole,
+         would have been valid and binding’
+• Foakes paid sum due in full over time
+• Beer sued for interest
+• House of Lords agreed that interest was payable
+   – Foakes had not provided any consideration for Beer’s promise
+     not to sue.
+   – Foakes had only agreed to meet his existing legal duty to pay the
+     debt as owed.
+                 Existing Legal Duty Rule
+
+TA Sundell & Sons Pty Ltd v Emm Yannoulatos
+  (Overseas) Pty Ltd (1955) 56 SR (NSW) 323
+The general rule is that a promise to perform an existing duty is
+  not consideration, at least:
+• when the promise is made by a party to a pre-existing
+  contract,
+• when it is made to the promisee under that contract, and
+• it is to do no more than the promisor is bound to do under
+  that contract. (Wigan v Edwards (1973) 1 ALR 497, 512 (Mason
+  J))
+
+Often arises in cases of a variation to the terms of an agreement
+General rule
+
+• A promise to perform an existing contractual duty is not
+   regarded as sufficient consideration
+
+
+3 exceptions to the rule:
+
+• practical benefit (Williams v Roffey; Musumeci v Winadell)
+• promises to third parties (Pao On v Lau Yiu Long – class 2A)
+• Genuine/ bona fide compromise (Wigan v Edwards)
+Exceptions to ‘existing legal duty’ rule – Practical Benefit
+                                                         Consideration: Part 2
+
+
+
+
+Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1
+• RB had contract to renovate 27 flats
+• RB sub-contracted carpentry to Williams (plaintiff)
+• W experienced financial problems because his price was too low
+• RB and W made oral agreement for W to pay RB extra per
+  completed flat
+• RB completed 8 flats
+• W underpaid RB
+• RB stopped work
+• W sued RB for cost of replacement carpenter
+• RB counter-claimed
+
+                                                                         10
+Exceptions to ‘existing legal duty’ rule – Practical Benefit
+                                                               Consideration: Part 2
+
+
+
+
+Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1
+
+• What did the trial Judge decide?
+
+• What were the 2 issues on appeal?
+
+• What is the “practical benefit” exception to the existing
+  contractual duty rule?
+   – What did Russell LJH say about the effect of practical benefit?
+
+
+• What is the legal test? (casebook p 117 )
+• What did Ld Glidewell say about Stilk v Myrick
+                                                                               11
+Exceptions to ‘existing legal duty’ rule – Practical BenefitConsideration: Part 2
+
+Musumeci v Winadell Pty
+Ltd (1994) 34 NSWLR 723
+
+M was fruit shop tenant
+Competitor moved into
+shopping centre
+M had trouble paying rent
+Landlord promised to
+accept reduced rent from M
+Landlord reneged
+
+Issue Had M given
+consideration for landlord’s
+promise?
+
+                                                                             12
+Musumeci v Winadell Pty Ltd – Practical
+              Benefit
+                                            Consideration: Part 2
+
+
+
+
+   Does the “practical benefit” exception apply
+   in Australia?
+
+   How the test developed in Musumeci (p 121)
+   differ from the test in Williams v Roffey (p
+   117)?
+
+
+                                       13
+Musumeci v Winadell Pty Ltd – Practical Benefit
+
+Santow J: 3 reasons which might be put as to why a contract to
+perform an existing obligation should not be enforced.
+1. Protect promisor from extortion
+       Doctrine for avoiding contracts on the grounds of economic duress is
+       not yet fully formed
+2. Promisee suffered no legal detriment in performing what
+   was already due from him; nor did they receive any legal
+   benefit. – but this ignores the fact the promisee might
+   receive a benefit even if not a legal benefit.
+3. A benefit which is merely the hoped-for end result of
+   performance cannot constitute consideration.
+                                                   14
+Exceptions to ‘existing legal duty’ rule            Consideration: Part 2
+
+
+
+
+Re Selectmove Ltd [1995] 1 WLR 474
+
+• Does the “practical benefit” exception apply to part payment
+  and discharge of debt?
+
+
+
+
+                                                                    15
+Re Selectmove Ltd [1995] 1 WLR 474                                        Consideration: Part 2
+
+
+•   Selectmove owed tax.
+•   Tax Dept petitioned to have Selectmove wound up over the debt.
+
+•   Selectmove argued - a representative of Tax Dept had agreed to allow Selectmove
+    pay the tax in arrears. Selectmove contended that this either gave rise to a contract
+    or estoppel preventing Inland Revenue from immediately acting on the debt.
+
+•   Inland Revenue argued that the representative had no authority to make any such
+    promise. The representative had made this clear to Selectmove by telling them he
+    would need to seek permission from his superiors. They also noted that in any case,
+    Selectmove had also failed to pay the tax in arrears.
+
+
+• The UK Ct of Appeal affirmed the principle that a promise to pay an existing
+  debt is not consideration. The principle of ‘practical benefit’ in Williams v
+  Roffey Bros & Nicholls (Contractors) Ltd did not apply to debt cases.
+
+
+                                                                                          16
+Exceptions to ‘existing legal duty’ rule – Bona fide compromise
+
+ Wigan v Edwards (1973) ALJR
+ 586 (HCA)
+
+ E agreed to buy house from the
+ builder, W
+ No contractual term re quality
+ W then agreed and signed a
+ warranty to repair defects appearing
+ within 5 years.
+ Major defects discovered but W did
+ not repair them
+
+ Issue: was there valuable
+ consideration for W’s promise to
+ repair defects?
+                                                              17
+                         Wigan v Edwards
+
+• 15 April 1969: Edwards agreed to buy a house from Wigan. Contract did
+  not contain any term about the house being free from structural defects.
+• The Edwards signed the contract.
+• The Edwards then had a discussion with Wigan regarding remedial matters
+  which required attention. They gave Wigan the list of matters to be
+  attended to.
+• 22 April 1969: Wigan signed a warranty that he would remedy minor
+  defects, and correct any major defects within 5 years.
+• Wigan failed to do so.
+• The Edwards sued Wigan for damages and obtained $6,000 in the District
+  Court of Queensland.
+• An appeal to the Full Court of Queensland was dismissed.
+• Seller (Wigan) appealed to the HCA.
+
+                                                                        18
+                      Wigan v Edwards
+
+
+
+• What is the “compromise and forbearance to sue”
+  exception to the existing legal duty rule ?
+
+• Was there valuable consideration for Wigan’s promise?
+   – 22 April 1969: Wigan signed a warranty that he would remedy
+     minor defects, and correct any major defects within 5 years.
+
+
+• What was the outcome in Wigan v Edwards in HCA?
+
+
+                                                                    19
+                            2B questions
+Question Three
+
+•   A is a painting contractor and is offered a job with which he needs help. A asks B to
+    subcontract. B says yes. No price is discussed, but it is understood that B will be
+    paid. As they are finishing, A promises B that he will pay her 50% of his fee for the
+    job.
+
+
+
+Question Four
+
+•   A owes $40,000 to B. B agrees to accept $35,000, provided it is paid within a
+    month. You are acting for A. How can you make sure the variation is enforceable?
+Question Five
+
+•   Beatrice’s motorbike needs repairs so that she can compete in the Finke Desert
+    Race. She agrees with Dan that he will repair it for $500 and will have it ready a
+    week before the race. The date approaches and his progress has been very slow,
+    which makes Beatrice nervous. Her friend, Stan, approaches Dan and offers to pay
+    him $200 extra to make sure the repairs are completed on time. Dan agrees and
+    they shake hands. Dan works overtime and the bike is repaired on time. Beatrice
+    pays him $500 but Stan refuses to pay the additional $200.
+•   Advise Dan.
+
+Question Six
+
+•   A husband and wife engage Javier to renovate their kitchen. The fee is $60,000, to
+    be paid within 30 days. The date passes without payment. Javier threatens legal
+    action. The husband emails Javier: ‘I’ll pay you $30,000 tomorrow, if you’ll agree to
+    wait 8 months for the remaining $30,000’. Javier replies: ‘OK, provided I receive
+    the $30,000 tomorrow’. The next day the husband pays $30,000 and gives Javier a
+    $400 bottle of wine. Two weeks later, Javier sends a letter of demand for
+    immediate payment of the remaining $30,000. The husband refuses, pointing to
+    the emails.
+
+•   Advise Javier.
+

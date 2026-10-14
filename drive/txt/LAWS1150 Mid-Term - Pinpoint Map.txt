@@ -1,0 +1,618 @@
+Pinpoint map: LAWS1150 Mid-Term (final submission)
+How to use: each entry is one footnote. ‘Where to check’ gives the course file and its printed casebook page (or the official
+judgment), so you can open the page and read the words yourself. ‘Source words’ are copied from that page, with the anchor phrase
+the answer relies on in bold. ‘Check’ says what the source supports and how the answer uses it.
+
+Final audit before this map: three independent hostile checks on the final text (facts, law, logic). Facts: no provable defects. Law: no
+provable defects. Logic: one contradiction found and fixed (the $10,000 sentence), then re-checked clean. The verifier passes all 40
+quotations (0 FAIL; the two CHECK PINs are known artefacts: the Brambles words sit after the [176] marker, and the Pao On extract
+has no page numbers). Body 1,488 words; stated 1,491.
+
+1. Footnote by footnote
+
+Footnote 1
+
+     Submission: By asking Rocky on 5 February to offer a two-year loan, Grace invited an offer rather than making one, and
+     Rocky declined, so no contract formed.
+     Citation: Gibson v Manchester City Council [1979] 1 WLR 294, 298 (Lord Diplock) (‘Gibson’).
+     Where to check: W1 C1A Offer/Casebook (casebook/reading p 42, pdf p 4)
+     Source words: …quite impossible to construe this letter as a contractual offer capable of being converted into a legally
+     enforceable open contract for the sale of land by Mr Gibson’s written acceptance of it. The words “may be prepared to sell” are
+     fatal to this; so is the invitation, not, be it noted, to accept the offer, but “to make formal application to buy” upon the
+     enclosed application form. It is, to quote Geoffrey Lane LJ, a letter setting out the financial terms on which it may …
+     Check: Lord Diplock: the words ‘may be prepared to sell’ are ‘fatal’ to reading the letter as an offer; it invited a ‘formal
+     application to buy’. Used for Grace’s 5 February request that Rocky make an offer: an invitation to treat.
+
+Footnote 2
+
+     Submission: However, ‘I will lend’ fixes the amount, date, term and rate, and ‘Please confirm agreement’ invites acceptance;
+     unlike ‘may be prepared to sell’ in Gibson, these words are promissory, so the first point is likely an offer, though made ‘subject
+     to satisfactory conditions’.
+     Citation: Ibid.
+     Where to check: W1 C1A Offer/Casebook (casebook/reading p 42, pdf p 4)
+     Source words: …quite impossible to construe this letter as a contractual offer capable of being converted into a legally
+     enforceable open contract for the sale of land by Mr Gibson’s written acceptance of it. The words “may be prepared to sell” are
+     fatal to this; so is the invitation, not, be it noted, to accept the offer, but “to make formal application to buy” upon the
+     enclosed application form. It is, to quote Geoffrey Lane LJ, a letter setting out the financial terms on which it may …
+     Check: Same passage, used by contrast: Rocky’s ‘I will lend’ is promissory where ‘may be prepared to sell’ was not.
+
+Footnote 3
+
+     Submission: Acceptance requires ‘an external manifestation of assent to an offer’.
+     Citation: Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, 534 (McHugh JA) (‘Empirnall’).
+     Where to check: W1 C1B Acceptance/Casebook (casebook/reading p 71, pdf p 6)
+     Source words: …laimed was owing under an oral contract.] McHUGH JA: [534] Under the common law theory of contract, the
+     silent acceptance of an offer is generally insufficient to create any contract … The objective theory of contract requires an
+     external manifestation of assent to an offer. Convenience, and especially commercial convenience, has given rise to the rule
+     that the acceptance of the offer should be communicated to the offeror. After a reasonable period has elapsed, silence is seen
+     as a rejec…
+     Check: McHugh JA’s definition of acceptance. Applied to ‘Confirmed’.
+
+Footnote 4
+
+     Submission: Consideration would also exist, Rocky’s promise to lend being exchanged for Grace’s implied promise to repay
+     with interest.
+     Citation: Brambles Holdings Ltd v Bathurst City Council (2001) 53 NSWLR 153, 177 (Heydon JA) (‘Brambles’), quoting
+     Integrated Computer Services Pty Ltd v Digital Equipment Corp (Aust) Pty Ltd (1988) 5 BPR 11,110, 11,117–18 (McHugh JA).
+     Where to check: W1 C1B Acceptance/Casebook (casebook/reading p 78, pdf p 11)
+     Source words: …nto the slots of “offer”, “acceptance”, “consideration” and “intention to create a legal relationship” which are
+     the benchmarks of the contract of classical theory. In classical theory, the typical contract is a bilateral one and consists of an
+     exchange of promises by means of an offer and its acceptance together with an intention to create a binding legal
+     relationship … Moreover, in an ongoing relationship, it is not always easy to point to the precise moment when the legal
+     criteria of a c…
+     Check: McHugh JA (quoted by Heydon JA): the typical bilateral contract ‘consists of an exchange of promises’. Supports
+     consideration as Rocky’s promise to lend for Grace’s promise to repay.
+
+Footnote 5
+
+     Submission: The qualifier, however, raises whether the parties intended immediate obligations, which is assessed objectively,
+     with the onus on Grace as the party alleging the contract, although their commercial status as ‘project developers’ supports it.
+     Citation: Ermogenous v Greek Orthodox Community of SA Inc (2002) 209 CLR 95, [25]–[26] (Gaudron, McHugh, Hayne and
+     Callinan JJ) (‘Ermogenous’).
+     Where to check: W3 C3A Intention/Casebook (casebook/reading p 137, pdf p 3)
+     Source words: …nd actions happened (Codelfa Construction Pty Ltd v State Rail Authority of NSW (1982) 149 CLR 337 at
+     348-353 per Mason J; Royal Botanic Gardens and Domain Trust v South Sydney City Council [2002] HCA 5; (2002) 240 CLR
+     45). It is not a search for the uncommunicated subjective motives or intentions of the parties. [26] In this context of
+     intention to create legal relations there is frequent reference to “presump- tions”. It is said that it may be presumed that there
+    are some “family arrangements” which…
+    Check: Joint judgment: intention is judged objectively (‘not a search for the uncommunicated subjective motives’) and takes
+    account of ‘the status of the parties’ (used for ‘project developers’); [26]: the onus lies on the party alleging the contract.
+
+Footnote 6
+
+    Submission: The question is whether the terms were settled and merely to be ‘put into form’, or were ‘subject to a new
+    agreement’.
+    Citation: Masters v Cameron (1954) 91 CLR 353, 363, quoting Winn v Bull (1877) 7 Ch D 29, 32 (Jessel MR).
+    Where to check: W3 C3A Intention/Casebook (casebook/reading p 156, pdf p 22)
+    Source words: … Part II: Formation Masters v Cameron cont. Parties often do enter into a negotiation meaning that, when
+    they have (or think they have) come to one mind, the result shall be put into formal shape, and then (if on seeing the result in
+    that shape they find they are agreed) signed and made binding; but that each party is to reserve to himself the right to retire
+    from the contract, if, on looking at the formal contrac…
+    Check: The High Court quoting Jessel MR: terms settled and ‘put into form’ versus ‘subject to a new agreement’. The core test
+    for whether the email was merely a step in negotiation.
+
+Footnote 7
+
+    Submission: Grace may rely on Godecke, where an agreement letting the vendor’s solicitors add terms bound because those
+    terms had to be reasonable ‘in an objective sense’.
+    Citation: Godecke v Kirwan (1973) 129 CLR 629, 642–3 (Walsh J) (‘Godecke’).
+    Where to check: W3 C3B Certainty/Casebook (casebook/reading p 189, pdf p 25)
+    Source words: …s of requiring the inclusion of the covenants and conditions. In my opinion, this does not mean that anything
+    may be required which in the opinion of the solicitors is reasonable. It means that what is required must be reasonable in an
+    objective sense, and in case of [643] dispute this is a matter which the court can decide. Clause 6 does not mean that the
+    purchaser is making an agreement to agree later upon additional provisions to govern the bargain. It means that he is agre…
+    Check: Walsh J (majority): the solicitors’ added terms had to be reasonable ‘in an objective sense’, so the agreement bound.
+    Grace’s best case, distinguished because Rocky’s qualifier has no objective standard.
+
+Footnote 8
+
+    Submission: Rocky’s qualifier contains no such standard: ‘satisfactory’ leaves the judgment to the party the condition
+    protects, here Rocky, and the ‘conditions’, naming no external event, are most naturally further terms of the loan itself.
+    Citation: Meehan v Jones (1982) 149 CLR 571, 580–1 (Gibbs CJ) (‘Meehan’).
+    Where to check: W3 C3B Certainty/Casebook (casebook/reading p 183, pdf p 19)
+    Source words: …nance is suitable to his needs. A clause such as Special Condition 1(b), which speaks of “satisfactory terms
+    and conditions”, in its natural meaning requires that the purchaser be satisfied … [581] Such a condition is generally entirely
+    for the protection of the purchaser, and it is the satisfaction of the purchaser, not that of some hypothetical reasonable
+    man, that will satisfy the condition. No doubt it may be implied that the purchaser will act honestly in deciding whether or not
+    he is satisfi…
+    Check: Gibbs CJ: a satisfaction condition ‘is generally entirely for the protection of the purchaser’, and it is his satisfaction that
+    counts. Used for ‘satisfactory’ leaving the judgment to Rocky.
+
+Footnote 9
+
+    Submission: Gibbs J doubted that an agreement leaving ‘further terms to be settled by one of the parties’ binds, so on balance
+    the loan was likely left to a new agreement, negating intention to be bound immediately.
+    Citation: Godecke (n 7) 646–7 (Gibbs J).
+    Where to check: W3 C3B Certainty/Casebook (casebook/reading p 190, pdf p 26)
+    Source words: …to the agreement, or render it in any way incomplete and would present no obstacle to its specific
+    performance. I should perhaps make it clear that it does not necessarily follow from what I have said that an agreement which
+    left further terms to be settled by one of the parties, rather than by his solicitors, would be treated as a concluded
+    contract. In May and Butcher Ltd v The King [1934] 2 KB 17, 21, Viscount Dunedin suggested that a sale of land which left the
+    price to be settled by the buyer himsel…
+    Check: Gibbs J: it ‘does not necessarily follow’ that an agreement leaving ‘further terms to be settled by one of the parties’ is a
+    concluded contract. Obiter; the answer says ‘doubted’, which matches.
+
+Footnote 10
+
+    Submission: On certainty, Grace may argue that, as in Meehan, Rocky must decide honestly, which takes a promise outside
+    the principle that a promisor with ‘a discretion or option as to whether he will carry out’ the promise makes no contract.
+    Citation: Meehan (n 8) 581 (Gibbs CJ).
+    Where to check: W3 C3B Certainty/Casebook (casebook/reading p 183, pdf p 19)
+    Source words: … is generally entirely for the protection of the purchaser, and it is the satisfaction of the purchaser, not that of
+    some hypothetical reasonable man, that will satisfy the condition. No doubt it may be implied that the purchaser will act
+    honestly in deciding whether or not he is satisfied. However, it does not seem to me necessary, in order to give business
+    efficacy to a contract, that a condition should be implied that the purchaser will make reasonable efforts to obtain finance. Th…
+    Check: Gibbs CJ: ‘it may be implied that the purchaser will act honestly’. Grace’s argument.
+
+Footnote 11
+
+    Submission: On certainty, Grace may argue that, as in Meehan, Rocky must decide honestly, which takes a promise outside
+    the principle that a promisor with ‘a discretion or option as to whether he will carry out’ the promise makes no contract.
+    Citation: Ibid 589–90 (Mason J), quoting Thorby v Goldberg (1964) 112 CLR 597, 605.
+    Where to check: W3 C3B Certainty/Casebook (casebook/reading p 185, pdf p 21)
+    Source words: …The limitation that the purchaser must act honestly, or honestly and reasonably, takes the case out of the
+    principle that: where words which by themselves constitute a promise are accompanied by words which show that the promisor
+    is [590] to have a discretion or option as to whether he will carry out that which purports to be the promise, the result is
+    that there is no contract on which an action can be brought. [6.260] 185 …
+    Check: Mason J quoting Thorby: a promisor with ‘a discretion or option as to whether he will carry out’ the promise makes no
+    contract; honesty takes Meehan outside it.
+
+Footnote 12
+
+    Submission: However, honesty in Meehan governed a judgment on an external condition, the availability of finance, whereas
+    Rocky’s discretion arguably concerns the content of his loan rather than relating ‘only to the fulfilment of a condition’, and
+    honesty cannot supply terms never agreed.
+    Citation: Meehan (n 8) 581 (Gibbs CJ).
+    Where to check: W3 C3B Certainty/Casebook (casebook/reading p 183, pdf p 19)
+    Source words: …ntract on which an action can be brought at all. . In my opinion that principle does not apply where the
+    discretion or option of the contracting party relates, not to the performance of the contractual obligations themselves, but only
+    to the fulfilment of a condition upon which the contract depends. That this is so is illustrated by the case of an option to
+    purchase which is, in many cases at least, a contract to sell the land upon condition that the grantee gives the notice and does
+    the othe…
+    Check: Gibbs CJ: a discretion relating ‘only to the fulfilment of a condition’ does not make the promise illusory. The answer
+    distinguishes Rocky’s discretion as going to the loan’s terms.
+
+Footnote 13
+
+    Submission: Rocky’s 5 March demand for repayment under ‘the Loan Agreement with AMPL’ faces privity, under which ‘only
+    those who are parties to a contract can sue upon it’.
+    Citation: Coulls v Bagot’s Executor & Trustee Co Ltd (1967) 119 CLR 460, 494 (Windeyer J dissenting) (‘Coulls’).
+    Where to check: W4 C4A Privity/Casebook (casebook/reading p 333, pdf p 7)
+    Source words: … Privity Chapter 11 Coulls v Bagot’s Executor & Trustee cont. [494] By the common law of England only
+    those who are parties to a contract can sue upon it. For us that statement is incontrovertible. But what exactly is meant by
+    it? Is there a useful distinction between denying a right of action to a person because no promise was made to him, and
+    denying a right of action to a perso…
+    Check: Windeyer J (dissenting in result) states the orthodox rule, ‘For us that statement is incontrovertible’; used only for the
+    rule.
+
+Footnote 14
+
+    Submission: Party status is determined from ‘the written instrument itself’, and the Loan Agreement was made between
+    AMPL and Grace, whose promises to repay were made to AMPL; none was made to Rocky, even as a joint promisee.
+    Citation: Ibid 487 (Taylor and Owen JJ).
+    Where to check: W4 C4A Privity/Casebook (casebook/reading p 331, pdf p 5)
+    Source words: …ffect of the last paragraph was to make her a party and that therefore her signature was necessary. But the
+    mere fact that her signature appears does not make her a party; this is a question to be resolved upon a consideration of the
+    written instrument itself. It seems to us that the terms of the last paragraph do not prescribe the persons who are to be
+    entitled to demand and receive the royalties payable under the agreement and, therefore, do not negative the certain
+    implication whic…
+    Check: Taylor and Owen JJ (majority): party status is ‘a question to be resolved upon a consideration of the written instrument
+    itself’.
+
+Footnote 15
+
+    Submission: Party status is determined from ‘the written instrument itself’, and the Loan Agreement was made between
+    AMPL and Grace, whose promises to repay were made to AMPL; none was made to Rocky, even as a joint promisee.
+    Citation: Ibid 486 (Taylor and Owen JJ).
+    Where to check: W4 C4A Privity/Casebook (casebook/reading p 330, pdf p 4)
+    Source words: …he royal- ties payable after her husband’s death notwithstanding that she, personally, gave no consideration
+    for the company’s promise. We do not accept the contention advanced on behalf of the appellant that if one, only, of two joint
+    promisees provides the consideration for a promisor’s promise the other prom- isee cannot, in any circumstances, sue to
+    recover moneys payable according to the promise. Indeed it is apparent that in such circumstances at common law an action to
+    recover must have bee…
+    Check: Taylor and Owen JJ: joint promisees; the question is whether the contract contains a promise to the person. None to
+    Rocky.
+
+Footnote 16
+
+    Submission: Nor was AMPL his agent: though Rocky ‘asked’ it to lend, it lent in its own name and took his guarantee, so it
+    contracted for itself, and its $1,150,000 advance neither performed his email nor made him a party.
+    Citation: Port Jackson Stevedoring Pty Ltd v Salmond & Spraggon (Aust) Pty Ltd (1978) 139 CLR 231, 269 (Mason and Jacobs
+    JJ, quoting Lord Reid in Scruttons Ltd v Midland Silicones Ltd [1962] AC 446, 474), rev’d (1980) 144 CLR 300 (‘Port Jackson’).
+    Where to check: 96 Official judgments/Port Jackson Stevedoring v Salmond [1978] HCA 8.txt (next page marker after
+    passage: p 269)
+    Source words: …success of the agency argument if (first) the bill of lading makes clear that the stevedore is intended to be
+    protected by the provisions in it which limit liability, (secondly) the bill of lading makes it clear that the carrier, in addition to
+    contracting for these provisions on his own behalf, is also contracting as agent for the stevedore that these provisions
+    should apply to the stevedore, (thirdly) the carrier has authority from the stevedore to do that, or perhaps later ratification by
+    the stevedore would suffice,…
+    Check: Mason and Jacobs JJ quoting Lord Reid’s conditions: the contracting party must be contracting ‘as agent’ and not only
+    ‘on his own behalf’, with authority. Official text only (course casebook note at [11.70] states the same test). Reversed on appeal
+    on other grounds; the footnote notes this.
+Footnote 17
+
+    Submission: Grace’s ‘I never signed anything with you’ is therefore right, but signature is not the test, as Mrs Coulls signed
+    yet was not a party.
+    Citation: Coulls (n 13) 487 (Taylor and Owen JJ).
+    Where to check: W4 C4A Privity/Casebook (casebook/reading p 331, pdf p 5)
+    Source words: …howed that the contract had been written out by the testator’s wife at his request and it may have been
+    thought that the effect of the last paragraph was to make her a party and that therefore her signature was necessary. But the
+    mere fact that her signature appears does not make her a party; this is a question to be resolved upon a consideration of
+    the written instrument itself. It seems to us that the terms of the last paragraph do not prescribe the persons who are to be
+    entitled to demand…
+    Check: Taylor and Owen JJ: ‘the mere fact that her signature appears does not make her a party’. Used against Grace’s ‘I
+    never signed’.
+
+Footnote 18
+
+    Submission: ROCKY v AMPL (ALTERNATIVELY PIERRE) On whether a contract for the $10,000 formed at the 8 April
+    meeting, Pierre’s statement that he ‘expected’ Rocky to ensure Grace’s payments promised nothing, so it was likely an
+    invitation to treat.
+    Citation: Gibson (n 1) 298 (Lord Diplock).
+    Where to check: W1 C1A Offer/Casebook (casebook/reading p 42, pdf p 4)
+    Source words: …quite impossible to construe this letter as a contractual offer capable of being converted into a legally
+    enforceable open contract for the sale of land by Mr Gibson’s written acceptance of it. The words “may be prepared to sell” are
+    fatal to this; so is the invitation, not, be it noted, to accept the offer, but “to make formal application to buy” upon the
+    enclosed application form. It is, to quote Geoffrey Lane LJ, a letter setting out the financial terms on which it may …
+    Check: Same Gibson passage: a statement that promises nothing is not an offer. Pierre’s ‘expected’.
+
+Footnote 19
+
+    Submission: Rocky’s reply, ‘I will do that if you also promise’, offered a promise for a promise, which Pierre accepted when he
+    ‘agreed’.
+    Citation: Brambles (n 4) 177 (Heydon JA).
+    Where to check: W1 C1B Acceptance/Casebook (casebook/reading p 78, pdf p 11)
+    Source words: …nto the slots of “offer”, “acceptance”, “consideration” and “intention to create a legal relationship” which are
+    the benchmarks of the contract of classical theory. In classical theory, the typical contract is a bilateral one and consists of an
+    exchange of promises by means of an offer and its acceptance together with an intention to create a binding legal
+    relationship … Moreover, in an ongoing relationship, it is not always easy to point to the precise moment when the legal
+    criteria of a c…
+    Check: Exchange of promises: Rocky’s conditional promise for Pierre’s promise.
+
+Footnote 20
+
+    Submission: Rocky’s reply, ‘I will do that if you also promise’, offered a promise for a promise, which Pierre accepted when he
+    ‘agreed’.
+    Citation: Empirnall (n 3) 534 (McHugh JA).
+    Where to check: W1 C1B Acceptance/Casebook (casebook/reading p 71, pdf p 6)
+    Source words: …laimed was owing under an oral contract.] McHUGH JA: [534] Under the common law theory of contract, the
+    silent acceptance of an offer is generally insufficient to create any contract … The objective theory of contract requires an
+    external manifestation of assent to an offer. Convenience, and especially commercial convenience, has given rise to the rule
+    that the acceptance of the offer should be communicated to the offeror. After a reasonable period has elapsed, silence is seen
+    as a rejec…
+    Check: Acceptance as external manifestation of assent: Pierre ‘agreed’.
+
+Footnote 21
+
+    Submission: AMPL may argue that nothing bound until the Loan Agreement was signed, but parties are bound ‘when, and in
+    the manner in which, they intend’, and little suggests Rocky’s undertaking was to await any signature, so a contract likely
+    formed orally.
+    Citation: Brambles (n 4) 176 (Heydon JA), quoting Eccles v Bryant [1948] Ch 93, 104 (Lord Greene MR).
+    Where to check: W1 C1B Acceptance/Casebook (casebook/reading p 77, pdf p 10)
+    Source words: … 240 at [65]–[67]. Another example concerns the exchanges of contracts to sell land, which are hard to
+    analyse in offer and acceptance terms; despite that Lord Greene MR observed of the practice: “Parties become bound by
+    contract when, and in the manner in which, they intend and contemplate becoming bound. It is a question of the facts of
+    each case …” (Eccles v Bryant [1948] 1 Ch 93 at 104). Another example concerns simultaneous manifestations of consent
+    (Horst K Lücke “Striking A Bargai…
+    Check: Heydon JA quoting Lord Greene MR: parties are bound ‘when, and in the manner in which, they intend’. AMPL’s
+    signing argument.
+
+Footnote 22
+
+    Submission: The same agency conditions guide whether Pierre, with AMPL’s authority, contracted on its behalf rather than
+    solely for himself.
+    Citation: Port Jackson (n 16) 269 (Mason and Jacobs JJ).
+    Where to check: 96 Official judgments/Port Jackson Stevedoring v Salmond [1978] HCA 8.txt (next page marker after
+    passage: p 269)
+    Source words: …success of the agency argument if (first) the bill of lading makes clear that the stevedore is intended to be
+    protected by the provisions in it which limit liability, (secondly) the bill of lading makes it clear that the carrier, in addition to
+    contracting for these provisions on his own behalf, is also contracting as agent for the stevedore that these provisions
+    should apply to the stevedore, (thirdly) the carrier has authority from the stevedore to do that, or perhaps later ratification by
+    the stevedore would suffice,…
+    Check: Same agency conditions, applied to Pierre and AMPL.
+
+Footnote 23
+
+    Submission: On consideration, AMPL may invoke the existing legal duty rule, arguing that Rocky had already guaranteed the
+    Loan, so his promise to ensure Grace’s payments gave it nothing new.
+    Citation: TA Sundell & Sons Pty Ltd v Emm Yannoulatos (Overseas) Pty Ltd (1955) 56 SR (NSW) 323, 327.
+    Where to check: W2 C2A Consideration 1/Casebook (casebook/reading p 113, pdf p 15)
+    Source words: … In TA Sundell c& Sons Pty Ltd v Emm Yannoulatos (Overseas) Pty Ltd (1955) 56 SR (NSW) 323 (see
+    [10.300]), the defendants agreed to supply certain galvanised iron to the plaintiffs at £109 15s per ton. Subsequently the
+    defendants refused to deliver the goods unless the price was increased by £27 per ton, citing a great increase in the price
+    of zinc as the reason. Under protest, the plaintiffs made the additional funds available and in due course received the iron. The
+    plaintiffs then successfully sued to recover t…
+    Check: Sundell (casebook note at 113; extract in 2B): a promise to do what one is already bound to do is no consideration.
+    AMPL’s existing-duty argument.
+
+Footnote 24
+
+    Submission: However, the rule presupposes a duty, as under ‘a pre-existing contract’ with the promisee, and none existed: on
+    27 February Rocky only ‘asked’ AMPL to advance the money, and ‘Pierre agreed and the clause was included’ suggests the
+    clause followed the bargain.
+    Citation: Wigan v Edwards (1973) 47 ALJR 586, 594 (Mason J).
+    Where to check: W2 C2B Consideration 2/Casebook (casebook/reading p 131, pdf p 14)
+    Source words: … April.] MASON J: [594] The first question which arises is whether there was valuable consideration for the
+    appellant’s promise of 22 April 1969. The general rule is that a promise to perform an existing duty is no consideration, at
+    least when the promise is made by a party to a pre-existing contract, when it is made to the promisee under that
+    contract, and it is to do no more than the promisor is bound to do under the contract. The rule expresses the concept that the
+    new promise, indistinguishable from [4.350] 131 …
+    Check: Mason J: the rule applies ‘at least when the promise is made by a party to a pre-existing contract’. The answer now
+    says the rule ‘presupposes a duty’, which is accurate.
+
+Footnote 25
+
+    Submission: Intention is in issue because Pierre is Rocky’s cousin, but presumptions about family arrangements at most
+    identify who bears the onus, here Rocky.
+    Citation: Ermogenous (n 5) [26] (Gaudron, McHugh, Hayne and Callinan JJ).
+    Where to check: W3 C3A Intention/Casebook (casebook/reading p 137, pdf p 3)
+    Source words: … concerning the engage- ment of a minister of religion. For our part, we doubt the utility of using the
+    language of presumptions in this context. At best, the use of that language does no more than invite attention to identifying the
+    party who bears the onus of proof. In this case, where issue was joined about the existence of a legally binding contract
+    between the parties, there could be no doubt that it was for the appellant to demonstrate that there was such a contract.
+    Reference to presum…
+    Check: Joint judgment [26]: presumptions do ‘no more than invite attention to identifying the party who bears the onus of
+    proof’.
+
+Footnote 26
+
+    Submission: A promise to pay a fixed sum, made at AMPL’s office as its loan was finalised, is ‘appropriately promissory in
+    character’ and commercial, so intention is likely present whoever promised.
+    Citation: Banque Brussels Lambert SA v Australian National Industries Ltd (1989) 21 NSWLR 502, 523 (Rogers CJ).
+    Where to check: W3 C3A Intention/Casebook (casebook/reading p 144, pdf p 10)
+    Source words: …ttempt to give proper effect to commercial transactions. It is for this reason that uncertainty, a concept so
+    much loved by lawyers, has fallen into disfavour as a tool for striking down commercial bargains. If the statements are
+    appropriately promissory in character, courts should enforce them when they are uttered in the course of business and
+    there is no clear indication that they are not intended to be legally enforceable. If I may say, the judgments of Hirst J, at first
+    instance in Klein…
+    Check: Rogers CJ: the letter was ‘appropriately promissory in character’. Used for Pierre’s fixed-sum promise.
+
+Footnote 27
+
+    Submission: Rocky’s undertaking to ‘ensure’ payment is not ‘so obscure’ as to be uncertain, because the Loan Agreement
+    fixes the payments.
+    Citation: Council of the Upper Hunter County District v Australian Chilling and Freezing Co Ltd (1968) 118 CLR 429, 437
+    (Barwick CJ) (‘Upper Hunter’), quoting G Scammell & Nephew Ltd v Ouston [1941] AC 251, 268 (Lord Wright).
+    Where to check: W3 C3B Certainty/Casebook (casebook/reading p 161, pdf p 3)
+    Source words: …is connection in Hillas & Co Ltd v Arcos Ltd (1932) 147 LT 503, 512, ought to be kept in mind. So long as the
+    language employed by the parties, to use Lord Wright’s words in G Scammell & Nephew Ltd v Ouston [1941] AC 251, is not “so
+    obscure and so incapable of any definite or precise meaning that the court is unable to attribute to the parties any particular
+    contractual intention”, the contract cannot be held to be void or uncertain or meaningless. In the search for…
+    Check: Barwick CJ quoting Lord Wright: a term is void only if ‘so obscure’ that no meaning can be given. Used for ‘ensure’.
+
+Footnote 28
+
+    Submission: Read objectively, his unqualified ‘I will do that’, answering Pierre’s expectation that he ‘ensure’ payment, likely
+    promised that Grace would pay, not merely that Rocky would try.
+    Citation: Ermogenous (n 5) [25] (Gaudron, McHugh, Hayne and Callinan JJ).
+    Where to check: W3 C3A Intention/Casebook (casebook/reading p 137, pdf p 3)
+    Source words: … agreement to the adjudication of the courts” (South Australia v Commonwealth (1962) 108 CLR 130 at 154
+    per Windeyer J). [25] Because the inquiry about this last aspect may take account of the subject-matter of the agreement, the
+    status of the parties to it, their relationship to one another, and other surrounding circumstances (South Australia v
+    Commonwealth (1962) 108 CLR 130 at 154; Placer Development Ltd v Commonwealth (1969) 121 CLR 353 at 367 per
+    Windeyer J), not only is there…
+    Check: [25]: objective inquiry into what was said and done. Used for reading ‘I will do that’ as a promise of a result.
+
+Footnote 29
+
+    Submission: AMPL’s call ‘under the personal guarantee provided by Rocky’ assumes, but does not prove, his assent, and
+    because privity prevents AMPL and Grace’s contract imposing obligations on Rocky, AMPL must show that assent.
+    Citation: Trident General Insurance Co Ltd v McNiece Bros Pty Ltd (1988) 165 CLR 107 (Deane J).
+    Where to check: W4 C4A Privity/Trident (course reading) (casebook/reading p n/a, pdf p 3)
+    Source words: …DEANE J: At the time of the establishment of this Court, the common law of England and of this country was
+    long settled in its insistence upon the principle of privity of contract, that is to say, the general rule that only the parties to a
+    contract are bound by, and entitled to enforce, its terms. Thus, in the first edition of “Principles of the English Law of
+    Contract” published in 1879, Sir William Anson commenced a sometime tentative identification of the limits of contractual
+    obliga…
+    Check: Deane J (majority in result): ‘only the parties to a contract are bound by, and entitled to enforce, its terms’. No CLR pin
+    available in the course reading.
+
+Footnote 30
+
+    Submission: Silence while a clause is included is generally not ‘an external manifestation’ of assent, but Rocky’s ‘I will do
+    that’, given for the $10,000 promise, likely binds him at least to his oral undertaking.
+    Citation: Empirnall (n 3) 534 (McHugh JA).
+    Where to check: W1 C1B Acceptance/Casebook (casebook/reading p 71, pdf p 6)
+    Source words: …laimed was owing under an oral contract.] McHUGH JA: [534] Under the common law theory of contract, the
+    silent acceptance of an offer is generally insufficient to create any contract … The objective theory of contract requires an
+    external manifestation of assent to an offer. Convenience, and especially commercial convenience, has given rise to the rule
+    that the acceptance of the offer should be communicated to the offeror. After a reasonable period has elapsed, silence is seen
+    as a rejec…
+    Check: Silence is not ‘an external manifestation’ of assent.
+
+Footnote 31
+
+    Submission: Silence while a clause is included is generally not ‘an external manifestation’ of assent, but Rocky’s ‘I will do
+    that’, given for the $10,000 promise, likely binds him at least to his oral undertaking.
+    Citation: Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 456–7 (‘Australian Woollen Mills’).
+    Where to check: W2 C2A Consideration 1/Casebook (casebook/reading p 101, pdf p 3)
+    Source words: …ment or announce- ment, which is put forward as an offer capable of acceptance by the doing of an act, and
+    the act which is put forward as the executed consideration for the alleged promise, there must subsist, so to speak, [457] the
+    relation of a quid pro quo. One simple example will suffice to illustrate this. A, in Sydney, says to B in Melbourne: “I will pay
+    you £1 000 on your arrival in Sydney.” The next day B goes to Sydney. If these facts alone are proved, it is perfectly clear t…
+    Check: Dixon CJ, Williams, Webb, Fullagar and Kitto JJ (the Court): the promise and the act must stand in ‘the relation of a
+    quid pro quo’. Used for the $10,000 pricing Rocky’s undertaking.
+
+Footnote 32
+
+    Submission: Having ‘attended’ with a reasonable opportunity to object, he arguably knew the clause’s terms and assented to
+    them by retaining the $10,000 promise, although Rocky could answer that the $10,000 priced his own words, not the clause.
+    Citation: Empirnall (n 3) 535–6 (McHugh JA).
+    Where to check: W1 C1B Acceptance/Casebook (casebook/reading p 72, pdf p 7)
+    Source words: … Part II: Formation Empirnall Holdings v Machon Paull Partners cont. This formulation states acceptance in
+    terms of a rule of law. However, the question is one of fact. A more accurate statement is that where an offeree with a
+    reasonable opportunity to reject the offer of goods or services takes the benefit of them under circumstances which indicate
+    that they were to be paid for in accordance with the offer, it is open to the tribunal of fact to…
+    Check: McHugh JA (casebook p 72, at 535 to 536; also quoted at Brambles 178): where an offeree ‘with a reasonable
+    opportunity to reject’ takes the benefit, it is open to find acceptance. Used, hedged ‘arguably’, for assent to the clause by
+    retaining the $10,000 promise.
+
+Footnote 33
+
+    Submission: Consideration for the guarantee must move from AMPL, and if AMPL promised the $10,000, that promise
+    supplies it.
+    Citation: Coulls (n 13) 495 (Windeyer J dissenting).
+    Where to check: W4 C4A Privity/Casebook (casebook/reading p 333, pdf p 7)
+    Source words: …ons in the same court. On whatever foundation the American doctrine be put, it cannot, I think, be accepted
+    as a part of the common law as we have inherited it. For us the rule prevails that a plaintiff who sues on a promise must show
+    a consideration for it provided by him … [499] Whether we like them or not, the rules relating to consideration seem to me
+    a stubborn part of our law. They cannot be displaced by courts by head-on collision. Fortior et potentior est dispositio legis
+    quam hominis. Wh…
+    Check: Windeyer J (dissenting in result): a plaintiff ‘must show a consideration for it provided by him’. Consideration must
+    move from the promisee (AMPL). Note: casebook p 333 prints these words after the [494] marker with no [495] marker; the
+    official report places them at 495, which is the pin used.
+
+Footnote 34
+    Submission: If Pierre promised personally, AMPL’s earlier advance is past consideration, which, though Rocky ‘asked’ for it,
+    counts only if both understood it ‘was to be remunerated’, and that is doubtful;
+    Citation: Roscorla v Thomas (1842) 3 QB 234, 237; 114 ER 496 (Lord Denman CJ).
+    Where to check: W2 C2A Consideration 1/Casebook (casebook/reading p 113, pdf p 15)
+    Source words: …ome rule of law, would of themselves have been sufficient to raise an implied promise. All these cases are
+    distinguishable from, and indeed inapplicable to, the present, which appears to us to fall within the general rule, that a
+    consideration past and executed will support no other promise than such as would be implied by law. [238] The rule for
+    arresting the judgment upon the first count must therefore be made absolute. Rule absolute. The existing legal duty rule The
+    general rule [4.1…
+    Check: Lord Denman CJ: ‘a consideration past and executed will support no other promise than such as would be implied by
+    law’. Past consideration.
+
+Footnote 35
+
+    Submission: If Pierre promised personally, AMPL’s earlier advance is past consideration, which, though Rocky ‘asked’ for it,
+    counts only if both understood it ‘was to be remunerated’, and that is doubtful;
+    Citation: Pao On v Lau Yiu Long [1980] AC 614, 629–30 (Lord Scarman for the Board).
+    Where to check: W2 C2A Consideration 1/Pao On extract (casebook/reading p n/a, pdf p 1)
+    Source words: …rd Scarman: An act done before the giving of a promise to make a payment or to confer some other benefit
+    can sometimes be consideration for the promise. The act must have been done at the promisors’ request: the parties must have
+    understood that the act was to be remunerated either by a payment or the conferment of some other benefit: and
+    payment, or the conferment of a benefit, must have been legally enforceable had it been promised in advance. All three
+    features are present in this case. The promis…
+    Check: Lord Scarman for the Board: a past act counts only if done at the promisor’s request and ‘the parties must have
+    understood that the act was to be remunerated’. Rocky ‘asked’; remuneration doubtful.
+
+Footnote 36
+
+    Submission: AMPL’s stronger answer is that it signed the Loan Agreement only after the clause was included, an act likely
+    ‘really done in consideration of’ the guarantee, so the guarantee is likely supported if Rocky assented.
+    Citation: Australian Woollen Mills (n 31) 456.
+    Where to check: W2 C2A Consideration 1/Casebook (casebook/reading p 101, pdf p 3)
+    Source words: …, in order that a contract may be established, that it should be made to appear that the statement or
+    announcement which is relied on as a promise was really offered as consideration for the doing of the act, and that the act was
+    really done in consideration of a potential promise inherent in the statement or announcement. Between the statement or
+    announce- ment, which is put forward as an offer capable of acceptance by the doing of an act, and the act which is put
+    forward as the execut…
+    Check: The Court: the act must be ‘really done in consideration of’ the promise. AMPL signing after the clause was included.
+
+Footnote 37
+
+    Submission: Post-contractual conduct cannot interpret the term, but because the term apparently specifies no start and is
+    arguably ambiguous, mutually known facts showing ‘the genesis of the transaction’ are admissible.
+    Citation: Brambles (n 4) 164 (Heydon JA).
+    Where to check: W1 C1B Acceptance/Casebook (casebook/reading p 73, pdf p 8)
+    Source words: … genesis of the contract, its objective aim, or the meaning of any descriptive term: Codelfa Construction Pty
+    Ltd v State Rail Authority of New South Wales (1982) 149 CLR 337 at 347–52. [164] The second relevant principle is that post-
+    contractual conduct is admissible on the question of whether a contract was formed: Howard Smith & Co Ltd v
+    Varawa (1907) 5 CLR 68 at 77; Barrier Wharfs Ltd v W Scott Fell & Co Ltd (1908) 5 CLR 647 at 668, 669 and 672; B Seppelt &
+    Sons Ltd v Commissioner for Main Roads (1975) 1 BPR 9,147at 9,149 and 9,154–6; Fi…
+    Check: Heydon JA: post-contractual conduct is admissible on formation but (third principle) not on construction. Used to
+    exclude the later payments from fixing the term’s meaning.
+
+Footnote 38
+
+    Submission: Post-contractual conduct cannot interpret the term, but because the term apparently specifies no start and is
+    arguably ambiguous, mutually known facts showing ‘the genesis of the transaction’ are admissible.
+    Citation: Ibid 191 (Ipp AJA).
+    Where to check: W1 C1B Acceptance/Casebook (casebook/reading p 82, pdf p 15)
+    Source words: … of construing the contract: Codelfa Construction Pty Ltd v State Rail Authority of New South Wales (1982)
+    149 CLR 337 at 352. Where ambiguities exist, mutually known facts establishing the commercial purpose of the contract, the
+    genesis of the transaction, the background and the context in which the parties are operating will be admissible: Reardon
+    Smith Line Ltd v Hansen-Tangen (1976) 1 WLR 989 (at 995 to 996 per Lord Wilberforce). On this basis, the shared beliefs of
+    the parties…
+    Check: Ipp AJA: ‘Where ambiguities exist’, mutually known facts showing ‘the genesis of the transaction’ are admissible. The
+    answer hedges the ambiguity (‘apparently’, ‘arguably’).
+
+Footnote 39
+
+    Submission: The $10,000 is payable only ‘once Grace repays the Loan’, a condition precedent to the obligation rather than to
+    the contract, which bound immediately, so nothing was payable on 9 March 2025, when Grace ‘had not yet repaid’.
+    Citation: Meehan (n 8) 582 (Gibbs CJ).
+    Where to check: W3 C3B Certainty/Casebook (casebook/reading p 184, pdf p 20)
+    Source words: …as to whether he shall carry them out. Once the condition is fulfilled, within the time allowed by the contract
+    for its fulfilment, the contract becomes completely binding. It is clear that the condition in Special Condition 1(b) is not a
+    condition precedent to contract. Certain obligations under the contract attached immediately the contract was signed
+    although the condition had not been fulfilled. For example, the provisions with regard to the deposit, and with regard to the
+    giving and answeri…
+      Check: Gibbs CJ: the condition ‘is not a condition precedent to contract’; obligations attached immediately. Used for ‘once
+      Grace repays the Loan’.
+
+Footnote 40
+
+      Submission: Rocky could argue that, read commercially, his own repayment satisfies the condition; however, the words refer
+      to Grace, and the $10,000 priced his promise that Grace would pay, so his payment likely leaves the condition unfulfilled.
+      Citation: Upper Hunter (n 27) 437 (Barwick CJ).
+      Where to check: W3 C3B Certainty/Casebook (casebook/reading p 161, pdf p 3)
+      Source words: … any definite or precise meaning that the court is unable to attribute to the parties any particular contractual
+      intention”, the contract cannot be held to be void or uncertain or meaningless. In the search for that intention, no narrow or
+      pedantic approach is warranted, particularly in the case of commercial arrangements. Thus will uncertainty of meaning, as
+      distinct from absence of meaning or of intention, be resolved. I do not think there is any uncertainty or for that m…
+      Check: Barwick CJ: a commercial agreement should be read without a ‘narrow or pedantic approach’. Rocky’s commercial
+      reading, answered by the words naming Grace.
+
+Footnote 41
+
+      Submission: His $10,000 claim, against AMPL or alternatively Pierre, likely stands but is conditional: it falls due only when
+      Grace repays, so never if Grace, who said he ‘might not pay at all’, never repays, and likely never if Rocky pays it himself.
+      Citation: Meehan (n 8) 582 (Gibbs CJ).
+      Where to check: W3 C3B Certainty/Casebook (casebook/reading p 184, pdf p 20)
+      Source words: …as to whether he shall carry them out. Once the condition is fulfilled, within the time allowed by the contract
+      for its fulfilment, the contract becomes completely binding. It is clear that the condition in Special Condition 1(b) is not a
+      condition precedent to contract. Certain obligations under the contract attached immediately the contract was signed
+      although the condition had not been fulfilled. For example, the provisions with regard to the deposit, and with regard to the
+      giving and answeri…
+      Check: Same Meehan passage: a conditional obligation falls due only on fulfilment.
+
+2. Every quotation from the problem, with its line in the question
+
+Quoted in the submission                     Line                                         The problem’s words
+. Rocky                                      25                                           dollar working capital loan for 2 years at 5%
+                                                                                          interest’. Rocky told Grace he was not
+Confirmed                                    39                                           Grace responded to the email 15 minutes later
+                                                                                          saying, ’Mr Rocky, Confirmed. Best,
+Confirming discussions                       31                                           Confirming discussions from our meeting this
+                                                                                          morning:
+I will do that                               53                                           ’I will do that if you also promise to pay $10,000
+                                                                                          to me directly once Grace repays the
+I will lend                                  32                                           - I will lend $1 million to you by 15 February for 1
+                                                                                          year at a rate of 5% interest
+Please confirm agreement                     37                                           Please confirm agreement.
+all payments                                 52                                           ensure that Grace made all payments under the
+                                                                                          Loan Agreement promptly. Rocky said,
+asked                                        41                                           On 27 February 2024, Rocky asked A-Maize Pty
+                                                                                          Ltd, (‘AMPL’) a company owned and
+attended                                     45                                           On 8 April 2024, Rocky, Grace, and Pierre
+                                                                                          attended a meeting at AMPL’s office. At the
+by 15 February                               32                                           - I will lend $1 million to you by 15 February for 1
+                                                                                          year at a rate of 5% interest
+conditions                                   33                                           subject to satisfactory conditions.
+ensure                                       52                                           ensure that Grace made all payments under the
+                                                                                          Loan Agreement promptly. Rocky said,
+had not yet repaid                           72                                           2025, when Grace had not yet repaid the Loan,
+                                                                                          AMPL called for payment of the Loan
+if the Project made a profit                 13                                           binding clause that if the Project made a profit,
+                                                                                          Rocky, as the investor for the Project,
+might not pay at all                         70                                           then. Grace disagreed, saying, ‘if you don’t leave
+                                                                                          off, I might not pay at all!’
+project developers                           8                                            Mr Grace and Mr Rocky are both project
+                                                                                          developers who pursued various projects
+promptly                                     52                                           ensure that Grace made all payments under the
+                                                                                          Loan Agreement promptly. Rocky said,
+recorded                                     47                                           Agreement’). The loan was recorded as
+                                                                                          $1,150,000 (‘Loan’) with an interest rate of 4%
+repayment of the Loan                        51                                           repayment of the Loan. Pierre expressed during
+                                                                                          the meeting that he expected Rocky to
+satisfactory                                 33                                           subject to satisfactory conditions.
+subject to satisfactory conditions           33                                           subject to satisfactory conditions.
+this morning                                 31                                           Confirming discussions from our meeting this
+                                                                                          morning:
+you                                          32                                           - I will lend $1 million to you by 15 February for 1
+                                                                                          year at a rate of 5% interest
+

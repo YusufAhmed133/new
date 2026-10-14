@@ -1,0 +1,418 @@
+                                        lOMoARcPSD|67370315
+
+
+
+
+LAWS1150 - Midterm Sample Distinction Response
+
+
+    Principles of Private Law (University of New South Wales)
+
+
+
+
+                              Scan to open on Studocu
+
+
+
+
+                                      Downloaded by Yusuf Ahmed (yusufahmedpersonal@gmail.com)
+             Studocu is not sponsored or endorsed by any college or university
+                                                  lOMoARcPSD|67370315
+
+
+
+
+                                         I.                 JammyJam and Kai
+
+
+
+
+The primary issue concerns whether a valid contract was formed between JammyJam and
+Kai.
+
+
+
+
+When determining the existence of an offer, an objective standard is applied.[1] Conducting
+textual analysis, the initial message by Kai contains promissory language, with words such as
+“agree” and “will”, over “if”.[2] Furthermore, Kai’s query as to whether their terms are “all
+good” for JammyJam establishes their message as being capable of acceptance, fulfilling the
+objective standard and constituting an offer. However, uncertainty from incompleteness
+arises in that no timeframe for the launch (performance) is given in the agreement,
+threatening validity of the contract due to its essentiality.[3]
+
+
+
+
+Acceptance must be communicated to the offeror for contractual formation.[4] Whilst
+JammyJam communicates acceptance to Kai’s terms, JammyJam’s counter-request for a final
+agreement with e-signatures potentially makes this a preliminary agreement; as such, a
+contractual issue arises as to whether this acceptance holds an intention to create legal
+relations.[5] Because the preliminary agreement contains all the assented-to terms, the final
+agreement requested is arguably a more precise rewriting.[6] This coupled with the
+promissory statement to pay,[7] mutual assent indicating a “meeting of the minds”,[8] and the
+feasible existence of acceptance without signature favours intention.
+
+
+
+
+Consideration requires an objective standard in that sufficient value (benefit to the promisor,
+or detriment to the promisee) must be exchanged quid pro quo for a legally binding promise.
+[9] Kai pledges a bitcoin sum for JammyJam’s promise to play three wars every twenty-four
+hours
+
+
+
+
+                                                                                Scan to open on Studocu
+                                              Downloaded by Yusuf Ahmed (yusufahmedpersonal@gmail.com)
+                                                lOMoARcPSD|67370315
+
+
+
+
+for the launch. This constitutes a quid pro quo exchange of a promise for monetary detriment,
+lending itself to good consideration.[10] However, an issue arises through uncertainty
+concerning the clause stipulating Kai’s consideration. The promise of a ‘market-rate
+commensurate sum’ is unlikely to constitute a sufficiently certain description for a monetary
+sale, given the lack of a specific market rate for ‘professional gaming’ remuneration.[11]
+Given the clause’s essentiality to the contract, it is unlikely the courts will sever the term,
+threatening contractual validity.[12] This uncertainty is compounded by the volatile nature of
+bitcoin, a non-fiat currency with no inherent value, which casts aspersions around its
+sufficiency as consideration.[13]
+
+
+
+
+Assuming good consideration, a promise is only legally binding if coextensive with the flow
+of consideration.[14] This poses an issue, as the clause stipulating JammyJam’s promise to
+play twenty-minutes per game was added post-agreement. Because fresh consideration did
+not flow from Kai to JammyJam in exchange for this new promise, it is unlikely the courts
+will find it legally binding. Assuming the opposite, uncertainty stemming from the lack of an
+external standard surrounding factors such as JammyJam’s skill, gameplay difficulty etc.
+would likely render this clause unenforceable nonetheless.[15] However, contractual validity
+is potentially unaffected provided this clause is found non-essential by the court and severed.
+[16]
+
+
+
+
+Thus, given the uncertainty surrounding payment and duration of performance, as well as the
+contentious sufficiency of Kai’s consideration, the courts are likely to tentatively conclude no
+valid contract exists between JammyJam and Kai; the lack of consideration for and potential
+severance of the minutes clause renders it unenforceable also. As such, it is unlikely any of
+Kai’s potential contractual claims against JammyJam will be successful.
+
+
+
+
+                                      II.       JammyJam and @#@
+
+
+
+
+                                                                              Scan to open on Studocu
+                                            Downloaded by Yusuf Ahmed (yusufahmedpersonal@gmail.com)
+                                                 lOMoARcPSD|67370315
+
+
+
+
+The doctrine of privity stipulates only those party to a contract can enforce its terms and
+suffer its obligations, [17] with limited exceptions. The primary issue concerns whether
+@#@ is privy to Kai’s contract with JammyJam.
+
+
+
+
+One manner in which @#@ is privy is as a contracting party, namely a joint-promisee with
+Kai, as then it is sufficient that consideration moves from only one of them.[18] Though
+@#@ has no direct involvement in negotiations with JammyJam, the inclusive word “we”
+utilised in Kai’s initial offer favours @#@ being a party.[19] Furthermore, @#@ is
+benefitted by JammyJam’s promise to Kai given their profit-driven-interest in the game’s
+success, making them a third-party beneficiary,[20] and meeting the standard for joint-
+promisee.
+
+
+
+
+Compliance notwithstanding, an exception to the doctrine presents itself if Kai is found
+acting as an agent for @#@ during contractual formation.[21] Given Kai and @#@’s
+commercial relationship, as well as Kai’s explicit stipulation that consideration is flowing
+from them solely because @#@ is unable to also do so in the agreed mode, there is a
+favourable notion that an implied agency relationship has arisen between them in the
+circumstances, despite no written agreement. This potentially excepts @#@ from the doctrine
+of privity.[22]
+
+
+
+
+Thus, on balance, it is likely the courts will tentatively conclude @#@ is privy to the contract
+as either joint-promisee or principal of agency, and assuming it is found valid, consider any
+contractual claims they may have against JammyJam; likelihood of success remains
+dependent on the contract.
+
+
+
+
+                                      III.       JammyJam and Ninja
+
+
+
+
+                                                                               Scan to open on Studocu
+                                             Downloaded by Yusuf Ahmed (yusufahmedpersonal@gmail.com)
+                                               lOMoARcPSD|67370315
+
+
+
+
+The primary issue concerns whether a valid contract was formed between JammyJam and
+Ninja.
+
+
+
+
+Employing textual analysis, JammyJam’s use of promissory language such as “will” favours
+their initial message being an offer.[23] However, an issue arises in that there is no clause
+requesting Ninja’s assent to the terms. The message is not capable of acceptance, and thus the
+objective standard for an offer is not fulfilled.[24] Assuming the opposite, another issue
+arises in that Ninja replies with a new rate, presenting a counteroffer and killing JammyJam’s
+initial offer.[25] However, this message similarly stipulates no query of assent, thus being
+incapable of receiving acceptance to its terms and unable to constitute an offer.[26]
+Furthermore, whilst explicit dollar values are mentioned in both, uncertainty through
+incompleteness arises through no inclusion of a mode of payment, threatening validity. Given
+the term’s essentiality and Ninja’s substantial execution of contract however, it is likely the
+courts will imply this missing term.[27]
+
+
+
+
+Presuming a counteroffer, acceptance must be communicated to Ninja, the new offeror, for
+contractual formation.[28] Given the online mode of correspondence, acceptance is governed
+by the Electronic Transactions Act 2000 (NSW).[29] Section 13A(i)(a) stipulates the time of
+receipt of electronic communication is when it becomes “capable of being received by the
+addressee”, i.e., when it is sent.[30] Given no such reply is sent by JammyJam to Ninja when
+their message becomes capable of being read, an issue arises as silence is incapable of
+constituting acceptance.[31] However, JammyJam teaming up with Ninja potentially
+constitutes   assent to their terms from the point of an “objective bystander”, and thus
+acceptance inferred from
+
+
+
+
+conduct.[32] Furthermore, it is tenable to assume an intention to create legal relations through
+Kai’s promissory statement to pay Ninja,[33] made in a commercial context despite being
+between ‘old friends’.[34]
+
+
+
+
+                                                                             Scan to open on Studocu
+                                           Downloaded by Yusuf Ahmed (yusufahmedpersonal@gmail.com)
+                                               lOMoARcPSD|67370315
+
+
+
+
+Consideration-wise, Ninja promises to team-up with JammyJam in exchange for $50 per
+game; this constitutes a quid pro quo exchange of sufficient value for a legally binding
+promise, and thus good consideration.[35]
+
+
+
+
+Thus, given the failure of JammyJam and Ninja’s initial statements to meet the objective
+standard for an offer, both being incapable of acceptance, the courts are likely to tentatively
+conclude no valid contract exists between either party. As such, it is unlikely any of Ninja’s
+contractual claims against JammyJam will be successful.
+
+
+
+
+                                     IV.      JammyJam and Sventy7
+
+
+
+
+The primary issue concerns whether a valid contract was formed between JammyJam and
+Sventy7.
+
+
+
+
+JammyJam’s video-message arguably constitutes a unilateral offer to the world.[36] This is
+favoured by the inclusion of a specific dollar-amount, i.e., ‘no puff’, as well as reliance on a
+specific act being performed for acceptance.[37] However, whilst an explicit dollar-value
+
+is mentioned, uncertainty through incompleteness arises through the exclusion of a mode of
+payment, timeframe of offer etc., questioning the offer’s sincerity, and thus threatening
+validity of the contract.[38]
+
+Assuming sincerity, acceptance for unilateral offers is constituted by performance of the
+offeror’s terms.[39] Sventy7 has performed the act stipulated by JammyJam’s offer,
+constituting acceptance prima facie. However, an issue arises in that performance/acceptance
+for any offer must be conducted “with the offer in mind”.[40] Because Sventy7 jammed
+JammyJam neither intending to do so, nor with respect to the offer, it is unlikely the courts
+will hold this performance constitutes acceptance. Furthermore, it is unlikely that Sventy7
+had the intention to create legal relations when conducting the performance in-game,
+diminishing contractual validity.[41]
+
+
+                                                                             Scan to open on Studocu
+                                           Downloaded by Yusuf Ahmed (yusufahmedpersonal@gmail.com)
+                                               lOMoARcPSD|67370315
+
+
+
+
+Presuming acceptance was found, a quid pro quo flow of sufficient value in exchange for a
+legally binding promise must be present.[42] Here, there is no exchange of any form of
+benefit to the promisor or detriment to the promisee for the legally binding promise: Sventy7
+receives both $300 and a promise to receive it from JammyJam, who in turn gets hindered in-
+game.
+
+
+
+
+receives nothing material. Sventy7 incurs no detriment in exchange for JammyJam’s promise,
+and JammyJam receives no direct benefit for the promise, thus failing the benefit/detriment
+test for consideration.[43] Therefore, it is likely the courts will find JammyJam’s offer of
+$300 a conditional gift rather than sufficient consideration for a legally binding promise.[44]
+
+
+
+
+Thus, given the absence of acceptance “with the offer in mind”,[45] as well as no quid pro
+quo flow of consideration, it is likely the courts will tentatively conclude no valid contract
+exists between JammyJam and Sventy7. As such, it is unlikely any of their potential
+contractual claims against JammyJam will be successful.
+
+
+
+
+[1] Gibson v Manchester City Council [1979] 1 WLR 294 House of Lords.
+
+[2] Ibid.
+
+[3] Milne v Attorney-General For the State of Tasmania [1956] HCA 48.
+
+[4] Brinkibon Ltd v Stahag Stahl und Stahlwarenhandelsgesellschaft mbH [1983] 2 AC 34
+(House of Lords).
+
+[5] Masters v Cameron (1954) 91 CLR 353 HCA.
+
+[6] Ibid.
+
+[7] Banque Brussels Lambert SA v Australian National Industries Ltd (1989) 21 NSWLR 502.
+
+
+                                                                             Scan to open on Studocu
+                                           Downloaded by Yusuf Ahmed (yusufahmedpersonal@gmail.com)
+                                              lOMoARcPSD|67370315
+
+
+
+
+[8] Brambles Holdings v Bathurst City Council [2001] NSWCA 61.
+
+[9] Beaton v McDivitt (1987) 13 NSWLR 162.
+
+[10] Australian Woollen Mills Pty Ltd v The Commonwealth (1954) 92 CLR 424.
+
+[11] Hall v Busst (1960) 104 CLR 206.
+
+[12] Whitlock v Brew (1968) 118 CLR 445.
+
+[13] Giancasparo, Mark, "Cryptocurrency And The Consideration Conundrum: Does Crypto
+Have Legal Value Under Contract Law?" (2022) 33(1) Journal of Banking and Finance Law
+and Practice.
+
+[14] Roscorla v Thomas (1842) 3 QB 234.
+
+[15] Biotechnology Australia Pty Ltd v Pace (1988) 15 NSWLR 130.
+
+[16] Whitlock v Brew (1968) 118 CLR 445.
+
+[17] Coulls v Bagot's Executor and Trustee Co Ltd [1967] HCA 3.
+
+[18] Ibid.
+
+[19] Ibid.
+
+
+[20] Ibid.
+
+[21] Port Jackson Stevedoring v Salmon & Spraggon (Australia) Pty Ltd [1981] 1 WLR 138.
+
+[22] Ibid.
+
+[23] Gibson v Manchester City Council [1979] 1 WLR 294 House of Lords.
+
+[24] Ibid.
+
+[25] Butler Machine Tool Co Ltd v Ex-Cell-O Corp (England) Ltd 1 WLR 401.
+
+[26] Gibson v Manchester City Council [1979] 1 WLR 294 House of Lords.
+
+[27] Milne v Attorney-General For the State of Tasmania [1956] HCA 48.
+
+[28] Brinkibon Ltd v Stahag Stahl und Stahlwarenhandelsgesellschaft mbH [1983] 2 AC 34
+(House of Lords).
+
+[29] Electronic Transactions Act 2000 (NSW) (‘ETA’).
+
+[30] ETA s 13A(i)(a).
+
+
+
+                                                                            Scan to open on Studocu
+                                          Downloaded by Yusuf Ahmed (yusufahmedpersonal@gmail.com)
+                                               lOMoARcPSD|67370315
+
+
+
+
+[31] Felthouse v Bindley (1862) 142 ER 1037.
+
+
+[32] Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 527.
+
+[33] Banque Brussels Lambert SA v Australian National Industries Ltd (1989) 21 NSWLR
+502.
+
+[34] Ibid.
+
+[35] Australian Woollen Mills Pty Ltd v The Commonwealth (1954) 92 CLR 424.
+
+[36] Carlill v Carbolic Smoke Ball [1893] 1 QB 256.
+
+
+[37] Ibid.
+
+
+[38] Ibid.
+
+
+[39] Ibid.
+
+[40] R v Clarke (1927) 40 CLR 227.
+
+[41] Ermogenous v Greek Orthodox Community of SA Inc (2002) 209 CLR 95.
+
+[42] Australian Woollen Mills Pty Ltd v The Commonwealth (1954) 92 CLR 424.
+
+[43] Beaton v McDivitt (1987) 13 NSWLR 162.
+
+
+[44] Australian Woollen Mills Pty Ltd v The Commonwealth (1954) 92 CLR 424.
+
+[45] R v Clarke (1927) 40 CLR 227.
+
+
+
+
+                                                                           Scan to open on Studocu
+                                         Downloaded by Yusuf Ahmed (yusufahmedpersonal@gmail.com)
+

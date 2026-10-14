@@ -1,0 +1,780 @@
+Final adversarial marker feedback (verbatim)
+Two independent hostile markers marked the final text and tried to break it against the readings. Their sheets follow word for word.
+After they marked, the one certain defect both found (treating ‘the personal guarantee provided by Rocky’ as unproven) was fixed, as
+were two further points from Marker A that the source text confirms (‘unqualified’ removed, since Rocky’s words were conditional;
+‘supports it’ changed to ‘supports intention’). Points raised by only one marker that the other marker disputes, and arguments that
+would need words the 1,500 limit does not leave, have not been applied; they are set out in the sheets.
+
+Marker A
+
+Marker A: hostile examination of the final answer
+Marked against SHEET_v12 read with RULINGS R-P, R-Y, R-Z, R-AB, R-AC, R-AD and R-AE. Every authority in the footnotes was re-
+read at its page in the casebook transcription or, where the point is official-only, in the saved official judgment. Verifier run: 40
+quotations, 0 FAIL, 2 CHECK PIN (Brambles 176 and Pao On 629 to 630, both known artefacts and both correct on re-reading). Body
+1,488 words; the stated 1,491 is body plus three under R-P, so no fault.
+
+
+1. Certain defects
+
+C1. A proven fact treated as unproven, and the narrator’s words put in AMPL’s mouth (Part II, guarantee paragraph).
+
+Sentence: “AMPL’s call ‘under the personal guarantee provided by Rocky’ assumes, but does not prove, his assent, and because
+privity prevents AMPL and Grace’s contract imposing obligations on Rocky,[^29] AMPL must show that assent.”
+
+Proof: the problem (question.txt, final page) reads “AMPL called for payment of the Loan under the personal guarantee provided by
+Rocky”. The words ‘provided by Rocky’ are the problem’s own description, not AMPL’s assertion, and the Instructions (p 1) say “You
+may assume the facts provided in the scenario to be proven”. What is proven is that Rocky provided a guarantee; what is open is only
+what ‘provided’ consisted of (assent to the written clause, his oral undertaking, or both). The sentence attributes the words to
+“AMPL’s call” and then says they do “not prove” his assent, which denies a proven fact and misidentifies the speaker (sheet D4,
+which lists this exact phrase; sheet §3, second bullet).
+
+Fix (+4 words): “A guarantee was ‘provided by Rocky’, but whether by assent to the clause or only by his oral undertaking is open,
+and because privity prevents AMPL and Grace’s contract imposing obligations on Rocky,[^29] AMPL must show that assent.”
+
+C2. ‘Unqualified’ misdescribes words the problem qualifies (Part II, certainty paragraph).
+
+Sentence: “Read objectively, his unqualified ‘I will do that’, answering Pierre’s expectation that he ‘ensure’ payment, likely promised
+that Grace would pay, not merely that Rocky would try.”
+
+Proof: Rocky’s words are “I will do that if you also promise to pay $10,000 to me directly once Grace repays the Loan” (question.txt).
+They carry an express ‘if’ qualifier, and the answer’s own offer paragraph relies on it (“offered a promise for a promise”). The point
+intended is that the words contain no language of effort, which ‘unqualified’ does not say.
+
+Fix (−1 word): “Read objectively, his ‘I will do that’, answering Pierre’s expectation that he ‘ensure’ payment, contains no words of
+effort and likely promised that Grace would pay, not merely that Rocky would try.” Net cost +3 if the clause is added; the cheapest
+certain fix is simply to delete ‘unqualified’ (−1).
+
+C3. A pronoun with two possible antecedents (Part I, intention paragraph).
+
+Sentence: “The qualifier, however, raises whether the parties intended immediate obligations, which is assessed objectively, with the
+onus on Grace as the party alleging the contract, although their commercial status as ‘project developers’ supports it.”
+
+Proof: ‘it’ can be read as ‘the onus’ or as the intention; only the second makes sense (Ermogenous [25], which the answer cites, lists
+‘the status of the parties’ as a factor going to intention). Sheet R1 and R-V(1): a pronoun is a lapse where its antecedent is unclear.
+
+Fix (0 words): replace “supports it” with “supports intention”.
+
+Word cost of all three: +4 −1 +0 = +3, taking the body to 1,491 and the stated count to 1,494; within 1,497.
+
+
+2. Contestable points, with fixes
+
+K1. Whose satisfaction (Part I, intention paragraph), an inference stated without its reason. “‘satisfactory’ leaves the
+judgment to the party the condition protects,[^8] here Rocky”. Gibbs CJ at 581 grounds the rule in the clause being “generally
+entirely for the protection of the purchaser” and leaves room for “a clear indication to the contrary”. Nothing in the email says whose
+satisfaction; Grace could say the conditions were to be satisfactory to both, or objectively. Fix (+2): “here Rocky as lender”.
+
+K2. Rocky’s best authority on the qualifier is missed. Masters v Cameron (1954) 91 CLR 353, 362 quotes Jessel MR in Crossley
+v Maycock (1874) LR 18 Eq 180, 181 to 182: “if the agreement is made subject to certain conditions then specified or to be specified
+by the party making it, or by his solicitor, then, until those conditions are accepted, there is no final agreement”. That is Rocky’s
+‘subject to satisfactory conditions’ almost word for word, stated in a High Court joint judgment’s survey, and far stronger than a
+single judge’s dictum in Godecke (Gibbs J at 646 to 647, where he says only that it “does not necessarily follow” that such an
+agreement binds). The casebook elides this sentence, so it is credit and official-only; but the objectively best answer would use it,
+with Jessel MR named, at fn 9.
+
+K3. Brambles 177 cited for consideration (fn 4). The passage (Heydon JA quoting McHugh JA in Integrated Computer Services)
+describes ‘classical theory’ (“an exchange of promises by means of an offer and its acceptance”) as a prelude to saying commercial
+dealings often do not fit it. It is not a statement of the consideration rule. Australian Woollen Mills 456 to 457 (“the relation of a quid
+pro quo”) is the course authority for consideration as the price of the promise. Fix (footnotes only, 0 body words): fn 4 becomes the
+full Australian Woollen Mills citation at 456 to 457 with the short title; fn 31 and fn 36 become “(n 4)”; fn 19 takes the full Brambles
+citation and short title; fn 21 and fn 37 become “(n 19)”.
+
+K4. Gibson for the 5 February call (fn 1). Gibson at 298 decides that “may be prepared to sell” lacks commitment. It does not
+decide that a request that the other party make an offer is an invitation. The use is analogical and passes, but a stricter marker
+would want the point stated as the absence of any promise by Grace, which is what Gibson actually turns on.
+
+K5. Port Jackson (fn 16, fn 22). The words quoted are Lord Reid’s requisites as Mason and Jacobs JJ set them out at 269, and the
+pin is right. But Mason and Jacobs JJ were in the majority that the Privy Council reversed; Barwick CJ (dissenting in the High Court,
+whose view the Board preferred) states the same requisites at 240, and the sheet names 240. The answer’s ‘rev’d’ is honest, but
+citing the reversed majority when the vindicated judge states the same rule is the weaker choice. Fix (footnotes only): cite Port
+Jackson 240 (Barwick CJ). Separately, fn 16 puts ‘quoting’ inside the judge’s brackets, unlike every other ‘quoting’ footnote in the
+answer (fn 4, 6, 11, 21, 27); AGLC form is “269 (Mason and Jacobs JJ), quoting Scruttons Ltd v Midland Silicones Ltd [1962] AC 446,
+474 (Lord Reid)”.
+
+K6. Lord Reid’s requisites for the director question (Part II, agency paragraph). The requisites concern a carrier contracting
+as agent for a stevedore to secure an exemption. Using them to decide whether a controlling director spoke for his company is a
+stretch; the answer’s own facts (‘controls AMPL’, ‘at its office’, ‘about its loan’) do the work. Fix: state the question as authority to
+act for AMPL and keep fn 22 as the general agency source, or cite Ermogenous [24] for objective attribution (credit).
+
+K7. Privity of the $10,000 promise is never addressed (sheet II.F1). If ‘the clause’ that was ‘included in the Loan Agreement’
+is the $10,000 term, AMPL will say the term lives in a document between AMPL and Grace to which Rocky is no party. The answer
+needs one sentence: Rocky is the promisee and named payee (‘to me directly’) of an oral promise for which he gave consideration, so
+privity is no bar; and, in a clause, ‘the clause’ most naturally means the guarantee clause the problem names first. About 30 words.
+
+K8. The letter of comfort point (sheet II.D). Rocky’s ‘ensure’ undertaking is the obvious candidate for comparison with the letter
+in Banque Brussels; the answer applies ‘appropriately promissory’ only to the $10,000 promise and never weighs whether Rocky’s
+own undertaking binds him likewise. About 15 words.
+
+K9. The existing legal duty rule if Pierre promised personally (sheet II.C2). If Pierre is the promisee, any duty Rocky owed
+under the guarantee was owed to AMPL, a third party; Pao On 632 holds that a promise to perform a duty owed to a third party is
+good consideration. The answer’s “with the promisee” gestures at this but never states the branch. About 15 words.
+
+K10. The duty to co-operate (sheet II.H). AMPL called the guarantee before the Loan was due on the 8 April reading; Rocky can
+argue AMPL cannot rely on its own premature call to put the condition ‘once Grace repays’ out of reach. The answer never names or
+meets the duty to co-operate. About 20 words.
+
+K11. The interest payments (sheet II.G; R-AA(3)). “Grace made appropriate monthly repayments of the interest on the Loan to
+AMPL” between 8 April 2024 and 8 February 2025 is the fact AMPL’s opponents will reach for on the start date. The answer’s rule
+excludes post-contractual conduct (Brambles 164, correct), but never applies it to this fact, so a cold reader cannot tell whether it
+was seen. About 12 words.
+
+K12. The onus in Part I. The answer places the onus on Grace as the party alleging the 12 February contract. That is coherent
+with its defensive framing (Rocky never lent, so only Grace would sue on the email), and I accept it; but the sheet’s I.D core frames
+Rocky as the party alleging, so a marker reading the sheet literally will query it. The framing should be stated once (“Grace, who
+alone would sue on it”).
+
+Funding for K7 to K11 (about 92 words against 6 words of headroom after C1 to C3): cut “and likely never if Rocky pays it himself”
+in the final paragraph, which repeats the II.H paragraph’s last sentence (−8); cut “Rocky could argue his 12 February email was
+merely a negotiating step, as it opens ‘Confirming discussions’ and its other points promise nothing” to “Its other points promise
+nothing” (−17); compress the Pao On and Roscorla paragraph, whose fallback the answer itself calls “doubtful” (about −20);
+compress the Part I conclusion (about −10). Even so, not all five fit; on marks at risk per word the order is K7, K10, K9, K8, K11.
+
+
+3. Currency of each authority
+
+Authority                                                            Status (checked 13 October 2026)
+Gibson v Manchester City Council [1979] 1 WLR 294                    Good law (HL); routinely applied in Australia.
+Empirnall Holdings v Machon Paull (1988) 14 NSWLR 523                Good law (NSWCA); McHugh JA’s 535 to 536 test is the leading NSW
+                                                                     statement.
+Brambles Holdings v Bathurst City Council (2001) 53 NSWLR 153        Good law on formation. Ipp AJA’s 191 ‘ambiguity gateway’ (from Codelfa) is
+                                                                     contested: Mainteck Services v Stein Heurtey [2014] NSWCA 184 and
+                                                                     Mount Bruce Mining v Wright Prospecting (2015) 256 CLR 104 read the
+                                                                     gateway down, though Western Export Services v Jireh (2011) 86 ALJR 1
+                                                                     says Codelfa binds until the High Court rules. The answer’s ‘arguably
+                                                                     ambiguous’ hedge means nothing turns on it. Heydon JA’s 164 point is
+                                                                     confirmed by Agricultural and Rural Finance v Gardiner (2008) 238 CLR
+                                                                     570.
+Ermogenous v Greek Orthodox Community (2002) 209 CLR 95              Good law; the leading authority.
+Masters v Cameron (1954) 91 CLR 353                                  Good law; the fourth class (Sinclair Scott) is outside the readings and not
+                                                                     needed.
+Godecke v Kirwan (1973) 129 CLR 629                                  Good law. Gibbs J at 646 to 647 is a single judge’s dictum; the answer says
+                                                                     ‘doubted’, which is accurate.
+Meehan v Jones (1982) 149 CLR 571                                    Good law. Gibbs CJ (honestly) and Mason J (honestly, or honestly and
+                                                                     reasonably) differ; the answer cites each for his own point.
+Thorby v Goldberg (1964) 112 CLR 597                                 Good law (cited through Mason J).
+Coulls v Bagot’s Executor (1967) 119 CLR 460                         Good law on party status; Windeyer J’s 494 and 495 passages are from a
+                                                                     dissent on the result but state the settled rule, and the answer labels them
+                                                                     ‘dissenting’.
+Trident v McNiece (1988) 165 CLR 107                                 Good law; the burden aspect is untouched by the case’s limited benefit
+                                                                     exception.
+Port Jackson v Salmond & Spraggon (1978) 139 CLR 231                 Reversed: New York Star (1980) 144 CLR 300 (PC). The answer flags it.
+                                                                      See K5.
+Sundell v Emm Yannoulatos (1955) 56 SR (NSW) 323                      Good law in NSW; Musumeci v Winadell (1994) 34 NSWLR 723 (practical
+                                                                      benefit) is first instance and not needed.
+Wigan v Edwards (1973) 47 ALJR 586                                    Good law; Mason J at 594 with Walsh and Gibbs JJ agreeing on the point.
+Banque Brussels Lambert v ANI (1989) 21 NSWLR 502                     First instance (Rogers CJ Comm D); good law and commonly applied. The
+                                                                      answer does not overstate its level.
+Upper Hunter v Australian Chilling (1968) 118 CLR 429                 Good law.
+Australian Woollen Mills v Commonwealth (1954) 92 CLR 424             Good law.
+Roscorla v Thomas (1842) 3 QB 234                                     Good law, subject to the Pao On exception the answer applies.
+Pao On v Lau Yiu Long [1980] AC 614                                   Good law; followed in Australia.
+
+
+4. Is this the objectively best answer?
+
+No. It is a very strong answer, and on the authorities it uses it is almost faultless: every quotation checks verbatim, every pin is right,
+every judge is correctly named, the one dissent is labelled, the one reversed case is flagged, and the single-judge dictum is hedged.
+It is not the best answer for four reasons.
+
+First, C1 is a substantive error, not a slip. The problem proves that Rocky provided a guarantee; the live question is what he
+provided. By saying AMPL’s call “does not prove” his assent, the answer frames Rocky’s exposure on a premise the facts deny, and a
+marker who reads the problem’s last paragraph closely will see it.
+
+Second, it misses the authority that most squarely fits the 12 February qualifier (K2). Rocky’s email made the loan ‘subject to
+satisfactory conditions’; Jessel MR’s words quoted at Masters 362 deal with an agreement “subject to certain conditions then
+specified or to be specified by the party making it”. The better answer leads with that and uses Godecke only to distinguish Grace’s
+best case.
+
+Third, it leaves four arguments unmet that a contracts academic would expect for one side or the other: privity of the $10,000
+promise (K7), the duty to co-operate against AMPL’s premature call (K10), the third-party branch of the existing legal duty rule (K9),
+and whether Rocky’s own ‘ensure’ undertaking is promissory or mere comfort (K8).
+
+Fourth, two citations are used for less than they say (K3, K6).
+
+The better answer would: fix C1 to C3; put Crossley (through Masters 362) against Grace on the qualifier; add the one-sentence
+privity answer for the $10,000 claim; name and meet the duty to co-operate in the condition paragraph; state the Pao On 632 branch
+in a clause; and fund it by cutting the repeated ‘pays it himself’ point, compressing the Part I opening and the doubtful past
+consideration fallback.
+
+
+5. Margin comments, paragraph by paragraph
+
+I, para 1 (offer). Good close reading of ‘I will lend’ against ‘may be prepared to sell’. Gibson is stretched for the 5 February call; the
+point is that Grace promised nothing. “Rocky could argue … negotiating step” is fair but costs words the answer needs later.
+
+I, para 2 (acceptance and consideration). Clean. ‘Confirmed’ answered against ‘Please confirm agreement’ is exactly right.
+Ensure your citation precisely supports the proposition for which it is relied: fn 4 (Brambles 177) describes classical theory; it is not
+the consideration rule.
+
+I, para 3 (intention). The strongest paragraph in Part I. The pronoun ‘it’ at the end of the first sentence is unclear (C3). “here
+Rocky” needs its reason (K1). Rocky’s best authority, Jessel MR at Masters 362, is missing (K2).
+
+I, para 4 (certainty). Excellent distinction of Meehan: honesty governing an external condition against discretion over the loan’s
+content. ‘Perhaps’ and the honest-and-reasonable variant could be met in a clause, but this is well done.
+
+I, para 5 (privity). Correct and well sourced; the signature point using Mrs Coulls is effective. “took his guarantee” is consistent
+with the problem’s ‘provided by Rocky’, which makes the Part II sentence in C1 all the harder to reconcile.
+
+I, para 6 (conclusion). Clear bottom line; reimbursement disposed of in substantive terms.
+
+II, para 1 (offer and acceptance). Correct; Lord Greene MR’s words are properly attributed. Disclose that Eccles concerned a
+formal contract, so the words apply by analogy.
+
+II, para 2 (who promised). Sensible weighing of ‘you’ against control, office and loan. Lord Reid’s requisites are an odd vehicle for
+a director question (K6). Further information (whom Pierre spoke for) is implicit; state it.
+
+II, para 3 (consideration). The existing legal duty rule is named and well met on timing. The Pao On 632 branch is missing (K9).
+
+II, para 4 (intention). Correct use of Ermogenous [26]. Further analysis is required: Rocky’s ‘ensure’ undertaking against the
+letter of comfort in Banque Brussels is never weighed (K8).
+
+II, para 5 (certainty). “unqualified” misdescribes Rocky’s conditional words (C2). Otherwise sound.
+
+II, para 6 (the guarantee). Your statement of the facts is incorrect: the problem proves a guarantee was ‘provided by Rocky’, and
+those are not AMPL’s words (C1). The Empirnall 535 to 536 analysis that follows is good and fairly hedged.
+
+II, para 7 (consideration for the guarantee). Accurate on Pao On and Roscorla; the fallback through signing the Loan Agreement
+is a good point. The third Pao On condition is not stated; not fatal.
+
+II, para 8 (the 12 months). Good textual analysis of ‘recorded’ against the 4% rate. The interest payments fact is not applied
+(K11).
+
+II, para 9 (condition). Correct classification with Meehan 582; the commercial reading is put and met. The duty to co-operate is
+missing (K10).
+
+II, para 10 (conclusion). Exposure stated precisely, as R-AD requires. The last clause repeats para 9.
+
+
+6. Marks
+
+Holistic mark: 84 (Distinction, at the top of the band). The law is accurate and the citations are exact, which is rare; the
+reasoning is explicit and hedged. It stops short of High Distinction because it misreads a proven fact on the most valuable issue
+(Rocky’s exposure on the guarantee), misses the best authority on the 12 February qualifier, and leaves four arguments for one side
+or the other unmet.
+
+Rubric mark (SHEET_v12 with R-AB to R-AE): 77.
+
+Multipliers: Excellent 1.00; Very Good 0.75; Good 0.60; Fair 0.45; Poor 0.20; Omitted 0.
+
+Unit                       Pts                        Grade                      Score                    Reason
+P                          2.0                        Exc                        2.000                    C3 named and disposed of;
+                                                                                                          Development Agreement as
+                                                                                                          stipulated
+I.A                        3.0                        VG                         2.250                    Gibson stretched for 5
+                                                                                                          February (K4)
+I.B                        2.0                        Exc                        2.000
+I.C                        2.0                        VG                         1.500                    fn 4 source (K3); the Loan
+                                                                                                          Agreement’s fresh terms and
+                                                                                                          AMPL’s price not named
+I.D                        6.0                        VG                         4.500                    ‘here Rocky’ unreasoned
+                                                                                                          (K1); Masters framed
+                                                                                                          without the formal-contract
+                                                                                                          analogy; C3 lapse
+I.E                        3.0                        VG                         2.250                    Gibbs J’s hedges and the
+                                                                                                          ‘Perhaps’ exception not met
+                                                                                                          in terms
+I.F1                       2.5                        VG                         1.875                    reversed majority cited
+                                                                                                          where Barwick CJ at 240
+                                                                                                          states the rule (K5)
+I.F2                       7.5                        Exc                        7.500
+I.F3                       1.0                        Good                       0.600                    routes around privity only by
+                                                                                                          the agency line
+II.A                       2.5                        Exc                        2.500
+II.B                       3.0                        VG                         2.250                    Lord Greene MR’s analogy
+                                                                                                          not disclosed
+II.C1                      1.5                        VG                         1.125                    price moving from Rocky
+                                                                                                          implicit only
+II.C2                      5.5                        VG                         4.125                    Pao On 632 branch missing
+                                                                                                          (K9)
+II.D                       5.0                        Good                       3.000                    letter of comfort point and
+                                                                                                          ‘binds Rocky likewise’
+                                                                                                          missing (K8)
+II.E                       2.5                        VG                         1.875                    C2; ‘once Grace repays’ not
+                                                                                                          illusory left to II.H
+II.F1                      1.0                        Fair                       0.450                    Rocky as promisee and ‘the
+                                                                                                          clause’ both ways not
+                                                                                                          addressed (K7)
+II.F2                      4.0                        VG                         3.000                    further information implicit;
+                                                                                                          K6
+II.G                       5.0                        VG                         3.750                    interest payments not
+                                                                                                          applied (K11)
+II.H                       4.5                        VG                         3.375                    duty to co-operate missing
+                                                                                                          (K10)
+II.I1                      4.0                        Fair (D4 cap)              1.800                    C1
+II.I2                      3.5                        Exc                        3.500
+II.I3                      4.0                        Exc                        4.000
+II.I4                      5.0                        VG                         3.750                    March instalment not
+                                                                                                          addressed
+Units                      80.0                                                  62.975
+R1 Style                   4.0                        VG                         3.000                    C2, C3
+R2 Application             3.0                        VG                         2.250
+R3 Structure               2.0                        Exc                        2.000                    party headings per R-AC
+R4 Issues                  2.0                        VG                         1.500                    K7 to K10
+R5 Prioritisation          1.5                        Exc                        1.500
+R6 Uncertainty             2.0                        VG                         1.500                    further information on whom
+                                                                                                          Pierre spoke for left implicit
+R7 Terminology             1.0                        Exc                        1.000
+R8 Citation                2.5                        VG                         1.875                    fn 16 ‘quoting’ form
+                                                                                                          inconsistent; K3, K5
+R9 Word count              1.0                        Exc                        1.000                    1,491 = 1,488 + 3 (R-P)
+R10 Consistency                1.0                 VG                           0.750           Part I ‘took his guarantee’
+                                                                                                against Part II’s ‘does not
+                                                                                                prove’ (C1)
+Global                         20.0                                             16.375
+
+Arithmetic: 62.975 + 16.375 = 79.350; less D4 (C1) −2 = 77.350; rounded down, 77.
+
+
+LAWS1061-format grid
+
+LAWS1150/JURD7150: Principles of Private Law Mid-Term Assignment T3 2026: Feedback Sheet
+
+STUDENT NAME & zID: Yusuf Ahmed Marked by: A Cross-marked: No
+
+                         Exc          VG                Good             Fair            Poor            Omit’d
+PRELIMINARY:             x
+Development
+Agreement;
+reimbursement
+I. Rocky v Grace
+(27%)
+• Offer: 5 February                   x
+call; email bullet 1
+(Gibson)
+• Acceptance:            x
+‘Confirmed’
+(Empirnall)
+• Consideration:                      x
+promise for
+promise. Ensure
+your citation
+precisely supports
+the proposition for
+which it is relied: fn
+4.
+• Intention: ‘subject                 x
+to satisfactory
+conditions’
+(Ermogenous,
+Masters, Godecke).
+Whose satisfaction
+needs its reason;
+consider Masters
+362.
+• Certainty: illusory                 x
+promise; honesty
+(Meehan)
+• Privity: agency                     x
+(Port Jackson)
+• Privity: the rule,     x
+party status, joint
+promisee, signature
+(Coulls)
+• Privity: routes                                       x
+around the rule
+II. Rocky v AMPL,
+alternatively
+Pierre (51%)
+• Offer: ‘expected’;     x
+bilateral offer
+• Acceptance: oral                    x
+bargain binding
+without the
+document
+• Consideration:                      x
+price moving from
+Rocky
+• Consideration:                      x
+existing legal duty
+rule (Wigan,
+Sundell). The Pao
+On branch if Pierre
+promised is
+missing.
+• Intention: cousins                                    x
+and a company
+(Ermogenous,
+Banque Brussels).
+Further analysis is
+required: Rocky’s
+own undertaking
+against a letter of
+comfort.
+• Certainty:                          x
+‘ensure’; ‘once
+Grace repays’
+• Privity: Rocky as                                                            x
+promisee of the
+$10,000; ‘the
+clause’
+• Privity: who                          x
+promised, AMPL or
+Pierre
+• The 12 months                         x
+(Brambles)
+• Condition                             x
+precedent: ‘once
+Grace repays’
+(Meehan). The duty
+to co-operate is not
+addressed.
+• AMPL’s call:                                                                 x
+burden of privity;
+the clause; the
+undertaking. Your
+statement of the
+facts is incorrect:
+the guarantee was
+‘provided by Rocky’.
+• Content and          x
+assent (Empirnall
+535 to 536)
+• Consideration        x
+from AMPL; past
+consideration (Pao
+On, Roscorla)
+• Timing and                            x
+exposure on both
+readings
+Style, clarity of                       x
+expression,
+conciseness,
+grammar &
+spelling,
+persuasiveness of
+argument
+Application of law                      x
+(cases) to facts to
+come to conclusion,
+using authority
+Citation: References                    x
+according to
+AGLC4. Minor non-
+compliance: fn 16’s
+‘quoting’ form.
+
+NB: marks are allocated for identification of issues/non-issues, knowledge of relevant law (cases), and application to facts. Not all dot
+points are of equal complexity or value.
+
+TOTAL MARK: 77 (rubric); 84 (holistic)
+
+Marker B
+
+MARK B (hostile examiner B, independent)
+Answer marked: MARKS/final/in/ANSWER.md, taken at face value. Body 1,488 words on verify.py’s count; the stated ‘Word count:
+1,491’ is body plus three (R-P), so it is correct. verify.py: 40 quotations, 0 FAIL, 2 CHECK PIN (Brambles 176 and Pao On 629–30,
+both known artefacts and both confirmed at source below). No em or en dash, no double quotation mark, no contraction and no first
+person in the body.
+
+1. Certain defects (provable from the verbatim text)
+
+C1. The narrated guarantee is treated as AMPL’s assumption rather than as a proven fact. - Sentence: “AMPL’s call ‘under
+the personal guarantee provided by Rocky’ assumes, but does not prove, his assent, and because privity prevents AMPL and Grace’s
+contract imposing obligations on Rocky, AMPL must show that assent.” - Proof: the words are the problem’s, not AMPL’s: ‘AMPL
+called for payment of the Loan under the personal guarantee provided by Rocky’ (question, final paragraph). The Instructions say
+‘You may assume the facts provided in the scenario to be proven’ (Instructions p 1). On R-M, that phrase proves that Rocky provided
+a personal guarantee; only what ‘provided’ consisted of (his oral undertaking, assent to the written clause, or both) is open. Saying
+the fact ‘does not prove’ anything denies a narrated fact its force, and the sheet’s D4 list names ‘personal guarantee provided by
+Rocky’ treated as a party’s assertion. - Fix (+5 words; body 1,493): “Rocky ‘provided’ the guarantee, but whether by assenting to the
+clause or only by his oral undertaking is unclear, and because privity prevents AMPL and Grace’s contract imposing obligations on
+Rocky, AMPL must show assent to the clause.”
+
+C2. Footnote 31 cites a passage about a different kind of contract. - Sentence: “but Rocky’s ‘I will do that’, given for the
+$10,000 promise, likely binds him at least to his oral undertaking.[^31]” (fn 31: Australian Woollen Mills 456–7). - Proof: the passage
+at 456 is about ‘cases of this class’, in which ‘the consideration on the part of the offeree is completely executed by the doing of the
+very thing which constitutes acceptance of the offer’, that is, a promise given in exchange for an act; the ‘quid pro quo’ at [457] is
+the link between an announcement and an act (CB2A 103, [4.20]). On the answer’s own analysis Rocky’s undertaking was ‘a promise
+for a promise’ (fn 19), so it is a bilateral contract, and the passage does not deal with it. The Court in Australian Woollen Mills also
+found no contract. Ensure your citation precisely supports the proposition for which it is relied on. - Fix (0 words): replace fn 31 with
+‘Brambles (n 4) 177 (Heydon JA).’, the authority the answer already uses at fn 19 for the exchange of promises, or delete the footnote
+and write ‘as formed above’ (+2 words).
+
+C3. The two Parts take inconsistent positions on the guarantee. - Sentence (Part I): “it lent in its own name and took his
+guarantee, so it contracted for itself”. - Proof: Part II then says AMPL ‘must show that assent’ and concludes he is bound by the
+clause only ‘if Rocky assented to the clause’. Part I says, without qualification, that AMPL took his guarantee, which is the point Part
+II leaves open. R10 (one doctrinal footing). - Fix (0 words): “it lent in its own name and named him guarantor, so it contracted for
+itself”.
+
+No authority is misquoted, mis-pinned, attributed to the wrong judge or given the wrong majority or dissent label. Every pin was
+checked against the casebook or official text: Gibson 298; Empirnall 534 and 535–6; Brambles 164, 176, 177 and 191 (Ipp AJA, with
+whom Mason P agreed, so the majority); Ermogenous [25]–[26]; Masters 363; Godecke 642–3 (Walsh J) and 646–7 (Gibbs J); Meehan
+580–2 (Gibbs CJ) and 589–90 (Mason J); Coulls 486, 487 (Taylor and Owen JJ) and 494, 495 (Windeyer J, correctly marked as
+dissenting); Port Jackson 269 (Mason and Jacobs JJ quoting Lord Reid); Sundell 327; Wigan 594; Banque Brussels 523; Upper Hunter
+437; Roscorla 237; Pao On 629–30; Trident (Deane J), with no pin because the reading has no page markers (R-Y).
+
+2. Contestable points, with fixes
+
+  1. Part I is framed around Grace’s claim, not Rocky’s. The question asks for the ‘contractual claims he could make’. The
+     opening says the primary issue is whether ‘Grace could claim that Rocky failed to lend’. The claim Rocky would actually make
+     against Grace under the February dealings is that AMPL’s advance, made at his request, performed his 12 February promise,
+     so that Grace owes him repayment. The answer dismisses this in a clause (‘neither performed his email’). Further analysis is
+     required as your statement is conclusive. The fix is to frame the opening on Rocky’s claim (word-neutral). Then give one
+     sentence of reasons: the advance was $1,150,000 rather than $1 million, made on 27 February rather than ‘by 15 February’,
+     and in AMPL’s name, with terms first fixed at 4% on 8 April (about +25 words).
+  2. The Lord Reid conditions are used to decide whether Pierre contracted for AMPL (fn 22: ‘The same agency conditions
+     guide whether Pierre … contracted on its behalf’). Lord Reid’s four requisites govern whether a carrier contracted as agent for
+     a stevedore so that the stevedore could take the benefit of exemption clauses. Requisites (1) and (4), that the bill makes the
+     protection clear and that consideration moves from the stevedore, have no counterpart in whether a director’s oral promise
+     binds his company. The better course is to frame the question as which party Rocky’s ‘you’ objectively addressed (Ermogenous
+     [25]), with the authority and purporting facts as the answer already weighs them. The ‘further information’ about whom Pierre
+     spoke for should also be named (R6).
+  3. Port Jackson is cited at 269 (Mason and Jacobs JJ), the majority that the Privy Council reversed. The ‘rev’d’ history is
+     disclosed, which is correct AGLC practice. However, the sheet prefers 240 (Barwick CJ, who would have upheld the stevedore’s
+     protection), and the reversal invites a marker to query the source. Since the requisites themselves were never doubted, either
+     pin is defensible.
+  4. Footnote 4 (consideration) rests on McHugh JA’s description of ‘classical theory’, where ‘the typical contract is a
+     bilateral one and consists of an exchange of promises’ (Brambles 177). That passage is about the limits of offer-and-acceptance
+     analysis, not a statement of consideration doctrine. Australian Woollen Mills 456–7 states the bargain (quid pro quo) principle
+     directly and is the better footnote here, unlike at fn 31.
+  5. II.C2 misses Pao On’s third-party point. If Pierre promised personally, any existing guarantee duty was owed to AMPL, not
+     to Pierre. A promise to perform a duty owed to a third party is good consideration (Pao On 632), and Mason J’s own limit,
+     ‘made to the promisee under that contract’ (Wigan 594), already points there. This is the strongest answer to AMPL’s or
+     Pierre’s existing legal duty argument, and it costs one clause (+15).
+  6. II.D omits the argument that most helps Rocky on his own exposure. The answer finds intention ‘whoever promised’
+     because a fixed sum is ‘appropriately promissory’. It does not put the opposite point for Rocky’s own undertaking: that ‘ensure’
+     is closer to the comfort given in Banque Brussels, where the letter of comfort conditioned the facility. Only after that is met
+     should it be found ‘weaker here’ because Rocky’s words were given for a price. As it stands, Banque Brussels is cited without
+     saying what the case was about (+20).
+  7. II.H omits the duty to co-operate. Rocky’s best answer to ‘once Grace repays’ is not only a commercial reading (Upper
+     Hunter 437). He can also argue that AMPL may not rely on a condition whose fulfilment its own call frustrates. That argument
+     should be put and met: the call does not stop Grace repaying (R-O), so it fails (+20).
+  8. II.I4 omits the March instalment. Interest is shown paid only ‘Between 8 April 2024 and 8 February 2025’. On the 8 April
+     reading, whether a March 2025 instalment was missed decides whether Rocky’s oral undertaking (to ‘ensure … all payments’)
+     is already breached. The closing paragraph speaks only of ‘any amount when due’ (+15, hedged under R-M).
+  9. II.F1 is never stated. The $10,000 was to be paid ‘to me directly’, so Rocky is the promisee, and privity is no bar to his claim
+     against whoever promised (Coulls 494). It needs one line (+12).
+ 10. Gibbs J in Godecke (646–7) is dictum. ‘Doubted’ is a fair verb, but the answer then relies on it as the decisive reason (‘so on
+     balance’). A strict marker would want ‘in obiter’ (+2), as the sheet’s D3 entry for Godecke 646 to 647 shows.
+ 11. Pierre’s ‘expected’ is labelled an ‘invitation to treat’. That is defensible, because it drew Rocky’s offer, but ‘a request, not
+     an offer’ is the safer course term and costs the same.
+ 12. Pao On conditions are stated incompletely. The answer gives the request and ‘was to be remunerated’, but omits that the
+     payment ‘must have been legally enforceable had it been promised in advance’. That is harmless on these facts but incomplete
+     (+8).
+ 13. The lender’s opening act is not named on the facts in II.G. ‘Post-contractual conduct cannot interpret the term’ is stated
+     without the fact it excludes: Grace’s ‘appropriate monthly repayments’ from 8 April 2024 (and his own ‘I have until 8 April
+     2025’). Name them (+10). A reader should not have to infer which conduct is meant.
+ 14. Footnote style is inconsistent. Judges are named in every footnote except Masters (fn 6: Dixon CJ, McTiernan and Kitto JJ)
+     and Australian Woollen Mills (fn 31 and 36: the Court). Either name them or adopt one convention.
+
+3. Currency per authority (WebSearch and course texts)
+
+Authority                                                            Status
+Gibson [1979] 1 WLR 294                                              Good law; offer and invitation distinction unaffected.
+Empirnall (1988) 14 NSWLR 523                                        Good law; routinely applied on acceptance by conduct.
+Brambles (2001) 53 NSWLR 153                                         Good law; 191 is Ipp AJA for the majority (Mason P agreeing); 164 and 177
+                                                                     are Heydon JA, who disagreed in part.
+Integrated Computer (1988) 5 BPR 11,110                              Good law.
+Eccles v Bryant [1948] Ch 93                                         Good law; ‘[1948] Ch 93’ is the correct report.
+Ermogenous (2002) 209 CLR 95                                         Good law; the leading HCA authority on intention.
+Masters v Cameron (1954) 91 CLR 353                                  Good law; supplemented by the fourth category (Sinclair Scott; Baulkham
+                                                                     Hills), not doubted.
+Godecke v Kirwan (1973) 129 CLR 629                                  Good law; 646–7 is Gibbs J’s obiter.
+Meehan v Jones (1982) 149 CLR 571                                    Good law.
+Thorby v Goldberg (1964) 112 CLR 597                                 Good law (cited through Mason J).
+Coulls (1967) 119 CLR 460                                            Good law on privity; Trident criticised the rule’s merits but did not overrule
+                                                                     it.
+Port Jackson (1978) 139 CLR 231                                      Reversed by the Privy Council, New York Star (1980) 144 CLR 300
+                                                                     (disclosed in fn 16); Lord Reid’s requisites themselves were adopted, not
+                                                                     doubted.
+Scruttons v Midland Silicones [1962] AC 446                          Good law; Lord Reid at 474 adopted in The Eurymedon.
+Sundell (1955) 56 SR (NSW) 323                                       Good law but qualified in NSW by the practical benefit line (Musumeci v
+                                                                     Winadell (1994) 34 NSWLR 723). This is immaterial here because the
+                                                                     answer finds no existing duty.
+Wigan v Edwards (1973) 47 ALJR 586                                   Good law.
+Banque Brussels (1989) 21 NSWLR 502                                  Good law; first instance (Rogers CJ, Comm D), correctly not described as
+                                                                     appellate.
+Upper Hunter (1968) 118 CLR 429; Scammell [1941] AC 251              Good law.
+Trident (1988) 165 CLR 107                                           Good law; Deane J’s statement of the general rule is uncontroversial.
+Australian Woollen Mills (1954) 92 CLR 424                           Good law (misapplied at fn 31: see C2).
+Roscorla v Thomas (1842) 3 QB 234                                    Good law, subject to Pao On.
+Pao On [1980] AC 614                                                 Good law; the three conditions at 629–30 are applied in Australia.
+
+Sources checked: ICLR, New York Star (PC); vLex, Port Jackson Stevedoring v Salmond and Spraggon; Musumeci v Winadell
+summary.
+
+4. Is this the objectively best answer?
+
+No. It is a very good answer, accurate at source to a degree few scripts reach, and its reasoning on the 12 February email, Meehan
+and illusoriness, and privity is close to the best that 1,500 words allow. It is not the best answer for five reasons:
+
+  1. Part I answers the wrong claimant’s question first. It defends against Grace instead of testing Rocky’s own best claim,
+     that AMPL’s advance at his request was his lending.
+  2. Three points that matter to Rocky’s exposure are missing. The letter-of-comfort argument against his being bound by
+     ‘ensure’ is not made. The Pao On third-party answer on consideration is absent. The duty to co-operate is not put on ‘once
+     Grace repays’.
+  3. Two authorities are stretched beyond what they decide. Australian Woollen Mills is used for a bilateral promise. Lord
+     Reid’s carrier and stevedore requisites are used for whether a director binds his company.
+  4. One narrated fact is downgraded to a party’s assumption (C1), and Part I and Part II disagree on the guarantee (C3).
+  5. The March instalment and the further information about whom Pierre spoke for are not used. Both decide parts of
+     the bottom line.
+
+A better answer would, within the same words, do the following: - Funding. Cut the restatements to pay for about +100 words of
+missing argument: the final paragraph’s re-quotation of the clause, ‘Grace’s … is therefore right, but signature is not the test’
+compressed, and the duplicated condition reasoning in the last paragraph. - Part I. Open on Rocky’s claim against Grace and
+dispose of it on the four mismatches. - II.C2 and II.D. Put Pao On 632 for the Pierre branch, and the comfort-letter point both ways
+for Rocky’s undertaking. - II.H and II.I4. Name and meet the duty to co-operate, and give the March instalment as the ‘arguable’
+breach on the 8 April reading. - Citations and the guarantee. Fix C1 to C3.
+
+5. Margin comments per paragraph
+
+     I ¶1 (offer). Good use of Gibson’s contrast with ‘may be prepared to sell’. However, the opening frames Grace’s claim; Rocky
+     is the client and the question is his claims. Further analysis is required as your statement is conclusive on ‘Rocky declined, so
+     no contract formed’: say why a ‘not interested’ reply to a proposal for Rocky to offer leaves nothing to accept.
+     I ¶2 (acceptance, consideration). Acceptance is well done: ‘Confirmed’ answered ‘confirm agreement’. On consideration,
+     ensure your citation precisely supports the proposition for which it is relied (fn 4 is a passage on offer-and-acceptance theory).
+     I ¶3 (intention). Strong. Godecke is put for Grace and distinguished on ‘in an objective sense’, and whose satisfaction counts
+     is decided once. Name the third Masters class you are applying. Gibbs J at 646–7 is obiter; say so.
+     I ¶4 (certainty). Excellent: honesty is put and met on Gibbs CJ’s own limit, ‘only to the fulfilment of a condition’. Raising ‘this
+     morning’ as further information is apt.
+     I ¶5 (privity). Accurate on Coulls 486–7 and the signature point. However, ‘took his guarantee’ contradicts Part II (C3).
+     ‘Neither performed his email’ needs its reasons.
+     I ¶6 (conclusion). Clean. ‘Whenever the 12 months began’ is a good cross-reference.
+     II ¶1 (offer, acceptance). Correct. Disclose that Lord Greene MR spoke of exchanges of contracts before borrowing his
+     words.
+     II ¶2 (who promised). The reasoning on ‘you’ against AMPL’s office is good, but the agency requisites are the wrong test
+     (contestable 2). Name the further information.
+     II ¶3 (existing legal duty). Good: the rule is named, Mason J’s limit is applied, and ‘goes beyond’ is well found. Add Pao On
+     for the Pierre branch.
+     II ¶4 (intention). The onus is correctly placed. The opposing point for Rocky’s own undertaking (letter of comfort) is not put.
+     II ¶5 (certainty). Sound. Reading ‘ensure’ as a promise of a result is the right lean.
+     II ¶6 (guarantee clause). The handling of Empirnall 534 and 535–6 is careful and the inference is marked. However, the
+       ‘provided by Rocky’ sentence misreads a proven fact (C1), and fn 31 is the wrong authority (C2).
+       II ¶7 (consideration for the guarantee). Very good: Roscorla, Pao On and AMPL’s fallback (signing after the clause) are all
+       well put. Pao On’s third condition is omitted.
+       II ¶8 (12 months). Very good: the ‘recorded’ answer on the 4% rate is a sharp point. Name the conduct that is excluded.
+       II ¶9 (condition). Correctly classed as a condition precedent to the obligation, not to the contract. The duty to co-operate is
+       absent.
+       II ¶10 (conclusion). Exposure is stated precisely on both readings, as R-AD requires. The point that he forfeits the $10,000 if
+       he pays himself is correctly drawn from the condition. Add the March instalment.
+
+6. Marks
+
+Holistic: 84/100 (Distinction, high; one step below HD). It is accurate, well hedged and well cited. It falls short of HD because
+of the misframed Part I and the three missing arguments that bear on Rocky’s own exposure.
+
+Rubric (SHEET_v12 read with R-AB to R-AE): 80/100.
+
+Grid, in LAWS1061 format:
+
+Item               Pts          Exc            VG             Good           Fair          Poor           Omit’d         Score
+P Preliminary   2.0             x                                                                                        2.000
+(reimbursement;
+Development
+Agreement)
+I.A Offer          3.0          x                                                                                        3.000
+I.B Acceptance     2.0          x                                                                                        2.000
+I.C                2.0                         x                                                                         1.500
+Consideration:
+ensure your
+citation
+precisely
+supports the
+proposition (fn
+4)
+I.D Intention:     6.0                         x                                                                         4.500
+Masters class
+not named;
+Gibbs J’s obiter
+used without its
+status
+I.E Certainty      3.0          x                                                                                        3.000
+I.F1 Rocky lent  2.5                           x                                                                         1.875
+nothing; agency:
+further analysis
+is required as
+your statement
+is conclusive
+I.F2 Privity:      7.5          x                                                                                        7.500
+rule, parties,
+joint promisee,
+signature
+I.F3 Routes        1.0                         x                                                                         0.750
+around privity
+(agency only)
+II.A Offer         2.5                         x                                                                         1.875
+II.B Acceptance    3.0                         x                                                                         2.250
+(Lord Greene
+MR’s analogy
+undisclosed)
+II.C1 Price of     1.5                         x                                                                         1.125
+Rocky’s promise
+(Pierre branch
+absent)
+II.C2 Existing     5.5                         x                                                                         4.125
+legal duty rule
+(Pao On 632
+absent)
+II.D Intention     5.0                         x                                                                         3.750
+(letter of
+comfort point
+absent)
+II.E Certainty     2.5                         x                                                                         1.875
+II.F1 Rocky the    1.0                                                       x                                           0.450
+promisee (not
+stated)
+II.F2 Who          4.0                         x                                                                         3.000
+promised
+(wrong test;
+further
+information
+unnamed)
+II.G The 12        5.0                         x                                                                         3.750
+months
+(excluded
+conduct
+unnamed)
+II.H Condition      4.5                        x                                                                          3.375
+precedent (duty
+to co-operate
+absent)
+II.I1 Burden        4.0                        x                                                                          3.000
+aspect; own
+undertaking (fn
+31)
+II.I2 Content       3.5                        x                                                                          2.625
+and assent
+(‘provided by
+Rocky’, C1)
+II.I3               4.0         x                                                                                         4.000
+Consideration
+moving from
+AMPL
+II.I4 Timing and    5.0                        x                                                                          3.750
+consequences
+(March
+instalment
+absent)
+R1 Style and        4.0                        x                                                                          3.000
+clarity
+R2 Application      3.0                        x                                                                          2.250
+of law to facts
+R3 Layout and       2.0         x                                                                                         2.000
+structure (party
+headings, R-AC)
+R4 Issues and       2.0                        x                                                                          1.500
+non-issues
+R5 Prioritisation   1.5                        x                                                                          1.125
+(Part I framed
+on Grace’s
+claim)
+R6 Uncertainty      2.0                        x                                                                          1.500
+and further
+information
+R7 Terminology      1.0                        x                                                                          0.750
+R8 Citation         2.5                        x                                                                          1.875
+AGLC4 (fn 31;
+judge naming
+inconsistent)
+R9 Word count       1.0         x                                                                                         1.000
+and format
+R10 Consistency 1.0                            x                                                                          0.750
+across Parts
+(C3)
+
+Arithmetic: - Excellent items: 2 + 3 + 2 + 3 + 7.5 + 4 + 2 + 1 = 24.5. - Very Good items: 74.5 points × 0.75 = 55.875. - Fair item:
+1.0 × 0.45 = 0.45. - Sum: 24.5 + 55.875 + 0.45 = 80.825. - Automatic deductions: none. C1 is graded once inside II.I2 under the one-
+error rule. D7 is not engaged (1,491 = 1,488 + 3). There is no D9 item. - Mark: 80.825, rounded down to 80.
+
+Fixing C1 to C3 alone lifts R8, R10 and II.I2 toward Excellent, for about +2. Fixing contestable points 1, 5, 6, 7 and 8 moves II.C2,
+II.D, II.H, II.I4 and R5 to Excellent, for about +7.5.
+

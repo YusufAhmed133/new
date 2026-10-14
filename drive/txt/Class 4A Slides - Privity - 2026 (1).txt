@@ -1,0 +1,336 @@
+Term 3 2024 – JURD7150 | LAWS1150
+     Principles of Private Law
+
+
+
+
+              4A
+            Privity
+                             Privity of contract
+
+
+
+• What is privity of contract?
+
+Rule: only a person who is a party to a contract can enforce the
+contract and incur obligations under it:
+• Consequently -
+• A contract cannot confer an enforceable benefit on a non-
+  party
+• Nor can it impose an enforceable burden on a non-party.
+                                      Privity of contract
+
+How might a non-party get relief despite the privity rule?
+1. The contracting party might enforce the contract (Beswick v. Beswick (1966) Ch
+    538, at p 554 Lord Denning M.R)
+2. Maybe argue the privity rule does not apply (C was a party to the
+   contract between A and B via agency)
+3. C was acting as a trustee for one party to the contract between A and B
+4. C establishes an estoppel against B if B has led C to believe:
+   1.   C would have enforceable rights against B; or
+   2.   B would perform a certain promise
+        and C has relied on that assumption and would suffer detriment if
+B acted inconsistently with the assumption
+5. C establishes that B’s conduct in making the contract was misleading or
+    deceptive in breach of the CCA
+                                             Illusory Promise & Privity
+                     Placer Development Ltd v Commonwealth (1969) 121 CLR 353
+
+
+
+
+Did an issue of privity arise in Placer Development Ltd v
+Commonwealth?
+
+
+                    Hint: See Windeyer J’s judgment
+                               Privity
+Coulls v Bagot’s Executor and Trustee Co Ltd (1967) 119 CLR 460
+
+                       • Arthur Coulls authorised O’Neil
+                         Construction Pty Ltd to quarry
+                         stone from his land
+                       • Arthur signed the agreement
+                       • Royalties payable to Arthur and
+                         Doris as ‘joint tenants’
+                       • Arthur died.
+                       • Is Doris entitled to royalties or is
+                         Arthur’s estate?
+
+                       • What is the consequence under a
+                         multi-party agreement where
+                         privity is satisfied but one party
+                         has not given consideration for a
+                         particular promise?
+                                                  Privity
+                  Coulls v Bagot’s Executor and Trustee Co Ltd (1967) 119 CLR 460
+
+
+
+Mrs Coulls (Doris) evidence:
+" . . . my husband first informed me of the negotiations. I didn't take part in [them].
+Mr. O'Neil and my husband talked it over, they dictated, I wrote it. I wrote out the
+agreement at their dictation. I wrote the agreement in the Highbury East dining room
+at lunch time.
+The agreement was drawn up without professional assistance. I rang Mr. Crump, a
+solicitor, but couldn't contact him. I rang him at request of Mr. O'Neil and my husband.
+The words 'joint tenancy' came to be written in because first my husband said . . . I
+was to have the income, all the income, but after discussions, I did not think that was
+quite fair, so he said while he lived, we would share it. But it was to come to me on his
+death and then, there was a discussion about the correct term.
+
+There was discussion between all three of us, not one of us knew the correct term, we
+couldn't find a dictionary. We didn’t know whether joint tenancy or tenants in
+common was the apt expression. That is why the words at the end were added."
+"Agreement between Arthur Leopold Coulls and O’Neil
+Construction Proprietary Limited.
+
+In consideration of the sum of 5 pounds I Arthur Leopold
+Coulls, … give to O'Neil Construction Proprietary Ltd. the sole
+right to quarry and remove stone from an area of
+approximately 50 acres situated around blue dolomite hill
+near homestead of original Newman's Nursery.
+
+I also agree to grant a permanent right of way … to
+Perseverance Road. O'Neil Construction Proprietary Ltd.
+agrees to pay at the rate of 3d. per ton for all stone quarried
+and sold, also a fixed minimum royalty of 12 pounds per week
+for a period of 10 years with an option of another 10 years at
+above basis (12 pounds per week minimum).
+
+I also agree to extend this period for another 10 years at 4d.
+per ton royalty with a minimum royalty of 12 pounds per
+week as above.
+
+I authorise the above Company to pay all money connected
+with this agreement to my wife, Doris Sophia Coulls and
+myself, Arthur Leopold Coulls as joint tenants (or tenants-in-
+common?) (the one which goes to living partner).
+
+This agreement is effective from A. L. Coulls
+July 1st 1959
+L. O'Neil, D. S. Coulls."
+                                                 Privity
+                 Coulls v Bagot’s Executor and Trustee Co Ltd (1967) 119 CLR 460
+
+Substantial matters for decision in these appeals [to the HCA]-
+Barwick C.J (diss)., McTiernan, Taylor, Windeyer (diss) and Owen JJ.
+(1) What rights were created by the writing signed by the deceased, the
+company and by the respondent in January 1959 and what effect has the
+death of the deceased had upon any of those rights?
+(2) Can the respondent receive and hold the said royalties as her own and
+also take the full benefit of the direction given in cl. 7 of the will? This matter
+is raised by the executor as a facet of the fourth question asked in the
+originating summons.
+(3) What liability, if any, of the respondent to the executor arose upon the
+recovery of judgment by the mortgagees against the appellant executor, by
+reason of
+(a) the respondent having joined with her husband in the personal
+    covenants of the mortgages;
+(b) her entitlement by survivorship upon his death to the sole proprietorship
+    of the property "Hillcrest".
+                                                 Privity
+                 Coulls v Bagot’s Executor and Trustee Co Ltd (1967) 119 CLR 460
+
+
+4 Questions for the HCA: (3:2 majority decision)
+1. Is O'Neil Construction Pty. Ltd. entitled or bound to pay the royalties
+payable under the said agreement to the applicant, Bagot's Executor and
+Trustee Co. Ltd.? Held: Yes
+
+2. Is O'Neil Construction Pty. Ltd. entitled or bound to pay the said royalties to
+Doris Sophia Coulls, the deceased's widow? Held: No
+
+3. If the said royalties are paid to the applicant, does it receive and hold the
+royalties as executor or trustee of the deceased's estate or for and on behalf
+of the said widow or for the widow and the deceased's estate jointly or in
+common? Held: Yes, as executory of Mr C’s estate
+
+4. Is the said widow the assignee of the said royalties and is she entitled to
+demand that payment of them be made to her and to hold them as her own?
+Held: No.
+                                                  Privity
+                  Coulls v Bagot’s Executor and Trustee Co Ltd (1967) 119 CLR 460
+
+
+
+
+S.Ct of SA held: royalties must be paid to Doris, not Arthur’s executors
+
+HCA
+Maj: Taylor and Owen, and McTiernan
+• Held – agreement was between Co and Mr Coulls. Mrs Coulls is a
+  beneficiary of her husband’s estate
+
+Dissent: Barwick CJ and Windeyer
+• Held – agreement was between the Co and both Mr and Mrs Coulls
+Barwick at [20] The last paragraph in the writing refers to "all money connected with
+this agreement". This indicates, to my mind, that the deceased considered himself to be
+then determining the destination of the produce of his grant of the right to quarry for
+the whole period during which that right might subsist.
+                        Circumventing the Privity rule
+Trident General Insurance Co Ltd v McNiece Bros Pty Ltd
+                              (1988) 165 CLR 107
+13 June 1977: Blue Circle Southern Cement Ltd contracts with Trident General
+Insurance to cover any expenses concerning their subsidiaries, contractors
+and suppliers (this includes any personal injury matters).
+Blue Circle, and its subcontractors, are now entitled to indemnity under
+Trident’s Insurance Policy.
+McNiece Bros subsequently becomes the principal contractor for a
+construction work plant owned by Blue Circle.
+4 July 1979: A crane driver (employee of another company) who was working under
+direction of McNiece was injured on site.
+The crane driver was successfully awarded compensation on grounds of
+personal injury against McNiece.
+McNiece sought indemnity (compensatory relief) from Trident General
+Insurance.
+Trident denies the claim based upon the grounds of doctrine of privity as
+McNiece did not have a direct contract with them.
+          Trident General Insurance Co Ltd v McNiece Bros Pty Ltd (1988) 165 CLR 107
+
+                                                                          The High Court of Australia:
+
+                                                                            ●   High Court hears appeal: on the grounds
+                                                                                that Trident is not legally obligated to to
+                                                                                cover McNiece’s litigation costs because
+                                                                                they do not have a contract with them
+                                                                                (Doctrine of Privity).
+                                  The NSW Court of Appeal:
+                                    ●      Held: McNiece was entitled to their
+                                           claim of indemnity under the Trident
+                                           insurance policy on the basis that at
+                                           common law there was an exception
+                                           to the Doctrine of Privity of contract
+                                           in the case of a beneficiary. [Trident
+                                           Appeals.]
+The Supreme Court of NSW:
+
+ ●   Held: McNiece was entitled to
+     enforce the contract because it had
+     been made by Blue Circle as
+     McNiece’s agent. [Trident
+     Appeals.]
+ Trident General Insurance Co Ltd v McNiece Bros Pty Ltd
+                           (1988) 165 CLR 107
+
+
+Mason CJ + Wilson J (joint judgement):
+● Both open to the idea of reconsidering the strict application of
+  the Doctrine of Privity, just not in this case (as it deals with the
+  matter of insurance) - they question whether the “old rules
+  should apply”
+
+ ● Mason CJ and Wilson J stated the privity rule had been eroded
+   by statute and had the potential to cause injustice, saying:
+   “…we consider it is the responsibility of this court to reconsider
+   in appropriate cases common law rules which operate
+   unsatisfactorily and unjustly.”
+Mason CJ and Wilson J
+
+“It stands to reason that many subcontractors will assume that such an
+insurance is an effective indemnity in their favour and that they will
+refrain from making their own arrangements for insurance on that
+footing.
+That, it seems, is what happened in the present case.
+In the circumstances, notwithstanding the caution with which the court
+ordinarily will review earlier authorities and the operation of long-
+established principle, we conclude that the principled development of the
+law requires that it be recognised that McNiece was entitled to succeed
+in the action.”
+Dawson J dissented – this departure from the principle of privity was ‘an
+invitation to engage in the destruction of accepted principle.
+       Insurance Contracts Act (1984) (Cth) s64
+
+S 64
+• Application to third party beneficiaries In this
+  Part, a reference to an insured includes a reference to
+  a third party beneficiary.
+
+S 11
+"third party beneficiary" , under a contract of
+insurance, means a person who is not a party to the
+contract but is specified or referred to in the contract,
+whether by name or otherwise, as a person to whom the
+benefit of the insurance cover provided by the contract
+extends.
+                           Exceptions to the privity doctrine
+
+
+
+A party not directly involved      Agency
+in acts of contract formation      • Privity rule does not apply if a
+is nevertheless a party to the        person promised a benefit under
+contract when:                        the contract can show that one of
+1. One of the parties acts as         the parties was acting as their
+    agent for the non-                agent
+    involved party
+2. One of the involved
+    parties transfers
+    contractual benefits to
+    the non-involved part by
+    way of an assignment or
+    novation of the
+    agreement
+                    circumvention of the privity doctrine:
+
+
+Third party seeks to enforce a contract as a beneficiary
+
+1. Promisee may hold rights under the contract in trust for the
+   beneficiary (eg: Trident v McNiece)
+2. Beneficiary may be entitled to assert an estoppel against the
+   promisor (eg: estoppel by convention)
+3. Beneficiary may be entitled to claim damages for being misled
+   or deceived (s 18 ACL)
+4. Beneficiary may be entitled to claim damages in tort (breach of
+   duty of care – eg Will incorrectly drafted)
+5. S 64 Insurance Contracts Act 1984 (Cth)
+                            Pros of retaining the Privity Doctrine
+
+
+Practical considerations
+1.   If both the promisee and the 3rd party could enforce a promise by
+     promisor, then double recovery would be possible
+2.   Privity protects a promisor from exposure to the risk of many potential
+     plaintiffs
+3.   Entitlement of a 3rd party to enforce a contract might constrain the
+     freedom of action of promisor and promisee
+Theoretical considerations
+1.   A 3rd party who is promised a benefit under a contract has not
+     participated in the bargain and has not paid for the promise
+2.   Recognising 3rd party rights gives public interests priority over private
+     interests
+                             Cons of the Privity Doctrine
+
+1.   Thwarts intentions of contracting parties
+2.   May cause injustice to 3rd parties
+3.   Prevents 3rd party who has suffered loss from suing – but party who has
+     suffered no loss may sue
+4.   Availability of remedies depends on promisee’s willingness and ability to
+     sue (eg: Coulls v Bagot)
+5.   The range of CL and statutory circumventions suggest the rule is unjust
+6.   The range of exceptions makes the law complex, artificial and uncertain
+7.   A 3rd party can acquire rights under a contract in civil law jurisdictions and
+     via legislation in numerous CL jurisdictions
+8.   JJ recognise the inconvenience and injustice of the rule
+9.   Privity causes difficulties for parties to commercial contracts who want to
+     confer benefits on 3rd parties.
+•   Scenario one
+• A promises to install a fence for B in return for B promising to pay $1,000
+  to C.
+• A installs the fence. B refuses to pay.
+• Can C sue for breach of contract? Can A?
+
+• Scenario two
+• A owns some land. A, B, and C enter into a tripartite agreement under
+  which:
+• A promises to sell the land to B in return for $5,000,000;
+• B promises to offer C the opportunity to redevelop the land;
+• C, who has previously done work for A, promises that if they do the
+  redevelopment it will ‘be sympathetic to the style and design’ of a building
+  that A continues to own next to the land being sold.
+• All three parties sign the agreement. A sells the land to B in return for
+  $5,000,000. Later, A goes into receivership. B refuses to offer C the
+  opportunity to redevelop the land.
+• Can C enforce B’s promise?
+

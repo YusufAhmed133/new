@@ -1,0 +1,1296 @@
+CHAPTER 3
+
+
+Agreement
+[3.10]    OFFER .......................................................................................................................... 40
+                      [3.15]        Gibson v Manchester City Council ......................................................... 40
+                      [3.25]        Carlill v Carbolic Smoke Ball Company .................................................... 43
+                      [3.35]        MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) ... 48
+          [3.50]      Offers distinguished from invitations to treat ................................................ 52
+                      [3.50]        Pharmaceutical Society of Great Britain v Boots Cash Chemists (Southern) ..... 52
+          [3.60]      Revocation of an offer .................................................................................. 53
+                      [3.60]        Goldsbrough Mort & Co v Quinn........................................................... 53
+          [3.75]      Unilateral contracts ...................................................................................... 56
+                      [3.75]        Mobil Oil Australia v Wellcome International ............................................ 56
+[3.100]   ACCEPTANCE ............................................................................................................... 66
+          [3.100] Relationship between the offer and acceptance ............................................ 66
+                      [3.105]       The Crown v Clarke ............................................................................ 67
+          [3.120] Communication of acceptance ..................................................................... 69
+                      [3.120]       Felthouse v Bindley ............................................................................. 69
+                      [3.125]       Empirnall Holdings v Machon Paull Partners ............................................ 70
+                      [3.130]       Brambles Holdings v Bathurst City Council ............................................... 72
+                      [3.215]       Brinkibon v Stahag Stahl Und Stahlwarenhandelsgesellschaft ...................... 87
+                      [3.230]       Electronic Transactions Act 2000 (NSW) ................................................. 89
+                         [3.240]       Guide to Enactment of the UNCITRAL Model Law
+                                       on Electronic Commerce ...................................................................... 92
+                         [3.245]       Butler Machine Tool Co v Ex-Cell-O Corp (England) ................................... 93
+
+
+[3.05] It is generally accepted that four essential elements are necessary for contract
+formation: agreement, consideration, certainty and an intention to create legal relations. This
+chapter is concerned with the first of those elements. The existence of an agreement between
+the parties is usually analysed through the rules of offer and acceptance. These rules may be
+useful in determining whether or not the parties have reached agreement, when and where
+that agreement was made and on what terms. However, the rules of offer and acceptance
+are merely “an aid to analysis” (Greig and Davis, The Law of Contract (1987), p 246). They
+sometimes prove inconclusive or artificial. A contract can be made without an identifiable
+offer and acceptance, provided the parties have manifested their mutual assent.
+   The “acid test” in a case where offer and acceptance cannot be identified, according to
+Cooke J in Meates v Attorney-General [1983] NZLR 308, 377, “is whether, viewed as a whole
+and objectively from the point of view of reasonable persons on both sides, the dealings show
+a concluded bargain”. The authorities on this point are reviewed by Heydon JA in Brambles
+Holdings Ltd v Bathurst City Council [2001] NSWCA 61; (2001) 53 NSWLR 153, extracted
+at [3.130]. Heydon JA concluded (at 179) that, in light of those authorities, in circumstances
+where the traditional approach cannot be applied it is relevant to ask:
+• whether in all the circumstances an agreement can be inferred;
+• whether mutual assent has been manifested; and
+• whether a reasonable person in the position of each of the parties would think there was a
+  concluded bargain.
+
+
+                                                                                                                              [3.05]     39
+Part II: Formation
+
+
+
+OFFER
+[3.10] “An offer is the manifestation of willingness to enter into a bargain, so made as to
+justify another person in understanding that his assent to that bargain is invited and will
+conclude it.” (Restatement (Second) of Contracts, §24, American Law Institute, 1981).
+
+
+                         Gibson v Manchester City Council
+[3.15] Gibson v Manchester City Council [1979] 1 WLR 294 (House of Lords) – Appeal from the Court
+of Appeal.
+   [FACTS: In 1970, Manchester City Council, then controlled by the Conservative Party, adopted a
+scheme allowing tenants of council housing to purchase the freehold title to their homes. In furtherance
+of the scheme, the Council wrote a standard form letter to Robert Gibson in relation to the Council
+house he was renting. The letter said that the Council “may be prepared to sell the house to you” at
+a nominated purchase price and asked Gibson to complete an application form if he wished to make
+formal application to buy the house. Gibson completed an application form (leaving the purchase
+price blank) and returned it to the Council. Before formal contracts were prepared, local government
+elections were held in which control of the Council passed to the Labour Party. The Council then
+resolved to abandon the scheme and to complete only those sales for which a binding contract had
+been concluded. The Council denied that there was a binding contract with Gibson. Gibson claimed
+that a contract had come into existence, and sued to enforce it. The trial judge held that there had
+been an offer and acceptance, and so a binding contract had arisen. He ordered specific performance.
+The Council’s appeal to the Court of Appeal was dismissed. The Council then appealed the House of
+Lords, using this as a test case to determine the status of arrangements with hundreds of tenants in a
+similar position to Gibson.]
+   LORD DIPLOCK [295] My Lords, this is an action for specific performance of what is claimed to be
+a contract for the sale of land. The only question in the appeal is of a kind with which the courts are
+very familiar. It is whether in the correspondence between the parties there can be found a legally
+enforceable contract for the sale by the Manchester Corporation to Mr Gibson of the dwelling house
+of which he was the occupying tenant at the relevant time in 1971. That question is one that, in
+my view, can be answered by applying to the particular documents relied upon by Mr Gibson as
+constituting the contract, well-[296]settled, indeed elementary, principles of English law …. The two
+documents principally relied upon by Mr Gibson were in standard forms used by the corporation in
+dealing with applications from tenants of council houses to purchase the freehold of their homes
+under a scheme that had been adopted by the council … [and later] abandoned …. [T]he only
+contract that is alleged is one made by letters accompanying documents passing between the parties.
+The outcome of this appeal depends upon their true construction.
+    In the Manchester County Court where the action started, the case was pleaded in the conventional
+way. The particulars of claim alleged an offer in writing by the corporation to sell the freehold interest
+in the house to Mr Gibson at a price of £2,180 and an acceptance in writing of that offer by Mr Gibson.
+The judge (Judge Bailey) followed the same conventional approach to the question that fell to be
+decided. He looked to see whether there was an offer of sale and an acceptance. He held that, upon
+their true construction, the documents relied upon as such in the particulars of claim did amount to
+an offer and an acceptance respectively and so constituted a legally enforceable contract. He ordered
+specific performance of an open contract for the sale to Mr Gibson of the freehold interest in the
+house at the price of £2,180.
+   The corporation’s appeal against this judgment was dismissed by a majority of the Court of Appeal
+(Lord Denning MR and Ormrod LJ); Geoffrey Lane LJ dissented. Lord Denning MR rejected what I have
+described as the conventional approach of looking to see whether upon the true construction of the
+documents relied upon there can be discerned an offer and acceptance. One ought, he said ([1978]
+1 WLR 520 at 523H) to “look at the correspondence as a whole and at the conduct of the parties and
+see therefrom whether the parties have come to an agreement on everything that was material.” This
+
+
+40   [3.10]
+                                                                                     Agreement   Chapter 3
+
+
+Gibson v Manchester City Council cont.
+
+approach … led him however to the conclusion that there should be imported into the agreement to
+be specifically performed additional conditions, against use except as a private dwelling house and
+against advertising and a restriction not to sell or lease the property for five years. These are conditions
+which would not be implied by law in an [297] open contract for the sale of land. The reason for
+so varying the judge’s order was that clauses in these terms were included in the standard form of
+“Agreement for Sale of a Council House” which … was entered into by the corporation and council
+tenants whose applications to purchase the freehold of their council house reached the stage at which
+contracts were exchanged. There was, however, no reference to this standard form of agreement in
+any of the documents said to constitute the contract relied on in the instant case, nor was there any
+evidence that Mr Gibson had knowledge of its terms at or before the time that the alleged contract
+was concluded.
+   Ormrod LJ, who agreed with Lord Denning MR, adopted a similar approach …
+   Geoffrey Lane LJ in a dissenting judgment, which for my part I find convincing, adopted the
+conventional approach. He found that upon the true construction of the documents relied upon
+as constituting the contract, there never was an offer by the corporation acceptance of which by
+Mr Gibson was capable in law of constituting a legally enforceable contract. It was but a step in the
+negotiations for a contract which, owing to the change in the political complexion of the council,
+never reached fruition.
+    My Lords, there may be certain types of contract, though I think they are exceptional, which do
+not fit easily into the normal analysis of a contract as being constituted by offer and acceptance; but a
+contract alleged to have been made by an exchange of correspondence between the parties in which
+the successive communications other than the first are in reply to one another, is not one of these.
+I can see no reason in the instant case for departing from the conventional approach of looking at the
+handful of documents relied upon as constituting the contract sued upon and seeing whether upon
+their true construction there is to be found in them a contractual offer by the corporation to sell the
+house to Mr Gibson and an acceptance of that offer by Mr Gibson. I venture to think that it was by
+departing from this conventional approach that the majority of the Court of Appeal was led into error.
+   The genesis of the relevant negotiations in the instant case is a form filled in by Mr Gibson on
+28 November 1970, inquiring what would be the price of buying his council house … and expressing
+his interest in obtaining a mortgage from the corporation. The form was a detachable part of a
+brochure which had been circulated by the corporation to tenants who had previously expressed an
+interest in buying their houses. It contained details of a new scheme for selling council houses that
+had been recently adopted by the council. The scheme provided for a sale at market value less a
+discount dependent on the length of time the purchaser had been a council tenant. This, in the case
+of Mr Gibson, would have amounted to 20 per cent. The scheme also provided for the provision by
+the corporation of advances upon mortgage which might amount to as much as the whole of the
+purchase price.
+   As a result of that inquiry Mr Gibson’s house was inspected by the corporation’s valuer and on
+10 February, 1971, the letter which is relied upon by Mr Gibson as the offer by the corporation to sell
+the house to him was sent from the City Treasurer’s Department. It was in the following terms: [298]
+   Dear Sir,
+   Purchase of council house
+   Your Reference Number 82463 03
+   I refer to your request for details of the cost of buying your council house. The corporation may
+   be prepared to sell the house to you at the purchase price of £2,725 less 20 per cent = £2,180
+   (freehold) …
+   Maximum mortgage the corporation may grant: £2,177 repayable over 20 years. Annual fire
+   insurance premium: £2.45
+
+
+                                                                                                 [3.15]   41
+Part II: Formation
+
+
+Gibson v Manchester City Council cont.
+
+     Monthly repayment charge, calculated by:
+     (i) flat rate repayment method £19.02
+     If you wish to pay off some of the purchase price at the start and therefore require a
+     mortgage for less than the amount quoted above, the monthly instalment will change;
+     in these circumstances, I will supply new figures on request. The above repayment figures
+     apply so long as the interest rate charged on home loans is 8.5 per cent. The interest rate
+     will be subject to variation by the corporation after giving not less than three months’ written
+     notice, and if it changes, there will be an adjustment to the monthly instalment payable. This
+     letter should not be regarded as firm offer of a mortgage.
+     If you would like to make formal application to buy your council house, please complete the
+     enclosed application form and return it to me as soon as possible.
+     Yours faithfully,
+     (Sgd) H R PAGE
+     CITY TREASURER …
+My Lords, the words I have italicised seem to me, as they seemed to Geoffrey Lane LJ, to make it
+quite impossible to construe this letter as a contractual offer capable of being converted into a legally
+enforceable open contract for the sale of land by Mr Gibson’s written acceptance of it. The words
+“may be prepared to sell” are fatal to this; so is the invitation, not, be it noted, to accept the offer,
+but “to make formal application to buy” upon the enclosed application form. It is, to quote Geoffrey
+Lane LJ, a letter setting out the financial terms on which it may be the council will be prepared to
+consider a sale and purchase in due course.
+    Both Ormrod LJ and the judge in the County Court reaching the conclusion that this letter was a
+firm offer to sell the freehold interest in the house for £2,180, attached importance to the fact that the
+second paragraph, dealing with the financial details of the mortgage of which Mr Gibson had asked
+for particulars, stated expressly: “This letter should not be regarded as a firm offer of a mortgage.” The
+necessary implication from this, it is suggested, is that the first paragraph of the letter is to be regarded
+as a firm offer to sell despite the fact that this is plainly inconsistent with the express language of that
+paragraph. My Lords, with great respect, this surely must be fallacious. If the final sentence had been
+omitted the wording of the second paragraph, unlike that of the first, with its use of the indicative
+mood in such expressions as “the interest rate will change”, might have been understood by council
+tenants to whom it was addressed as indicating a firm offer of a mortgage of the amount and on
+the terms for repayment stated if the council were prepared to sell the house at the stated price. But
+whether or not this be the explanation of [299] the presence of the last sentence in para 2, it cannot
+possibly affect the plain meaning of the words used in para 1.
+    Mr Gibson did fill in the application form enclosed with this letter. It was in three sections: s
+A headed “Application to buy a council house”, s B “Application for a loan to buy a council house”
+and s C “Certificate to be completed by all applicants.” He left blank the space for the purchase price
+in s A and sent the form to the corporation on 5 March 1971, with a covering letter in which he
+requested the corporation either to undertake at their own expense to carry out repairs to the tarmac
+path forming part of the premises or to make a deduction from the purchase price to cover the cost of
+repairs. The letter also intimated that Mr Gibson would like to make a down payment of £500 towards
+the purchase price instead of borrowing the whole amount on mortgage. In reply to the request made
+in this letter the corporation, by letter of 12 March 1971, said that the condition of the property
+had been taken into consideration in fixing the purchase price and that repairs to the tarmac by the
+corporation could not be authorised at this stage. This letter was acknowledged by Mr Gibson by his
+letter to the corporation of 18 March 1971, in which he asked the corporation to “carry on with the
+purchase as per my application already in your possession”.
+  My Lords, the application form and letter of 18 March 1971, were relied on by Mr Gibson as an
+unconditional acceptance of the corporation’s offer to sell the house; but this cannot be so unless
+
+42    [3.15]
+                                                                                 Agreement    Chapter 3
+
+
+Gibson v Manchester City Council cont.
+
+there was a contractual offer by the corporation available for acceptance, and, for the reason already
+given I am of opinion that there was none. It is unnecessary to consider whether the application form
+and Mr Gibson’s letters of 3 and 18 March 1971, are capable of amounting to a contractual offer
+by him to purchase the freehold interest in the house at a price of £2,180 on the terms of an open
+contract, for there is no suggestion that, even if it were, it was ever accepted by the corporation. Nor
+would it ever have been even if there had been no [abandonment of the scheme] as the policy of the
+corporation before the change required the incorporation in all agreements for sale of council houses
+to tenants of the conditions referred to by Lord Denning MR in his judgment and other conditions
+inconsistent with an open contract.
+    I therefore feel compelled to allow the appeal. One can sympathise with Mr Gibson’s disappointment
+on finding that his expectations that he would be able to buy his council house at 20 per cent below
+its market value in the autumn of 1970 cannot be realised. Whether one thinks this makes it a hard
+case perhaps depends upon the political views that one holds about council housing policy. But hard
+cases offer a strong temptation to let them have their proverbial consequences. It is a temptation that
+the judicial mind must be vigilant to resist.
+   [Lord Edmund-Davies and Lord Russell of Killowen in separate judgments agreed that the appeal
+be allowed. Lord Fraser of Tullybelton agreed with Lord Diplock and Lord Russell. Lord Keith of Kinkel
+agreed with Lord Diplock.]
+   Appeal allowed.
+
+                                                 YZ
+
+
+[3.20]                                          Note
+In the preceding extract, Lord Diplock refers to the possibility of exceptional types of contracts
+which do not “fit easily into the normal analysis of offer and acceptance”. On this issue,
+see further Brambles Holdings Ltd v Bathurst City Council [2001] NSWCA 61; (2001) 53
+NSWLR 153, at [3.130].
+
+
+
+                     Carlill v Carbolic Smoke Ball Company
+[3.25] Carlill v Carbolic Smoke Ball Company [1893] 1 QB 256 (Court of Appeal) – Appeal from
+Hawkins J.
+   [FACTS: The defendants manufactured a device called a “Carbolic Smoke Ball”, which was claimed
+to prevent colds and influenza. They placed the following advertisement in a number of newspapers,
+including the Pall Mall Gazette of 13 November 1891:
+   £100 reward will be paid by the Carbolic Smoke Ball Company to any person who contracts
+   the increasing epidemic influenza, colds, or any disease caused by taking cold, after having
+   used the ball three times daily for two weeks according to the printed directions supplied
+   with each ball. £1 000 is deposited with the Alliance Bank, Regent Street, shewing our
+   sincerity in the matter.
+      During the last epidemic of influenza many thousand carbolic smoke balls were sold as
+   preventives against this disease, and in no ascertained case was the disease contracted by
+   those using the carbolic smoke ball.
+      One carbolic smoke ball will last a family several months, making it the cheapest remedy
+   in the world at the price, 10s, post free. The ball can be refilled at a cost of 5s. Address,
+   Carbolic Smoke Ball Company, 27 Princes Street, Hanover Square, London.
+
+                                                                                             [3.25]   43
+Part II: Formation
+
+
+Carlill v Carbolic Smoke Ball Company cont.
+
+The plaintiff purchased a smoke ball from a chemist on the faith of the advertisement and used it in
+accordance with the manufacturer’s directions from 20 November 1891 until 17 January 1892, when
+she contracted influenza. The trial judge held that the plaintiff was entitled to recover the £100. The
+defendant appealed.]
+   LINDLEY LJ: [261] The first observation I will make is that we are not dealing with any inference of
+fact. We are dealing with an express promise to pay £100 in certain events. Read the advertisement
+how you will, and twist it about as you will, here is a distinct promise expressed in language which is
+perfectly unmistakable: “£100 reward will be paid by the Carbolic Smoke Ball Company to any person
+who contracts the influenza after having used the ball three times daily for two weeks according to the
+printed directions supplied with each ball.”
+   We must first consider whether this was intended to be a promise at all, or whether it was a mere
+puff which meant nothing. Was it a mere puff? My answer to that question is “No”, and I base my
+answer upon this passage: “£1 000 is deposited with the Alliance Bank, shewing our sincerity in the
+matter.”
+   Now, for what was that money deposited or that statement made except to negative the suggestion
+that this was a mere puff and meant nothing at all? The deposit is called in [262] aid by the advertiser
+as proof of his sincerity in the matter – that is, the sincerity of his promise to pay this £100 in the event
+which he has specified. I say this for the purpose of giving point to the observation that we are not
+inferring a promise; there is the promise, as plain as words can make it.
+   Then it is contended that it is not binding. In the first place, it is said that it is not made with
+anybody in particular. Now that point is common to the words of this advertisement and to the words
+of all other advertisements offering rewards. They are offers to anybody who performs the conditions
+named in the advertisement, and anybody who does perform the condition accepts the offer. In
+point of law this advertisement is an offer to pay £100 to anybody who will perform these conditions,
+and the performance of the conditions is the acceptance of the offer. That rests upon a string of
+authorities, the earliest of which is Williams v Carwardine (1833) 4 B & Ad 621; 110 ER 590, which has
+been followed by many other decisions upon advertisements offering rewards.
+   But then it is said: “Supposing that the performance of the conditions is an acceptance of the offer,
+that acceptance ought to have been notified.”
+    Unquestionably, as a general proposition, when an offer is made, it is necessary in order to make
+a binding contract, not only that it should be accepted, but that the acceptance should be notified.
+But is that so in cases of this kind? I apprehend that they are an exception to that rule, or, if not an
+exception, they are open to the observation that the notification of the acceptance need not precede
+the performance. This offer is a continuing offer. It was never revoked, and if notice of acceptance
+is required – which I doubt very much, for I rather think the true view is that which was expressed
+and explained by Lord Blackburn in the case of Brogden v Metropolitan Ry Co (1877) 2 App Cas
+666 at 692 – if notice of acceptance is required, the person who makes the offer gets the notice of
+acceptance contemporaneously with his notice of performance of the condition. If he gets notice of
+the acceptance before his offer is revoked, that in principle is all you want. I, however, think that the
+true view, in a case of this kind, is that the person who makes the offer shews by his language and
+from the nature of the transaction that he [263] does not expect and does not require notice of the
+acceptance apart from notice of the performance.
+   We, therefore, find here all the elements which are necessary to form a binding contract
+enforceable in point of law, subject to two observations. First of all it is said that this advertisement is
+so vague that you cannot really construe it as a promise – that the vagueness of the language shews
+that a legal promise was never intended or contemplated. The language is vague and uncertain
+in some respects, and particularly in this, that the £100 is to be paid to any person who contracts
+the increasing epidemic after having used the balls three times daily for two weeks. It is said,
+When are they to be used? According to the language of the advertisement no time is fixed, and,
+
+
+44   [3.25]
+                                                                                    Agreement   Chapter 3
+
+
+Carlill v Carbolic Smoke Ball Company cont.
+
+construing the offer most strongly against the person who has made it, one might infer that any
+time was meant. I do not think that was meant, and to hold the contrary would be pushing too
+far the doctrine of taking language most strongly against the person using it. I do not think that
+business people or reasonable people would understand the words as meaning that if you took a
+smoke ball and used it three times daily for two weeks you were to be guaranteed against influenza
+for the rest of your life, and I think it would be pushing the language of the advertisement too
+far to construe it as meaning that. But if it does not mean that, what does it mean? It is for the
+defendants to shew what it does mean; and it strikes me that there are two, and possibly three,
+reasonable constructions to be put on this advertisement, any one of which will answer the purpose
+of the plaintiff. Possibly it may be limited to persons catching the “increasing epidemic” (that is,
+the then prevailing epidemic), or any colds or diseases caused by taking cold, during the prevalence
+of the increasing epidemic. That is one suggestion; but it does not commend itself to me. Another
+suggested meaning is that you are warranted free from catching this epidemic, or colds or other
+diseases caused by taking cold, whilst you are using this remedy after using it for two weeks. If that
+is the meaning, the plaintiff is right, for she used the remedy for two weeks and went on using it
+till she got the epidemic. Another meaning, and the one which I rather prefer, is that the reward is
+offered to [264] any person who contracts the epidemic or other disease within a reasonable time
+after having used the smoke ball. Then it is asked, What is a reasonable time? It has been suggested
+that there is no standard of reasonableness; that it depends upon the reasonable time for a germ
+to develop! I do not feel pressed by that. It strikes me that a reasonable time may be ascertained in
+a business sense and in a sense satisfactory to a lawyer, in this way; find out from a chemist what
+the ingredients are; find out from a skilled physician how long the effect of such ingredients on the
+system could be reasonably expected to endure so as to protect a person from an epidemic or cold,
+and in that way you will get a standard to be laid before a jury, or a judge without a jury, by which
+they might exercise their judgment as to what a reasonable time would be. It strikes me, I confess,
+that the true construction of this advertisement is that £100 will be paid to anybody who uses this
+smoke ball three times daily for two weeks according to the printed directions, and who gets the
+influenza or cold or other diseases caused by taking cold within a reasonable time after so using it;
+and if that is the true construction, it is enough for the plaintiff.
+    I come now to the last point which I think requires attention – that is, the consideration. It has been
+argued that this is nudum pactum; that there is no consideration. We must apply to that argument
+the usual legal tests. Let us see whether there is no advantage to the defendants. It is said that the use
+of the ball is no advantage to them, and that what benefits them is the sale; and the case is put that a
+lot of these balls might be stolen, and that it would be no advantage to the defendants if the thief or
+other people used them. The answer to that, I think, is as follows. It is quite obvious that in the view of
+the advertisers a use by the public of their remedy, if they can only get the public to have confidence
+enough to use it, will react and produce a sale which is directly beneficial to them. Therefore, the
+advertisers get out of the use an advantage which is enough to constitute a consideration.
+   But there is another view. Does not the person who acts upon this advertisement and accepts the
+offer put himself to some inconvenience at the request of the defendants? Is it nothing [265] to use
+this ball three times daily for two weeks according to the directions at the request of the advertiser? Is
+that to go for nothing? It appears to me that there is a distinct inconvenience, not to say a detriment,
+to any person who so uses the smoke ball. I am of opinion, therefore, that there is ample consideration
+for the promise …
+   It appears to me, therefore, that the defendants must perform their promise, and, if they have been
+so unwary as to expose themselves to a great many actions, so much the worse for them.
+[3.30] BOWEN LJ: I am of the same opinion. We were asked to say that this document was a contract
+too vague to be enforced.
+   The first observation which arises is that the document itself is not a contract at all, it is only an
+offer made to the public.
+
+
+                                                                                                [3.30]   45
+Part II: Formation
+
+
+Carlill v Carbolic Smoke Ball Company cont.
+
+   [266] The defendants contend next, that it is an offer the terms of which are too vague to be
+treated as a definite offer, inasmuch as there is no limit of time fixed for the catching of the influenza,
+and it cannot be supposed that the advertisers seriously meant to promise to pay money to every
+person who catches the influenza at any time after the inhaling of the smoke ball … It seems to me
+that in order to arrive at a right conclusion we must read this advertisement in its plain meaning,
+as the public would understand it. It was intended to be issued to the public and to be read by
+the public. How would any ordinary person reading this document construe it? It was intended
+unquestionably to have some effect, and I think the effect which it was intended to have, was to
+make people use the smoke ball, because the suggestions and allegations which it contains are
+directed immediately to the use of the smoke ball as distinct from the purchase of it … It is written
+in colloquial and popular language, and I think that it is equivalent to this: “£100 will be paid to any
+person who shall contract the increasing epidemic after having used the carbolic smoke ball three
+times daily for two weeks.”
+   And it seems to me that the way in which the public would read it would be this, that if anybody,
+after the advertisement was published, used three times daily for two weeks the carbolic smoke ball,
+and then caught cold, he would be entitled to the reward. Then again it was said: “How long is this
+protection to endure? Is it to go on for ever, or for what limit of time?”
+   [267] I think that there are two constructions of this document, each of which is good sense,
+and each of which seems to me to satisfy the exigencies of the present action. It may mean
+that the protection is warranted to last during the epidemic, and it was during the epidemic
+that the plaintiff contracted the disease. I think, more probably, it means that the smoke ball
+will be a protection while it is in use. That seems to me the way in which an ordinary person
+would understand an advertisement about medicine, and about a specific against influenza … My
+brother, the Lord Justice who preceded me, thinks that the contract would be [268] sufficiently
+definite if you were to read it in the sense that the protection was to be warranted during a
+reasonable period after use. I have some difficulty myself on that point; but it is not necessary for
+me to consider it further, because the disease here was contracted during the use of the carbolic
+smoke ball …
+   It was also said that the contract is made with all the world – that is, with everybody; and that you
+cannot contract with everybody. It is not a contract made with all the world. There is the fallacy of the
+argument. It is an offer made to all the world; and why should not an offer be made to all the world
+which is to ripen into a contract with anybody who comes forward and performs the condition? It is
+an offer to become liable to any one who, before it is retracted, performs the condition, and, although
+the offer is made to the world, the contract is made with that limited portion of the public who come
+forward and perform the condition on the faith of the advertisement. It is not like cases in which you
+offer to negotiate, or you issue advertisements that you have got a stock of books to sell, or houses
+to let, in which case there is no offer to be bound by any contract. Such advertisements are offers
+to negotiate – offers to receive offers – offers to chaffer, as, I think, some learned judge in one of the
+cases has said. If this is an offer to be bound, then it is a contract the moment the person fulfils the
+condition …
+   [269] Then it was said that there was no notification of the acceptance of the contract. One cannot
+doubt that, as an ordinary rule of law, an acceptance of an offer made ought to be notified to the
+person who makes the offer, in order that the two minds may come together. Unless this is done the
+two minds may be apart, and there is not that consensus which is necessary according to the English
+law – I say nothing about the laws of other countries – to make a contract. But there is this clear gloss
+to be made upon that doctrine, that as notification of acceptance is required for the benefit of the
+person who makes the offer, the person who makes the offer may dispense with notice to himself if
+he thinks it desirable to do so, and I suppose there can be no doubt that where a person in an offer
+made by him to another person, expressly or impliedly intimates a particular mode of acceptance as
+sufficient to make the bargain binding, it is only necessary for the other person to whom such offer is
+
+
+46   [3.30]
+                                                                                   Agreement   Chapter 3
+
+
+Carlill v Carbolic Smoke Ball Company cont.
+
+made to follow the indicated method of acceptance; and if the person making the offer, expressly or
+impliedly intimates in his offer that it will be sufficient to act on the proposal without communicating
+[270] acceptance of it to himself, performance of the condition is a sufficient acceptance without
+notification …
+    Now, if that is the law, how are we to find out whether the person who makes the offer does
+intimate that notification of acceptance will not be necessary in order to constitute a binding
+bargain? In many cases you look to the offer itself. In many cases you extract from the character
+of the transaction that notification is not required, and in the advertisement cases it seems to me
+to follow as an inference to be drawn from the transaction itself that a person is not to notify his
+acceptance of the offer before he performs the condition, but that if he performs the condition
+notification is dispensed with.
+     It seems to me that from the point of view of common sense no other idea could be entertained.
+If I advertise to the world that my dog is lost, and that anybody who brings the dog to a particular
+place will be paid some money, are all the police or other persons whose business it is to find lost dogs
+to be expected to sit down and write me a note saying that they have accepted my proposal? Why,
+of course, they at once look after the dog, and as soon as they find the dog they have performed
+the condition. The essence of the transaction is that the dog should be found, and it is not necessary
+under such circumstances, as it seems to me, that in order to make the contract binding there should
+be any notification of acceptance. It follows from the nature of the thing that the performance of the
+condition is sufficient acceptance without the notification of it, and a person who makes an offer in
+an advertisement of that kind makes an offer which must be read by the light of that common sense
+reflection. He does, therefore, in his offer impliedly indicate that he does not require notification of
+the acceptance of the offer.
+    A further argument for the defendants was that this was a [271] nudum pactum – that there was
+no consideration for the promise – that taking the influenza was only a condition, and that the using
+the smoke ball was only a condition, and that there was no consideration at all; in fact, that there was
+no request, express or implied, to use the smoke ball … The short answer, to abstain from academical
+discussion, is, it seems to me, that there is here a request to use involved in the offer. Then as to the
+alleged want of consideration. The definition of “consideration” given in Selwyn’s Nisi Prius (8th ed),
+p 47, which is cited and adopted by Tindal CJ, in the case Laythoarp v Bryant (1836) 2 Bing (NC) 735;
+132 ER 283, is this:
+   Any act of the plaintiff from which the defendant derives a benefit or advantage, or any
+   labour, detriment, or inconvenience sustained by the plaintiff, provided such act is performed
+   or such inconvenience suffered by the plaintiff, with the consent, either express or implied,
+   of the defendant.
+Can it be said here that if the person who reads this advertisement applies thrice daily, for such
+time as may seem to him tolerable, the carbolic smoke ball to his nostrils for a whole fortnight,
+he is doing nothing at all – that it is a mere act which is not to count towards consideration to
+support a promise (for the law does not require us to measure the adequacy of the consideration).
+Inconvenience sustained by one party at the request of the other is enough to create a consideration.
+I think, therefore, that it is consideration enough that the plaintiff took the trouble of using the smoke
+ball. But I think also that the defendants received a benefit from this user, for the use of the smoke
+ball was contemplated by the defendants as being indirectly a benefit to them, because the use of the
+smoke balls would promote their sale …
+   [AL SMITH LJ delivered a judgment to a similar effect.]
+   Appeal dismissed.
+
+                                                 YZ
+
+
+                                                                                               [3.30]   47
+Part II: Formation
+
+
+
+
+          MacRobertson Miller Airline Services v Commissioner
+                       of State Taxation (WA)
+[3.35] MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) (1975) 133 CLR 125
+(High Court of Australia) – Appeal from the Supreme Court of Western Australia.
+   [FACTS: A person wishing to take passage on MacRobertson Miller Airline Services would be advised,
+on inquiry, on what flights seats were available to her or his destination, and the fare. Having selected
+the flight, the prospective passenger was handed a ticket, on which were entered the appropriate
+details, in return for the fare. At the appropriate time, the passenger presented the ticket to secure her
+or his seat on the flight. A condition printed on the ticket provided that the airline reserved the right
+to abandon any flight or cancel any ticket or booking and that upon abandonment or cancellation,
+the passenger would be entitled to a refund of so much of the fare as was proportionate to the part of
+the flight abandoned or cancelled, and the airline would be under no other liability to the passenger
+for failure to carry her or him at the booked or scheduled time or at all.
+    It was necessary for stamp duty purposes to determine whether the ticket so issued was “an
+agreement or any memorandum of agreement”. The Supreme Court of Western Australia found that
+it was. The airline appealed.]
+    BARWICK CJ: [132] It is, in my opinion, clear that the issuing airline operator does not by the
+terms of the ticket assume or offer to assume any obligation [133] to carry the intending passenger.
+Clauses 2 and 5 made this particularly clear. The case is not, in my opinion, one in which an obligation
+is assumed or an offer of an obligation made from or upon which obligations, exemptions or limitations
+are stipulated. The exemption of the ticket in this case fully occupies the whole area of possible
+obligation, leaving no room for the existence of a contract of carriage.
+    In my opinion, the proper legal analysis of the situation which arises on the making of a reservation
+for a seat upon a flight, the payment of the fare appropriate to that flight and the issue of a ticket as
+in this case, is that if, without any antecedent promise to do so, the airline operator in fact conveys
+the passenger in accordance with the reservation or any variant of it permissible under the terms of
+carriage indorsed on the ticket, the airline operator will have earned the fare which has been prepaid
+and be entitled to retain it: otherwise the amount which has been prepaid against the possibility of
+such carriage will be refunded. But if, in any case, the described carriage eventuates it shall be upon
+the indorsed terms of carriage. To this statement there is a possible qualification, namely, if the airline
+operator has been able, ready and willing to carry the passenger in accordance with the particulars
+on the ticket and the intending passenger has not presented himself in due time at the airline traffic
+office at the designated airport, the airline operator may claim to have earned the fare. In general,
+therefore, the entitlement of the airline company to retain the prepaid fare is dependent on the actual
+performance of carriage. The situation is an example of the payment of a reward for an act performed
+at request with no antecedent promise by the person performing the act to do so. The terms of
+carriage are akin to the terms of the prospectus in Edgar v Blick (1816) 1 Stark 464; 171 ER 531, and
+like them are not dutiable, though admissible to determine the rights of the passenger and airline in
+respect of the actual carriage.
+   In my opinion, therefore, the precise question in the stated case should be answered in the opposite
+sense to the answer given by the Supreme Court.
+    However, quite apart from the particular terms of the ticket in the instant case, the issue of a
+ticket by an airline operator neither constitutes an agreement nor a memorandum of an agreement.
+I apprehend that the normal procedure in making a reservation of a seat on an aeroplane flight is
+that inquiry is made of the airline operator or its agent, usually being a travel agent, whether, having
+regard to existing reservations, a seat is available on a nominated flight. If it is, the appropriate fare is
+paid or promised to be paid [134] and a ticket appropriate to the reservation issued. Now, supposing
+the airline ticket does not contain an express promise to carry the ticket holder on the nominated
+flight, it could (sic) be inferred from this procedure that the airline company by the issue of the ticket
+had bound itself by agreement to carry the intending passenger on the specified, or for that matter
+
+
+48   [3.35]
+                                                                                   Agreement   Chapter 3
+
+
+MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) cont.
+
+on any, flight, a promise which being broken would require the payment of damages. On a proper
+analysis of the procedure described, the airline operator was not in contractual relations with the
+intending passenger until it had provided him with a seat on the aeroplane. Then, in consideration
+of the fare prepaid, such obligations as the conditions of the ticket impose on the airline operator
+attached. The issue of the ticket, in my opinion, is mainly a receipt for the payment of the fare,
+though it also stipulates an occasion when the fare may not be refundable though actual carriage
+has not ensued. The payment made on the making of the reservation ought, in my opinion, to be
+regarded as no more than the prepayment of the fare payable for an actual carriage performed.
+Having regard to the known contingencies of airline operation it would be incongruous to infer the
+making of a promise to carry from the mere payment of the fare and its acknowledgment by the
+issue of a ticket. The ticket, apart from any specific terms it might contain, would not be regarded
+as entitling its holder to a place on a particular flight. It should be regarded as doing no more than
+denominate the carriage which, if performed, will earn the prepaid fare. If, as in the present case,
+the ticket contains terms of carriage, these will, given the performance of the denominated carriage,
+regulate the relationship of the parties during and in connection with such carriage and thus their
+respective rights in relation thereto.
+    It should be observed that in Hood v Anchor Line (Henderson Bros) Ltd [1918] AC 837, the question
+was whether a part of the ticket which had been issued by the steamship company formed part of
+the terms on which the actual carriage took place. The action was for negligence in the performance
+of that carriage. Thus, even if there had not been in that case an antecedent promise to carry, the
+condition by which the appellant was held to be bound would have been part of the terms governing
+the relationship of the parties during the performance of the actual carriage. But, in fact, the ticket
+issued by the ship owner in that case contained an express engagement “to provide passage with
+certain accommodation on a particular voyage”. The ticket in that case, as Lord Findlay observed,
+“really professes to be a memorandum of the contract”: [1918] AC 837 at 841.
+   [135] In any case, a promise to carry may be more appropriately made by a steamship company
+than by an airline operator. The marked degree of certainty on the one hand and of uncertainty on
+the other affords good ground for distinguishing the inferences which, apart from express provisions,
+might be drawn in the one case though not in the other.
+   Therefore, although the terms of the ticket in this case with their express and extensive limitations
+and exclusions preclude the existence of an antecedent contract of carriage, it is my opinion that, in
+any case, without the presence of these express provisions and in the absence of an express provision
+to carry, the ticket would not represent an agreement or a memorandum of agreement to satisfy the
+relevant portion of the schedule to the Stamp Act …
+   For these reasons, I would allow the appeal.
+[3.40] STEPHEN J: Until 1970 the United Kingdom stamp duty legislation contained a similar
+provision and a wealth of authority as to its meaning has developed which is directly applicable
+to the provisions of the Western Australian legislation. It establishes that a document containing a
+written offer which is subsequently accepted orally or by conduct does not thereby become either an
+agreement or a memorandum thereof for the purposes of stamp duty …
+    [136] Accordingly, in the present appeal it will be critical to determine whether the issue by the
+appellant of its ticket was merely the making of an offer, to be later accepted either orally or by
+conduct, or whether, on the contrary, an agreement, of which it contained the terms, was concluded
+at or before the time of its issue, the ticket either being that agreement or being a memorandum of it.
+Each of these two latter possibilities will be excluded if the fact be that when the ticket was issued to
+the passenger no agreement had yet been concluded but instead awaited the passenger’s acceptance
+of the offer constituted by the ticket …
+    A prospective passenger makes known his requirement, is informed whether and when the passage
+is available and the cost, a ticket is then written out in duplicate on a printed form and tendered to
+
+
+                                                                                               [3.40]   49
+Part II: Formation
+
+
+MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) cont.
+
+the passenger in return for the price; in due course, on the day of travel, the passenger uses his ticket
+to secure transport of his baggage and himself on the relevant aircraft.
+   It is to those facts that the accepted doctrine of the formation of contracts must be applied so as to
+determine whether the ticket is merely an offer, antecedent to agreement, or is itself the agreement
+or a memorandum of it.
+    This doctrine, of the formation of contracts by offer and acceptance, encounters difficulties when
+sought to be applied, outside the realms of commerce and conveyancing, to the everyday contractual
+situations which are a feature of life in modern urban communities. Contracts for the carriage of
+passengers, one of the most common classes of contract in a commuter society and one which
+ordinarily involves the attempted imposition of contractual restrictions upon the passenger’s rights
+should he suffer loss or injury, provide an instance of these difficulties. The circumstances in which
+mass transportation occurs frequently permit of no time for prior negotiation, which would in any
+event usually be pointless with prevailing contracts of adhesion; moreover the transportation often
+will begin before there has been any communication at all between the passenger and the carrier’s
+agent, the contract being “inferred from [137] the acquiescence of the carrier in the presence of the
+passenger on the conveyance”:
+   Hood v Anchor Line (Henderson Bros) Ltd per Lord Dunedin; and see Wilkie v London Passenger
+Transport Board [1947] 1 All ER 258 at 259 per Lord Greene MR.
+    The conventional analysis of the formation of contracts for the carriage of passengers in those
+somewhat more leisurely transactions which involve the issue of a ticket in return for payment of a
+fare and the subsequent performance of the contract by the act of transportation, is to regard the
+ticket as the offer, the contract being made upon acceptance of that offer by the passenger, usually
+by conduct. Lord Denning describes this analysis, referring to the authorities which establish it, in
+Thornton v Shoe Lane Parking Ltd [1971] 2 QB 163 at 169. He does so in the course of demonstrating
+its inappropriateness in situations in which there in fact exists no opportunity either of considering the
+terms of the proffered contract or of declining to enter into it on the terms which are offered.
+   In the present case there is no such inappropriateness. It is just such a case as that for which the
+conventional analysis was devised. This analysis affords to the intending passenger an opportunity,
+no doubt but rarely availed of, of ascertaining the conditions which the carrier seeks to impose and
+of accepting or rejecting them. The conventional long-distance rail or passenger liner situation is
+therefore applicable, a ticket is purchased in advance of the carriage and that ticket constitutes an
+offer available for acceptance by the passenger. Although the economics of mass transportation in fact
+lead to an absence of much real choice on the passenger’s part whether or not to accept conditions
+sought to be imposed, he at least retains the ability to learn of those conditions and to refuse to travel
+by the intended means if he sees fit.
+   The general run of so called “ticket cases” involving contracts of carriage has been concerned
+with mishaps occurring during transportation and with the effect, if any, which conditions, sought
+to be imposed upon the passenger by the ticket issued to him, may have upon his rights against the
+carrier. The precise time at which the carrier’s offer is accepted has not been the central question,
+although it has been indirectly involved in the central question of whether or not the conditions on
+the ticket have been incorporated as terms of the contract. The authorities make it clear that, in the
+[138] absence of particular conduct on the part of the passenger, acceptance of the offer which a
+carrier makes when a ticket is issued does not occur immediately upon its receipt by the passenger;
+the whole concept of a passenger’s acceptance of ticket conditions and of the need adequately to
+draw those conditions to his attention (Balmain New Ferry Co Ltd v Robertson (1906) 4 CLR 379 at 387
+per Griffith CJ) is dependent upon this.
+   It is enough to refer to three authorities, over a span of almost a hundred years, in which, when
+the ticket itself contains conditions or a reference to conditions elsewhere available, the passenger’s
+acceptance of the carrier’s offer is treated as occurring some time after issue of the ticket. In Parker v
+
+
+50   [3.40]
+                                                                                    Agreement   Chapter 3
+
+
+MacRobertson Miller Airline Services v Commissioner of State Taxation (WA) cont.
+
+South Eastern Railway Co (1877) 2 CPD 416 at 426–8 Bramwell LJ, on three occasions referred to the
+passenger being afforded, if he wishes, the opportunity of reading the conditions on a ticket which
+is proffered to him before becoming bound by them, that is, before the contract can be regarded as
+concluded, and see also (1877) 2 CPD 416 at 425 per Baggallay LJ …
+   [139] The cases … are replete with references to passengers who elect not to read ticket conditions,
+no doubt the common behaviour of most passengers; they, it is said, do not thereby escape being
+bound by those conditions. This rule of law, which is directed to identifying the agreed terms of
+the particular contract, does not detract from but, rather, supports the proposition that acceptance,
+and the resultant formation of the contract, does not occur upon tender of the ticket. It occurs after
+that event, either when the passenger has by actual conduct intimated his acceptance of the offer,
+for instance by immediately boarding the vehicle in question, or, absent any such conduct, when
+a reasonable time has passed during which the passenger has had an opportunity of reading the
+conditions appearing on the ticket and has not then rejected the offer and demanded the return of
+his fare. In other words, acceptance will normally be by conduct and this conduct will consist either
+of an overt act consistent only with acceptance or, in its absence, of the passenger’s failure to reject
+the offer after he has had an opportunity of learning of the conditions upon which carriage is offered.
+    Those cases in which a contract is concluded which incorporates ticket conditions despite the
+passenger’s failure to read them are instances either of the occurrence of such an overt act or of the
+passing of a reasonable time without rejection. In the latter case there is involved the concept of
+effective acceptance without actual communication to the offeror; but when, as here, the offeree,
+by tendering his fare, has performed his part of the bargain in advance his acceptance may readily
+be inferred from his failure, within a reasonable time after receipt of his ticket, to reject the offer and
+demand the return of his fare: Williston on Contracts (3rd ed), vol 1, para 91C. What will be a reasonable
+time within which to reject proffered terms will be a question of fact in every case dependent upon
+all the circumstances, including, no doubt, the length and complexity of the conditions which form
+part of the offer. What Hawkins J in Watkins v Rymill (1883) 10 QBD 180, and Megaw LJ in the
+passage cited from the Shoe Lane Parking case [1971] 2 QB 163 at 173–4, each referred to as “a fair
+opportunity” of reading the tendered ticket will provide the test, recourse being had, for this purpose,
+to familiar standards of reasonableness.
+    If this, then, be the correct view of the time of formation of such a contract as the present one, it
+necessarily follows that in the [140] typical circumstances referred to in the stated case the completed
+ticket itself will not, when it comes into existence, then record any existing agreement nor itself be an
+agreement; it will be no more than a written offer open for acceptance. Hence it is not dutiable as an
+“agreement or any memorandum of an agreement” for the purposes of the Stamp Act.
+   The conditions appearing in the appellant’s ticket are not easy to interpret; they appear to relieve
+the appellant very substantially from performance of those obligations relating to the carriage of the
+passenger which are to be implied from the description, in the ticket, of the destination, the flight
+number and the departure time and date. However I think it unnecessary to arrive at any conclusion
+as to whether the presence of these conditions is such as to prevent the formation of any contract
+between the appellant and its passenger before transportation commences. It is enough for me to
+conclude that at date of issue the ticket was not an agreement or any memorandum of agreement.
+I would therefore allow this appeal …
+   [JACOBS J also considered that the ticket was not an agreement or memorandum of agreement.
+In relation to cl 2, Jacobs J commented (at 148): “any enforceable promise to carry which might on
+the present assumption be implied between the airline and passenger from the issue of the ticket is
+negatived.”]
+   Appeal allowed.
+
+                                                  YZ
+
+
+                                                                                                [3.40]   51
+Part II: Formation
+
+
+
+
+[3.45]                                           Note
+The identification of offer and acceptance in cases involving the issue of a ticket is considered
+further in Oceanic Sun Line Shipping Co Inc v Fay (1988) 165 CLR 197, extracted at [12.55].
+
+
+
+Offers distinguished from invitations to treat
+
+
+               Pharmaceutical Society of Great Britain v Boots
+                        Cash Chemists (Southern)
+[3.50] Pharmaceutical Society of Great Britain v Boots Cash Chemists (Southern) Ltd [1953] 1 QB 401
+(Court of Appeal) – Appeal from Lord Goddard CJ.
+    [FACTS: The defendants (Boots) operated a self-service shop in one part of which certain drugs
+were displayed. This part of the shop was under the control of a registered pharmacist. A customer,
+having taken the goods, including drugs, which he wished to buy from the shelves, would put them
+in a wire basket provided for the purpose and take them to an attendant at the cash register at one of
+the shop’s exits. Whenever a customer took drugs to the cash register the pharmacist supervised that
+part of the transaction and was authorised by the defendants to prevent a customer removing drugs
+if he saw fit. Two customers following this procedure purchased drugs. The Pharmacy and Poisons Act
+1933 (UK) made it unlawful for a person to sell certain drugs unless “the sale is effected by, or under
+the supervision of, a registered pharmacist”.
+     Lord Goddard had held that sales of the drugs in the manner described did not contravene the Act.]
+    SOMERVELL LJ: [405] The point taken by the plaintiffs is this: it is said that the purchase is complete
+if and when a customer going round the shelves takes an article and puts it in the receptacle which
+he or she is carrying, and that therefore, if that is right, when the customer comes to the pay desk,
+having completed the tour of the premises, the registered pharmacist, if so minded, has no power
+to say: “This drug ought not to be sold to this customer.” Whether and in what circumstances he
+would have that power we need not inquire, but one can, of course, see that there is a difference if
+supervision can only be exercised at a time when the contract is completed …
+    Whether the view contended for by the plaintiffs is a right view depends on what are the legal
+implications of this layout – the invitation to the customer. Is a contract to be regarded as being
+completed when the article is put into the receptacle, or is this to be regarded as a more organised
+way of doing what is done already in many types of shops – and a bookseller is perhaps the best
+example – namely, enabling customers to have free access to what is in the shop, to look at the
+different articles, and then, ultimately, having got the ones which they wish to buy, to come up to
+the assistant saying “I want this”? The assistant in 999 times out of 1 000 says, “That is all right”, and
+the money passes and [406] the transaction is completed. I agree with what the Lord Chief Justice
+has said, and with the reasons which he has given for his conclusion, that in the case of an ordinary
+shop, although goods are displayed and it is intended that customers should go and choose what
+they want, the contract is not completed until, the customer having indicated the articles which he
+needs, the shopkeeper, or someone on his behalf, accepts that offer. Then the contract is completed.
+I can see no reason at all, that being clearly the normal position, for drawing any different implication
+as a result of this layout.
+   The Lord Chief Justice, I think, expressed one of the most formidable difficulties in the way of the
+plaintiff’s contention when he pointed out that, if the plaintiffs are right, once an article has been
+placed in the receptacle the customer himself is bound and would have no right, without paying
+for the first article, to substitute an article which he saw later of a similar kind and which he perhaps
+preferred. I can see no reason for implying from this self-service arrangement any implication other
+
+
+52    [3.45]
+                                                                                  Agreement    Chapter 3
+
+
+Pharmaceutical Society of Great Britain v Boots Cash Chemists (Southern) cont.
+
+than that which the Lord Chief Justice found in it, namely, that it is a convenient method of enabling
+customers to see what there is and choose, and possibly put back and substitute, articles which they
+wish to have, and then to go up to the cashier and offer to buy what they have so far chosen. On that
+conclusion the case fails, because it is admitted that there was supervision in the sense required by
+the Act and at the appropriate moment of time. For these reasons, in my opinion, the appeal should
+be dismissed.
+[3.55] BIRKETT LJ: [407] The Lord Chief Justice dealt with the matter in this way, and I would like to
+adopt his words ([1952] 2 QB 795 at 802):
+   It seems to me, therefore, that the transaction is in no way different from the normal
+   transaction in a shop in which there is no self-service scheme. I am quite satisfied it would
+   be wrong to say that the shopkeeper is making an offer to sell every article in the shop to
+   any person who might come in and that person can insist on buying any article by saying “I
+   accept your offer.”
+Then he went on to deal with the illustration of the bookshop, and continued:
+   Therefore, in my opinion, the mere fact that a customer picks up a bottle of medicine from
+   the shelves in this case does not amount to an acceptance of an offer to sell. It is an offer by
+   the customer to buy and there is no sale effected until the buyer’s offer to buy is accepted by
+   the acceptance of the price. The offer, the acceptance of the price, and therefore the sale take
+   place under the supervision of the pharmacist. This is sufficient to satisfy the requirements
+   of the section …
+[ROMER LJ in a brief judgment also agreed that the appeal should be dismissed.]
+   Appeal dismissed.
+
+                                                    YZ
+
+
+[3.56]                                              Note
+The interpretation of a proposal to form a contract made by way of electronic communications
+is now affected by the Electronic Transactions Acts. See at [3.225] and [3.230].
+
+
+
+Revocation of an offer
+
+
+                          Goldsbrough Mort & Co v Quinn
+[3.60] Goldsbrough Mort & Co Ltd v Quinn (1910) 10 CLR 674 (High Court of Australia) – Appeal from
+the Supreme Court of New South Wales.
+   [FACTS: The facts are set out by Griffith CJ.]
+    GRIFFITH CJ: [677] This was a suit by the appellants for specific performance of an agreement, the
+terms of which are contained in a document dated 8 February 1909, and signed by the respondent
+in the following terms:
+   I John Thomas Quinn in consideration of the sum of five shillings paid to me hereby grant to
+   Goldsbrough, Mort & Co Ltd the right to purchase the whole of my freehold and conditional
+   purchase and conditional lease lands situate near Canonbar, and known as Bena Billa,
+   comprising about 2 590 acres, within one week from this date at the price of £1 10s per
+
+                                                                                              [3.60]   53
+Part II: Formation
+
+
+Goldsbrough Mort & Co v Quinn cont.
+
+   It was rightly urged by learned counsel for the appellants that such an option gives the optionee an
+interest in the land … Of course the interest which the optionee possesses is not the same as that of a
+purchaser, but it is something real and substantial, and beyond the power of the grantor of the option
+to withdraw. Nevertheless I do not for this branch of the case rely on that equitable interest, because
+I would hold the respondent bound on general principles of contract whatever were the subject
+matter of the agreement, and would regard the offer as irrevocably fixed for the period agreed on.
+    The inevitable consequence is that in contemplation of law the offer was not withdrawn, and when
+linked with the acceptance, the necessary mutual contractual obligation to sell and purchase the land
+on the stipulated terms was created …
+   [696] In the view I take … I necessarily regard the parties as having entered into two separate
+contracts. The first was a unilateral contract that a certain offer should last for a week, and in this
+contract the con-[697]sideration was 5s. The appellants had no obligation beyond the consideration,
+the respondent none but to continue the offer for the stipulated time. Had there been any attempt
+by the respondent to dispose of the land to another during that period he might have been enjoined,
+because the affirmative promise to the appellants necessarily implied an undertaking not to sell to
+another. But in the absence of such an attempt the remedy was in the appellants’ own hands. They
+could at any moment before the expiration of the period agreed on, by simple acceptance, convert
+their position of optionees into that of absolute vendees, with mutual obligations … That change
+of position has been effected by the act of the party entitled, and therefore the remedy of specific
+performance of the primary agreement is not only unnecessary and inappropriate but impossible.
+There is nothing in that agreement to perform. Its terms must be looked at, but only to ascertain the
+offer, which with acceptance constituted the later and distinct contract.
+
+                                                 YZ
+
+Unilateral contracts
+
+
+                     Mobil Oil Australia v Wellcome International
+[3.75] Mobil Oil Australia Ltd v Wellcome International Pty Ltd (1998) 81 FCR 475 (Federal Court of
+Australia) – Appeal from Wilcox J.
+   [FACTS: Mobil operated an incentive scheme for its franchisees known as the Circle of Excellence.
+Franchisees who achieved high scores in the Circle of Excellence judging were given certain rewards,
+such as overseas holidays. At a convention for franchisees held in 1991, Mobil’s general manager for
+retail marketing, Mr Ken Stumbles, told franchisees that Mobil was seeking to implement a “tenure for
+performance” scheme. He told them that Mobil wanted to implement a scheme whereby a franchisee
+who achieved a score of 90 per cent or better in any year would be granted an extra year’s tenure (the
+“one for one” proposal), but that this was very difficult to achieve under the Petroleum Retail Marketing
+Franchise Act 1980 (Cth) (the PRMF Act). He said it may be that the only way to give the extended
+tenure is to say that any franchisee who achieves a score of 90 per cent or better in the Circle of
+Excellence judging in each of the six years following 1991 would be granted a nine-year renewal of
+their franchise without cost (the “nine-for-six” proposal).
+   A videotape including the relevant part of Mr Stumbles’ address was sent to all franchisees. The
+undertaking was repeated in literature distributed to franchisees. At subsequent regional meetings,
+franchisees were given a brochure including a tear-off slip which franchisees could sign to indicate
+that they did “accept the challenge to exceed 90% in Circle of Excellence judging and qualify for
+extra tenure.” Many franchisees signed and returned the tear-off slip and took steps to improve their
+performance in the Circle of Excellence judging. Several franchisees achieved a score of 90 per cent or
+better in the four years following the announcement.
+
+56   [3.75]
+                                                                                     Agreement    Chapter 3
+
+
+Mobil Oil Australia v Wellcome International cont.
+
+   Following management and policy changes, Mobil announced in 1994 that it would not grant
+renewals free of charge on the basis proposed by Mr Stumbles, but would discount the renewal fees
+of any franchisees who had succeeded in obtaining 90 per cent or better in 1992 and 1993. One-
+hundred and fifty-four franchisees commenced proceedings against Mobil, claiming relief on the basis
+of breach of contract, equitable estoppel or misleading or deceptive conduct in breach of s 52 of the
+Trade Practices Act 1974 (Cth). They sought orders requiring Mobil to grant the additional tenure or
+compensate them for its loss. Mobil then abandoned the Circle of Excellence judging.
+   The parties selected five test cases, which were heard together by Wilcox J. Wilcox J held that Mobil
+had made no offer of a one-for-one extension, since Mr Stumbles clearly indicated that this could not
+be done under the PRMF Act. Wilcox J upheld the contract claim based on the nine-for-six proposal
+made by three franchisees who had achieved 90 per cent or better in the Circle of Excellence judging
+in the four years following the announcement. He ordered Mobil to grant a nine-year extension of
+each of those franchises without charge. He found that Mobil had not engaged in misleading or
+deceptive conduct because Mr Stumbles had reasonable grounds for making the representation at
+the time he made it. In any event, a claim in respect of misleading conduct would not provide the
+franchisees with damages in respect of their disappointed expectations. Wilcox J also found that the
+franchisees were not entitled to a renewal of their franchises on the basis of promissory estoppel.
+The detriment the franchisees had suffered in reliance on Mobil’s promise did not justify holding
+Mobil to its promise. The relief claimed was disproportionate to the detriment suffered.
+   Mobil appealed to the Full Court. The successful franchisees filed notices of contention in respect
+of dismissal of the estoppel claims.]
+   THE COURT (LOCKHART, LINDGREN AND TAMBERLIN JJ): [494]
+   2. Contractual issues
+[498] The trial judge found an offer of a nine-for-six promise in the following passage:
+   So we have more work to do and where we’re at at the moment is that maybe the only
+   way to do this is to say that if you achieve 90 each year for the next 6 years then well [sic]
+   guarantee you another 9 years as of right, no fees just a renewal. Now we’ve got a lot more
+   work to do on this but the commitment that we’re making to you here today is that we will find a
+   way to extend your tenure automatically no costs if you consistently achieve 90 or better in Circle
+   of Excellence judgings. (Emphasis added)
+This passage follows immediately that in which Mr Stumbles said that the one-for-one proposal was
+made “very very difficult” by the PRMF Act and that Mobil had more work to do on the tenure for
+performance reward. In the first sentence set out above he says that the stage reached as at the time of
+the Convention was that “maybe” the only scheme consistent with the PRMF Act is a nine-for-six one.
+   The terms of the first sentence (“we have more work to do”, “where we’re at [499] the moment”,
+“maybe”) are not those of a present offer. That the first sentence is not to be understood as representing
+a commitment by Mobil is also made clear by the second and emphasised sentence: that sentence
+marks a passing from a statement of what Mobil is not prepared to commit itself to, to the language
+of commitment. The passage set out above is in fact as consistent with a rejection of a nine-for-six
+scheme as it is with a countenancing of it.
+    The import of the second and emphasised sentence, read in the context of the problems previously
+outlined by Mr Stumbles, is that while Mobil could not promise an extension of tenure for any
+particular period, and, concomitantly, could not define the degree of “consistency” of attainment
+of 90 per cent or better in Circle of Excellence judgings to be achieved, it could and did assure
+franchisees that it would find some way to grant some extension automatically and without cost
+if a dealer achieved some degree of consistency of 90 per cent or better scores in those judgings.
+No doubt, the reference to “commitment” was taken seriously and was intended to be taken
+seriously. The sentence quoted came at the end of Mr Stumbles’ references to the problems which
+had prevented Mobil from implementing a simple one-for-one plan. He must also have known of
+
+                                                                                                 [3.75]   57
+Part II: Formation
+
+
+Mobil Oil Australia v Wellcome International cont.
+
+the unsatisfactorily discriminatory nature of the nine-for-six alternative. Yet he wished to finish on a
+positive, reassuring note. The best that he could fairly manage was the sentence in question. But in
+our respectful opinion, an offer of a promise to “find a way” to “extend [for an unspecified period]”
+a dealer’s tenure if the dealer “consistently [over some undefined period]” achieved 90 per cent or
+better in Circle of Excellence judgings, is simply too vague and uncertain to be capable of giving
+rise to contractual obligation. Nor do we think that the sentence can be construed with that which
+immediately preceded it, to indicate that Mobil would grant a nine-for-six extension if it should
+conclude that this was the only lawful way to provide a reward of tenure for performance.
+   We have reached this conclusion as a matter of construction of Mr Stumbles’ address and have
+taken into account the accompanying captions, including that reading:
+      90 or better for 6 years
+      Automatic 9 year renewal.
+We need not repeat what we said earlier about the role of the screened captions. [The address was
+punctuated by captions flashed onto a screen at the front of the room in which dealers were having
+breakfast.]
+   Certain circumstances extrinsic to Mr Stumbles’ speech may be noted. First, the second and
+emphasised sentence set out above was the only passage from Mr Stumbles’ speech which was
+communicated by means of the “Convention highlights” video and the September 1991 issue of the
+“Mobil Marketer”. Accordingly, in respect of persons who did not attend the Convention (with the
+exception of Mr Morris of Lyndel who saw a screening of the entire address), it is quite impossible to
+construe what they heard and saw as an offer of a nine-for-six promise ….
+  The learned trial judge emphasised that Mr Stumbles intended his speech to be taken seriously
+and acted upon, and that he was, for the purpose, the “mind” of Mobil. His Honour said of
+Mr Stumbles: “He intended, and so Mobil intended, that his offer of tenure for performance would
+motivate franchisees to improve their businesses; and he believed this “would in turn improve Mobil’s
+business”.”
+   [500] Referring to the tear-off slip, his Honour said: “Franchisees were asked to commit themselves
+in writing to “accept the challenge to exceed 90 in Circle of Excellence judging and qualify for extra
+tenure.” This is the language of mutual commitment.”
+   Notwithstanding Mr Stumbles’ intention and the “commitment” sought by means of the completion
+and return of the tear-off slip, in our respectful view, the problem remains for the franchisees’ case in
+contract, that neither the terms of the speech nor those of the tear-off slip were sufficiently certain to
+give rise to a contract.
+   What we have said above addresses the question whether there was an offer of a one-for-one or
+nine-for-six promise to be accepted by performance of an act to be found in Mr Stumbles’ speech.
+We will deal later with the separate question whether Mr Stumbles’ address laid sufficient foundation
+to activate an estoppel or to support the claim under s 52 of the [Trade Practices] Act.
+  It will next be necessary to consider other contractual issues which would arise if, contrary to our
+conclusions expressed above, Mobil did, through Mr Stumbles’ speech, offer the nine-for-six promise.
+
+Revocation of offer
+Mobil submits that even if Mr Stumbles’ speech could be characterised as containing an offer of a
+nine-for six-promise:
+(a)       Mobil revoked the offer before the earliest time when acceptance could have occurred (1997);
+(b)       the offer was not accepted because none of the five franchisees in question attained 90 per
+          cent or better in Circle of Excellence judgings in all six years 1992, 1993, 1994, 1995, 1996
+          and 1997; and
+(c)       specific performance was not an available remedy in all the circumstances.
+
+58     [3.75]
+                                                                                     Agreement    Chapter 3
+
+
+Mobil Oil Australia v Wellcome International cont.
+
+These submissions raise several issues relating to unilateral contracts.
+   A unilateral contract is one in which the act of acceptance of the offer is also an executed
+consideration for the promise offered. The act of acceptance called for by the offer, once completed
+by the offeree, leaves the contract executory only on the part of the offeror. A familiar illustration is the
+offer of a reward for the return of lost goods or for the provision of information. The supposed nine-
+for-six promise was the offer of a reward (nine years free tenure) in return for an act (the attaining of
+90 per cent or better in Circle of Excellence judging over the six years 1992–1997).
+    A distinction must be recognised. In the case of some unilateral contracts, it may remain within
+the offeree’s power unilaterally to complete the act of acceptance, and thereby to furnish the
+executed consideration sought, that is to say, without the necessity of cooperation by the offeror and
+even notwithstanding a purported revocation of the offer. An example is the furnishing of sought
+information by posting it in an envelope addressed in a particular way. There may also be a case (it
+is, perhaps, difficult to imagine one) in which the offeror may prevent the offeree from completing
+the act of acceptance, and thereby furnishing the executed consideration sought, yet the offer will be
+held not to have been revoked. In the present case, Mobil made it clear to its dealers that its supposed
+nine-for-six-offer was revoked. But, in addition, by terminating the system of Circle of Excellence
+judgings, it made it impossible for its dealers to complete the act of acceptance called for by that
+supposed offer. In the present section of these reasons, we address only the question whether Mobil
+effectively revoked its supposed offer.
+    [501] … It will be recalled that it was in January 1996 that Mobil announced, without giving
+reasons, the abandonment of the Circle of Excellence awards. The sequence of events, then, is that
+there was a purported revocation after which Mobil made it impossible for franchisees to complete
+the act of acceptance by attaining 90 per cent or better in Circle of Excellence judgings in the last two
+of the six years (1996 and 1997).
+   His Honour referred to discussions of the question whether an offeror of a promise for an act can
+effectively revoke the offer where performance of the act of acceptance has been embarked upon but
+not completed. He referred to Cheshire & Fifoot, The Law of Contract (2nd ed), pp 137–9; Carter &
+Harland, Contract Law in Australia (3rd ed), pp 67–9; Abbott v Lance (1860) 2 Legge 1283; Daulia Ltd v
+Four Millbank Nominees Ltd [1978] Ch 231; and Veivers v Cordingley [1989] 2 Qd R 278. He considered
+that the weight of authority was in favour of the proposition that: “… a person who makes an offer
+susceptible of acceptance by performance of an act, may not revoke that offer after the offeree has
+embarked upon performance of the act.”
+   While his Honour thought that there was some difference in the authorities as to the proper juristic
+basis of this proposition and that “in a technical sense” he was not bound to follow the decisions to
+which he referred, he considered that he should follow them unless positively satisfied that they were
+wrong. He recorded that he was not so satisfied.
+     We would make several observations at the outset. It has been suggested to be unjust that an
+offeror should be at liberty to revoke the offer once performance of the act, which is at once the act
+of acceptance and the executed consideration, has commenced. This proposition is usually stated as
+if its truth were self evident and universal. We do not think that it is either.
+(a)     The respective positions of offeror and offeree vary greatly from the case of one unilateral
+        contract to another. The following factors illustrate:
+         (i)    the offeror may or may not know that the offeree has commenced performance;
+        (ii)    the offeree may or may not have an understanding that the offeror is at liberty to
+                revoke and that any incomplete performance of the act of acceptance by the offeree
+                will be at his or her risk;
+        (iii)   the notion of “commencement of performance of the act of acceptance” or “embarking
+                upon the act of acceptance” is problematical and can lead to a result which is unjust
+                to the offeror. [502] By reference to the facts of the present case, could it be suggested
+
+                                                                                                  [3.75]   59
+Part II: Formation
+
+
+Mobil Oil Australia v Wellcome International cont.
+
+                 that attainment of 90 per cent in the first year or even perfect operation of a service
+                 station for a day, a week or a month, albeit by reference to the offer, represents a
+                 commencement of attainment of 90 per cent in all six years so as immediately to bind
+                 Mobil not to revoke?
+         (iv)    the act called for by the offer may be detrimental to the offeree, or of some benefit to
+                 the offeree as well as to the offeror, as in the present case;
+         (v)     although the offeree is not obliged to perform, or to continue performing, the act of
+                 acceptance and is at liberty to cease performing at any time, ex hypothesi, the offeror
+                 remains bound, perhaps over a lengthy period as in the present case, to keep its offer
+                 open for completion of the act of acceptance, without knowing whether the offeree
+                 will choose to complete or not to complete that act;
+         (vi)    the circumstances of the particular case may or may not, by reference to conventional
+                 criteria, suggest that the parties intended that the offeror should not be at liberty to
+                 revoke once the offeree had performed the act of acceptance to some extent. We do
+                 not accept that it is universally unjust that an offeror be at liberty to revoke once the
+                 offeree has “commenced” or “embarked upon” performance of an act which is both
+                 the sought act of acceptance of the offer and the sought executed consideration for
+                 the promise.
+(b)      A juristic basis which has been suggested to support the general proposition is that of an
+         implied ancillary unilateral contract by which the offeror promises not to revoke once the
+         offeree commences the act of acceptance of the principal offer. But even if such an ancillary
+         contract should be implied in all cases, it is one thing to say that there is a contractually
+         binding promise not to revoke and another thing to say that a purported revocation will be
+         ineffective. The normal remedy for a revocation in breach of the ancillary contract would be
+         an award of damages, the amount of which would be assessed, no doubt, by reference to the
+         prospect that the act of acceptance would have been completed, and, by the same act, the
+         offered promise duly “paid for”. No doubt it might be possible for the offeree to seek specific
+         relief in the form of an injunction restraining the offeror from revoking the offer and from
+         preventing the offeree from providing the executed consideration. In the present case, the
+         franchisees did not seek orders that Mobil maintain its Circle of Excellence judgings and that
+         it not act upon or implement its purported revocation. Perhaps no one thought of doing so.
+         Perhaps the view was taken that an application for such relief would probably fail. We make
+         no comment as to the prospects of success which any such application would have enjoyed.
+(c)      It seems that the general undifferentiated proposition could produce unintended and unjust
+         results. Assume that X made a public offer of payment for the collection and supply of
+         information of a kind described in the offer; that A, B and C embark upon collecting the
+         information; and that A supplies it to X. According to the general proposition, X is bound
+         not to revoke the offer made to B and C, notwithstanding the inutility of their subsequently
+         supplying to X the information that A has already provided. It may be replied that the terms
+         of the offer would include an [503] implied qualification. But this very response bespeaks the
+         inadequacy of a universal rule.
+… [505] In Veivers v Cordingley, McPherson J [said]:
+         There can be no doubt that, ordinarily an offer can be withdrawn before acceptance.
+         It may well be a different matter if, in the case of what is commonly called a “unilateral
+         contract”, the promisee has already entered upon the act which, when completed, will
+         constitute acceptance of the promise. The question has been much debated by text
+         writers. The authorities in point are usefully collected in an article by Mr CD Gilbert in 46
+         ALJ 522, particularly at 525–6. The only decision directly in point is that of the Supreme
+         Court of New South Wales in Abbott v Lance (1860) 2 Legge 1283, which was a decision
+         of the court in Banc comprising Dickinson ACJ and Wise J …
+
+60    [3.75]
+                                                                                    Agreement   Chapter 3
+
+
+Mobil Oil Australia v Wellcome International cont.
+
+           It seems to me that the decision in Abbott v Lance is authority for propositions that,
+        although as a general rule an offer may be retracted before acceptance, yet, if it takes
+        the form of an offer in exchange for the doing of an act or acts, then: (1) acceptance
+        takes place when the offeree “elects” to do the relevant act or acts; and (2) the offer
+        becomes irrevocable once the act or acts, which will constitute consideration for the
+        offer, have been partly performed. Applied to the present circumstances, the decision
+        in Abbott v Lance would carry judgment for the plaintiffs Veivers in this case …. On the
+        authority of Abbott v Lance, I consider that it was then no longer open to Cordingley to
+        retract his promise …, and that he was bound to perform it by paying the sum of $200
+        000 if and when Veivers succeeded in obtaining approval from the Council.
+[506] … For the reasons indicated earlier, we do not accept that there is a universal proposition that
+an offeror is not at liberty to revoke the offer once the offeree “commences” or “embarks upon”
+performance of the sought act of acceptance (being also the sought executed consideration for the
+offered promise). If and to the extent that any of the authorities to which we have referred say
+otherwise, we would respectfully disagree. In any event, even if it be assumed that an offeror has
+impliedly promised not to revoke in consideration of a commencement of performance of the act of
+acceptance, it would not follow that a purported revocation would be ineffective. On the contrary,
+in the absence of specific relief in respect of that promise, the offeror’s revocation would be effective,
+although leaving the offeror liable in damages.
+     It should not be thought that the absence of a universal rule is unjust. In the circumstances of a
+particular case, it may be appropriate to find that the offeror has entered into an implied ancillary
+contract not to revoke, or that the offeror is estopped from falsifying an assumption, engendered by
+it, that the offeree will not be deprived of the chance of completing the act of acceptance.
+   We see no basis in the particular facts of the present case for concluding that Mobil should be taken
+to have offered to all those franchisees who would but commence or embark upon performing the
+prescribed act of acceptance of its principal offer (of a promise of nine-for-six), an ancillary promise
+not to revoke that offer. Several considerations support this view.
+   First, there is the problem of the meaning of “commencing” to attain not less than 90 per cent in
+Circle of Excellence judgings for all of the six calendar years 1992 to 1997. We referred, in a general
+context, to the nature of the problem earlier. In addition, there is a particular question arising from the
+nature of the specified act of acceptance in the present case: whether there can be a “commencement”
+only if at least one attainment of 90 per cent occurs. Perhaps, by reason of the nature of the act of
+acceptance (attaining 90 per cent or better in each of six successive years) mere “working towards”
+attaining that judging result counts for nothing in the present context. Mobil should not lightly be
+taken to have intended to be bound not to revoke its principal offer in favour of any franchisee who
+performed such an ill-defined act as “embarking upon” or “commencing” attainment of 90 per cent
+or better in Circle of Excellence judgings in the six years 1992–1997.
+    Secondly, while it is true that even part performance of the act of acceptance would be of some
+benefit to Mobil, it would not be only to the benefit of Mobil and to the detriment of the franchisee.
+Mobil was inviting franchisees to embark upon a course which would benefit both parties. In these
+circumstances, the case for holding Mobil bound by an implied promise not to revoke is the less
+strong.
+   Thirdly, it is unlikely that Mobil meant to promise not, throughout the period 1992 to 1997,
+to revoke an offer of nine years free tenure, to a franchisee which had already made the following
+promise to Mobil:
+   (3) Adherence to Mobil Team Pak Standards
+      Dealer acknowledges that its adherence and the adherence of other [507] Mobil dealers
+   at all times to the Team Pak Standards, and to the policies and other requirements of the
+   Team Pak Program is essential for the success, goodwill and reputation of the Mobil Dealer
+
+
+                                                                                                [3.75]   61
+Part II: Formation
+
+
+Mobil Oil Australia v Wellcome International cont.
+
+      network and Mobil System and the Team Pak Program. Dealer therefore agrees to comply
+      at all times during the life of this Agreement with the Team Pak Standards, as amended and
+      updated from time to time. Likewise, Mobil agrees to comply with its part of those Team
+      Pak Standards.
+This standard provision of the Mobil Team Pak Agreement is in fact copied from subcl 4(3) of the
+Mobil Team Pak Agreements dated 18 May 1990 and 12 November 1993 between Mobil and
+Lyndel. Whatever its technical effect for the presence or absence of consideration, the existence of
+this contractual obligation suggests, on the assumption that franchisees attempted to comply with
+it, that “to commence to attain 90 per cent or better” would involve little or no actual detriment
+to franchisees – his Honour found that little or no detriment had been established (see later under
+“Promissory estoppel issues”).
+    In our respectful opinion, the trial judge erred in holding that Mobil was not at liberty to revoke its
+supposed offer of a nine-for-six promise, as made to those franchisees which had embarked upon the
+stipulated act of acceptance of that offer …. [508]
+
+The stipulated executed consideration (and acceptance of the offer) was not furnished
+Three issues arise in connection with the furnishing of consideration.
+(1)       The first is that Mobil submitted to the trial judge, and submits on the appeal, that the
+          franchisees were already legally obliged to attain 90 per cent or better in Circle of Excellence
+          judgings, because they were obliged, under the Team-Pak scheme, to do all the things which
+          would have earned scores of 100 per cent. His Honour dealt with this submission shortly: “But
+          none of the franchisees was under an extant obligation to achieve any particular level of
+          performance in the Circle of Excellence awards.” We deal below with the similar submission
+          that in view of their existing contractual obligations, the attainment of 90 per cent or better in
+          Circle of Excellence judgings could not constitute “detriment” for the purpose of the doctrine
+          of promissory estoppel. Substantially for the reasons there set out, we are of the opinion
+          that the franchisees’ performance did not attract the rule that performance of an existing
+          contractual obligation owed to the promisor cannot qualify as valuable consideration ….
+(3)       Mobil submits that the franchisees were not entitled to nine years additional tenure because
+          they did not furnish the only consideration stipulated as the price of obtaining such tenure,
+          namely, the attainment of 90 per cent or better in Circle of Excellence judgings over all six years,
+          1992–1997. We accept this submission and deal with it under the next side heading. [509]
+The award of specific performance in the absence of the stipulated executed consideration (and acceptance
+of the offer)
+   With respect, it was erroneous to treat Lyndel, Thorpe and Wellcome as having attained 90 per
+cent or better in all six years: they did not do so or even promise to do so. They had therefore not
+done or even promised to do the one and only act for the doing of which Mobil had offered its
+promise. Unlike, for example, payment of money, the attainment of 90 per cent or better in Circle of
+Excellence judgings over six years was something which they were not able unilaterally to tender. An
+order for specific performance of Mobil’s supposed nine-for-six promise was, in the circumstances,
+not available in the absence of the actual furnishing of the agreed consideration for that promise: the
+attainment of 90 per cent or better in Circle of Excellence judgings in all of the years 1992 to 1997: see
+Colly v Overseas Exporters [1921] 3 KB 302 at 310–11; Heyman v Darwins Ltd [1942] AC 356 at 371
+(Lord MacMillan); Plaimar Ltd v Waters Trading Company Ltd (1945) 72 CLR 304 at 318; Automatic Fire
+Sprinklers Pty Ltd v Watson (1946) 72 CLR 435 esp at 465–7 (Dixon J), 476–7 (Williams J); City Motors
+(1933) Pty Ltd v Southern Aerial Super Service Pty Ltd (1961) 106 CLR 477 and Bolwell Fibreglass Pty Ltd
+v Foley [1984] VR 97 at 112 (FC) (Brooking J).
+   The foregoing propositions hold good, even if it be correct that Mobil had impliedly promised not
+to revoke its offer. With respect, we think that, given the other conclusions of the trial judge in favour
+of Lyndel, Thorpe and Wellcome, the appropriate course was for his Honour to make an award of
+
+62     [3.75]
+                                                                                  Agreement    Chapter 3
+
+
+Mobil Oil Australia v Wellcome International cont.
+
+damages for any loss and damage which Mobil’s repudiation of the ancillary contract caused each of
+them to suffer. The amount of damages would have been based on the value of the lost opportunity of
+obtaining the additional nine years tenure. The assessment would have had to allow for the possibility
+that the franchisee would not have continued to score 90 per cent or better in 1996 or 1997 or both,
+and so failed to “win” any additional tenure.
+    The franchisees did not seek an order compelling Mobil to continue with Circle of Excellence
+judgings promptly after the abandonment of those judgings was announced early in 1996, and they
+have not done so since. We make no comment as to whether Mobil’s supposed implied promise to
+provide those judgings from 1992 to 1997 was a promise which, of its nature, would have been
+susceptible to an order for specific performance. The franchisees sought specific performance only of
+the principal promise, relevantly, to grant nine years tenure. They were not entitled to that remedy in
+circumstances in which they had not furnished, and were not in a position to furnish, the consideration
+for it. Therefore, they were not entitled to the order which the learned trial judge made that Mobil
+grant them a renewal for nine years …. [510]
+3. Promissory estoppel issues
+General principles
+
+[3.80] The principles on which remedies based on equitable estoppel, including promissory
+estoppel, are available are by no means clear or precise. This is reflected in the substantial
+developments in the case law, particularly over the past two decades, and in the extensive range of
+discussions and articles on this topic over that period. The relief is broadly grounded in the notion
+of unconscionability, but the ways in which the principles are applied to specific circumstances have
+been the subject of differing formulations. This area of equity is still in the process of development
+and extension ….
+   In Austotel, a decision discussed by the trial judge in some detail in his preliminary reasons in this
+case, Priestley JA considered the line of authority in relation to estoppel, which had developed from
+the Privy Council decision in Plimmer v City of Wellington (1884) 9 App Cas 699. Although, in the final
+result, Priestley JA dissented, his distillation of the relevant principles was accepted as “cogent” by a
+Full Court of this Court in S & E Promotions Pty Ltd at 653. He considered that Plimmer was (at 604):
+    … a clear example, where a plaintiff, despite being unable to point to some agreement
+    which, although unenforceable, contains precise terms describing what he expected from
+    the defendant, has nevertheless been held to be entitled to equitable relief which may be of
+    a proprietary kind.
+He then formulated the relevant proposition as to equitable estoppel in the following terms (at 610):
+    For equitable estoppel to operate there must be the creation or encouragement by the
+    defendant in the plaintiff of an assumption that a contract will come into existence or a
+    promise be performed or an interest granted to the plaintiff by the defendant, and reliance
+    on that by the plaintiff, in circumstances where departure from the assumption by the
+    defendant would be unconscionable. (Emphasis added)
+…
+
+The representations
+In our view, for the purpose of determining the estoppel submission, it does not matter whether the
+formulation of Brennan J in Waltons or that of Priestley JA in Austotel is applied. While the difference
+may, in particular cases, lead to different results, in the present case it does not. On either approach,
+it is a necessary element of the principle that the defendant has created or encouraged an assumption
+that “a particular legal relationship” or “an interest” would arise or be granted by the respondent if
+certain things are done or not done by the applicant in reliance thereon and that it is contrary to good
+conscience for the defendant to depart from the assumption.
+
+
+                                                                                              [3.80]   63
+

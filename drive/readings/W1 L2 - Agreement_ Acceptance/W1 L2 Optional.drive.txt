@@ -1,0 +1,687 @@
+Part II: Formation
+
+in damages. 135 An estoppel may arise where the offeree has acted to their detriment on an assumption that the offer will not be revoked. The Full Court found, however, that there is no universal principle that the offeror may not revoke once the offeree embarks upon performance of the act of acceptance. 136 If there is no implied contract and no estoppel,137 the offeror is free to revoke the offer. There is no basis for any universal principle, according to the Full Court, because the circumstances vary greatly from one unilateral contract to another. Whether it is unjust for the offeror to revoke the offer once the offeree has commenced performance may depend on whether the offeror knows the offeree has commenced performance, whether the offeree understands that incomplete performance is at their risk, whether the parties intended that the offeror should be at liberty to revoke the offer and whether the acts towards performance are detrimental or beneficial to the offeree. 138 In the present case, it was difficult to say when a franchisee should be taken to have "embarked upon" performance; the actions of the franchisees were of benefit to both parties and little or no detriment had been established. There was therefore no basis for an implied contract not to revoke the offer. 139 Accordingly, even if Mobil could be said to have made an offer to the franchisees, Mobil was free to revoke that offer.
+
+The effect of Mobil v Wellcome is that, in general, an offer made in return for performance of an act is, like any other offer, revocable at any time. The offeror will only be prevented from revoking the offer where there is an implied contract not to revoke or an estoppel. An estoppel will arise only where the offeree is induced to adopt the assumption that the offer will not be revoked and relies on that assumption in such a way that they will suffer detriment if the offer is revoked.140
+
+ACCEPTANCE
+
+Conduct constituting an acceptance
+
+\[3.170\] An acceptance is an unqualified assent to the terms of an offer. An important question is whether the acceptance must result in an actual consensus between the parties or a "meeting of the minds". Where A makes an offer to B and B appears to accept, but was seriously mistaken as to what A was offering, is B bound? Whether a real meeting of the minds is required depends in theory on whether one adopts an objective or subjective approach to agreement.¹¹¹ Under a subjective approach, no contract is formed unless there was a real consensus between the parties. An objective approach, on the other hand, looks only to the external manifestations of consent, disregarding the offeree's actual state of mind. In Taylor v Johnson,142 the High Court noted that, while there is a significant difference in legal technique between the subjective and objective theories, there is little difference in practice. The reason is that the subjective theory is coupled with a principle of estoppel that operates where a person
+
+135 Mobil Oil Australia Ltd v Wellcome International Pty Ltd (1998) 81 FCR 475, 506. 136 Mobil Oil Australia Ltd v Wellcome International Pty Ltd (1998) 81 FCR 475. 137 The estoppel aspects of the decision are discussed \[9.110\].
+
+138 Mobil Oil Australia Ltd v Wellcome International Pty Ltd (1998) 81 FCR 475, 501-2.
+
+139
+
+See \[9.110\].
+
+140
+
+See Chapter 9.
+
+141
+
+See further \[1.60\] and \[3.310\].
+
+142 Taylor v Johnson (1983) 151 CLR 422, 428.
+
+76 \[3.170\]
+
+Agreement Chapter 3
+
+conducts himself or herself in such a way that a reasonable person would believe that they were assenting to the terms of a contract.143 In those circumstances, the principle of estoppel prevents the person from denying the existence of a contract. Accordingly, an offeree who behaves in such a way that a reasonable person would think they were accepting the offer and induces the offeror to contract with him or her on that basis will be bound under both the objective and subjective approaches.
+
+Smith v Hughes144 provides a useful illustration of this point. A buyer agreed to purchase a quantity of oats on the faith of a sample provided by the seller. The buyer wrongly believed the sample to be old oats, when in fact the sample and the oats supplied were new oats and were unsuitable for the buyer's purposes. Blackburn J held that there is no contract if the parties are not ad idem (of one mind) unless an estoppel prevents one of the parties from denying that they have agreed to the other's terms. The relevant principle is:
+
+If, whatever a man's real intention may be, he so conducts himself that a reasonable man would believe that he was assenting to the terms proposed by the other party, and that other party upon that belief enters into the contract with him, the man thus conducting himself would be equally bound as if he had intended to agree to the other's terms.145
+
+On a subjective approach to agreement, therefore, an estoppel prevented the buyer from denying the contract because he had behaved in such a way that a reasonable person would believe he was agreeing to buy new oats. An objective approach would lead to the same result: the court would impute an agreement on the basis that there appeared to be a consensus between the parties. While Smith v Hughes supports the application of a subjective approach coupled with a principle of estoppel, the High Court observed in Taylor v Johnson that "the clear trend in the decided cases and academic writings has been to leave the objective theory in command of the field".146 The High Court has since confirmed that "the principle of objectivity" determines "the rights and liabilities of the parties to a contract": "It is not the subjective beliefs or understandings of the parties about their rights and liabilities that govern their contractual relations. What matters is what each party by words and conduct would have led a reasonable person in the position of the other party to believe".147 It is clear that the same objective approach governs the question whether two parties have entered into contractual relations.148
+
+On that basis, an offeree will effectively accept an offer if the offeree behaves in such a way that a reasonable person would believe they are assenting to the terms of an offer, even if there is no real consensus between the parties. 149 There is certainly no need for a consensus as to the terms of a contract.¹ 150 In Fitness First (Australia) Pty Ltd v
+
+143 Taylor v Johnson (1983) 151 CLR 422, 428.
+
+144
+
+Smith v Hughes (1871) LR 6 QB 597, 607.
+
+145
+
+Smith v Hughes (1871) LR 6 QB 597, 607.
+
+146 Taylor v Johnson (1983) 151 CLR 422, 429. This statement has been repeated with approval in many cases
+
+since; see, eg, Realestate.com.au Pty Ltd v Hardingham \[2022\] HCA 39; (2022) 277 CLR 115, \[50\], \[83\].
+
+147 Toll (FGCT) Pty Ltd v Alphapharm Pty Ltd \[2004\] HCA 52; (2004) 219 CLR 165, \[40\].
+
+148
+
+See Ermogenous v Greek Orthodox Community of SA Inc \[2002\] HCA 8; (2002) 209 CLR 95, \[25\], discussed at \[5.20\].
+
+149 Subject to the principles of mistake, discussed in Chapter 31.
+
+150
+
+See also Shahid v Australasian College of Dermatologists \[2008\] FCAFC 72; (2008) 168 FCR 46, discussed at \[5.20\] (where, on the basis of an objective approach, the court overturned the decision of a trial judge who had found that "there was no meeting of the minds" in relation to a particular issue).
+
+\[3.170\] 77
+
+Part II: Formation
+
+Chong,151 for example, Ms Chong signed an application form to join a gym on a 12-month membership without first reading the form. She was unaware that it stipulated that she was liable to pay a $200 fee if she cancelled the membership within the first two months. A Tribunal Member held that the parties did not have "the requisite consensus ad idem" required for a valid contract, and therefore Ms Chong was not liable to pay the fee. That decision was overturned on appeal, with Harrison AsJ holding that "the Tribunal Member erred in law when he stated that a valid contract requires that the parties have the \[requisite\] consensus ad idem in that each fully know and understand the terms of their agreement".152 By signing the form, Ms Chong had manifested her assent to the printed terms, and it was irrelevant that there was no true consensus ad idem between the parties.
+
+Another example of the application of the objective approach is the Canadian case South West Terminal Ltd v Achter Land & Cattle Ltd.153 In early 2021, SWT was seeking to enter into a contract to buy a specified quantity of flax for delivery towards the end of that year. After a phone conversation with Achter (representing ALC), Mickleborough (a grain buyer for SWT) had a contract prepared for the sale by ALC to SWT of the specified quantity of flax, at a specified price, to be delivered in November that year. Mickleborough signed the contract on behalf of SWT, photographed it, and texted it to Achter with the message: "Please confirm flax contract". Achter simply texted back: "" (a thumbs-up emoji). There was no further communication between the parties until November that year, when ALC failed to deliver the flax as agreed. The spot market price for flax at that time was more than double the contract price. Achter claimed that he intended the thumbs-up emoji only to confirm that he had received the contract, and not to signal his agreement with the terms proposed.
+
+Keene J held that a reasonable person would conclude that the thumbs-up emoji signalled ALC's acceptance of the terms proposed by SWT, in light of all of the circumstances, including: (a) the commonly understood meaning of the thumbs-up emoji symbol, and (b) the fact that the parties had contracted in a similar way in the past, but with Achter on those occasions responding "looks good", "ok" or "yup" rather than with an emoji. The emoji was also held to constitute a signature for the purpose of satisfying a statutory requirement that a note or memorandum of the contract be in writing and signed.154
+
+Consciousness of the offer
+
+\[3.180\] In the case of bilateral contracts formed verbally or in writing, it will usually be clear that the offeree has deliberately accepted the offer. The situation is different with unilateral contracts. If an offeree performs an act requested by an offeror without intending to accept the offer, has a contract been formed? If a person returns a lost dog and subsequently learns of the reward that had been offered by the owner, can the finder of the dog claim the reward? The answer to these questions also depends on a choice between an objective and a subjective approach. In The Crown v Clarke, 155 the High Court adopted a subjective approach to this
+
+151 Fitness First (Australia) Pty Ltd v Chong \[2008\] NSWSC 800.
+
+152
+
+153
+
+154
+
+Fitness First (Australia) Pty Ltd v Chong \[2008\] NSWSC 800, \[22\]. Harrison As\] applied the principle stated in Toll (FGCT) Pty Ltd v Alphapharm Pty Ltd \[2004\] HCA 52; (2004) 219 CLR 165, discussed at \[12.120\]. South West Terminal Ltd v Achter Land & Cattle Ltd 2023 SKKB 116.
+
+South West Terminal Ltd v Achter Land & Cattle Ltd 2023 SKKB 116, \[61\]-\[64\]. On formalities requirements, see Chapter 7, esp \[7.100\] on documents in electronic form.
+
+155
+
+The Crown v Clarke (1927) 40 CLR 227.
+
+78 \[3.180\]
+
+Agreement Chapter 3
+
+particular question without abandoning the objective approach to formation generally. The court held that while an offeree's conduct is normally assessed by reference to external manifestations, performance of a requested act will not give rise to a unilateral contract if the evidence establishes that the offeree was not in fact acting on the faith of the offer. In other words, a unilateral contract will only arise if the offeree performs the requested acts in reliance on the offer.
+
+The Crown v Clarke was concerned with a £1000 reward offered for information leading to the arrest and conviction of the person who murdered two police officers. Clarke and Treffene were arrested and charged with one of the murders. Clarke gave a statement which led to his own release and the arrest of a man named Coulter, and later gave evidence which led to the conviction of Treffene and Coulter. Clarke claimed the reward, but the Crown refused to pay it to him on the basis that he did not make the statement with a view to claiming the reward. Clarke admitted in evidence that, although he had seen the reward notice, he made the statement in order to clear himself of the charge of murder and not with the intention of claiming the reward. He gave no consideration to the reward until after the men were convicted.
+
+Clarke claimed the Crown was under a contractual obligation to pay him the reward, but he was ultimately unsuccessful in establishing a contract. The High Court held that a unilateral contract will be made only where the acts required for acceptance are performed on the faith of the offer. 156 The court held unanimously that there must be a consensus of minds or wills between the parties before a contract can exist. 157 Isaacs ACJ observed that "acceptance is essential to contractual obligation, because without it there is no agreement, and in the absence of agreement, actual or imputed, there is no contract",158 Higgins J noted that, without Clarke's admission that he not acted in reliance on the offer, a presumption might have been made that he had acted upon it, but his own evidence rebutted such a presumption.159 Starke J treated a unilateral contract as an exception to the rule that a person's contractual intentions are normally judged from their outward expressions. The position is different, he said, in a case where communication of acceptance is dispensed with. In such a case, evidence of subjective intention can be taken into account. 160
+
+By requiring an actual consensus between the parties, and allowing Clarke's actual intentions to override his apparent intentions, the High Court decided the case on the basis of subjective evidence of intention. Had the court taken a purely objective approach, the court would have looked only at the outward manifestations of the parties' intentions and would have imputed an agreement on the basis of Clarke's conduct. The decision in The Crown v Clarke shows that the principle of estoppel described in Smith v Hughes does not entirely eradicate the practical consequences of the distinction between the objective and subjective approaches to agreement. Although Clarke's conduct would have led a reasonable person to believe he was assenting to the Crown's offer, the principle of estoppel described in Smith v Hughes could only be used against Clarke to prevent him from denying the existence of the contract. It could not be used by Clarke to prevent the Crown denying the existence of a contract.
+
+156 The Crown v Clarke (1927) 40 CLR 227, 234, 241-2, 244.
+
+157 The Crown v Clarke (1927) 40 CLR 227, 234, 239, 243.
+
+158 The Crown v Clarke (1927) 40 CLR 227, 233.
+
+159
+
+The Crown v Clarke (1927) 40 CLR 227, 241.
+
+160
+
+The Crown v Clarke (1927) 40 CLR 227, 244.
+
+\[3.180\] 79
+
+Part II: Formation
+
+Communication of acceptance
+
+The general rule
+
+\[3.190\] An acceptance generally has effect only when communicated to the offeror.161 Bowen LJ suggested in Carlill v Carbolic Smoke Ball Co¹62 that notification of acceptance is required because this establishes that the minds of the two parties have come together and formed a consensus. This rule means that a contract is formed when the offeree's acceptance is received by the offeror. In Latec Finance Pty Ltd v Knight,163 Mr Knight signed a hire- purchase agreement relating to a television set. The document was expressed to operate as an offer by the hirer (Knight), which was irrevocable for a period of seven days and was not binding on the hire-purchase company until signed by the company. The company's acceptance of Knight's offer was noted on the document but was not communicated to Knight. Knight found the set unsatisfactory and returned it to the dealer before any instalments were paid. The company sought to enforce the agreement. The New South Wales Court of Appeal observed that ordinarily, a contract is not made until acceptance of an offer has been communicated. 164 An offeror, however, may expressly or impliedly dispense with the need for actual communication, and will commonly do so in one of two ways. First, the offeror may agree to treat the doing of an act as an effective acceptance. Unilateral contracts are always accepted by the doing of an act and bilateral contracts can also be formed in this way. 165 Secondly, the offeror may treat the despatch of an acceptance by a particular method as effective, whether or not the acceptance is received by the offeror. 166 The company argued that this case fell into the first category, with the act of signing the document to be treated as an effective acceptance. The court held that clear language would be required to support such a construction of the document because, if signing without notification were enough, it would give the company power to "keep the form in their office unsigned, and then play fast and loose as they pleased". 167 The language of the clause did not require this interpretation and, accordingly, there was no contract between the parties.
+
+The postal rule
+
+\[3.200\] Common law courts have long recognised an exception to the general rule stated above in cases where the acceptance is expected to be sent by post. In such cases, the acceptance is effective as soon as it is posted.168 In England, this rule has been held to apply where the parties must have contemplated that the acceptance might be sent by post. 169 In Tallerman \&Co Pty Ltd v Nathan's Merchandise (Vic) Pty Ltd,170 Dixon CJ and Fullagar J appeared
+
+161
+
+For example, Latec Finance Ltd v Knight \[1969\] 2 NSWR 79; Batt v Onslow (1892) 13 LR (NSW) Eq 79. 162 Carlill v Carbolic Smoke Ball Co \[1893\] 1 QB 256.
+
+163
+
+Latec Finance Ltd v Knight \[1969\] 2 NSWR 79.
+
+164 Latec Finance Ltd v Knight \[1969\] 2 NSWR 79, 81.
+
+See The Crown v Clarke (1927) 40 CLR 227, 233-4; Brogden v Metropolitan Railway Co (1877) 2 App Cas 666, 691.
+
+165
+
+166
+
+See the discussion of the postal rule below.
+
+167
+
+Latec Finance Ltd v Knight \[1969\] 2 NSWR 79, 81, quoting Robophone Facilities Ltd v Blank \[1966\] 1 WLR 1428, 1432.
+
+168
+
+169
+
+170 Tallerman & Co Pty Ltd v Nathan's Merchandise (Vic) Pty Ltd (1957) 98 CLR 93.
+
+Adams v Lindsell (1818) 1 B & A 681; 106 ER 250; Henthorn v Fraser \[1892\] 2 Ch 27. Henthorn v Fraser \[1892\] 2 Ch 27.
+
+80 \[3.190\]
+
+Agreement Chapter 3
+
+to take a more restrictive view when they said that "a finding that a contract is completed by the posting of a letter of acceptance cannot be justified unless it is to be inferred that the offeror contemplated and intended that his offer might be accepted by the doing of that act".17 In Bressan v Squires,172 Bowen CJ in Eq considered whether Dixon CJ and Fullagar J intended to narrow the rule to cases where the offeror appeared to intend that the action of posting should have the consequence of concluding the contract. He concluded that Dixon CJ and Fullagar J must not have intended to narrow the rule because they cited in support of their formulation Henthorn v Fraser, a case in which the broader rule was applied. 173 When applying the principle to the facts before them, however, Dixon CJ and Fullagar J said that the necessary inference could not be drawn because solicitors were "conducting a highly contentious correspondence", and so "one would have thought that actual communication would be regarded as essential to the conclusion of agreement on anything".174 This seemed to be an application of the narrower principle.175
+
+Where the postal rule does apply, it has the effect that a contract is made when the acceptance is posted, even if it is received some time later or is lost in the post.176 It also means that the contract is formed at the place where the acceptance is posted.
+
+Why should posted acceptances be effective on sending, rather than on receipt? One explanation is that one of the parties must bear the risk of the acceptance being lost in the post and the courts have simply created an arbitrary rule to resolve this practical problem.177 The rule requiring actual communication of an acceptance prejudices the offeree, who has no way of knowing whether the acceptance has reached the offeror and therefore no way of knowing whether a contract has been formed. The postal rule, on the other hand, places the offeror in a difficult position because once the acceptance is posted, the offeror is bound without knowing it. If the letter of acceptance is lost in the post, the offeror may act on the assumption that there is no contract. Since one of the parties must bear the risk, the common law courts have chosen to place the burden on the offeror. French and German law, on the other hand, burden the offeree, rather than the offeror, by unconditionally requiring communication in all cases. 178 The civil law approach has been adopted in the Vienna Convention¹79 and the UPICC,180 both of which provide that an acceptance will be effective only when the "indication of assent reaches the offeror". Greig and Davis suggest that the English courts chose the time of posting on the basis that it is the moment at which "the necessary consensus could be shown to exist". 181 The rule was explained in some of the early cases on the basis that the post office
+
+171 Tallerman & Co Pty Ltd v Nathan's Merchandise (Vic) Pty Ltd (1957) 98 CLR 93, 111-12.
+
+Bressan v Squires \[1974\] 2 NSWLR 460.
+
+172
+
+173
+
+Bressan v Squires \[1974\] 2 NSWLR 460, 461-2.
+
+174
+
+175
+
+Tallerman & Co Pty Ltd v Nathan's Merchandise (Vic) Pty Ltd (1957) 98 CLR 93, 111-2.
+
+See also Nunin Holdings Pty Ltd v Tullamarine Estates Pty Ltd \[1994\] 1 VR 74; Wardle v Agricultural and Rural Finance Pty Ltd \[2012\] NSWCA 107, \[135\] and Sydney Tools Pty Ltd v Robert Bosch (Australia) Pty Ltd \[2017\] NSWSC 1709 \[41\].
+
+176 Household Fire and Carriage Accident Insurance Co Ltd v Grant (1879) LR 4 Ex D 216.
+
+177 Peel, The Law of Contract (15th ed, 2020), \[2-032\].
+
+178
+
+Wheeler and Shaw, Contract Law (1994), p 217. See also Zweigert and Kötz, Introduction to Comparative Law (3rd ed, 1998), pp 356-64.
+
+United Nations Convention on International Contracts for the Sale of Goods (1980), art 18. UNIDROIT Principles of International Commercial Contracts 2016, art 2.1.6(2).
+
+179
+
+180
+
+181
+
+Greig and Davis, The Law of Contract (1987), pp 310, 314.
+
+\[3.200\] 81
+
+Part II: Formation
+
+is the agent of both parties and therefore receives the letter of acceptance as agent of the offeror, 182 but it has since been held that the post office is not the agent of either party,183 More elaborate justifications for the postal rule have also been offered,184 but no explanation is universally accepted.
+
+Scope of the postal rule
+
+\[3.210\] With the advent of electronic communications, it might have been thought that the postal rule would fade into history. Lingering questions remain, however, about its scope of application. The courts extended the postal rule to telegrams, on the basis that telegrams were given to the post office and delivered to the recipient in essentially the same way as posted letters.185 The courts then sought to confine the postal rule, distinguishing instantaneous forms of communication. In Entores v Miles Far Eastern Corp, 186 the English Court of Appeal held that the postal rule should not apply to instantaneous forms of communication, such as the telephone or telex. This decision has been followed by Australian courts in relation to telephone 187 and telex communications 188 and by the House of Lords in Brinkibon Ltd v Stahag Stahl und Stahlwarenhandelsgesellschaft mbH (Brinkibon) 189 in relation to telex.
+
+Brinkibon was concerned with a contract, made between an English buyer and an Austrian seller, for the sale of steel bars. The buyer sought to enforce the contract in the English courts and sought leave to serve a writ outside the jurisdiction. Under the Rules of the Supreme Court, leave could be granted where the litigation concerned a contract made within the jurisdiction. The contract was made by an exchange of telex messages between the buyers in London and the sellers in Vienna. After lengthy negotiations by telephone and telex, the buyers sent a telex to Vienna accepting the terms of sale offered by the sellers.
+
+The House of Lords held that the contract was made in Vienna, where the acceptance was received. Lord Wilberforce said the general rule is that a contract is formed when acceptance is communicated to the offeror. It therefore "appears logical" that a contract should also be formed where acceptance is communicated to the offeror. 190 Where the postal rule applies, the acceptance is effective when and where it is placed in the hands of the post office. In the case of instantaneous communication, including telex, the general rule will usually apply. The situation may be different, according to Lord Wilberforce, where the message is sent or received through a third party, where it is sent out of office hours or is not intended to be read immediately. "No universal rule can cover all such cases; they must be resolved by reference
+
+182 See Household Fire and Carriage Accident Insurance Co Ltd v Grant (1879) LR 4 Ex D 216, 221.
+
+Henthorn v Fraser \[1892\] 2 Ch 27, 33, 35-6.
+
+183
+
+184
+
+185
+
+See, eg, Evans, "The Anglo-American Mailing Rule: Some Problems of Offer and Acceptance in Contracts by Correspondence" (1966) 15 International and Comparative Law Quarterly 553; Gardner, "Trashing with Trollope: A Deconstruction of the Postal Rules" (1992) 12 Oxford Journal of Legal Studies 170.
+
+Cowan v O'Connor (1888) 20 QBD 640; Bruner v Moore \[1904\] 1 Ch 305. See also Leach Nominees Pty Ltd v Walter Wright Pty Ltd \[1986\] WAR 244.
+
+186
+
+Entores v Miles Far Eastern Corp \[1955\] QB 327.
+
+187 Aviet v Smith and Searls Pty Ltd (1956) 73 WN (NSW) 274; Dewhurst (WA) and Co Pty Ltd v Cawrse \[1960\] VR
+
+278, 282; Hampstead Meats Pty Ltd v Emerson and Yates Pty Ltd \[1967\] SASR 109.
+
+188 Express Airways v Port Augusta Air Services \[1980\] Qd R 543.
+
+189
+
+Brinkibon Ltd v Stahag Stahl und Stahlwarenhandelsgesellschaft mbH \[1983\] 2 AC 34. 190 Brinkibon Ltd v Stahag Stahl und Stahlwarenhandelsgesellschaft mbH \[1983\] 2 AC 34, 41.
+
+82 \[3.210\]
+
+Agreement Chapter 3
+
+to the intentions of the parties, by sound business practice and in some cases by a judgment where the risks should lie", 191
+
+Lord Fraser noted that a telex sent to a large firm is not really instantaneous, since it must pass from the telex operator to the responsible person in the firm. 192 It is, however, convenient to treat it as a form of instantaneous communication for three reasons.193 First, no difficulty or complaint has arisen from the decision in Entores v Miles Far Eastern Corp. Secondly, it is the responsibility of the recipient to arrange for the prompt handling of messages within their office. Thirdly, the sender is more likely to be aware that an attempt to send a message has been unsuccessful than the recipient is to be aware that an unsuccessful attempt has been made. Lord Brandon also thought that commercial expediency justified the postal rule, but did not justify extending it to forms of instantaneous communication such as telephone or telex.194
+
+The real issue faced by the House of Lords in Brinkibon was whether or not an English company could sue an Austrian supplier in an English court. In order to resolve this question, the Rules of the Supreme Court required the House of Lords to decide whether the contract had been made in England. As John Wightman has observed, it is unfortunate that the technical rules of offer and acceptance are employed in cases such as Brinkibon to resolve jurisdictional questions. 195 This approach is also routinely followed in Australia.19% The law of contract is not well equipped to determine where a contract has been made, since the place of formation is not relevant to the general law of contract, but only to jurisdictional questions. 197 By resolving these cases by reference to technical rules of formation, the courts cannot explicitly take account of the policy considerations relevant to the underlying issue, which involve the relative convenience and expense of the case being heard in each of the two jurisdictions. The effect of applying the technical rules of contract formation to the place of formation issue will often lead to an arbitrary result, as it did in Brinkibon. The contract in Brikinbon was concluded after lengthy communications between the two countries and it just happened that the last communication was received in Vienna. The House of Lords resolved the case by applying a technical "general rule", but left the way open for future cases to be decided differently by observing that "no universal rule can cover all such cases", 198
+
+Modern electronic communications
+
+\[3.220\] The case law relating to communication of acceptance has inevitably lagged behind developments in communication systems. 199 Telegrams and telexes were superseded by facsimile messages, and there are now many different forms of electronic data exchange which may be used in the formation of contracts. In Reese Bros Plastics Ltd v Hamon-Sobelco
+
+193
+
+191 Brinkibon Ltd v Stahag Stahl und Stahlwarenhandelsgesellschaft mbH \[1983\] 2 AC 34, 42. 192 Brinkibon Ltd v Stahag Stahl und Stahlwarenhandelsgesellschaft mbH \[1983\] 2 AC 34, 43. Brinkibon Ltd v Stahag Stahl und Stahlwarenhandelsgesellschaft mbH \[1983\] 2 AC 34, 43. Brinkibon Ltd v Stahag Stahl und Stahlwarenhandelsgesellschaft mbH \[1983\] 2 AC 34, 48. 195 Wightman, "Does Acceptance Matter?" in Adams (ed), Essays for Clive Schmitthoff (1983).
+
+196
+
+194
+
+See, eg, Tallerman & Co Pty Ltd v Nathan's Merchandise (Vic) Pty Ltd (1957) 98 CLR 93. 197 Wightman, "Does Acceptance Matter?" in Adams (ed), Essays for Clive Schmitthoff (1983), p 145. 198 Brinkibon Ltd v Stahag Stahl und Stahlwarenhandelsgesellschaft mbH \[1983\] 2 AC 34, 42.
+
+199
+
+See generally Tolhurst and Peden, Tolhurst and Furmston on Contract Formation: Law and Practice (3rd ed, 2023), ch 6.
+
+\[3.220\] 83
+
+Part II: Formation
+
+Australia Pty Ltd,200 the New South Wales Court of Appeal held that a facsimile message, which is sent through telephone lines from one machine to another, should be treated as a form of instantaneous communication. Acceptances sent by facsimile are therefore governed by the general rule that an acceptance is effective only when received by the offeror. This general principle may be subject to exceptions in the circumstances discussed by Lord Wilberforce in Brinkibon. That is, a different principle may apply where the message is sent or received through a third party, is sent out of office hours or is not intended to be read immediately. Lord Wilberforce did not indicate what rule might apply in these situations. It could be that the postal rule should apply where an acceptance is sent or received through a third party. When a message is sent out of office hours or is not intended to be read immediately, it may be that it becomes effective some time after it is received by the offeror's machine. All such cases are likely to be resolved by reference to the presumed intention of the offeror.
+
+Communications leading to the formation of contracts are now commonly conducted via email, interactive websites and instant messaging systems, and the question arises as to whether the postal rule will or should be extended to any of these internet-based methods of communication. That question is not addressed by the ETAs and has not yet been authoritatively determined by the courts, although it has been suggested by way of obiter dictum that email should be treated like other forms of instantaneous communication.201
+
+It has been noted that, while internet-based communications can be near-instantaneous, that "lack, or brevity, of delay is often accompanied by a high risk of non-delivery", 202 Whether the postal rule should be applied is, as we have seen in relation to older forms of communication, essentially a question of who should bear the risk of non-delivery.
+
+Although email is in some ways analogous to post (because it passes through the hands of intermediaries and may be delayed or never delivered), those similarities do not provides a compelling reason to extend the postal rule to email messages, as Squires explains.203 Email is far quicker than the post and could fairly be described as virtually instantaneous. Although email messages pass through the hands of third parties, so too do telephone, facsimile and telex messages. Delays caused by the addressee's own failure to collect messages from a server are dealt with in legislative provisions discussed below governing the time of receipt. As with telex and facsimile messages, a person attempting to send an email is far more likely to be aware that the attempt has been unsuccessful than an intended recipient is to be aware of the fact that an attempt has been made.204 Even if email were considered to be analogous to post, the postal rule would only apply if it were thought to have been within the contemplation of the parties that an acceptance sent by email should be effective on sending. Most of the considerations listed above would seem to apply equally to other forms of internet-based communications such as dealings with interactive websites and via instant messaging systems.
+
+The postal rule is widely considered to be antiquated and anomalous. The Scottish Law Commission has recommended its abolition and replacement with a rule that any
+
+200 Reese Bros Plastics Ltd v Hamon-Sobelco Australia Pty Ltd (1988) 5 BPR 11, 106.
+
+201 202
+
+Olivaylle Pty Ltd v Flottweg AG (No 4) \[2009\] FCA 522, \[25\].
+
+See \[6.40\].
+
+203 Squires, "Some Contract Issues Arising from Online Business - Consumer Agreements" (2000) 5 Deakin Law
+
+Review 95, 107-10. See also Nolan, "Offer and Acceptance in the Electronic Age" in Burrows and Peel (eds), Contract Formation and Parties (2010), pp 61, 64-70.
+
+204
+
+See Brinkibon Ltd v Stahag Stahl und Stahlwarenhandelsgesellschaft mbH \[1983\] 2 AC 34, 43.
+
+84 \[3.220\]
+
+Agreement Chapter 3
+
+communication in the formation process takes effect when it is made available "in such circumstances as make it reasonable to expect the person to be able to obtain access to it without undue delay" 205 As Seddon and Bigwood have said, "\[i\]t would be odd of the postal rule has a renaissance". 206 It therefore seems probable that the general rule would be applied to internet-based communications and that acceptances sent by such methods will be effective only when received by the offeror, 207
+
+The ETAS in force in all Australian jurisdictions include provisions governing "the time of dispatch" "the time of receipt" of an electronic communication. These provisions expressly apply to "an electronic communication relating to the formation or performance of a contract". 208 They therefore govern the time at which an acceptance is received for the purpose of contract formation.
+
+For the purpose of determining the time of receipt of an electronic communication, the ETAS distinguish between situations in which an electronic information system has been designated for the purpose of receiving communications and situations in which it has not. Where an electronic communication is sent to an address designated by the addressee, the time of receipt is the time that it "becomes capable of being retrieved by the addressee" at that designated address.209 In the case of a communication sent to an address which has not been designated by the addressee, the communication is only effective once both (i) the communication "has become capable of being retrieved by the addressee" and (ii) "the addressee has become aware that the electronic communication has been sent to that address".210 It is assumed that the communication "is capable of being retrieved by the addressee when it reaches the addressee's electronic address".211 These provisions are subject to any agreement to the contrary. The notes to the UNCITRAL model law indicate that an information system should only be regarded as having been "designated" if it has been expressly specified for a particular purpose, such as the
+
+205 Scottish Law Commission, Report on Review of Contract Law: Formation, Interpretation, Remedies for Breach,
+
+and Penalty Clauses (Scot Law Com No 252) 2018, Appendix A: Contract Scotland Bill (Draft), s 13(3). 206 Seddon and Bigwood, Cheshire and Fifoot's Law of Contract (12th Aust ed, 2023), \[3.130\]. 207 As suggested in obiter dicta in Olivaylle Pty Ltd v Flottweg AG (No 4) \[2009\] FCA 522; (2009) 255 ALR 632,
+
+\[25\] in relation to email.
+
+208 Electronic Transactions Act 2001 (ACT), s 14E(1); Electronic Transactions Act 1999 (Cth), s 15E(1); Electronic Transactions Act 2000 (NSW), s 14E(1); Electronic Transactions (Northern Territory) Act 2000, s 14E(1); Electronic Communications Act 2000 (SA), s 14E(1); Electronic Transactions Act 2000 (Tas), s 12E(1); Electronic Transactions (Victoria) Act 2000, s 14E(a); Electronic Transactions (Queensland) Act 2001, s 26E(1); Electronic Transactions Act 2011 (WA), s 21(1).
+
+209
+
+210
+
+211
+
+Electronic Transactions Act 2001 (ACT), s 13A(1); Electronic Transactions Act 1999 (Cth), s 14A(1); Electronic Transactions Act 2000 (NSW), s 13A(1); Electronic Transactions (Northern Territory) Act 2000, s 13A(1); Electronic Communications Act 2000 (SA), s 13A(1); Electronic Transactions Act 2000 (Tas), s 11A(1); Electronic Transactions (Victoria) Act 2000, s 13A(1)(a); Electronic Transactions (Queensland) Act 2001, s 24(1); Electronic Transactions Act 2011 (WA), s 14(1).
+
+Electronic Transactions Act 2001 (ACT), s 13A(1); Electronic Transactions Act 1999 (Cth), s 14A(1); Electronic Transactions Act 2000 (NSW), s 13A(1); Electronic Transactions (Northern Territory) Act 2000, s 13A(1); Electronic Communications Act 2000 (SA), s 13A(1); Electronic Transactions Act 2000 (Tas), s 11A(1); Electronic Transactions (Victoria) Act 2000, s 13A(1)(b); Electronic Transactions (Queensland) Act 2001, s 24(1); Electronic Transactions Act 2011 (WA), s 14(1).
+
+Electronic Transactions Act 2001 (ACT), s 13A(2); Electronic Transactions Act 1999 (Cth), s 14A(2); Electronic Transactions Act 2000 (NSW), s 13A(2); Electronic Transactions (Northern Territory) Act 2000, s 13A(2); Electronic Communications Act 2000 (SA), s 13A(2); Electronic Transactions Act 2000 (Tas), s 11A(2); Electronic Transactions (Victoria) Act 2000, s 13A(2); Electronic Transactions (Queensland) Act 2001, s 24(2); Electronic Transactions Act 2011 (WA), s 14(2).
+
+\[3.220\] 85
+
+Part II: Formation
+
+acceptance of an offer. The listing of an email address or facsimile number on a letterhead or similar document does not amount to a designation.212 The effect of the ETA provisions would appear to be that an electronic message sent over the internet to a designated address would be effective once it is received by the server operated by the recipient or a commercial server used by the recipient. The definition of "electronic communication" would also appear to cover facsimile messages,213 which means that an acceptance sent by facsimile to a designated number would be effective once it was received by the recipient's facsimile machine.
+
+Method of acceptance
+
+\[3.230\] If an offer prescribes an exclusive method for the communication of acceptance, then only an acceptance communicated by that method will be effective.214 An offer may, for example, say: "This offer can be accepted only by written notice posted to the following address." An offeror may also expressly or impliedly dispense with the need for communication. In the case of a unilateral contract, for example, it is the doing of the stipulated act that constitutes acceptance of the offer and the offeror implicitly dispenses with communication of acceptance.215
+
+Silence as acceptance
+
+\[3.240\] A contract cannot, however, be forced on the offeree by stipulating silence as the prescribed method of acceptance. In Felthouse v Bindley,216 a man wrote to his nephew offering to buy a horse and said: "If I hear no more about him, I consider the horse mine at £30 15s." The nephew intended to accept the uncle's offer and instructed his auctioneer that the horse was already sold and should not be auctioned with his other stock. The auctioneer sold the horse at auction by mistake and the uncle sued the auctioneer in tort for conversion. The action was unsuccessful. No contract between uncle and nephew had been formed because the nephew had not communicated his acceptance.217 The uncle was therefore held to have had no property in the horse at the time of the auction and no cause of action against the auctioneer. Greig and Davis have questioned this decision on the basis that the nephew had manifested his acceptance of the uncle's offer by instructing the auctioneer not to sell the horse, and the uncle had dispensed with the need for communication of acceptance. On this basis, they suggest, an action would surely have been sustainable against the uncle if he had refused to take the horse.218
+
+212 Guide to Enactment of the UNCITRAL Model Law on Electronic Commerce (1996), \[102\], http://www.uncit
+
+ral.org.
+
+213 See Electronic Transactions Act 2001 (ACT), s 5; Electronic Transactions Act 1999 (Cth), s 5(1); Electronic Transactions Act 2000 (NSW), s 5(1); Electronic Transactions (Northern Territory) Act 2000, s 5; Electronic Transactions (Queensland) Act 2001, s 6 and Sch 2; Electronic Communications Act 2000 (SA), s 5(1); Electronic Transactions Act 2000 (Tas), s 3; Electronic Transactions (Victoria) Act 2000, s 3(1); Electronic Transactions Act 2011 (WA), s 5(1).
+
+214 See George Hudson Holdings Ltd v Rudder (1973) 128 CLR 387.
+
+215 Carlill v Carbolic Smoke Ball Co \[1893\] 1 QB 256, 269-70.
+
+216
+
+217
+
+Felthouse v Bindley (1862) 11 CB (NS) 869; 142 ER 1037. Felthouse v Bindley (1862) 142 ER 1037, 1040.
+
+218 Greig and Davis, The Law of Contract (1987), p 302.
+
+86 \[3.230\]
+
+Agreement Chapter 3
+
+Acceptance inferred from conduct
+
+\[3.250\] In some cases, the courts will accept that an agreement has been formed even though the offeree has not effectively communicated their acceptance to the offeror. In Farmers' Mercantile Union and Chaff Mills Ltd v Coade,219 the respondents applied in 1913 to buy a £25 share in the appellant company. The company did not communicate its acceptance of the offer within a reasonable time but retained the £1 paid by the respondents and entered their names on the register. The company intimated its acceptance only after a reasonable time had expired, by making calls for payment of further instalments of £5 in 1916 and 1918. The respondents ignored these calls.
+
+Knox CJ held that an agreement to buy the share could be inferred from the respondents' inaction once they became aware that their names were on the register of shareholders.220 Higgins J held that, although the respondents would have been entitled to reject the shares when the belated notice of acceptance was received, an agreement to take the shares must be inferred from their failure to respond.221 An offeror in this situation is required to make a prompt choice between condoning the delay and rejecting the contract.222 Starke J dissented on the basis that the respondents' silence could equally be regarded as a refusal to have anything to do with the company since its offer had lapsed and the matter was at an end.223 It was for the company to establish the existence of a contract and it had failed to do this.
+
+Acceptance by conduct also occurred in Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd.224 Empirnall, a property developer, verbally engaged architects Machon Paull to act as project managers for a particular development. After some work was done, the architects requested a progress payment and the execution of a contract. They were told to submit the progress payment claim but that Eric Jury, a director and the major shareholder of Empirnall, "does not sign contracts". The architects nevertheless sent two copies of a contract to Empirnall and asked that one copy be signed and returned. Two weeks later, the architects wrote a letter to Empirnall that said "we are proceeding on the understanding that the conditions of the contract are accepted by you and works are being conducted in accordance with those terms and conditions". The architects continued to work and receive progress payments, but the contract was never signed. When Empirnall became insolvent, it became necessary to determine the effectiveness of a clause of the unsigned contract charging the architects' fees on the land being developed.
+
+The New South Wales Court of Appeal accepted the principle from Felthouse v Bindley that an offeror cannot set up a contract by stipulating silence as the mode of acceptance.225 Silence may, however, indicate acceptance in some circumstances. The objective theory of contract requires an objective manifestation of assent to an offer.226 The ultimate issue, therefore, is whether a reasonable bystander would regard the offeree's conduct, including the offeree's
+
+219 Farmers' Mercantile Union and Chaff Mills Ltd v Coade (1921) 30 CLR 113.
+
+220 Farmers' Mercantile Union and Chaff Mills Ltd v Coade (1921) 30 CLR 113, 120.
+
+221
+
+222
+
+Farmers' Mercantile Union and Chaff Mills Ltd v Coade (1921) 30 CLR 113, 125.
+
+Farmers' Mercantile Union and Chaff Mills Ltd v Coade (1921) 30 CLR 113, 124. 223 Farmers' Mercantile Union and Chaff Mills Ltd v Coade (1921) 30 CLR 113, 131.
+
+224 Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, following Brogden v
+
+Metropolitan Railway Co (1877) 2 App Cas 666.
+
+225 Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, 527, 534. 226 Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, 534.
+
+\[3.250\] 87
+
+Part II: Formation
+
+silence, as signalling acceptance of the offer.227 In this case, Empirnall did more than remain silent. It took the benefit of the services provided by the architects, knowing they were to be paid for in accordance with the offer and having had a reasonable opportunity to reject the offer. In those circumstances, an objective bystander would conclude that Empirnall had accepted the offer on the terms proposed. McHugh JA adopted a principle of law applied in the United States but restated it as a question of fact:
+
+Where an offeree with a reasonable opportunity to reject the offer of goods or services takes the benefit of them under circumstances which indicate that they were to be paid for in accordance with the offer, it is open to the tribunal of fact to hold that the offer was accepted according to its terms.228
+
+Correspondence between offer and acceptance
+
+\[3.260\] It is often said that an acceptance must correspond precisely with the offer. This means that the offer empowers the offeree to do no more than accept or reject the terms proposed by the offeror. If the offeree attempts to vary the terms proposed, or to add additional terms, then the purported acceptance will amount to a counter-offer, which will give rise to a contract only if it is accepted by the original offeror.229 A particular problem arises where both parties use standard form contracts. The problem arises where two parties, such as a buyer and seller of goods, exchange inconsistent standard forms during contract negotiations and reach agreement on the principal terms without deciding whose standard form should prevail. This
+
+situation is known as the "battle of the forms".
+
+The English approach
+
+\[3.270\] The English courts have resolved the battle of the forms problem by applying the classical principles of offer and acceptance. On this approach, the sending of the last form will usually be regarded as a counter-offer, and so the "last shot" will prevail, provided the recipient of the counter-offer can be taken to have accepted the terms proposed by the other sender. Butler Machine Tool Co Ltd v Ex-Cell-O-Corp (England) Ltd230 exemplifies this approach. The seller of a machine provided a price quotation on certain terms and conditions. The seller's form stipulated that orders would only be accepted subject to the terms and conditions set out in the quotation. The buyer then requested supply on its own terms and conditions, which differed in several important respects from the seller's. Attached to the buyer's form was a tear-off "acknowledgement of order" form, by which the sellers agreed to supply on the buyer's terms and conditions. The seller signed this and returned it to the buyer with a letter stipulating that the machine would be supplied in accordance with the seller's quotation. The issue was whether the seller was entitled to the benefit of a price variation provided for in the terms set out on the back of the seller's original quotation. This clause allowed the seller to increase the price of the machine where the seller's costs increased during the period of manufacture.
+
+227 Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, 535.
+
+228
+
+Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd (1988) 14 NSWLR 523, 535, citing Laurel Race Course Inc v Regal Construction Co Inc, 333 A 2d 319 (1975).
+
+229 Hyde v Wrench (1840) 3 Beav 334; 49 ER 132; Cullen v Bickers (1878) 12 SALR 5. See \[3.150\].
+
+230
+
+Butler Machine Tool Co Ltd v Ex-Cell-O-Corp (England) Ltd \[1979\] 1 WLR 401. See also British Road Services Ltd v Arthur V Crutchley & Co Ltd \[1968\] 1 Lloyd's Rep 271, 281-2.
+
+88 \[3.260\]
+
+Agreement Chapter 3
+
+The trial judge found decisive the seller's stipulation that its conditions should prevail. The English Court of Appeal unanimously found for the buyer. Lawton and Bridge LJJ both applied the traditional analysis and found that the seller's quotation constituted an offer and the buyer's order a counter-offer. The effect of the counter-offer was to "kill the original offer", 231 including the stipulation that the seller's terms prevailed. The seller accepted this counter-offer by signing and returning the tear-off slip to the buyer. The reference in the seller's letter to the original quotation was taken to refer only to the price and identity of the machine and not to the terms on the back of the quotation. Lawton LJ observed that if the seller's letter had amounted to a further counter-offer, then it could not have been said that the parties were ad idem. There would then have been no contract between the parties.
+
+Lord Denning MR preferred to look at all of the documents passing between the parties as a whole and ascertain the terms from them. In some cases, he suggested, the terms of both parties should be construed together. If they are contradictory, "then the conflicting terms may have to be scrapped and replaced by a reasonable implication".232 In the present case, Lord Denning found that, "as a matter of construction", the seller's acknowledgment of the buyer's order was the decisive document, since it made clear that the contract was on the buyer's terms and not the seller's.233
+
+Conflict and synthesis
+
+\[3.280\] The judgments in Butler suggest two different methods of resolving the battle of the forms: the conflict approach and the synthesis approach.234 The conflict approach treats the exchange of terms as a battle and requires the court to determine which set of terms has prevailed. The battle will be won either by the party who fires the last shot or by the party who is most persistent in insisting that their own set of terms should prevail. The synthesis approach would require the court to build a contract from the two sets of terms. The synthesised contract would be made up of consistent terms, along with terms from one set that appeared to be accepted by the other party. Any gaps in the synthesised contract could be filled with terms implied by the court. Although Lord Denning suggested in Butler that the synthesis approach should be a last resort, relational analysis suggests that it should in fact provide the starting point.235 The classical approach assumes that a set of terms is either accepted or not, and so the transaction is either on or off. This is well suited to discrete transactions but fails to allow for any complexity that may exist in the relationship between the parties.236 Parties exchanging standard forms may implicitly be rejecting the rule requiring precise correspondence between offer and acceptance. In the business world, a party commonly will neither entirely reject nor entirely accept the terms proposed by the other party, but will be more receptive to some terms than others.237 The synthesis approach allows the court to take account of a party's willingness to accept some terms but not others. It acknowledges that
+
+231 Butler Machine Tool Co Ltd v Ex-Cell-O-Corp (England) Ltd \[1979\] 1 WLR 401, 406, 407. 232 Butler Machine Tool Co Ltd v Ex-Cell-O-Corp (England) Ltd \[1979\] 1 WLR 401, 405. 233 Butler Machine Tool Co Ltd v Ex-Cell-O-Corp (England) Ltd \[1979\] 1 WLR 401, 405. 234 Greig and Davis, The Law of Contract (1987), pp 283-92.
+
+235 Greig and Davis, The Law of Contract (1987), p 288. 236 See Macneil, The New Social Contract (1980), pp 72-3. 237 Macneil, The New Social Contract (1980), p 73.
+
+\[3.280\] 89
+
+Part II: Formation
+
+parties to a transaction often focus on, and reach agreement on, the broader issues of the "deal", without ever concerning themselves with the details of the contract.
+
+Carefully drafted (and signed) first shot can prevail
+
+\[3.290\] The English courts have accepted that the last shot doctrine can be avoided through careful drafting of the first shot. Dyson LJ observed in Tekdata Interconnections Ltd v Amphenol Ltd that "it is not possible to lay down a general rule that will apply in all cases where there is a battle of the forms. It always depends on an assessment of what the parties must objectively be taken to have intended".238 In TRW Ltd v Panasonic Industry Europe GmbH, a seller of goods, during the course of their commercial relationship with a buyer, required a representative of the buyer to sign a "customer file document" which set out the seller's standard terms and conditions.239 The seller's document provided that:
+
+Even if no reference is made to them in particular cases, the following terms and conditions shall apply exclusively to the entire business relation with us, particularly to all agreements for deliveries and services, unless different conditions, particularly conditions of purchase of the contracting party, have expressly been confirmed by us in writing. Conditions of the buyer diverging from our terms and conditions shall not be valid even if we effected delivery or rendered services without reservation.
+
+The buyer subsequently placed "blanket orders" requesting delivery in accordance with the buyer's own terms and conditions, which were to prevail "in case of discrepancy between these terms and conditions of purchase and any other terms and conditions". The seller fulfilled the orders but did not acknowledge the buyer's terms. The English Court of Appeal upheld the primary judge's conclusion that the buyer's attempt to displace the seller's terms and conditions was unsuccessful. The buyer had acknowledged that the seller's terms "would be incorporated into any subsequent supply contract" between the parties.240 The seller's conditions "were deliberately and carefully drafted to protect \[the seller\] against the last shot doctrine" and were effective to protect the seller against all subsequent "shots".241 The buyer's signed acceptance of the seller's terms "was the only time that one party expressly signed something which referred to the other side's terms and conditions. It was the only overt sign of an agreement".242
+
+Legislative solutions
+
+\[3.300\] In the United States, art 2-207 of the Uniform Commercial Code (US) (UCC) attempts to address the battle of the forms problem by creating an exception to the rule that acceptance must correspond precisely with the term of the offer. Article 2-207 provides that an acceptance that states additional or different terms will still be an effective acceptance. The additional terms are to be construed as proposals for additions to the contract. As between merchants, the terms become part of the contract unless the terms materially alter the offer, the offer expressly precludes the adding of terms or the offeror objects to the additional terms within
+
+238 Tekdata Interconnections Ltd v Amphenol Ltd \[2009\] EWCA Civ 1209, \[25\].
+
+239
+
+240
+
+241
+
+242
+
+TRW Ltd v Panasonic Industry Europe GmbH \[2021\] EWCA Civ 1558. TRW Ltd v Panasonic Industry Europe GmbH \[2021\] EWCA Civ 1558, \[45\]. TRW Ltd v Panasonic Industry Europe GmbH \[2021\] EWCA Civ 1558, \[66\]. TRW Ltd v Panasonic Industry Europe GmbH \[2021\] EWCA Civ 1558, \[37\].
+
+90 \[3.290\]
+
+Agreement Chapter 3
+
+a reasonable time. These provisions provide a starting point for a relational analysis because they allow a contract to be formed where a party accepts some terms but rejects others.243
+
+Article 2-207(3) provides that a contract will be established where the parties by their conduct recognise the existence of a contract even though the writings of the parties do not establish a contract. The terms of the contract consist of the express terms on which the writings of the parties agree and the terms implied by the UCC. Subsection (3) ensures that a contract will be formed where the parties have agreed on the principal terms and have begun performance. As suggested by Lord Denning in Butler, inconsistent terms are simply dispensed with. Subsection (3) provides "a relational base on which to rely when mutual consent fails" but comes into play only when the parties have begun to perform.244 Article 2.1.22 of the UPICC adopts a similar approach to art 2-207(3) of the UCC, without the requirement that performance has commenced, subject to one of the parties indicating either in advance or without undue delay afterwards that it does not intend to be bound by such a contract.245
+
+Both the Vienna Convention246 and the UPICC247 allow an acceptance to include non- material modifications. Both art 19 of the Vienna Convention and art 2.1.11 of the UPICC provide that an acceptance with additional conditions is regarded as a counter-offer unless the additional terms do not materially alter the terms of the offer. Where the additions or alterations are non-material, the acceptance will be effective and the additional terms incorporated, provided the offeror does not object.
+
+A MEETING OF THE MINDS
+
+\[3.310\] Underlying many of the cases on offer and acceptance is the idea that a contract is formed only when there is a meeting of minds or a consensus ad idem between the parties. The requirement of a consensus was strongly emphasised in some of the older cases. In Dickinson v Dodds,248 for example, James LJ suggested that the "existence of the same mind between the two parties... is essential in point of law to the making of \[an\] agreement". Whether an actual consensus, or just an appearance of consensus, is required may be said to turn on whether one adopts a subjective or objective approach to formation. It might be said that a subjective approach requires an actual consensus, whereas an objective approach looks only to the outward manifestations of the parties' intentions, so the appearance of a consensus is sufficient, even if the parties do not actually agree. As discussed at \[3.170\], however, the subjective approach is for practical purposes almost indistinguishable from the objective approach, because of the principle of contract by estoppel. Under either a subjective or objective approach, a person who behaves as if accepting an offer will be bound, even if there was no actual consensus.
+
+While it might be superficially attractive to do so, it is not possible to draw a clear distinction between the subjective and objective approaches.249 The subjective approach
+
+243 Greig and Davis, The Law of Contract (1987), p 288.
+
+244 Greig and Davis, The Law of Contract (1987), p 74.
+
+UNIDROIT Principles of International Commercial Contracts 2016, art 2.1.22.
+
+245
+
+246
+
+247
+
+United Nations Convention on International Contracts for the Sale of Goods (1980), art 19. UNIDROIT Principles of International Commercial Contracts 2016, art 2.1.11.
+
+248 Dickinson v Dodds (1876) LR 2 Ch D 463, 473.
+
+249 Dalton, "An Essay in the Deconstruction of Contract Doctrine" (1985) 94 Yale Law Journal 997, 1039-45.
+
+\[3.310) 91
+
+Part II: Formation
+
+ultimately turns on objective criteria. In Smith v Hughes, the rule requiring subjective intent was met by a counter-rule imposing contractual liability where there was a false appearance of consent.250 The court maintained that a consensus was required to form a contract but accepted that a party who appeared to consent would be estopped from denying the existence of a contract, with the same result if an actual contract had been formed. In The Crown v Clarke, Starke J confirmed that the law ordinarily adopts an objective approach to agreement but allowed a party's undisclosed intentions to be determinative in the "anomalous case under consideration".251 Under the Smith v Hughes principle, the objective appearance of consent trumps the party's actual intentions, whereas in The Crown v Clarke, the party's actual intentions trumped the objective appearance of consent.
+
+As Clare Dalton explains, the courts have tended towards objective standards for interpreting conduct in the modern cases for pragmatic reasons.252 Assertions of private intention are unreliable and courts simply do not have access to a party's true intentions. It is not possible to escape subjective considerations, however, because subjective will is still seen as the source of contractual obligation.253
+
+If the objective theory is in command of the field,254 and contractual obligation is based on objective criteria, then contract can be seen as an obligation that attaches by force of law to certain actions of the parties which normally, but may not necessarily, accompany and represent intent.255 Contract cannot then be seen as a system of private or voluntarily assumed obligations.256 It must be seen, like the law of tort, as a system of public obligation, in which liability is imposed on the basis of norms of reasonable behaviour. There is a fundamental inconsistency between, on the one hand, the courts' adoption of objective formation criteria and, on the other hand, the rationalisation of particular doctrines and particular decisions on the basis of whether there was or was not a consensus. Dalton argues that if contract is a system of public obligation, then the courts should articulate the public concerns being addressed by the law of contract and the public values informing its operation.257
+
+AGREEMENT WITHOUT OFFER AND ACCEPTANCE
+
+\[3.320\] As noted at the beginning of this chapter, the identification of an offer and an acceptance remains the conventional approach to establishing the agreement element of contract formation. It has, however, been accepted in a number of cases that a contract can be established without an identifiable offer and acceptance. The Australian courts have followed their counterparts in the United States in accepting that "a manifestation of mutual assent
+
+250 See \[3.170\].
+
+251
+
+252
+
+253
+
+254
+
+The Crown v Clarke (1927) 40 CLR 227, 244. See \[3.180\].
+
+Dalton, "An Essay in the Deconstruction of Contract Doctrine" (1985) 94 Yale Law Journal 997, 1040. Dalton, "An Essay in the Deconstruction of Contract Doctrine" (1985) 94 Yale Law Journal 997, 1042. As suggested in Taylor v Johnson (1983) 151 CLR 422, 429, confirmed in cases such as Ermogenous v Greek Orthodox Community of SA Inc \[2002\] HCA 8; (2002) 209 CLR 95, 105-10 and Toll (FGCT) Pty Ltd v Alphapharm Pty Ltd \[2004\] HCA 52; (2004) 219 CLR 165, 179, and evidenced by decisions such as Fitness First (Australia) Pty Ltd v Chong \[2008\] NSWSC 800, discussed at \[3.170\] and Shahid v Australasian College of Dermatologists \[2008\] FCAFC 72; (2008) 168 FCR 46, discussed at \[5.20\].
+
+255 Hotchkiss v National City Bank, 200 F 287, 293 (1911). See Dalton, "An Essay in the Deconstruction of
+
+Contract Doctrine" (1985) 94 Yale Law Journal 997, 1043.
+
+256
+
+257
+
+As it was in Astley v Austrust Ltd (1999) 197 CLR 1, 36.
+
+Dalton, "An Essay in the Deconstruction of Contract Doctrine" (1985) 94 Yale Law Journal 997, 1030, 1066.
+
+92 \[3.320\]
+
+Agreement Chapter 3
+
+may be made even though neither offer nor acceptance can be identified and even though the moment of formation cannot be determined", 258 In other words, "parties may drift into a contractual relationship".259
+
+In Branir Pty Ltd v Owston Nominees (No 2) Pty Ltd, Allsop J said that "Sometimes ... having discussed the commercial essentials and having put in place necessary structural matters, the parties go about their commercial business on the clear basis of some manifested mutual assent, without ensuring the exhaustive completeness of documentation" .260 In that case, the Full Court of the Federal Court applied the following principle:
+
+The essential question in such cases is whether the parties' conduct, including what was said and not said and including the evident commercial aims and expectations of the parties, reveals an understanding or agreement or, as sometimes expressed, a manifestation of mutual assent, which bespeaks an intention to be legally bound to the essential elements of a contract.261
+
+This approach to formation was discussed and followed by Heydon JA in Brambles Holdings Ltd v Bathurst City Council.262 Brambles managed a solid waste disposal depot for the Council. For some years, Brambles had received liquid waste at the depot and charged a fee to depositors, which Brambles retained. At the relevant time, this was 1.1c per litre. By a letter dated 11 September 1991, the Council informed Brambles that it had resolved to increase liquid waste disposal fees to 1.3c per litre, increasing by a further 1c each quarter up to 6c per litre. Brambles was instructed to charge the increased fees and remit the additional income to the Council. By a letter dated 3 October 1991, Brambles replied that it was not viable for Brambles to continue to provide a liquid waste disposal service at the rates it was then receiving and asked for, inter alia, an increase in its remuneration. The parties did not reach agreement on Brambles' entitlement to increased remuneration, but from October 1991, Brambles charged and retained the increased fees set out in the Council's letter, including the quarterly increases. Some years later, the Council claimed a contractual entitlement to all additional income received by Brambles from the fee increases. The Council's entitlement to recover that income depended on the existence of a contract on the terms set out in the Council's letter of 11 September 1991. The trial judge found that such a contract had been formed. Brambles appealed to the New South Wales Court of Appeal.
+
+Brambles argued, first, that no offer had been made by the Council. Heydon JA accepted that there was some question as to whether the Council's letter could properly be regarded as an offer since it used the language of command, rather than that of a proposal which could be accepted or rejected. This point was not available to Brambles, however, because it had not been pleaded or argued below.263 Brambles' second argument was that its letter of 3 October amounted to a rejection of the Council's offer and therefore extinguished it.264 Ipp JA held that Brambles' letter did not amount to a rejection but was "merely part of the posturing
+
+258
+
+Restatement of Contracts (2d), §22(2), cited with approval in Vroon BV v Foster's Brewing Group \[1994\] 2 VR 32, 82-3; Brambles Holdings Ltd v Bathurst City Council \[2001\] NSWCA 61; (2001) 53 NSWLR 153, 178. Husain v O & S Holdings (Vic) Pty Ltd \[2005\] VSCA 269, \[51\].
+
+259
+
+260
+
+Branir Pty Ltd v Owston Nominees (No 2) Pty Ltd (2001) 117 FCR 424, 525.
+
+261
+
+Branir Pty Ltd v Owston Nominees (No 2) Pty Ltd (2001) 117 FCR 424, 525.
+
+262
+
+Brambles Holdings Ltd v Bathurst City Council \[2001\] NSWCA 61; (2001) 53 NSWLR 153.
+
+263
+
+Brambles Holdings Ltd v Bathurst City Council \[2001\] NSWCA 61; (2001) 53 NSWLR 153, 171.
+
+264
+
+See \[3.150\].
+
+\[3.320\] 93
+
+Part II: Formation
+
+that often accompanies negotiation".265 Heydon JA said that the notion that rejection always renders an offer incapable of acceptance is based on the erroneous assumption that the "offer and acceptance analysis must invariably be employed in reaching decisions about the formation of contracts",266 Although the offer and acceptance formulation is "a useful tool in most circumstances" and is the "conventional" approach,267 Heydon JA said that it is "neither sufficient to explain all cases nor necessary to explain all cases", 268 Where no offer and acceptance can be identified, it is relevant to ask whether an agreement can be inferred, whether mutual assent has been manifested and whether a reasonable person in the position of each of the parties would think there was a concluded bargain.269
+
+This case was analogous to Empirnall Holdings v Machon Paull. Brambles took advantage of the commercial benefits being offered by the Council, knowing the basis on which the Council was prepared to allow the higher fees to be charged. This would lead a reasonable bystander to conclude that Brambles was assenting to the Council's conditions. The Council's letter and Brambles' subsequent conduct would lead reasonable persons in the positions of the parties to believe that a contract was concluded on the basis proposed by the Council.270 Thus, a contract was made even though there was some evidence that representatives of both the Council and Brambles "believed that there was no contractual regime for liquid waste fees but that the Council had some other power to fix them".271
+
+In PRA Electrical Pty Ltd v Perseverance Exploration Pty Ltd, the Victorian Court of Appeal held that a concluded bargain had been manifested by conduct on the basis of a tender submitted by one party to the other, even though the tender documentation included a special condition that a contract would not come into effect between the parties until a formal contractual document had been executed.272 The parties' conduct, including acts of performance, had reached a stage where an objective observer would conclude that a contract was operative between the parties on the terms set out in the documents that passed between them, but without that special condition.273
+
+NON-CONTRACTUAL OBLIGATIONS
+
+\[3.330\] As noted at the beginning of this chapter, the classical approach to contract formation is based on the idea of a moment of formation when enforceable contractual rights arise. Prior to that moment, the parties have no contractual obligations to one another. Once the moment of formation has arrived, however, each party becomes liable for the other party's full
+
+265
+
+266
+
+Brambles Holdings Ltd v Bathurst City Council \[2001\] NSWCA 61; (2001) 53 NSWLR 153.
+
+Brambles Holdings Ltd v Bathurst City Council \[2001\] NSWCA 61; (2001) 53 NSWLR 153, 176. Mason P (at 155) agreed with the reasons of Ipp AJA, but also agreed with Heydon JA that the case demonstrates the difficulties of "pressing too far classical theory of contract formation based upon offer and acceptance". 267 Brambles Holdings Ltd v Bathurst City Council \[2001\] NSWCA 61; (2001) 53 NSWLR 153, 179, citing Gibson
+
+v Manchester City Council \[1979\] 1 All ER 972, 974.
+
+268 Brambles Holdings Ltd v Bathurst City Council \[2001\] NSWCA 61; (2001) 53 NSWLR 153, 176. 269 Brambles Holdings Ltd v Bathurst City Council \[2001\] NSWCA 61; (2001) 53 NSWLR 153, 179. 270 Brambles Holdings Ltd v Bathurst City Council \[2001\] NSWCA 61; (2001) 53 NSWLR 153, 179-80. 271
+
+Brambles Holdings Ltd v Bathurst City Council \[2001\] NSWCA 61; (2001) 53 NSWLR 153, 180. PRA Electrical Pty Ltd v Perseverance Exploration Pty Ltd \[2007\] VSCA 310; (2007) 20 VR 487. PRA Electrical Pty Ltd v Perseverance Exploration Pty Ltd \[2007\] VSCA 310; (2007) 20 VR 487, \[74\]-\[76\].
+
+272
+
+273
+
+94 \[3.330\]
+
+Agreement Chapter 3
+
+contractual expectation.274 Legal obligation between transacting parties under this approach is either all or nothing. Developments in the common law, equity and statute have addressed many of the inadequacies of the classical approach. Although the moment of formation is still of great importance, it is no longer as decisive as it once was, because the modern law recognises numerous non-contractual obligations between negotiating and contracting parties. The parties will owe obligations to one another even if a contract is never formed.
+
+Developments in the law of estoppel have facilitated the protection of pre-contractual reliance. The law of estoppel now recognises that in exceptional circumstances it may be unfair for A to withdraw from negotiations with B, if A has led B to act on the assumption that A will enter into a contract with B.275 The law of restitution will sometimes require payment in respect of work done in anticipation of a contract that fails to materialise.276 The law of torts recognises that in some cases negotiating parties owe each other a duty of care in the provision of information.277 The ACL imposes numerous obligations on parties engaged in contractual negotiations.278 The most important of these is the obligation not to engage in misleading or deceptive conduct in trade or commerce, which in some circumstances requires one negotiating party to disclose information to another.279 That may even include an obligation on the part of A to disclose to B the fact that another commercial opportunity has arisen which reduces the likelihood that the transaction between A and B will proceed.280 The ACL also prohibits conduct such as bait advertising, 281 which from a contractual point of view would be regarded as an invitation to treat, having no legal significance.
+
+These developments are of great practical importance and must be borne in mind when reading the older cases. Equitable doctrines, the law of torts, the law of restitution and statutory provisions will often provide a remedy to a party who has no contractual rights. In many cases, the remedies provided by these doctrines and statutory provisions will be more limited than those provided in respect of a breach of contract because the non-contractual doctrines are not concerned to enforce promises, but to protect against harm (in the case of estoppel, torts and the statutory prohibition on misleading conduct) or restore unjust gains (in the case of restitution). In addition to those practical consequences, the recognition of obligations between negotiating parties is also of philosophical significance. The development of these obligations can be seen as a move away from the classical law's individualistic model of contracting, which gave primacy to the value of self-reliance. Parties involved in contractual negotiations are no longer regarded simply as autonomous individuals who need only be concerned with the pursuit of self-interest.
+
+It can be argued, however, that this recognition falls far short of overcoming all of the problems with the classical approach to formation. Jay Feinman has argued that similar developments in the United States have failed to overcome the inadequacies of the classical
+
+274
+
+275
+
+Feinman, "Critical Approaches to Contract Law" (1983) 30 UCLA Law Review 829, 835.
+
+See Chapter 9, especially \[9.380\].
+
+276
+
+See Chapter 10, especially \[10.140\].
+
+277
+
+See \[32.140\]-\[32.160\].
+
+278
+
+See \[2.150\]-\[2.220\].
+
+279
+
+See Chapter 33.
+
+280 See \[33.200\], especially the discussion of EK Nominees Pty Ltd v Woolworths Ltd \[2006\] NSWSC 1172.
+
+281
+
+ACL, s 35.
+
+\[3.330\] 95
+
+Part II: Formation
+
+law.282 The classical law's rigid and formalistic approach to contract formation remains largely unchanged in the modern law. Despite the flaws in the classical model, the underlying idea of freedom of contract remains enormously powerful. The abandonment of the classical model would undermine the accepted basis of contract law and require too great a leap for the common law.283 Accordingly, we are left with a mixed image, which accepts that the courts apply social values in some areas, while insisting that the core of contract is based on private agreement. 284
+
+282
+
+Feinman, "Critical Approaches to Contract Law" (1983) 30 UCLA Law Review 829.
+
+283 Feinman, "Critical Approaches to Contract Law" (1983) 30 UCLA Law Review 829, 833. 284 Feinman, "Critical Approaches to Contract Law" (1983) 30 UCLA Law Review 829, 834.
+
+96 \[3.330\]

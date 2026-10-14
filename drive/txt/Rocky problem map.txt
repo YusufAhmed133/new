@@ -1,0 +1,444 @@
+Rocky problem map
+Companion to the final answer (Rocky - LAWS1150 Mid-Term T3 2026.docx, built from final.md). Body 1,495 words, 1,498 with the count line;
+25 footnotes. Verifier on the markdown and on the .docx: 19 quotations, 0 FAIL, 1 expected CHECK (Sundell 327, a parser artefact) and 1
+expected lint (Niesmann cited through Masters, which gives no pin). Readings are the source of truth throughout; slides and notes were
+background only.
+
+1. Timeline: what happened and what each step settles
+ Date               What happened (the problem's words)                                   What it settles in the final
+ Since 2017         Grace and Rocky 'pursued various projects together since 2017         Commercial history; background only
+                    to stellar success'
+ January 2020       'legally binding' Development Agreement; priority clause 'valid       No breach is stated, so no claim on it (I.B)
+                    and binding'
+ January 2024       Profit 'minimal'; Grace in 'significant financial difficulties'; he   Motive only
+                    'demanded Rocky's assistance'
+ 5 February 2024    Grace 'proposed that Rocky offer' a '$1 million dollar working        A request for an offer, refused: nothing binding yet
+                    capital loan for 2 years at 5% interest'; Rocky 'not interested in
+                    offering Grace a long-term loan'
+ 12 February        Rocky's email: 'I will lend $1 million to you by 15 February for      I.A: essential terms settled and 'Confirmed' would ordinarily
+ 2024               1 year at a rate of 5% interest subject to satisfactory               accept, but the unspecified conditions leave terms for Rocky
+                    conditions'; 'Please confirm agreement'. Grace: 'Mr Rocky,            alone to settle: likely no contract
+                    Confirmed.'
+ 15 February        The date Rocky was to lend by; nothing shows he lent                  I.A: the no-contract finding protects Rocky, and gives him no
+ 2024                                                                                     claim
+
+ 27 February        'Rocky asked' AMPL to advance $1,150,000; 'Pierre agreed to           II.A: AMPL performed Pierre's agreement; III.B: a past act,
+ 2024               provide the money to Grace'; advanced 'on the same day'               with no understanding then that Rocky would guarantee it;
+                                                                                          III.C: AMPL's genesis fact
+ 8 April 2024       Loan Agreement 'entered into' by AMPL and Grace:                      Part II: the $10,000 contract (agreement, intention,
+                    $1,150,000, 4% per annum, interest monthly, 'repayable at the         consideration, privity, condition). III.A: assent to the
+                    expiry of 12 months'; clause that Rocky 'personally guaranteed        guarantee; III.B: fresh consideration; III.C: the term is created
+                    repayment of the Loan'; Pierre 'expected Rocky to ensure'             here
+                    prompt payment; Rocky: 'I will do that if you also promise to
+                    pay $10,000 to me directly once Grace repays the Loan'; 'Pierre
+                    agreed and the clause was included in the Loan Agreement
+                    before it was signed by Grace and AMPL'
+ 8 April 2024 to 8 Grace made 'appropriate monthly repayments of the interest';           Later conduct: cannot construe the term (III.C)
+ February 2025     Rocky 'would check in consistently'
+ 13 February to 2   Rocky asks 'when and how' the principal will be repaid; no            Later conduct
+ March 2025         reply
+ 5 March 2025       Rocky's solicitor demands 'repayment of the principal amount          I.B: Rocky is not a party to that contract; III.C: his own
+                    under the Loan Agreement with AMPL'                                   demand cannot construe the term
+ 7 March 2025       Grace to Rocky: 'I never signed anything with you, so you can't I.B: right result; III.C: the construction dispute; II.E: the risk
+                    enforce anything.' Grace to AMPL: 'I have until 8 April 2025 to that the $10,000 condition fails
+                    repay'; 'if you don't leave off, I might not pay at all!' AMPL: the
+                    Loan 'was advanced on 27 February'
+ 9 March 2025       AMPL calls on 'the personal guarantee provided by Rocky';             Part III: Rocky is likely bound, but the call was likely
+                    Grace 'had not yet repaid'                                            premature
+
+
+2. Who promised what to whom (final view)
+ Promise                                  By, to, when                Given in exchange               Final conclusion
+ Lend $1 million by 15 February for 1     Rocky to Grace, 12          Grace's 'Confirmed'             Likely no contract (I.A)
+ year at 5%, 'subject to satisfactory     February 2024
+ conditions'
+ Repay $1,150,000 at the expiry of 12     Grace to AMPL, 8            AMPL's advance and 12           Binds Grace to AMPL; Rocky cannot enforce it
+ months, interest at 4% monthly           April 2024                  months' credit                  (I.B)
+ Promise                                    By, to, when             Given in exchange                 Final conclusion
+ Pay Rocky $10,000 'directly' once          AMPL through Pierre Rocky's promise to ensure              Likely enforceable; payable only if Grace repays
+ Grace repays                               (alternatively Pierre) to prompt payment                   (II)
+                                            Rocky, 8 April 2024
+ Ensure Grace makes all payments            Rocky to AMPL (or        The $10,000 promise               Binds Rocky; breached only if the 12 months ran
+ promptly                                   Pierre), 8 April 2024                                      from 27 February (III.C)
+ Guarantee 'repayment of the Loan'          Rocky to AMPL, 8         AMPL's 12 months' credit to       Likely accepted by conduct and supported; not
+                                            April 2024               Grace; arguably the $10,000       callable before 8 April 2025 (III)
+                                                                     promise
+
+
+3. Structure of the final answer
+ I. Rocky v Grace                                     II. Rocky v AMPL or Pierre                          III. AMPL v Rocky
+                        ▼                                                   ▼                                                   ▼
+ A. Agreement and certainty                           A. Agreement                                         A. Agreement
+ Terms settled and 'Confirmed', but                   Promise for a promise; AMPL likely the               Acceptance by conduct: benefit taken, no
+ 'satisfactory conditions' are arguably further       promisor through Pierre; Pierre in the               recorded objection, 'provided by Rocky'
+ terms for Rocky alone (Godecke), not a               alternative                                          (Empirnall)
+ Meehan condition: likely no contract                                       ▼                                                   ▼
+                        ▼                             B. Intention                                         B. Consideration
+ B. Privity                                           Cousin is one circumstance; a priced                 Advance is past (Roscorla; Pao On condition
+ Grace promised AMPL alone; a signature does          undertaking about a $1,150,000 loan                  two not shown); 8 April credit is fresh;
+ not decide party status (Coulls); no agency          (Ermogenous, Banque Brussels)                        Rocky's defences conflict
+                        ▼                                                   ▼                                                   ▼
+ No claim against Grace                               C. Consideration                                     C. Certainty and construction
+                                                      Not identical with an existing duty: timing,         Term certain; runs from 8 April 2024 (Meehan
+                                                      third-party duty, wider content (Wigan,              578, Brambles)
+                                                      Sundell, Pao On)                                                          ▼
+                                                                            ▼                              Likely bound, but the 9 March call was
+                                                      D. Privity                                           premature
+                                                      Coulls distinguished: Rocky made his own
+                                                      contract
+                                                                            ▼
+                                                      E. Condition of payment
+                                                      Grace's repayment conditions the obligation to
+                                                      pay (Niesmann)
+                                                                            ▼
+                                                      Enforceable $10,000, payable only if
+                                                      Grace repays
+
+
+4. Issue by issue, as argued in the final
+
+I.A Agreement and certainty: did the 12 February exchange form a contract?
+Rule (1) Lord O'Hagan, quoted by the whole Court in Masters 361: 'if any prospective contract, involving the possibility of new
+terms, or the modification of those already discussed, remains to be adopted, matters must be taken to be still in a train of negotiation'
+(W3 casebook 155). (2) Kitto J in Placer 356, quoted by Gibbs CJ in Meehan 581: a promisor with 'a discretion or option as to
+whether he will carry out' the promise makes no contract. (3) Gibbs CJ (581 to 582): that principle 'does not apply where the
+discretion or option of the contracting party relates ... only to the fulfilment of a condition upon which the contract depends'; Mason J
+(588 to 590): the purchaser 'must act honestly, or honestly and reasonably', which 'takes the case out of the principle' (W3 casebook
+183 to 186). (4) Gibbs J in Godecke (646 to 647), obiter and tentative: it 'does not necessarily follow' that an agreement which 'left
+further terms to be settled by one of the parties' is concluded; there may be 'no concluded bargain if a vital matter ... has been left to
+the determination of one of the parties'; 'Perhaps it may be different' for 'subsidiary matters' (W3 casebook 189 to 190).
+Grace Amount, date, term and rate were settled and 'Confirmed' answered 'Please confirm agreement'; the conditions were
+subsidiary or, as with the finance in Meehan, for Rocky to assess honestly.
+Rocky 'satisfactory conditions' are not specified and identify no subject matter, so they are arguably further loan terms for Rocky
+alone to settle, not a condition whose fulfilment he would assess.
+Decisive Whether Rocky lent depended on terms that he alone would settle, which is the Godecke case, not the Meehan one. (Gibbs
+CJ's own point in Meehan, that a condition within a party's power still binds, is why the final does not rely on the conditions deciding
+'whether Rocky would lend at all'.)
+Conclusion On balance, likely no contract. That protects Rocky, as nothing shows he lent by 15 February, but gives him no claim.
+Further information what the conditions were; Meehan-type conditions would likely bind.
+
+I.B Privity: can Rocky enforce the Loan Agreement (his 5 March demand)?
+Rule Only a party can enforce a contract. Taylor and Owen JJ in Coulls (486 to 487): 'the mere fact that her signature appears does
+not make her a party; this is a question to be resolved upon a consideration of the written instrument itself'; 'there was no express
+promise by the company to pay royalties to the wife nor is it possible to imply such a promise' (W4 casebook 330 to 331). An agent
+must be 'purporting to act on behalf of the principal and not solely on their own behalf' (Picwoods [84] to [85], textbook 290).
+Applied Grace promised repayment to AMPL alone; Rocky's request for the loan and the guarantee make him at most AMPL's
+promisor, not Grace's promisee. Grace's 'I never signed anything with you' reaches the right result. Nothing suggests AMPL lent as
+Rocky's agent.
+Conclusion Rocky likely cannot enforce the Loan Agreement; the Development Agreement discloses no breach; any claim against
+Grace would likely fail.
+
+II.A Agreement: was the $10,000 contract formed, and with whom?
+Rule AMPL is bound if Pierre acted as its agent and purported to act for it (Picwoods); Sundberg J in Pola: 'the consent of the
+principal may be implied where he places another in such a situation that a reasonable man would understand the other to have the
+principal's authority to act on his behalf' (textbook 290 [11.80]).
+Points to AMPL Rocky offered his promise for a promise to pay him $10,000 'directly', and 'Pierre agreed'. Pierre 'owned and
+controlled' AMPL; the meeting was at AMPL's office; AMPL performed his 27 February agreement the same day; his expectation
+concerned payments to AMPL.
+Points to Pierre Rocky addressed Pierre as 'you'.
+Conclusion AMPL likely the promisor, because Pierre spoke as its controller about its loan; sue Pierre in the alternative.
+
+II.B Intention to create legal relations
+Rule Rocky must prove it, objectively; in Ermogenous ([25] to [26]) the joint judgment noted the presumed 'family arrangements'
+and said 'we doubt the utility of using the language of presumptions in this context' (W3 casebook 137). Rogers CJ Comm D in
+Banque Brussels 523: 'If the statements are appropriately promissory in character, courts should enforce them when they are uttered in
+the course of business and there is no clear indication that they are not intended to be legally enforceable' (W3 casebook 144).
+AMPL Pierre is 'Rocky's cousin'.
+Rocky That is only one circumstance; the $10,000 paid for a specific undertaking about a $1,150,000 loan, with nothing indicating
+otherwise.
+Conclusion Likely intention, because the commercial setting outweighs the family relationship; less clearly against Pierre
+personally.
+
+II.C Consideration: was Rocky's promise to ensure prompt payment only an existing duty?
+Rule Mason J in Wigan 594: a promise to perform an existing duty is no consideration, 'at least when the promise is made by a party
+to a pre-existing contract, when it is made to the promisee under that contract, and it is to do no more than the promisor is bound to do
+under the contract' (W2 casebook 131). Sundell 327: the supplier 'was bound to' do 'what was necessary to ensure that the goods were
+delivered', so its promise was 'identical' (W2 casebook 114). A promise to perform a duty owed to a third party 'may constitute good
+consideration' (casebook [4.300] 125, Pao On 631 to 632; Glidewell LJ in Roffey 15: 'a tripartite relationship'). Practical benefit
+(Santow J, Musumeci 747) needs, as element (ii), that B 'has reason to doubt whether A will, or be able to, complete his side of the
+bargain'.
+AMPL As guarantor, Rocky already owed the duty.
+Rocky Firstly, he promised before the Agreement was signed. Secondly, if Pierre promised personally, the duty was owed to a third
+party. Thirdly, ensuring all payments promptly, including monthly interest, differs from guaranteeing 'repayment of the Loan'. Were
+they identical, practical benefit would not assist, as nothing suggests AMPL had reason to doubt Rocky's performance.
+Conclusion Likely consideration, because, unlike the Sundell promise, it was not identical with an existing obligation, even if the
+guarantee bound him first.
+
+II.D Privity (only if 'the clause' is the $10,000 term)
+Rule In Coulls the clause naming the wife only 'authorise[d]' payment to her (Taylor and Owen JJ 487); for McTiernan J it was a
+'mandate' (482 to 483).
+Applied Rocky gave his own promise for AMPL's promise to pay him 'directly'. On the other reading, the $10,000 promise stays oral
+and no privity question arises.
+Conclusion Coulls distinguishable; privity likely no bar.
+
+II.E Condition of payment: when is the $10,000 payable?
+Rule Masters 361, describing Niesmann: the stipulation 'did not make the signing of a contract a condition of agreement, but made it
+a condition of the obligation to pay'.
+Applied 'once Grace repays the Loan' makes repayment such a condition; if Rocky pays under the guarantee, Grace may never repay,
+given 'might not pay at all'.
+Conclusion Enforceable $10,000, payable only if Grace repays.
+
+III.A Agreement: is Rocky bound by the guarantee?
+Rule 'The contract between A and B cannot impose obligations on C' (textbook 288, citing Taddy, cited by report only). McHugh JA
+in Empirnall: 'the silent acceptance of an offer is generally insufficient' (534), but an offeree who, 'knowing of the terms of the offer
+and the offeror's intention to enter into a contract, ... has exercised a choice and taken the benefit of the offer' may be bound; it is 'open
+to the tribunal of fact' (535) (W1 casebook 71 to 72).
+Rocky His recorded words promised to ensure payment, not to guarantee it; the Agreement was 'signed by Grace and AMPL'.
+AMPL He requested the loan, attended the settling of an Agreement naming him as guarantor, and raised no recorded objection; the
+facts call it 'the personal guarantee provided by Rocky'. If 'the clause' is the guarantee, it was arguably part of his $10,000 bargain; if it
+is the $10,000 term, Rocky's benefit was written into that Agreement.
+Conclusion On balance, likely accepted by conduct, because he took a benefit tied to the Agreement without recorded objection.
+Further information whether he knew of, signed or expressly agreed to the guarantee.
+
+III.B Consideration: is the guarantee supported?
+Rule Roscorla 237: past consideration 'will support no other promise than such as would be implied by law'. Lord Scarman in Pao
+On 629 to 630: a past act counts only if done at the promisor's request, the parties 'understood that the act was to be remunerated', and
+payment would have been 'legally enforceable had it been promised in advance' (Pao On extract). Textbook 103 [4.80]: 'consideration
+given in return for a promise need not move to the promisor'. Australian Woollen Mills 456 (the whole Court): 'forbearance by a
+creditor in return for the debtor's promise to give security' (W2 casebook 101).
+Applied 'Rocky asked' for the advance, but nothing shows an understanding on 27 February that he would guarantee it. On 8 April
+AMPL promised Grace 12 months' credit at 4%, unless the advance was already made on that term; if 'the clause' is the guarantee,
+AMPL also arguably promised Rocky $10,000 for it.
+Conflict If 8 April created the term, as Rocky's timing argument requires, AMPL gave fresh consideration that day.
+Conclusion Likely supported, because AMPL's 8 April promises, not the past advance, were given in exchange for it.
+
+III.C Certainty and construction: was the 9 March call premature?
+Rule Gibbs CJ in Meehan 578: 'If the court, in construing the contract, can decide which of the two possible meanings is that which
+the parties intended, there will be no uncertainty'. Heydon JA in Brambles 163: pre-contractual conduct is admissible on construction
+only 'if the contract is ambiguous' and it 'casts light on the genesis of the contract' (Ipp AJA 191: 'mutually known facts'); 164: 'post-
+contractual conduct is not admissible on the question of what a contract means' (W1 casebook 73).
+Rocky The Agreement created the term; nothing shows a term was agreed on 27 February, when 'Pierre agreed to provide the money
+to Grace'.
+AMPL The loan 'was recorded as $1,150,000', so the Agreement recorded money already lent, and the advance, known to all three,
+shows the term ran from 27 February.
+Excluded Later conduct, including the interest payments and Rocky's own 5 March demand.
+Conclusion Term certain, running from 8 April 2024, because the Agreement created the term and the advance shows only when the
+money was lent; 'recorded' describes the amount, not the start of the term. Further information whether the Agreement tied the
+term or interest to the advance; if it did, the call was timely and Rocky likely also breached his promise to ensure prompt payment.
+
+  Advice to Rocky He has no contractual claim against Grace. He likely holds an enforceable promise of $10,000 from AMPL (alternatively
+  Pierre), payable only if Grace repays. He is likely bound by the guarantee, but its 12 months likely run from 8 April 2024, so he should resist
+  AMPL's 9 March 2025 call; paying under the guarantee would probably mean the $10,000 condition is never fulfilled.
+
+
+5. Footnote ledger
+                                                        Where in the readings;
+ fn   Citation                                                                           Supports
+                                                        status
+ 1    Masters 361, quoting Rossiter 1149 (Lord          W3 casebook 155; the whole       New terms to be adopted: still negotiating
+      O'Hagan)                                          Court quoting a House of
+                                                        Lords speech
+                                                           Where in the readings;
+fn    Citation                                                                              Supports
+                                                           status
+2     Meehan 581 (Gibbs CJ), quoting Placer 356            W3 casebook 183; majority        Illusory promise
+      (Kitto J)                                            judgment
+3     Meehan 581 to 582 (Gibbs CJ), 588 to 590             W3 casebook 183 to 186; two      Condition exception; honest assessment
+      (Mason J)                                            routes, both cited
+4     Godecke 646 to 647 (Gibbs J)                         W3 casebook 189 to 190;          Further terms left to one party
+                                                           obiter, tentative
+
+5     Coulls 486 to 487 (Taylor and Owen JJ)               W4 casebook 330 to 331;          Only parties enforce; signature not decisive
+                                                           majority
+6, 7 Picwoods [84] to [85]; Ibid                           Textbook 290 fn 45               Agent must purport to act for the principal
+8     Pola (Federal Court, Sundberg J) 12, quoted in       Textbook 290                     Implied consent of the principal
+      Robertson and Paterson 289 to 290 [11.80]
+9     Ermogenous [25] to [26] (joint judgment)             W3 casebook 137                  Onus, objectivity, presumptions doubted
+10    Banque Brussels 523 (Rogers CJ Comm D)               W3 casebook 144; single          Business promises enforced
+                                                           judge
+
+11    Wigan 594 (Mason J)                                  W2 casebook 131                  Existing duty rule and its 'at least' limits
+12    Sundell 327                                          W2 casebook 114 (note            'do what was necessary to ensure'
+                                                           quoting the court); expected
+                                                           CHECK
+13    Pao On 631 to 632; Roffey 15 (Glidewell LJ)          Textbook fn 139; W2              Duty owed to a third party
+                                                           casebook 119, 125
+14    Musumeci 747 (Santow J)                              W2 casebook 123                  Practical benefit element (ii)
+15    Coulls 487 (Taylor and Owen JJ), 482 to 483          W4 casebook 329 to 331           The clause merely authorised payment
+      (McTiernan J)
+16    Masters 361, citing Niesmann                         W3 casebook 155; expected        Condition of the obligation to pay
+                                                           lint (no pin)
+17    Taddy (report only)                                  Textbook 288 fn 38               No burdens on non-parties
+18    Empirnall 534 to 535 (McHugh JA)                     W1 casebook 71 to 72             Silence; acceptance by taking a benefit
+19    Roscorla 237; 114 ER 496                             W2 casebook 112                  Past consideration
+20    Pao On 629 to 630                                    Pao On extract; pin from         Past act exception
+                                                           textbook fn 140
+
+21    Robertson and Paterson 103 [4.80]                    W2 textbook 103                  Need not move to the promisor
+22    Australian Woollen Mills 456                         W2 casebook 100 to 101; the      Creditor's forbearance
+                                                           whole Court
+23    Meehan 578 (Gibbs CJ)                                W3 casebook 182                  Certainty of an ambiguous term
+24,   Brambles 163 (Heydon JA), 191 (Ipp AJA); Ibid W1 casebook 73, 82                      Genesis admissible; later conduct not on meaning
+25    164
+
+
+6. How the final was built: every agent, and what reached the final
+Agent or round              What it did and thought                                         What the final took from it
+Issue spotters A, B and     Each built a quoted timeline, a promise map, every claim and    The three-part claimant v defendant structure; the planted
+C (independent)             defence, the planted facts and the doctrine each tests, two-    facts used ('subject to satisfactory conditions', 'the clause
+                            sided issue analyses and a word budget. A walked every          was included', 'recorded as', 'directly once Grace repays',
+                            checklist line and register map; B wrote the setter's marking   'I never signed', 'might not pay at all'); the two readings
+                            guide; C argued as opposing counsel for Grace, AMPL and         of 'the clause'
+                            Pierre.
+Source miners M1 to         Read every page of the readings for one cluster each            Every rule in the final rests on a banked passage; the
+M4                          (agreement; parties and privity; consideration; intention,      verifier corpus checks each quotation
+                            certainty and construction) and banked verbatim passages
+                            with page, judge, status, the question answered, the next
+                            sentence and the side each helps.
+Agent or round           What it did and thought                                              What the final took from it
+Lead planner             Merged the three issue lists, resolved disagreements against         The 'AMPL will argue ... Firstly ... Secondly ... Thirdly'
+                         the source text, fixed the judgment calls, and built argument        and 'Grace will argue ... Yet ...' paragraphs
+                         tables (opponent's best argument, answer, decisive factor)
+                         with a sentence-level authority map.
+Drafters v1X and v1Y,    Two independent full drafts to the plan, each verified to 0          Merged at triage
+each with a self-check   FAIL.
+against every lesson
+
+Marker panels on each    Examiners (v1X 87.5, v1Y 85), issue auditors, accuracy               All carried: Coulls now cuts both ways correctly; 'at least'
+draft                    tracers and AGLC and style checkers; full-context auditors           kept; both Meehan judges cited; Empirnall decides III.A;
+                         (v1X 50 sound, 23 not; v1Y 61 sound, 22 not) and source-             'provided by Rocky' used
+                         completeness auditors. Key finds: Coulls used on the wrong
+                         side; Wigan's 'at least' overread; Meehan distinguished on one
+                         judge's ground; Brambles' formation limb missed;
+                         acceptance-by-conduct authorities missing; the narrator twice
+                         says Rocky gave the guarantee.
+
+Triage consolidator      Accepted, partly accepted or rejected every panel finding            The first final
+                         after reading the source; merged the drafts.
+Cold examiner (first     89/100. Practical benefit never run; III.A's decisive step one       Practical benefit now weighed in II.C; III.A rebuilt; prose
+final)                   sentence; prose dense.                                               cut
+Blind A/B examiner       P (v2) 82 against Q (first voice rewrite) 77: P better on            Few, short quotations; analysis in own words
+                         application, argument, conclusions, prioritisation, writing and
+                         structure; Q quoted authority 27 times (164 words) against P's
+                         5.
+
+Tracer on P              11 problems, eg 'he never lent' is not in the facts; Pola's          'nothing shows he lent'; 'may be implied'; Empirnall's
+                         qualifier dropped; Empirnall's 'to the offeror' dropped; facts       knowledge and opportunity; hedged inferences
+                         stated as fact.
+Sample papers A and      A 52 (a different paper) and C 62: flowery headings, stitched        What to avoid
+C, marked cold           quotations, conclusions without reasons.
+Your structure           IRAC in every sub-issue; never a conclusion first; formation         The v4 to v6 restructure
+feedback                 before privity; claimant v defendant with element headings;
+                         exact terms; no metaphor.
+
+Round R on v6:           See the ledger below.                                                v7
+examiner (84) and
+tracer (13 problems)
+Round S on v7: tracer    Tracer: no certain error in law, facts, pins or quotations; one      v8, the final
+and examiner (87)        house AGLC point; four arguable points. Examiner: 87, with
+                         a plan it put at about 89.
+Round S2 on v8           Cold check of only the v7 to v8 changes and the renumbered           First point applied at no word cost ('Rocky's benefit was
+(focused tracer)         footnotes: no certain error. Three arguable points: III.A said       written into that Agreement'); second left (the house style
+                         flatly that Rocky 'obtained a right under that Agreement',           cites the textbook only for 'quoted in'); third already
+                         though II.D says his right comes from his own contract; the 'is      covered by the further-information sentence
+                         bound if' agency premise has no footnote of its own; 'the
+                         Agreement created the term' does not by itself fix the start
+                         date.
+
+Round R ledger (v6 to v7)
+ID     Finding                                                                            Disposition
+W1     I.A concluded on acceptance before stating a rule                                  Applied: 'would ordinarily accept it'
+W2,    Grace's best answer (honest assessment, Meehan; Godecke) never put                 Applied
+M1
+W3,    Intention: heading restated; Ermogenous not applied; cousin not weighed            Applied: 'only one circumstance'
+W4,
+E7
+W5     II.C conclusion 'unless the guarantee bound him first' contradicted reason         Applied: 'even if'
+       three
+
+W6     II.D concluded before its reasons                                                  Applied
+ID       Finding                                                                           Disposition
+W7,      Forbearance rested on a dissent quoting Currie; the $10,000 as the                Applied: textbook [4.80] and Australian Woollen Mills;
+E5,      guarantee's price unused                                                          'arguably promised Rocky $10,000 for it'
+M3
+W8       III.B conclusion gave no reason                                                   Applied
+W9,      Rocky's own 5 March demand; Brambles' formation limb                              Partly: the demand is named and excluded on meaning; the
+M4                                                                                         formation limb is not run, because the demand was made
+                                                                                           'under the Loan Agreement' and so shows no 27 February
+                                                                                           contract
+W10, 'finely balanced' repeated; check-ins irrelevant to 'ensure'                          Applied: both cut
+W11
+M2       Practical benefit                                                                 Applied: one sentence, element (ii)
+M5       Why I.A matters to Rocky                                                          Applied: 'That finding protects Rocky'
+M6       'Potential project' and 'wait and see' contrast                                   Rejected: 22 words for the lowest-value point
+E1,      Coulls overstated ('wrong test'); I.B and III.A inconsistent on signature         Applied: 'a signature alone does not make one'
+T3,
+T4
+E2,      Pola's 'may be implied' dropped                                                   Applied
+T9
+E3,      Lord O'Hagan's 'a dissatisfied party' turned into 'either party'                  Resolved: his point restated as 'still negotiating' (v8)
+T6
+E4       'appropriately' omitted from Banque Brussels                                      Applied
+E6,      'never specified' is not in the problem                                           Applied: 'which the email does not specify'
+T7
+
+E8,      Textbook author order; Pola's court; Roscorla's ER pin                            Confirmed: publisher lists Robertson then Paterson; Federal
+T13                                                                                        Court confirmed; ER pin not in the materials, left
+T1,      Meehan misdescribed as an 'external' condition; Gibbs CJ's route stated as        Applied: both judges cited; v8 distinguishes on further terms
+T8       the only one
+T2       Empirnall loosened and over-applied                                               Applied: knowledge, opportunity to reject, 'may be held';
+                                                                                           knowledge left as further information
+T5       The two readings of 'the clause' not reconciled                                   Applied: both run in III.A and III.B
+T10,     'only' added to a fact; two rules without a Weeks 1 to 4 source                   Applied: both removed
+T11
+T12      Short titles used in the body but not defined                                     Applied
+
+Round S ledger (v7 to v8)
+From         Finding                                                                           Disposition
+Tracer       Whole-Court judgments (Masters, Woollen Mills) named judges, against              Applied
+             the house rule
+Both         I.A's reason ('qualified whether Rocky would lend at all') is the feature         Applied: distinguished as further terms for Rocky alone
+             Meehan held not fatal                                                             to settle, not a condition he assesses
+Both         III.A overstated ('Either reading would strongly indicate his assent'); the       Applied: sentence removed; 'arguably' added in III.A and
+             $10,000 link to the guarantee is inference                                        III.B; reading (b) now 'Rocky's benefit was written into
+                                                                                               that Agreement'
+Examiner Add Masters for 'subject to'                                                          Applied
+Examiner 'requires more than guaranteeing' implies Rocky's words included a                    Applied: 'differs from'
+         guarantee, against III.A
+Examiner Unused planted fact: 'the personal guarantee provided by Rocky'                       Applied
+
+Examiner III.C's reason only rebutted AMPL                                                     Applied: 'because the Agreement created the term'
+Examiner Agency rule 'only if' excludes ratification                                           Partly: 'only' dropped; ratification itself not run (15
+                                                                                               words)
+Tracer       'agreed to the clause' should be 'the guarantee'; '[R]ecorded'                    Applied: 'the guarantee'; sentence reworded to 'Likewise,
+                                                                                               'recorded''
+ From        Finding                                                                         Disposition
+ Examiner Word cuts: 'The next issue is' to 'The issue is'; shorter Godecke; drop I.B's      Applied
+          signature hedge; shorter practical-benefit sentence; 'what the law implies';
+          'shows the term'; split III.B
+ Examiner Delete 'signed' from III.A's further information                                   Rejected: whether Rocky signed is genuinely unknown;
+                                                                                             the problem says only that Grace and AMPL signed
+ Examiner 'bound him first' to 'came first'; 'a specific undertaking' to 'an undertaking'    Rejected: less exact; the specificity of the undertaking is
+                                                                                             part of the intention argument
+
+ Examiner Ratification (+15), 'Potential project' (+23), 'Please confirm agreement'          Rejected: the examiner's own view was that each costs
+          (+5), II.E counter (+12), check-ins on formation (+13), scope flags (+23)          more words than it gains
+
+Mark history, read with care
+v1X 87.5; v1Y 85; first final 89; P (v2) 82; Q 77; v6 84; v7 87, with the applied plan put at about 89. Each mark is a fresh agent with
+its own calibration, and the structure required changed between rounds, so the numbers are not a trend line. The comparable measure
+is certain errors: round R found 13 tracing problems; round S found none in law, facts, pins or quotations.
+
+7. Judgment calls left in the final
+ Point                                                  Why it stands as it does
+ I.A rests partly on Gibbs J's obiter in Godecke        Stated as 'doubted' and 'at least on a vital matter', matching his 'does not necessarily follow'
+                                                        and 'Perhaps'
+ Two readings of 'the clause'                           The problem is ambiguous; both readings are run where they matter (II.D, III.A, III.B)
+ 'the Agreement' for the Loan Agreement after first     Context ('signed', 'guarantor', 'term', 'recorded') shows which agreement; spelling it out would
+ mention                                                cost words
+ Expected verifier flags                                Sundell 327 (the note prints '(at 327)'; the parser reads Roscorla's page marker); Niesmann
+                                                        without its own pin (cited through Masters)
+ Pola citation form                                     Court confirmed as the Federal Court of Australia; kept in the unreported form the textbook
+                                                        gives, with the court added
+ '&' in business names                                  House choice, applied consistently; the checklist was updated to match
+ Roscorla parallel citation                             The ER pinpoint is not in the materials, so only the report pin is given
+
+
+8. Checks run on the exact text submitted
+Verifier on final.md and on the .docx: 19 quotations, 0 FAIL, 1 expected CHECK, body 1,495. The .docx rendered to 6 pages with
+footnotes, italics, double spacing and page numbers intact. Body lint: no dashes, double quotation marks or contractions. Round S2, a
+focused cold check of the last edits and the renumbered footnotes, found no certain error; its one useful arguable point was applied
+without changing the word count, and both verifier runs were repeated afterwards.
+Web sources used for citation details: Thomson Reuters, Principles of Contract Law, 7th edition (store.thomsonreuters.com.au/principles-of-contract-law-
+7th-edition/productdetail/131736); vLex, Pola v Commonwealth Bank of Australia (au.vlex.com/vid/pola-v-commonwealth-bank-807268305).
+

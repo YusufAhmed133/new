@@ -1,0 +1,429 @@
+2026 – LAWS1150 | JURD7150
+  Principles of Private Law
+
+
+          Class 2A
+     Consideration: part 1
+                                                    Consideration: Part 1
+
+
+
+
+A. The elements of consideration?
+
+   –   Detriment + benefit
+
+   –   Must flow between the parties in both directions
+
+B. How much is enough?
+
+C. Past consideration
+
+D. Performance of an existing legal duty
+
+
+
+                                                                    2
+   What is valuable consideration?
+Currie v Misa (1875) LR 10 Ex 153, 162 (Lush J)
+
+• A valuable consideration, in the sense of the law, may consist
+  in some right, interest, profit, or benefit accruing to the one
+  party, or some forbearance, detriment, loss, or responsibility,
+  given, suffered, or undertaken by the other
+                     Elements of consideration        Consideration: Part 1
+
+
+
+
+Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92
+CLR 424
+
+1946: post WWII wool was scarce - Commonwealth introduced a wool
+subsidy scheme to encourage manufacturers to make cheap woollen
+products
+1946-48: Australian Woollen Mills Pty Ltd (AWM) purchased wool
+June 1948: C’th finished scheme. Would pay for some of stockpiled
+wool, but not all.
+AWM had more stockpiled than C’th would pay subsidies for.
+C’th required repayment of the excess subsidy
+AWM argued unilateral contract.
+
+
+                                                                      4
+                                 AWM v Commonwealth
+
+The court (Dixon CJ, Williams,
+Webb, Fullager, Kitto JJ):
+In cases of this class, it is
+necessary … that the
+statement or announcement
+which is relied on as a
+promise was really offered as
+consideration for the doing
+of the act and that the act
+was really done in
+consideration of a promise.
+There must be a relation of
+quid pro quo – ie: a necessary
+connection between the
+announcement and the act.                             5
+AWM v Commonwealth
+
+
+       HCA held:
+       It is impossible, in our opinion,
+       to hold that any contract was
+       constituted at any stage
+       binding the C’th to pay a
+       subsidy to the plaintiff, or to
+       any manufacturer, in
+       consideration of the purchase
+       of wool for local manufacture
+
+
+
+
+                                           6
+                         Australian Woollen Mills Pty Ltd
+
+
+• AWM appealed to the Privy Council
+
+PC held:
+• No contracts existed
+• The “scheme” was administrative
+• Letters contained statements of policy, not contractual offers
+• The presence of a request does not in itself establish a contract
+
+
+• What is the “bargain” or “Quid Pro Quo” requirement?
+
+• How does “bargain” differentiate from conditional gift?
+
+
+                                                                      7
+                                     Bargains or Conditional Gifts
+
+
+Australian Woollen Mills Pty Ltd v Commonwealth
+Example 1 – No request
+
+➢ A said to B: “I will pay you £1000 on your arrival in Sydney”: no contract as there may be no relation
+  whatever between A’s statements and B’s act. It is consistent with the facts proved that B intended to go to
+  Sydney anyhow, and that A is merely announcing that, if and when B arrives in Sydney, he will make a GIFT
+  to him.
+
+➢ The necessary relation is not shown to exist between the announcement and the act
+
+Example 2 – Additional facts
+
+➢ A had told B, before the mentioning of the money, that it was a matter of vital important to A that B should
+  come to Sydney; B objected that to go to Sydney at the moment might involve him in financial loss. B goes
+  to Sydney because of the money offered.
+
+➢ This suggests:
+
+➢ (1) the statement to pay the money was intended as an offer of a promise;
+
+➢ (2) the promise was offered as the consideration for the doing of the act by B;
+
+➢ (3) the doing of the act was at once the acceptance of the offer and the providing of an executed
+  consideration for a promise
+                                                                                                         8
+       Bargain or conditional gift?
+• Has there been a request to be found in the promise to pay $
+  if you come to Sydney?
+
+• ie: did the promise induce the doing of the act or not?
+                                   Consideration: part 1
+
+
+
+
+Bargain or
+detrimental reliance?
+
+I say to you:
+Next year you can have my bike.
+In anticipation of the bike
+becoming yours, you spend
+$2000 getting the bike services,
+buying new brakes, tyres and
+seat.
+Next year I change my mind.
+
+What is this?
+
+                                                 10
+                      Elements of consideration
+
+Beaton v McDivitt (1987) 13 NSWLR 162
+• Did the court apply the principle developed in AWM v Cth?
+
+• What is the key difference in the judgment of Kirby P and
+  McHugh JA?
+
+• To what extent ‘bargain’ differentiates from ‘detrimental
+  reliance’?
+
+• Why did McHugh J hold there was no frustration of contract ?
+
+                                                              11
+                         Beaton v McDivitt
+
+Facts:
+• McDivitts (respondents) owned 25 acres. Believed local council planned to
+   rezone – council rates would increase – McD would not be able to afford
+   rates – decided to subdivide into 4 lots – keep 3, let 4th to someone for
+   permaculture – transfer when rezoned
+• Beatons (appellant) moved to 4th block, farmed using permaculture
+• 7 years on – dispute
+• McD told B to leave
+Held in Supreme Ct (Young J):
+• Beatons had not given consideration sufficient to satisfy the bargain
+   requirement of something given in exchange for the promise.
+• But acknowledged Dillwyn v Llewelyn exception that Beaton’s acts of
+   reliance gave rise to a contract
+• But that contact had been frustrated.
+
+Beaton appealed to SCt CA (Kirby P, McHugh JA, Mahoney JA)
+                                                                           12
+                         Beaton v McDivitt (appeal)
+
+Kirby P:
+• Without consideration, a promise is unenforceable at law.
+• The expenditures and actions of [Beaton] are properly categorised
+   as entirely for his own benefit.
+   – ie – not as consideration
+• Why should the law hold a party to the promise of a gift unless it
+  can be demonstrated that, in return for the promise, the promisor
+  receives some bargain from the promisee by way of a quid pro quo?
+• Was Beaton’s NYE promise to maintain the private road to the
+  property sufficient quid pro quo to be consideration?
+   – No.
+• Beaton was a bare licensee, no enforceable contract, no equity to
+  force a transfer
+
+                                                                      13
+                           Beaton v McDivitt (appeal)
+
+McHugh JA:
+• Agrees with Young J’s finding a contract existed
+• Disagrees with its terms
+• McDivitt made a promise he intended to be binding (offer)
+• 3 possible scenarios:
+     – A promise to transfer property subject to an event occurring – bare
+        promise, not enforceable
+     – Promise to transfer property, after which the promisee acts to his own
+        detriment – outcome depends on facts and equity
+     – Promise contains a request by promisor to do an act/ fulfil a condition –
+        usually doing the act/performing the condition = consideration
+•   Frustration argument failed
+•   McD have contractual duty to do everything they can to provide B with benefit
+    of the contract
+
+                                                                               14
+                      Beaton v McDivitt (appeal)
+
+Mahoney JA:
+• There was a binding contract but no obligation on McD to pursue
+  rezoning
+• Focussed on the prospective rezoning as a condition subsequent
+   – No time specified for rezoning
+   – Rezoning was not a term of the contract
+• Frustration to be tested by the circumstances
+   – ‘But what if the rezoning doesn’t occur? In 1977 both McD and B
+     would have answered – of course, then the land won’t be
+     transferred’
+
+Conclusion: Appeal dismissed
+                                                                   15
+                Adequacy of consideration
+
+Woolworths Ltd v Kelly (1991) 22 NSWLR 189
+
+• Why don’t courts inquire into the adequacy of
+  consideration?
+
+• Kirby P identified 6 reasons why consideration does not
+  have to be adequate in Woolworths v Kelly
+
+• What are the 6 reasons?
+
+                                                            16
+                      Woolworths Ltd v Kelly
+
+KIRBY P.
+• This appeal requires the Court to enter once again what
+  Dixon CJ described as the peculiar branch of the law
+  concerned with the consideration necessary to sustain a
+  legally enforceable contract.
+• It also requires the Court to consider the degree of
+  formality required on the part of a director of a company
+  when disclosing to the board of directors a personal
+  interest in a contract or proposed contract with the
+  Company.
+
+
+                                                          17
+                       Woolworths Ltd v Kelly
+
+KIRBY P.
+• Sir Theo Kelly (the respondent) began work with Woolworths
+  Ltd (the Company) in 1928 at the age of 21. He rose rapidly
+  to a position of leadership. 1940 to 1971 he was CEO.
+  1971 to 1980, he was chairman.
+
+• Following his retirement, a dispute arose concerning
+  Kelly’s entitlement to a pension.
+
+       “GOLDEN JUBILEE BONUS, PENSION AND
+                DIRECTORS' FEES:
+
+                                                            18
+                        Woolworths Ltd v Kelly
+
+• Kirby P and Samuels JA agree on the consideration point.
+   – Aspects of the decision to pay a pension were supported
+     by consideration – his consulting work post-retirement
+   – The company could produce no Australian authority to
+     support its attack on the varied pension scheme based
+     upon the alleged mathematical inadequacy of the
+     consideration offered by the respondent for it.
+   – For the reasons which I have stated, I would not disturb
+     the enforceability of the scheme on that basis. (Kirby P)
+
+
+• Mahoney JA reached a different conclusion
+
+
+                                                                 19
+                       Past consideration            Consideration: Part 1
+
+
+
+
+Roscorla v Thomas (1842) 3 QB 234
+
+• What is past consideration?
+
+• Does past consideration constitute sufficient consideration?
+
+
+
+
+                                                                     20
+Past consideration
+
+• Not good consideration
+
+• Eg: Roscorla v Thomas
+• Horse is sound
+• Why not good
+  consideration?
+In Roscorla v Thomas
+
+Lord Denham CJ
+
+The only promise that was coexistent with the consideration was
+to deliver the horse upon request
+
+
+
+Offer →Acceptance …… → free from vice?
+                              Pao On v Lau Yiu Long [1980] AC 615 Privy Council
+
+
+
+
+Exception to past consideration rule
+
+
+
+
+Lord Scarman
+• Act must have been done at the promisor’s request
+• Parties must have understood that the act was to be
+   remunerated, and
+• The payment [or benefit] must be [of a type that is] legally
+   enforceable
+                                 Pao On v Lau Yiu Long
+
+
+
+Case index catchwords
+• CONTRACT — Consideration — Promise to perform existing duty — Sale to
+   company — Allotment of company's shares as purchase price with condition
+   that vendors defer sale of shares — Vendors seeking indemnity from third
+   parties for possible loss on future sale of shares — Agreement to indemnify
+   on threat of repudiation of contract with company — Whether valid and
+   sufficient consideration for indemnity — Whether agreement contrary to
+   public policy — Economic duress
+
+•   CONTRACT — Validity — Commercial pressure — Agreement to indemnify
+    on threat of repudiation of contract with third party — Whether
+    consideration for agreement — Whether agreement contrary to public policy
+    — Whether economic duress vitiating consent
+
+•   CONTRACT — Hong Kong — Contract — Validity — Agreement to indemnify
+    on threat of repudiation of contract with third party — Whether
+    consideration for agreement — Whether agreement contrary to public policy
+    — Whether economic duress vitiating consent
+                              Pao On v Lau Yiu Long
+
+
+
+Three questions call for decision by their Lordships' Board.
+
+(1) Does the guarantee upon its proper construction state a valid con
+    sideration for the defendants' promise of indemnity?
+
+(2) Does the extrinsic evidence as to the circumstances in which the
+guarantee was given establish the existence of a valid consideration
+additional to the consideration, if any, stated in the agreement?
+
+(3) If there be consideration for the promise of indemnity, is the
+guarantee nevertheless unenforceable, the consent of the defendants
+having been induced by duress? Upon the third question there are
+concurrent findings of fact. It would have to be shown, therefore, that
+the judges below had misconceived the relevant law before the Board
+could reverse their unanimous rejection of the defendants' case based
+on economic duress.
+•What are the core elements of consideration?
+
+•What is the bargain requirement? How can you tell whether it is
+satisfied?
+
+•Can a promise to do something constitute consideration?
+
+•How do you distinguish between a contract and a conditional gift?
+•Must consideration be of benefit to the other party?
+
+•Do courts enquire into the adequacy of consideration? What is the
+rationale behind this? Are there any exceptions to the general rule?
+
+•Under contract law, can detrimental reliance constitute consideration?
+
+•What is a deed, and how are deeds relevant to this topic?
+
+•What is the rule with respect to past consideration? Are there any
+exceptions to the general rule?
+Question 1
+
+•   In a town in Northern NSW, several houses are destroyed by flooding. A local
+    businesswoman announces that she will donate $10,000 towards the building costs
+    of each person who decides to rebuild in the town. She stipulates that the ‘benefit’
+    is not available for people who rebuild elsewhere. The announcement is widely
+    reported upon. A couple rebuild in the town and apply for the payment. Is there a
+    contract?
+
+Question Two
+
+•   A has an old computer sitting in his shed. B sees it and asks if she can have it. A
+    says: ‘That old thing? Sure’. B has it valued and finds it is worth $400 to $600 as a
+    vintage relic. She offers to ‘go halves’ with A. A agrees. B sells the computer for
+    $600. A and B have a falling out and B refuses to pay, saying ‘you wouldn’t have
+    even known it was valuable except for me’.
+    Advise A.
+

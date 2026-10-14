@@ -1,0 +1,277 @@
+LAWS1061 Torts
+
+Mid-Term Assignment
+
+Term 2 2026
+
+Name: Yusuf Ahmed
+
+zID: z5686965
+
+Part A (Problem): 1,652 words
+
+Part B (Essay): 848 words
+
+Total: 2,500 words
+
+PART A
+
+No claim assessed is excluded by s 3B of the Civil Liability Act 2002 (NSW) ('CLA'), which thus applies alongside the common law.[1]
+
+I. SPC'S DUTY OF CARE TO JIA
+
+A. Physical injury
+
+Jia's 'serious spinal injury, causing partial paralysis' is a 'personal injury' ('PI').[2] SPC's careless securing of the carabiner is not an omission but part of its act of running the activity.[3] Within this established category, whether SPC owes a duty of care ('DoC') turns on reasonable foreseeability ('RF') of injury to a class of persons; salient features arise only for a novel duty.[4] Under Lord Atkin's neighbour principle, SPC must take reasonable care to avoid acts it can 'reasonably foresee would be likely to injure' its neighbour; carelessly securing a carabiner on a 20-metre jump risked injuring participants.[5] That the carabiner loosened as others turned to Marcus doesn’t negate such duty: 'injury to a class of persons of which [Jia] was one' was foreseeable, not the 'precise manner' or 'sequence of events'.[6] SPC therefore owes Jia a DoC for her PI.
+
+B. Consequential mental harm
+
+Jia's 'Major Depressive Disorder' ('MDD') is consequential mental harm ('CMH'), 'a consequence of' her PI.[7] Whether the duty extends turns on s 32(1): no duty arises unless SPC ought to have foreseen that a person of normal fortitude ('NF') might suffer a 'recognised psychiatric illness' ('RPI'), the circumstances including her PI.[8] Jia is partially paralysed, in 'ongoing pain', and 'can no longer work in the tech industry': lasting impairment and lost livelihood apt to produce MDD, an RPI, in a person of NF.[9] Thus, SPC likely owes Jia a DoC for her CMH.[10]
+
+II. SPC'S DUTY OF CARE TO MARGRET
+
+Margret suffered no physical injury, thus her 'Cotard's Delusion' is pure mental harm ('PMH').[11] Whether SPC owes her a DoC depends on s 32(1): no duty arises unless SPC ought to have foreseen that a person of NF might suffer some RPI, not Cotard's; and four circumstances in the CLA guide this, although none are decisive.[12]
+
+Firstly, sudden shock: Margret 'heard the loud thump and screaming' and 'immediately froze', a 'sudden and disturbing impression'; this supports foreseeability.[13] Secondly, however, she likely did not witness Jia 'being ... injured or put in peril': she 'did not see the impact', finding Jia already with paramedics; this weakens the claim.[14] Thirdly, the cousins 'grew up together': although not immediate family, the “nature of the relationship” is strong.[15] Fourthly, SPC's marketing of a 'fun and safe environment' to 'families and friends' arguably thickens their relationship; yet a pre-existing relationship between Margret and SPC is still weak; attendee to operator.[16]
+
+Decisively, the ‘yardstick’ is the person of NF: 'a duty does not arise if mental harm would only be suffered by a person with an eggshell psyche', which her psychiatrist calls hers.[17] Nor does the knowledge provision assist: nothing suggests SPC knew or ought to have known of her fragility, and her 'racked by the guilt of ... not looking' reaction is idiosyncratic.[18] At common law, Jaensch is distinguishable: Margret was not immediate family and did not see the accident or Jia’s immediate injury.[19] Lederer is analogous because Margret’s harm turned on an eggshell psyche and guilt, not a foreseeable psychiatric response in a person of normal fortitude.[20]
+
+Therefore, the better view is that SPC likely owes no DoC.
+
+III. SPC'S DUTY OF CARE TO PATSY
+
+A. Physical injury
+
+Patsy's 'minor friction burns' are likewise a PI caused by an act; whether SPC owes a DoC again turns on RF alone.[21] SPC left Patsy supervising 'by herself' for 'the very first time', on 'five days of training' against its protocol of 'two staff members and seven days'; injury to her was foreseeable. Her attempt to catch the rope, at some risk to herself, is the intervention Chapman holds foreseeable.[22]
+
+SPC therefore owes Patsy a DoC for her PI.
+
+B. Pure mental harm
+
+Patsy's 'Post-Traumatic Stress Disorder' ('PTSD') is PMH, stemming from witnessing Jia's fall, rather than her burns.[23] Whether SPC owes a DoC turns on the same s 32(1) threshold, and PTSD is an RPI.[24]
+
+Firstly, the failure was a sudden shock seen first-hand, though shock is neither necessary nor sufficient.[25] Secondly, and most strongly, Patsy witnessed, at the scene, a person being injured: 'eyes glued to Jia', she 'saw the accident unfold', unlike Margret, who only heard.[26] Thirdly, although no pre-existing relationship is required; her relationship with SPC as 'general consultant' supports foreseeability.[27] Her “commando” and “active combat duty” background does not defeat duty: s 32 asks whether a person of normal fortitude might suffer an RPI in Patsy’s position, not whether Patsy personally was more or less likely to suffer one.[28]
+
+On balance, a person of NF so placed might suffer an RPI; Patsy saw the accident itself, distinguishable from a Jaensch ‘aftermath’; the common law supports that conclusion.[29] SPC therefore likely owes Patsy a DoC for her PMH.
+
+IV. SPC'S DUTY OF CARE TO GR
+
+GR's loss of 'many customers' is pure economic loss ('PEL').[30] The claim is negligent misstatement; whether SPC owes a DoC turns on a special relationship, beyond RF, shown by reliance and assumption of responsibility.[31]
+
+A. Reasonable reliance and assumption of responsibility
+
+A duty arises where, on a serious matter, the representor realises it is 'trusted ... as a basis for action' and loss is foreseeable; reasonable reliance is 'a cornerstone of liability'.[32] SPC 'encourage[d]' GR to open 'directly across the road', supplying projections, with 'an interest in the recipient so acting'; this supports reliance, though only one indicator.[33] However, the main defence is that SPC told GR to 'make any final financial decisions themselves', a disclaimer negating assumption of responsibility, as in Hedley Byrne and Mallonland.[34] Yet the disclaimer was general, whereas the specific 'healthy bank balance' claim was a fact only SPC could verify; SPC's debts 'far outweighed' its 'cash liquidity', so the claim conveyed an incomplete impression of strength.[35]
+
+B. Vulnerability
+
+Vulnerability is a powerful PEL control factor favouring SPC: GR, a 'long-established Australia-wide business' like Esanda's 'sophisticated investors', could have sought warranties.[36] On the other hand, only SPC knew its finances and that GR would rely.[37] Indeterminacy is contained because GR was identified, but commercial autonomy still weighs against recognising a duty.[38]
+
+On balance, the better view is that SPC owes GR no DoC: the disclaimer, GR's capacity to protect itself and the absent assumption of responsibility outweigh the induced reliance, though the bank-balance claim keeps this arguable.[39]
+
+V. RECOVERY
+
+Whether Part 3 precludes recovery arises for the mental-harm claims of Jia, Margret and Patsy, not GR's PEL.[40]
+
+A. Jia
+
+Jia's MDD is consequential, not pure, so the PMH limits do not apply; only the s 33 economic-loss bar remains, and MDD is an RPI.[41] Jia's recovery is not precluded.
+
+B. Margret
+
+Even if a duty arose, Margret's PMH faces two independent preclusions.
+
+Firstly, recovery requires witnessing 'at the scene, the victim being killed, injured or put in peril', or being 'a close member of the family'.[42] Jia arguably remained “in peril” during treatment, but Wicks is distinguishable: Margret did not encounter the accident scene as a rescuer or see Jia’s injury directly, instead finding her already with paramedics; a cousin is outside the exhaustive family list.[43]
+
+Secondly, liability requires an RPI; Cotard's, 'not included in the DSM-5' and backed only by 'homeopaths and some psychologists', is likely not one, though recognition is for the court.[44]
+
+Margret's recovery is accordingly likely precluded.
+
+C. Patsy
+
+By contrast, Patsy clears both statutes: her PTSD is an RPI, and she 'witnessed, at the scene', Jia being injured. Jia's recovery not being precluded, the s 30(4) derivative bar does not operate.[45]
+
+Patsy's recovery is not precluded.
+
+VI. SAFE TECH'S DUTY OF CARE
+
+Safe Tech, 'constituted' by 'regional development regulations' ('the Regulations'), is a 'public or other authority' 'constituted by or under an Act'.[46] The Regulations impose a duty to 'maintain structural oversight' and a power to 'inspect ... and give directions'; the former strengthens the plaintiffs' case but creates no common-law duty.[47] The claims concern the manner of exercise: Safe Tech 'conducted an inspection' and its inspector, Ming, 'simply approved it'.[48]
+
+A. Jia
+
+Whether Safe Tech owes Jia a DoC turns on Crimmins' six questions. Firstly, approving an unsafe activity foreseeably 'would result in injury' to participants.[49] Secondly and thirdly, the power protects a 'specific class'; Jia could not 'adequately safeguard' herself from failures the inspection existed to catch.[50]
+
+Fourthly, having inspected, Safe Tech ought to have known the risk: WorkCover found the accident 'would likely have been avoided if proper safety systems were in place'. The strongest counter is Amaca: on similar inspection powers the State owed no duty, neither 'the sole entity with knowledge' nor, per Stuart, the party that created the risk.[51] Fifthly, 'stretched' hiring of 'brand new graduates' is 'core policy-making', 'not open to challenge' (s 42); the claim targets the operational approval.[52] Sixthly, no 'supervening reasons in policy' deny a duty: the inspection power is a 'special statutory power', but s 43A limits liability, not duty, requiring an exercise 'so unreasonable that no authority ... could properly consider [it] to be a reasonable exercise'; Ming's approving the jump on Patsy's 'military background' arguably qualifies.[53]
+
+The better view is that Safe Tech likely owes Jia a duty, its mandatory oversight and positive approval distinguishing Amaca, though finely balanced.
+
+B. Patsy
+
+On the six questions, Patsy, on-site supervisor, is within the 'specific class'; her PI runs as Jia's; for PMH, a person of NF witnessing the accident might suffer an RPI.[54] Safe Tech likely owes her a duty for both.
+
+C. Margret
+
+Margret fails the first and second questions: her 'eggshell psyche' and guilt defeat NF foreseeability, and an attended is arguably outside the 'specific class'.[55] Safe Tech owes her no duty.
+
+D. GR
+
+GR fails the second and sixth questions: the power protects ventures utilising Fire Up, not neighbours; its loss is PEL.[56] Safe Tech owes GR no duty.
+
+PART B
+
+Statement:
+
+“If you can reasonably foresee that a particular class of people might suffer any type of harm as a possible consequence of your acts or omissions, then accordingly, you should owe them a duty of care. If it were otherwise, we are saying that it is acceptable to harm certain people in certain ways.”
+
+Reasonable Foreseeability and the Boundaries of the Duty of Care
+
+Introduction
+
+Reasonable foreseeability is necessary to a duty of care, but it cannot be sufficient, thus the statement would be wrong to treat it as such. Its first proposition, that foreseeability of 'any type of harm' to a class of persons, as a 'possible consequence' of one's 'acts or omissions', should found a duty, must be rejected, because a duty must rest on an interest the law can protect fairly and coherently. Its second proposition, that to refuse a duty is to call the harm 'acceptable', is mostly wrong, because a refusal usually draws a justified limit rather than licensing harm. Yet the second proposition is right in one case: where the law refuses a duty not to keep liability within proper limits but because of the plaintiff's own constitution, as the normal-fortitude rule does to Margret, it does decide that her injury need not count, and there it is unjust.
+
+Foreseeability alone cannot found a duty
+
+A duty of care cannot rest on foreseeability alone; it must rest on an interest the law can protect fairly and coherently. Consider the first proposition applied to GR: its loss of 'many customers' was foreseeable once SPC's venture failed, so on the statement's logic SPC would owe GR a duty. The same reasoning would make SPC liable to every business whose trade foreseeably fell with it, for an indeterminate loss owed to an indeterminate class, and worse, it would turn competition itself into a wrong: if a business had to answer for every foreseeable loss its failure caused its neighbours, few businesses would open at all, and the enterprise the economy depends on would be deterred.[57] That is why the law leaves pure economic loss where it falls unless more than foreseeability is shown: a special relationship, reliance and an assumption of responsibility.[58]
+
+GR, a 'long-established' business told to 'make any final financial decisions themselves', could have protected itself, and the law is right not to make SPC its insurer. Jia's case shows the contrast: her 'serious spinal injury' founds a duty on foreseeability alone,[59] because bodily integrity is an interest the law protects and can protect without absurd consequences. The difference is not that Jia's harm was more foreseeable, but that a duty must rest on an interest whose protection is fair, which foreseeability of 'any type of harm' can never guarantee.
+
+The one limitation to the second proposition
+
+To refuse a duty is usually not to license the harm but to draw a justified limit; the second proposition fails except where that limit cannot itself be justified. To deny GR a duty is not to declare its loss acceptable, but to decide, for good reason, that the loss lies where it falls. Abel presses further, arguing that the malleable concepts of duty and proximate cause are invoked to curtail liability and to distribute protection unequally, so that no such limit is truly principled; but his remedy, replacing fault-based tort with a no-fault scheme overreaches: the manipulability of a concept does not make every use of it unprincipled.[60] The sounder view is that a limit stands or falls on whether it can be justified, and by that test the normal-fortitude rule cannot.
+
+Applied to Margret, s 32(1) of the Civil Liability Act denies a duty for her 'Cotard's Delusion' unless the defendant ought to have foreseen that a person of normal fortitude might suffer a recognised psychiatric illness in her position, so her 'eggshell psyche' is held against her;[61] the objection here is to that s 32 duty threshold, not the recovery limits in ss 30 and 31.[62] Physical injury faces no such test: the eggshell skull rule already makes defendants answer for the unforeseeably frail, so that exposure cannot justify barring the mind. As Forster and Engel show, the rationale for that difference is 'nebulous', the reforms serving to 'reinforce and magnify historic distinctions between physical and mental harm',[63] even though Tame v New South Wales had already loosened such controls, treating sudden shock and direct perception as relevant, rather than decisive.[64] Their criticism is sound, but it does not condemn every control: they accept that some rest on 'credible rationales'.[65] The objection is narrow yet true in that one can no more choose one's fortitude than the thickness of one's skull, so to bar Margret for a frailty she never chose, when the law would not bar the physically injured, is exactly to treat her harm as an injury that need not count.
+
+On this, the statement is right, and the law should raise the duty owed for psychiatric injury to the standard it already applies to the body.
+
+Conclusion
+
+Thus, in short; both propositions within the statement fault respectively, foreseeability cannot found a duty, because a duty must rest on an interest the law can protect fairly and coherently; and refusing to protect an interest is usually a just limit, not a licence to harm. However, the exception vindicates the concern behind the second proposition: the normal-fortitude bar limits liability not by any principled measure but by the plaintiff's own vulnerability, and there, and only there, the law does decide whose injury will count. It should not, and the mind should be taken as found, as the body already is.
+
+[1] Civil Liability Act 2002 (NSW) ss 3B(1), 5A(1) ('CLA').
+
+[2] Ibid s 5 (definition of 'personal injury').
+
+[3] Carolyn Sappideen, Prue Vines and John Eldridge, Torts: Commentary and Materials (Thomson Reuters, 13^(th) ed, 2021) 227 [7.50] ('SVE').
+
+[4] Caltex Refineries (Qld) Pty Ltd v Stavar (2009) 75 NSWLR 649, [102]–[103] (Allsop P) ('Caltex').
+
+[5] Donoghue v Stevenson [1932] AC 562, 580 (Lord Atkin) ('Donoghue').
+
+[6] Chapman v Hearse (1961) 106 CLR 112, 120–1 ('Chapman').
+
+[7] CLA (n 1) s 27.
+
+[8] Ibid s 32(1), (3).
+
+[9] American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders (5^(th) ed, 2013) ('DSM-5').
+
+[10] CLA (n 1) s 32(1), (3).
+
+[11] Ibid ss 27, 28(1), 32(1).
+
+[12] Ibid s 32(1)–(2); Wicks v State Rail Authority of New South Wales (2010) 241 CLR 60, [22]–[23], [26] ('Wicks').
+
+[13] Wicks (n 12) [30].
+
+[14] CLA (n 1) s 32(2)(b). Cf Wicks (n 12) [47], [50]–[51].
+
+[15] CLA (n 1) s 32(2)(c).
+
+[16] Ibid s 32(2)(d).
+
+[17] Ibid s 32(1); Lederer Group Pty Ltd v Hodson [2024] NSWCA 303, [308] ('Lederer').
+
+[18] CLA (n 1) s 32(4); Lederer (n 17) [313].
+
+[19] Jaensch v Coffey (1984) 155 CLR 549 ('Jaensch').
+
+[20] Lederer (n 17) [308], [311].
+
+[21] CLA (n 1) s 5; Donoghue (n 5) 580; Caltex (n 4) [102].
+
+[22] Chapman (n 6) 120–1.
+
+[23] CLA (n 1) s 27.
+
+[24] Wicks (n 12) [22]; CLA (n 1) s 32(1); DSM-5 (n 9).
+
+[25] Wicks (n 12) [27], [30].
+
+[26] CLA (n 1) s 32(2)(b); Wicks (n 12) [28]; Lederer (n 17) [311].
+
+[27] CLA (n 1) s 32(2)(c)–(d); Wicks (n 12) [26].
+
+[28] Lederer (n 17) [308], [312]; CLA (n 1) s 32(4).
+
+[29] Lederer (n 17) [311]; Jaensch (n 19).
+
+[30] Mallonland Pty Ltd v Advanta Seeds Pty Ltd [2024] HCA 25, [30] ('Mallonland').
+
+[31] Ibid [33], [37]; Esanda Finance Corporation Ltd v Peat Marwick Hungerfords (1997) 188 CLR 241, 252 (Dawson J) ('Esanda').
+
+[32] Mutual Life & Citizens’ Assurance Co Ltd v Evatt (1968) 122 CLR 556, 572–3 (Barwick CJ); San Sebastian Pty Ltd v Minister Administering the Environmental Planning and Assessment Act 1979 (1986) 162 CLR 340 ('San Sebastian'), quoted in Esanda (n 31) 252–3 (Dawson J).
+
+[33] San Sebastian (n 32), quoted in Esanda (n 31) 252–3 (Dawson J).
+
+[34] Hedley Byrne & Co Ltd v Heller & Partners Ltd [1964] AC 465 ('Hedley Byrne'); Mallonland (n 30) [45], [67] (Edelman J).
+
+[35] Cf Mallonland (n 30) [52].
+
+[36] Esanda (n 31); Perre v Apand Pty Ltd (1999) 198 CLR 180 ('Perre').
+
+[37] Perre (n 36); Mallonland (n 30) [53].
+
+[38] Mallonland (n 30) [55]; Perre (n 36).
+
+[39] Mallonland (n 30) [45], [53].
+
+[40] CLA (n 1) s 28(1).
+
+[41] Ibid ss 27, 33; DSM-5 (n 9).
+
+[42] CLA (n 1) s 30(2)(a)–(b).
+
+[43] Ibid s 30(1), (2)(a)–(b), (5); Wicks (n 12) [47], [50]–[51].
+
+[44] CLA (n 1) s 31; Tame v New South Wales (2002) 211 CLR 317 ('Tame').
+
+[45] CLA (n 1) ss 30(2)(a), (4), 31; DSM-5 (n 9).
+
+[46] CLA (n 1) s 41(e), (e1).
+
+[47] The Regulations s 12(1), (2)(a)–(b); Electricity Networks Corporation v Herridge Parties [2022] HCA 37, [20]–[22] ('Herridge').
+
+[48] Herridge (n 47) [27]–[28]; CLA (n 1) s 44(2).
+
+[49] Crimmins v Stevedoring Industry Finance Committee (1999) 200 CLR 1, [93] (McHugh J) ('Crimmins'); Herridge (n 47) [28].
+
+[50] Crimmins (n 49) [93]–[94], [99]–[100].
+
+[51] Amaca Pty Ltd v New South Wales [2004] NSWCA 124, [65], [143], [153]–[154] (Ipp JA) ('Amaca'); Stuart v Kirkland-Veenstra (2009) 237 CLR 215 ('Stuart').
+
+[52] CLA (n 1) s 42(a)–(b); Crimmins (n 49) [84].
+
+[53] CLA (n 1) s 43A(2)–(3); Associated Provincial Picture Houses Ltd v Wednesbury Corporation [1948] 1 KB 223.
+
+[54] CLA (n 1) ss 27, 32(1), (2)(b).
+
+[55] Ibid ss 31, 32(1); Crimmins (n 49) [93], [99].
+
+[56] Crimmins (n 49) [93], [99]; Mallonland (n 30) [30].
+
+[57] Neil Foster, 'Duty of Care in Negligence in Relation to Pure Economic Loss' (2025) 41(1) Professional Negligence 42, 43–44; Mallonland Pty Ltd v Advanta Seeds Pty Ltd [2024] HCA 25, [30]–[31].
+
+[58] Hedley Byrne & Co Ltd v Heller & Partners Ltd [1964] AC 465; Esanda Finance Corporation Ltd v Peat Marwick Hungerfords (1997) 188 CLR 241; Perre v Apand Pty Ltd (1999) 198 CLR 180.
+
+[59] Caltex Refineries (Qld) Pty Ltd v Stavar (2009) 75 NSWLR 649, [102]–[103] (Allsop P).
+
+[60] Richard L Abel, 'A Critique of Torts' (1990) 37 UCLA Law Review 785.
+
+[61] Civil Liability Act 2002 (NSW) s 32(1) ('CLA').
+
+[62] CLA (n 61) ss 30, 31.
+
+[63] Christine Forster and Jeni Engel, 'Reinforcing Historic Distinctions between Mental and Physical Injury: The Impact of the Civil Liability Reforms' (2012) 19 Journal of Law and Medicine 593, 594, 603.
+
+[64] Tame v New South Wales (2002) 211 CLR 317.
+
+[65] Forster and Engel (n 63) 601–603.

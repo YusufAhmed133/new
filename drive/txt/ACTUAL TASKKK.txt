@@ -1,0 +1,104 @@
+                    LAWS1150/JURD7150 Principles of Private Law
+
+                            Mid-Term Assignment for T3, 2026
+
+                          Maximum Word Length: 1,500 words
+
+                    Due Date: Monday, 19 October 2026 at 9:00am
+
+                        (see Moodle for additional instructions)
+
+
+
+PROBLEM QUESTION
+
+Mr Grace and Mr Rocky are both project developers who pursued various projects
+together since 2017 to stellar success.
+
+In January 2020, Grace and Rocky agreed to develop a project which they named the
+‘Hail Mary Project’. Grace and Rocky entered into a legally binding agreement that
+determined the scope of their development relationship and included a valid and
+binding clause that if the Project made a proﬁt, Rocky, as the investor for the Project,
+would be repaid his investment and a portion of the proﬁt in priority to Grace (the
+‘Development Agreement’).
+
+Over the course of the Hail Mary Project, there were a number of unavoidable delays
+due to COVID-19 related public health orders that aQected the ability for construction to
+proceed. In January 2024, the Hail Mary Project was near completion, and Rocky and
+Grace realised that the proﬁt from the Project would be minimal and, due to the terms
+of their Development Agreement, Grace was unlikely to make a proﬁt.
+
+At this time, Grace was experiencing signiﬁcant ﬁnancial diQiculties and had been
+relying on expected proﬁts from the Hail Mary Project. He was quite angry at Rocky, who
+he blamed for the delays to the Project, and demanded Rocky’s assistance. On 5
+February 2024, Grace called Rocky and proposed that Rocky oQer Grace a ‘$1 million
+dollar working capital loan for 2 years at 5% interest’. Rocky told Grace he was not
+interested in oQering Grace a long-term loan but proposed that they meet in person to
+discuss.
+
+On 12 February 2024, Rocky and Grace met in person. Later that same day, Rocky sent
+an email to Grace conﬁrming the details of their discussion. The email read as follows:
+
+       ‘Mr Grace,
+
+       Conﬁrming discussions from our meeting this morning:
+
+       -   I will lend $1 million to you by 15 February for 1 year at a rate of 5% interest
+           subject to satisfactory conditions.
+       -   Potential project over in Eastwood subject to success of Hail Mary Project.
+       -   Threatened litigation from subcontractor from Bowral Project – wait and see
+           at present.
+
+       Please conﬁrm agreement.
+
+       Rocky’
+
+Grace responded to the email 15 minutes later saying, ‘Mr Rocky, Conﬁrmed. Best,
+Grace.’
+
+On 27 February 2024, Rocky asked A-Maize Pty Ltd, (‘AMPL’) a company owned and
+controlled by Rocky’s cousin, Pierre, to advance $1,150,000 to Grace. Pierre agreed to
+provide the money to Grace and the $1,150,000 was advanced by AMPL on the same
+day.
+
+On 8 April 2024, Rocky, Grace, and Pierre attended a meeting at AMPL’s oQice. At the
+meeting, AMPL and Grace entered into a written loan agreement (the ‘Loan
+Agreement’). The loan was recorded as $1,150,000 (‘Loan’) with an interest rate of 4%
+per annum. Interest was to be paid by Grace monthly, and the Loan was repayable at
+the expiry of 12 months.
+
+The Loan Agreement also included a clause that Rocky personally guaranteed
+repayment of the Loan. Pierre expressed during the meeting that he expected Rocky to
+ensure that Grace made all payments under the Loan Agreement promptly. Rocky said,
+‘I will do that if you also promise to pay $10,000 to me directly once Grace repays the
+Loan.’ Pierre agreed and the clause was included in the Loan Agreement before it was
+signed by Grace and AMPL.
+
+Between 8 April 2024 and 8 February 2025, Grace made appropriate monthly
+repayments of the interest on the Loan to AMPL. Throughout this period Rocky would
+check in consistently with Grace via email.
+
+On 13 February 2025, Rocky sent an email to Grace asking, ‘when and how [Grace]
+intend[ed] to repay the principal of the Loan – the $1.15m?’. Grace did not respond to
+Rocky’s email by 27 February 2025 and did not respond to Rocky’s subsequent emails
+of 28 February 2025 and 2 March 2025.
+
+On 5 March 2025, Rocky instructed his solicitor to send a letter of demand to Grace
+requiring repayment of the principal amount under the Loan Agreement with AMPL. In
+response to the letter of demand, on 7 March 2025, Grace called Rocky and said, ‘I
+never signed anything with you, so you can’t enforce anything. Leave me alone!’
+
+On that same date, AMPL contacted Grace directly, however, Grace refused to pay,
+saying, ‘I have until 8 April 2025 to repay and you won’t see a cent before then’. AMPL
+argued that the Loan was advanced on 27 February, and thus the 12 months had begun
+then. Grace disagreed, saying, ‘if you don’t leave oQ, I might not pay at all!’
+Unfortunately, AMPL required the $1,150,000 as soon as possible and so on 9 March
+2025, when Grace had not yet repaid the Loan, AMPL called for payment of the Loan
+under the personal guarantee provided by Rocky.
+
+Assuming that all of the above takes place in New South Wales, advise Rocky on
+the success of any contractual claims he could make.
+
+In your answer, only consider the course materials from weeks 1 to 4 of Principles
+of Private Law.
+

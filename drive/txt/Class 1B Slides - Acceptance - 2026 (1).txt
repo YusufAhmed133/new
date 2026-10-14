@@ -1,0 +1,460 @@
+2026 – LAWS1150 | JURD 7150
+   Principles of Private Law
+   Agreement: Acceptance
+         Week 1B
+An essential first step is to clearly and correctly
+identify the terms of the offer and acceptance.
+                      Today’s class
+
+• Consciousness of the offer
+
+
+• Communication of acceptance
+
+
+• Methods of communication – postal, electronic
+
+
+• Who wins in a battle of terms and conditions/ ‘battle of the forms’?
+      Consciousness of the offer
+
+For a bilateral contract, usually clear that acceptance is in
+response to offer.
+
+For a unilateral contract, it can be more difficult to tell …
+            Unilateral contracts
+
+    offer
+
+                            acceptance /
+                            performance
+
+performance
+                                       Agreement: Elements of Acceptance
+
+
+
+The Crown v Clarke (1927) 40 CLR 227
+- on appeal from the Supreme Ct of WA
+
+• £1,000 reward for information leading to the conviction
+  of the people who murdered two police
+
+• the reward was an offer for a unilateral contract
+
+• Clarke did the act identified as performance. What was
+  his motivation?
+
+              So why was there no contract?
+                                                                      6
+              R v Clarke (1927) HC
+Isaacs ACJ:
+
+  Performance in [contracts of this type] is the implied method of
+  acceptance
+
+  It simultaneously effects the double purpose of acceptance and
+  performance.
+
+  But acceptance is essential to contractual obligation,
+  because without it there is no agreement, and in the absence
+  of agreement … there can be no contract.
+            R v Clarke (1927) HC
+Isaacs ACJ:
+
+  Regarded the evidence as showing Clarke had no intention of
+  claiming the reward
+
+
+  acceptance and performance … involve that the person
+  accepting and performing must act on the offer.
+             R v Clarke (1927) HC
+Higgins J:
+
+  Interpreted the evidence as showing Clarke had forgotten
+  about the reward
+
+  These statements of Clarke show clearly that he did not
+  intend to accept the offer of the Crown
+
+  Clarke did not give the information on the faith of, or relying
+  on, the proclamation.
+               R v Clarke (1927) HC
+Starke J:
+Any person:
+- knowing of the offer; and
+- performing its conditions,
+There is a factual presumption that they accept that offer.
+
+It is an inference of fact that may be excluded by evidence.
+
+Ordinarily, it is true, the law judges the intention of a person in
+  making a contract by outward expression only …
+             R v Clarke (1927) HC
+…Starke J:
+  performance of the conditions is not in all cases conclusive
+  for they may have been performed by one … who never
+  intended to accept it.
+
+  Hence the statements or conduct of the party himself
+  uncommunicated to the other party are admissible
+
+
+• What might the outcome make prisoners think about
+  helping the police?
+Communication of acceptance
+
+
+
+The general rule is that acceptance must be
+       communicated to be effective
+  Felthouse v Bindley (1862) 142 ER 1037
+
+‘If I hear no more about
+      him, I consider the
+   horse mine at £30 15s’
+
+Did the nephew intend to
+  accept the uncle’s offer
+  to buy the horse at £30
+           15s?
+  Felthouse v Bindley (1862) Eng
+
+
+Is it possible for an offeror to bind an offeree by stating that
+  unless they object within a certain time they are taken to be
+                               bound?
+
+Can silence be a valid acceptance? Why?
+                                        Agreement: Elements of Acceptance
+
+
+
+
+Empirnall Holdings Pty Ltd v Machon Paull Partners Pty Ltd
+(1988) 14 NSWLR 523; (1988) NSW CofA
+
+• “Mr Jury [of Empirnall] does not sign contracts”
+• Can an offeree accept by conduct?
+• What is the legal test?
+• - Why, in practice, was it important for Machon Paull to
+  win this case?
+
+
+
+                                                                     15
+              Empirnall Holdings
+Question was: had Empirnall accepted the terms
+            of the written contract?
+
+McHugh JA:
+  Since Empirnall has taken the benefit of the work with
+  knowledge of the terms on which it was offered,
+  an objective bystander would conclude that Empirnall had
+  accepted the offer on those terms and condition
+       Empirnall Holdings
+
+
+
+Did Empirnall ultimately communicate its
+         acceptance of the offer?
+                     Agreement: Elements of Acceptance
+
+
+
+
+Brambles Holdings Ltd v Bathurst City Council
+(2001) 53 NSWLR 153
+
+• Did the court apply the “offer and acceptance”
+  approach?
+
+• If so, how?
+
+• Is there any difference between the decisions of
+  Heydon JA and Ipp JA?
+                                                                                     Agreement: acceptance
+
+
+
+
+           Acceptance by Conduct –Brambles Holdings Ltd
+
+▪ 1982, Brambles contracted with Bathurst City Council (BCC) to manage BCC’s Solid Waste Disposal
+  Depot;
+▪ 1985, Brambles started to manage liquid waste at the Depot and to charge fees on this work;
+▪ 1 November 1989, the contract expired, and the parties were negotiating a second contract;
+▪ 20 February 1990, BCC wrote to Brambles stating that it was appropriate for Brambles to increase
+  liquid waste fees to a certain level (1.1 cents/litre) upon completion of a liquid waste disposal area;
+▪ 12 July 1990, the second contract was entered into. Clauses 21 and 22 of the contract specified the
+  fee to be charged for “general commercial waste” and required a portion of that fee to be remitted
+  to Council;
+▪ 19 September 1991, BCC wrote to Brambles stating that it had resolved to increase liquid waste fees
+  and that “additional income” should be placed in a fund for the establishment of a Liquid Waste
+  Treatment Plant; - [was this an offer?]
+▪ 3 October 1991, Brambles responded in a letter denying the contract between them covered liquid
+  waste. [was this a rejection?] However, Brambles continued to charge liquid waste fees at the rate
+  set out in BCC’sletter dated 19 September 1990 and to retain the moneys; [did this constitute
+  acceptance?]
+▪ 1996, BCC sued Brambles in relation to the retained liquid waste fees.                              19
+    Brambles Holdings v Bathurst City
+       Council (2001) NSW CofA
+Three issues:
+
+• Was the 19 Sept 1991 letter an offer
+
+• If so, had it been rejected by the 3 October 1991 reply
+
+• Whether Brambles had accepted the offer through conduct.
+   Brambles Holdings v Bathurst City
+      Council (2001) NSW CofA
+
+Heydon JA:
+  There is much to be said for the view that the 19
+  September 1991 letter was not an offer ...
+  [because to some extent it] uses the language of
+  command. …
+  Brambles Holdings v Bathurst City
+     Council (2001) NSW CofA
+
+
+
+Why did it matter whether the 3 Oct 1991 letter
+           was a rejection of the offer?
+ Brambles Holdings v Bathurst City
+    Council (2001) NSW CofA
+
+                     (ALLEGED) IMPLIED
+                        ACCEPTANCE
+
+
+
+
+19 SEP   3 OCT
+   Brambles Holdings v Bathurst City
+      Council (2001) NSW CofA
+
+Heydon JA:
+  [the argument that an offer, once rejected, can
+  no longer be accepted depends] heavily on the
+  view that offer and acceptance analysis must
+  invariably be employed in reaching decisions
+  about the formation of contracts.
+  However …
+  Brambles Holdings v Bathurst City
+     Council (2001) NSW CofA
+Heydon JA:
+
+ If offer and acceptance analysis is not always
+ necessary or sufficient, principles such as the
+ general principle that a rejection of an offer
+ brings it to an end cannot be universal.
+  Brambles Holdings v Bathurst City
+     Council (2001) NSW CofA
+
+
+
+Having dealt with the rejection, Heydon JA then
+    reverted to an offer-acceptance analysis.
+   Brambles Holdings v Bathurst City
+      Council (2001) NSW CofA
+
+Heydon JA:
+  Once the Council came to learn that the
+  defendant was charging the higher fees from
+  October it would reasonably have thought
+  that a contract existed between the parties on
+  the terms of the 19 September 1991 letter. ...
+ Brambles Holdings v Bathurst City
+    Council (2001) NSW CofA
+
+                     (ALLEGED) IMPLIED
+                        ACCEPTANCE
+
+
+
+
+19 SEP   3 OCT
+   Brambles Holdings v Bathurst City
+      Council (2001) NSW CofA
+Ipp JA:
+
+  In my view, the letter of 3 October 1991
+  expressed dissatisfaction with the offer of 11
+  September 1991 and set out the appellant's
+  argument for higher fees, but did not amount
+  to a rejection.
+   Brambles Holdings v Bathurst City
+      Council (2001) NSW CofA
+
+Ipp JA:
+  for conduct to amount to implied acceptance
+  of an offer, it must be "of such a character as
+  necessarily to lead to the inference … that the
+  agreement had been accepted … and was to
+  be acted upon …”.
+Methods of communication – postal, electronic
+
+
+
+
+                   NOTICE OF
+                  ACCEPTANCE
+
+
+
+
+     A                             B
+Methods of communication – postal,
+            electronic
+
+
+
+
+   A                       B
+Methods of communication – postal, electronic
+
+Broad view – per Bowen CJ in Eq in Bressan v Squires [1974]
+  2 NSWLR 460, 461-2. [Pages 86-87 of Casebook]
+
+• Postal Acceptance Rule: Where the circumstances are such
+  that it must have been within the contemplation of the
+  parties that, according to the ordinary usages of mankind, the
+  post might be used as a means of communicating the
+  acceptance of an offer, the acceptance is complete as soon as
+  it is posted.
+
+  ie: all that needs to be in contemplation of the parties is
+  the post as a possible or permitted mode [of acceptance].
+Methods of communication – postal,
+            electronic
+
+
+
+Does the postal acceptance rule also apply to
+           facsimiles, telexes, etc?
+Brinkibon v Stahag Stahl Und
+Stahlwarenhandelsgesellshaft [1983] 2 AC 34
+
+• An exception to the Postal Acceptance Rule: in the case of
+  instantaneous communication, including telex, the formation
+  generally occurs in the place where the acceptance is
+  received.
+      Brinkibon v Stahag Stahl Und
+Stahlwarenhandelsgesellshaft (1983) HofL
+ Methods of communication – postal,
+             electronic
+
+Electronic Transactions Act 2000 (NSW)
+
+s 13A(1): Unless otherwise agreed, time of receipt of an
+   electronic communication is …
+
+
+14B Invitation to treat regarding contracts
+
+Do not forget other key provisions in Part 2 and Part 2A of the
+  ETA!
+      A battle of terms and conditions/
+             battle of the forms
+
+What happens where the terms of the offer, and the terms of
+ the acceptance, don’t correspond?
+
+And
+
+In cases of conflicts between parties’ own standard terms and
+   conditions, what are the approaches to determining the terms
+   of the contract?
+   Butler Machine Tool Co v Ex-Cell-O
+  Corp (England) (1979) Eng CofA; [1979] 1 WLR 401
+
+• 23 May 69: BMT provide quote of £75 535 (with T&Cs).
+
+• 27 May 69: Ex-Cell-O Corp reply with an order (with T&Cs).
+  Two changes to BMT’s quote. Included a tear-off
+  acknowledgement slip.
+
+• 5 Jun 69: BMT Co completed and returned slip referring to
+  ‘revised quotation of 23 May’.
+           Butler Machine Tool Co
+Denning LJ:
+
+   In some cases the battle is won by the man who fires the last
+   shot. …
+
+   In some cases the battle is won by the man who gets the
+   blow in first. …
+
+   There are yet other cases where the battle depends on the
+   shots fired on both sides.
+           Butler Machine Tool Co
+
+Lawton LJ:
+  The modern commercial practice of making quotations and
+  placing orders with conditions attached, usually in small print,
+  is indeed likely, as in this case to produce a battle of form. ...
+
+In my judgement, the battle has to be conducted in accordance
+   with set rules.
+• Does acceptance always need to be communicated? What are
+  the ways in which acceptance can be communicated? Can
+  silence amount to acceptance?
+• Where an offer has been rejected, is it still available for
+  acceptance?
+• With respect to offer and acceptance, do we look to the
+  objective or subjective intention of the parties?
+• What is the legal effect of a counter-offer?
+• How does acceptance occur for a unilateral contract? Must
+  there be an intention to accept?
+• Can post-formation conduct be relevant to the question of
+  whether a contract was formed?
+• Does agreement always require offer and acceptance? If not,
+  what is the test?
+• What is the postal acceptance rule and when does it apply?
+• How do the rules apply to electronic communications?
+• What is a ‘battle of forms’ and how do we determine which
+  terms prevail?
+                                            Agreement: Offer
+
+
+
+
+Adam is a cropper – he grows canola. Bea
+runs a factory making canola oil.
+
+They exchange emails about Adam selling
+Bea 100 tons of canola at $390/ton. In
+their most recent email Bea writes ‘Do we
+have a deal at $390?’. Adam writes ’Yes,
+agreed. Its settled’.
+
+Bea reads Adam’s email a week later.
+
+When is the contract formed?
+
+Would your answer differ if Adam’s
+email was sent at 10pm on a Friday?
+                                                        43
+                                                                       Agreement: Offer
+
+
+
+
+Sebastien wants to buy a café. Through his lawyers he receives a letter
+from the owners of a café in Maroubra offering to sell their business for
+$280,000. The letter provides all the necessary details and states that the
+offer will remain open until 4 pm on 20 September. It also states that if
+Sebastien wishes to accept the offer he should sign and return the letter.
+Sebastien does his due diligence and on 19 September decides to go ahead
+with the purchase. Just as he signs the letter to communicate his
+acceptance, he receives a telephone call from the café owner advising him
+that they have decided to sell the café to someone else and so the offer is
+withdrawn.
+Advise Sebastien. Would your answer be any different if Sebastien had
+posted the letter?
+
+
+
+                                                                                   44
+

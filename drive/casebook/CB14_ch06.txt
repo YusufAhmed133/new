@@ -1,0 +1,2377 @@
+
+===== PDF 195 | expected printed p 157 | footer: [6.05]    157
+CHAPTER 6
+
+
+Certainty
+[6.10]       COMPLETENESS.......................................................................................................... 158
+[6.15]       CERTAINTY.................................................................................................................. 158
+                           [6.20]        Council of the Upper Hunter County District v Australian Chilling
+                                         and Freezing.................................................................................... 158
+             [6.25]   Implying objective standards....................................................................... 159
+                               Biotechnology Australia v Pace............................................................. 159
+                           [6.25]
+                               Whitlock v Brew................................................................................ 168
+                           [6.55]
+                               Hall v Busst..................................................................................... 170
+                           [6.65]
+             [6.80]   Agreements to negotiate............................................................................. 172
+                      [6.80]   United Group Rail Services Ltd v Rail Corporation NSW............................. 172
+[6.145]      ILLUSORY PROMISES................................................................................................... 179
+                      [6.145]  Meehan v Jones................................................................................ 179
+                      [6.175]  Godecke v Kirwan............................................................................. 186
+                      [6.185]  Placer Development v Commonwealth................................................... 188
+
+
+[6.05] The fourth requirement of contract formation is that the agreement must be sufficiently
+certain and sufficiently complete that the parties’ rights and obligations can be identified and
+enforced. The topic of certainty encompasses three related problems, which often overlap:
+1.      The agreement may be incomplete because the parties have failed to reach agreement on
+        all of the essential elements or have decided that an essential matter should be determined
+        by future agreement.
+2.      The agreement may be uncertain because the terms are too vague or ambiguous for a
+        meaning to be attributed by a court.
+3.      A particular promise may be illusory because the contract effectively gives the promisor
+        an unfettered discretion as to whether to perform the promise.
+The categories of uncertainty, incompleteness and illusory promises are not always clearly
+distinguished in the cases. A particular set of facts may be capable of being analysed in terms
+of more than one category. As the cases on this topic also illustrate, it is difficult to define in the
+abstract what is required for a contract to be sufficiently certain and complete. The issue will
+necessarily depend on the circumstances of the particular case in question. As Lord Tomlin
+said in Hillas & Co Ltd v Arcos Ltd (1932) 38 Com Cas 23, 29:
+     The principles are not in dispute. It is in the application of them to the facts of a particular case
+     that the difficulty arises; and the difficulty is of such a kind as often affords room for much
+     legitimate difference of opinion and to present a problem the solution of which is not as a rule
+     to be found by examining authorities.
+
+The cases reflect the tension between, on the one hand, the desire to hold parties to their
+bargains in accordance with the principle of pacta sunt servanda (agreements must be kept)
+and, on the other hand, the courts’ reluctance to make a bargain for the parties. The difference
+in judicial opinion as to the role of the court in giving effect to a contract is illustrated by the
+judgments in Biotechnology Australia Pty Ltd v Pace (1988) 15 NSWLR 130, extracted at
+[6.25] and Hall v Busst (1960) 104 CLR 206, extracted at [6.65].
+
+                                                                                                                             [6.05]    157
+
+===== PDF 196 | expected printed p 158 | footer: 158   [6.10]
+Part II: Formation
+
+
+
+COMPLETENESS
+[6.10] In Milne v Attorney-​General (Tas) (1956) 95 CLR 460, 473 the High Court (Dixon CJ,
+McTiernan, Williams, Fullagar and Taylor JJ) after referring to certain documents which the
+plaintiff alleged contained the terms of a contract said:
+   Furthermore, apart from the fact that the general purport of the communications in question
+   evinces anything but an intention to affect legal relations, those documents deal with only some
+   of the terms which must of necessity be settled before a binding contract can exist. This is not
+   really a case at all where parties are negotiating with a view to contract, but, even if it be treated
+   as such a case, no contract is concluded until the parties negotiating are agreed on all the terms
+   of their bargain —​unless indeed the terms left outstanding are “such as the law will supply” ….
+   Here the transaction ultimately contemplated was of a very complex character, and it is clear
+   that the law cannot supply its terms.
+
+
+CERTAINTY
+[6.15] A contract must be expressed in sufficiently clear and precise terms for it to be given
+meaning by a court. Uncertainty may exist because deficiencies in expression, semantic or
+conceptual difficulties prevent the court from understanding what the parties are trying to
+say. It may exist because, although what the parties have said seems to be clear enough, the
+application of the language to persons or things is not intelligible, either because no facts exist
+which fit the contractual description or because more than one set of facts exists, all of which fit
+the description (see Raffles v Wichelhaus (1864) 2 H & C 906; 159 ER 375). The courts have
+indicated that too high a degree of precision should not be demanded from contracting parties.
+
+
+                 Council of the Upper Hunter County District v
+                       Australian Chilling and Freezing
+[6.20] Council of the Upper Hunter County District v Australian Chilling and Freezing Co Ltd (1968) 118
+CLR 429 (High Court of Australia) –​Appeal from the Supreme Court of New South Wales.
+    [FACTS: The council, which purchased electricity in bulk from a generating authority, agreed to
+supply the company with electricity at certain rates. The agreement provided for automatic changes
+in the rates according to changes in the basic wage and the cost of coal delivered to the generating
+authority. These changes affected the price at which the council purchased electricity. Clause 5 of the
+agreement provided:
+   It is agreed that during the term of this agreement if the supplier’s [the council’s] costs shall vary
+   in other respects than has been hereinbefore provided the supplier shall have the right to vary the
+   maximum demand charge and the energy charge by notice in writing to the purchaser.
+The agreement also provided for arbitration in the event of a dispute between the parties. The council
+sought to increase the charge pursuant to cl 5. The company claimed that clause uncertain and
+that, accordingly, the council had no entitlement to increase the charge. The Court of Appeal of the
+Supreme Court of New South Wales held that cl 5 of the agreement was void for uncertainty. The
+High Court allowed an appeal.]
+   BARWICK CJ: [436] Clause 5 speaks of the supplier’s costs varying “in other respects” … It is
+sufficient for present purposes that at least the council’s costs of supplying electricity to the company
+other than variations in the price it pays to one of the named suppliers for the bulk supply to it are
+included in the operation of cl 5.
+   It is surely indisputable that the council would incur other costs than the price of the bulk electricity
+in order to supply the company as agreed, for example, as a minimal item, the cost of bringing the
+
+158   [6.10]
+
+===== PDF 197 | expected printed p 159 | footer: [6.25]   159
+                                                                                       Certainty    Chapter 6
+
+
+Council of the Upper Hunter County District v Australian Chilling and Freezing cont.
+
+supply from the point at which the council received the current to the point of its delivery to the
+company, such as maintenance of poles, switchgear, etc. But no doubt the identification of all its
+other items of cost were and the quantification of them must be uncertain in the sense that no single
+answer to the questions of what and how much they were must necessarily be given no matter whose
+opinion or judgment is sought …
+    But a contract of which there can be more than one possible meaning or which when construed
+can produce in its application more than one result is not therefore void for uncertainty. As long as it
+is capable of a meaning, it will ultimately bear that meaning which the courts, or in an appropriate
+case, an arbitrator, decides is its proper construction: and the court or arbitrator [437] will decide its
+application. The question becomes one of construction, of ascertaining the intention of the parties,
+and of applying it. Lord Tomlin’s words in this connection in Hillas & Co Ltd v Arcos Ltd (1932) 147
+LT 503, 512, ought to be kept in mind. So long as the language employed by the parties, to use
+Lord Wright’s words in G Scammell & Nephew Ltd v Ouston [1941] AC 251, is not “so obscure and so
+incapable of any definite or precise meaning that the court is unable to attribute to the parties any
+particular contractual intention”, the contract cannot be held to be void or uncertain or meaningless.
+In the search for that intention, no narrow or pedantic approach is warranted, particularly in the case
+of commercial arrangements. Thus will uncertainty of meaning, as distinct from absence of meaning
+or of intention, be resolved.
+    I do not think there is any uncertainty or for that matter ambiguity in the expression “supplier’s
+costs” in cl 5, however wide may be the area of possible disagreement as to its denotation in a particular
+case. A contract to build a bridge at cost could not, in my opinion, be held void for uncertainty: it
+could not properly, in my opinion, be said to be meaningless: nor is it, in my opinion, ambiguous.
+Endless might be the arguments pro and con as to whether or not in marginal cases some item of
+expenditure is as claimed a cost, or as to how much of an expenditure is a cost, of the particular
+activity. But to my mind, generally speaking, the concept of a cost of doing something is certain in
+the sense that it provides a criterion by reference to which the rights of the parties may ultimately
+and logically be worked out, if not by the parties then by the courts. There are no elements in the
+circumstances of this contract to deprive the concept of that certainty. The obiter dictum in York Air
+Conditioning and Refrigeration (A/​asia) Pty Ltd v Commonwealth (1949) 80 CLR 11, 60, may provide an
+instance where an attempt to limit the concept of a cost may have robbed the concept of its certainty
+and have introduced uncertainty incapable of resolution by construction.
+   In this case the contract itself provided the means of the resolution of any question as to what items
+constituted supplier’s costs, namely, by the decision of an arbitrator whose judgment as to whether
+or not there had been a variation in items of expenditure which were embraced in what he found
+to be the supplier’s costs was agreed to be final and binding, subject of course to the terms of the
+Arbitration Act 1902 (NSW), and thus to the possibility of a case stated for the opinion of the court. Of
+course, if the words “supplier’s [438] costs” were meaningless, the presence of the arbitration clause
+would not save the clause. But, as I have said, cl 5 provides a certain criterion by reference to which
+the differences of the parties as to the propriety of an increase in charges could be resolved ….
+   Appeal allowed.
+
+                                                  
+
+Implying objective standards
+
+
+                            Biotechnology Australia v Pace
+[6.25] Biotechnology Australia Pty Ltd v Pace (1988) 15 NSWLR 130 (Court of Appeal of the Supreme
+Court of New South Wales) –​Appeal from Allen J.
+
+                                                                                                   [6.25]   159
+
+===== PDF 198 | expected printed p 160 | footer: 160   [6.30]
+Part II: Formation
+
+
+Biotechnology Australia v Pace cont.
+
+   [FACTS: Dr Pace (the respondent), a senior scientist, entered into a contract of employment with
+Biotechnology (the appellant). The relevant term of the contract was to be found in a letter of offer of
+employment from a director of Biotechnology which stated: “I confirm a salary package of $A36 000
+per annum, a fully maintained company car and the option to participate in the Company’s senior
+staff equity sharing scheme.”
+   At the time of the offer, as Dr Pace was aware, no such scheme existed. None was subsequently
+brought into effect.
+   On termination of the employment, Dr Pace claimed damages in respect of Biotechnology’s failure
+to provide him with an option to join a company senior staff equity sharing scheme. The trial judge
+held Biotechnology liable for damages for breach of its contractual promise to provide Dr Pace with
+an opportunity to acquire shares in the company. Biotechnology appealed.]
+   KIRBY P: [132] In Stocks & Holdings (Constructors) Pty Ltd v Arrowsmith (1964) 64 SR (NSW) 211,
+217; 81 WN (Pt 2) (NSW) 184, 186, Herron CJ commented that the problem of uncertainty was one
+“as to which there is much room for a difference of opinion, for it raises one of the most contentious
+aspects of the law of contract”.
+   This appeal, and numerous other cases raising analogous problems, bear out that comment. The
+appeal illustrates a tension which exists in the law. On the one hand there is the natural desire of courts
+to uphold, and not to frustrate, a contract between the parties. On the other hand is the unwillingness
+of courts to uphold contractual terms which are unacceptably ambiguous or uncertain. Courts will not
+enforce contracts with such provisions that suggest that agreement between the parties as to essential
+terms, even though apparent, was illusory.
+Upholding the contract –​but what contract?
+[6.30] The first tendency was given voice in the words of Lord Tomlin in Hillas & Co Ltd v Arcos Ltd
+[1932] All ER Rep 494, 499; 147 LT 503, 512; 38 Com Cas 23, 29, when his Lordship said:
+   the problem for a court of construction must always be so to balance matters that, without
+   violation of essential principle, the dealings of men may as far as possible be treated as
+   effective, and that the law may not incur the reproach of being the destroyer of bargains.
+In Australia Mason J expressed the same idea in Meehan v Jones (1982) 149 CLR 571, 589:
+   To say that clauses of this kind [“subject to finance”] are void for uncertainty is to ignore
+   the traditional doctrine that courts should be astute to adopt a construction which will
+   preserve the validity of the contract. Moreover, it is a draconian solution —​one which is best
+   calculated to frustrate the expectations of the parties, because in an increasing number of
+   cases purchasers depend on the provision of finance in order to complete.
+But there are limits. Contracts are the agreements between parties. Generally, their terms must be
+those which reflect the will of the parties, objectively determined. Judges, by reason of their experience
+and knowledge, may not have the relevant expertise by which to clarify the ambiguous, elucidate
+the uncertain or give content to the illusory terms of a contract or suggested contract between the
+parties. To do so by reference to an imported standard of reasonableness may satisfy the lawyer’s
+desire for fairness. But the law of contract which underpins the economy, does not, even today,
+operate uniformly upon a principle of fairness. It is the essence [133] of entrepreneurship that parties
+will sometimes act with selfishness. That motivation may or may not produce fairness to the other
+party. The law may legitimately insist upon honesty of dealings. However, I doubt that, statute or
+special cases apart, it does or should enforce a regime of fairness upon the multitude of economic
+transactions governed by the law of contract.
+   The recognition of the limited capacity of the courts to substitute their views of what is “fair” for
+the parties who have failed or neglected to do so, is expressed in many cases …
+   It is an attribute of a free society, as we know it, that it is generally left to parties themselves to make
+bargains. It is therefore left to them sometimes to fail to make bargains or to fail to agree on particular
+
+160   [6.30]
+
+===== PDF 199 | expected printed p 161 | footer: [6.35]   161
+                                                                                        Certainty    Chapter 6
+
+
+Biotechnology Australia v Pace cont.
+
+terms. Well meaning, paternalistic interference by courts in the market place, unless authorised by
+statute or clear authority, transfers to the courts the economic decisions which our law, properly in my
+view, normally reserves to parties themselves …
+The legal principles applicable
+[6.35] [134] The case law on ambiguous, uncertain and illusory contracts is enormous. Some of it is
+difficult to reconcile because of the different ways in which judges have classified disputed terms, for
+example, as so illusory as to deny a contract at all or so ambiguous or uncertain as to deny enforcement
+of the contract, although clearly one was intended. Some commentators urge that it is essential to
+maintain a “sharp distinction” between terms which are vague, uncertain or ambiguous and those
+which are illusory: see, for example, Lücke, “Illusory, Vague and Uncertain Contractual Terms” (1977)
+6 Adel L Rev 1 at 2. Others suggest that the concepts are interchangeable or at least merge into each
+other along a spectrum which begins with the vague, passes through the ambiguous, reaches the
+uncertain and finally disappears into the illusory.
+   [135] In the High Court of Australia, Taylor and Owen JJ sought to explain the distinction between
+terms which are illusory and those which are real but uncertain. They do so in their joint judgment in
+Placer Development Ltd v Commonwealth (1969) 121 CLR 353, 359-​60:
+      a promise to pay an unspecified amount of money is not enforceable where it expressly
+      appears that the amount to be paid is to rest in the discretion of the promisor and the
+      deficiency is not remedied by a subsequent provision that the promisor will, in this discretion,
+      fix the amount of the payment. Promises of this character are treated by Pollock (Principles
+      of Contract (12th ed, 1946), pp 38, 39) not as vague and uncertain promises —​for their
+      meaning is only too clear —​but as illusory promises.
+Accepting, therefore, the distinction (but acknowledging that, at the margins, there will be legitimate
+differences of view about the legal classification to be applied in the particular case), the following
+general observations may be made about the task of classification required in cases of this sort:
+(1)       The determination of every case depends upon its own facts. The meaning of the agreement
+          between the parties must be discovered objectively. Where there is suggested ambiguity or
+          vagueness or where it is urged that a term is illusory, it may sometimes be both necessary and
+          appropriate to have regard to extrinsic evidence in order to give meaning to that to which
+          the parties have agreed: see, for example, Kell v Harris (1915) 15 SR (NSW) 473,479; 32 WN
+          (NSW) 133, 136 and Raffles v Wichelhaus (1864) 2 H & C 906; 159 ER 375.
+(2)       The court will endeavour to uphold the validity of the agreement between the parties: see Hillas
+          & Co Ltd v Arcos Ltd. The court will attempt to avoid frustrating the wishes of the contracting
+          parties so far as those wishes may be ascertained from the agreement between them: see
+          Meehan (at 589); see also Barwick CJ in Upper Hunter County District Council v Australian Chilling
+          & Freezing Co Ltd (1968) 118 CLR 429, 437 where his Honour said that: “In the search for that
+          intention, no narrow or pedantic approach is warranted, particularly in the case of commercial
+          arrangements.”
+(3)       But the court will not do so, where, in effect, it is asked to spell out, to an unacceptable extent,
+          that to which the parties have themselves failed to agree. Nor will the court clarify that which
+          is irremediably obscure. Most particularly, the court will not accept for itself a discretion which
+          the parties have, by their agreement, reserved to one or other of them. To do so would not be
+          to effect the contract but to change it.
+(4)       Views will differ about the classification of the challenged provision and whether the court
+          can or cannot give effect to it. Usually, there is no objectively right decision in these cases.
+          That fact is illustrated by the frequency with which there are strongly expressed differences
+          of judicial opinion concerning whether the case falls on one side of the line or the other. So it
+          was in Placer Development where Kitto, Taylor and Owen JJ found that a clause in an agreement
+          with the Commonwealth relating to a conditional entitlement to a subsidy was unenforceable.
+
+
+                                                                                                    [6.35]   161
+
+===== PDF 200 | expected printed p 162 | footer: 162   [6.40]
+Part II: Formation
+
+
+Biotechnology Australia v Pace cont.
+
+        Menzies and Windeyer JJ dissented. Likewise in this case, Hope JA and Allen J have [136]
+        reached their respective views that the clause fell on one side of the line. Respectfully, I differ
+        and agree with McHugh JA.
+(5)     Nevertheless, the differences of result are not simply the result of differing judicial opinion based
+        on nothing more than personal predilection. True, it is possible that behind the willingness
+        of courts to fashion with precision a term which the parties have failed or neglected to clarify
+        could be analysed in terms of differing fundamental attitudes concerning the role of courts in
+        disturbing the economic relations of contracting parties. I say no more of that. Alternatively,
+        it has been suggested that the willingness of courts to give content to the expression “subject
+        to finance” in land title conveyancing transactions derives from the special nature of such
+        transactions. In them, judges, familiar with the incidents of such contracts, feel confident that
+        they can fill the gaps which the parties have left. In other cases, less familiar, they do not: see,
+        for example, the comment by Prof Sutton, “Certainty of Contract” (1977) 7 Q Law Soc J
+        5 at 11. However that may be, the court will pay regard to features of the agreement, of
+        the relationship between the parties and of relevant external reference points in order to
+        determine whether the term which is challenged can or cannot be sustained.
+(6)     Matters which have been considered relevant in the determination of these cases include the
+        following:
+        (a)      The provision in question, although an essential term, may be left in adequately clear
+                 terms to be settled by an identified third party who is given power to settle ambiguities
+                 and uncertainties.
+        (b)      But even then, if the term is so vital that leaving it to one only of the parties unacceptably
+                 removes certainty in the arrangement, the court may or may not refuse to enforce it
+                 as illusory or unacceptably uncertain: contrast, for example, May and Butcher Ltd v The
+                 King [1934] 2 KB 17(n) and the comment of Gibbs J in Godecke v Kirwan (1973) 129
+                 CLR 629, 646–​7.
+        (c)      Where there is a readily ascertainable external standard which is proved, the court
+                 will have regard to it in order to add flesh to the provision which, on its own, is
+                 unacceptably vague and uncertain or apparently illusory. This is what happened in
+                 Sweet & Maxwell Ltd v Universal News Services Ltd [1964] 2 QB 699: see also Meehan v
+                 Jones at 589.
+        (d)      Where a contract provides a term containing a specified range of possibilities, a court,
+                 rather than avoiding the contract will hold the party to providing at least the minimum
+                 provision in the range, that is to say the one which is the most favourable to it. This is
+                 what occurred in Lewandowski v Mead Carney-​BCA Pty Ltd [1973] 2 NSWLR 640, 643.
+                 The contract had provided for the payment of a salary in the range of $7000 to $9000
+                 per annum. This court (Jacobs P, Hardie and Bowen JJA concurring) held that the effect
+                 of the agreement between the parties was to prescribe the minimum of $7000 so that
+                 the contract was not void for uncertainty.
+With these principles in mind, I now turn back to the facts of the present case. There is no contest but
+that the promise of an equity sharing arrangement of some kind was one of the four elements in the
+contract of service “package” which the appellant offered and the respondent accepted. But was it
+so devoid of meaning and so dependent upon the initiatives and decisions of one party only to the
+transaction (the appellant) as to be [137] illusory? Alternatively, was it so uncertain of content that it
+cannot now be enforced in its terms, even as elaborated by admissible extrinsic evidence?
+The contract is illusory or its terms unenforceable
+[6.40] Unfortunately, it is my opinion that the answers to both of these questions must be in the
+affirmative. I say unfortunately because there is little doubt that this unfulfilled term of the letter of
+
+
+162   [6.40]
+
+===== PDF 201 | expected printed p 163 | footer: [6.45]   163
+                                                                                     Certainty    Chapter 6
+
+
+Biotechnology Australia v Pace cont.
+
+offer handed to the respondent was important to him and was common in contracts of employment
+for persons with talents similar to those of the respondent. Had it been absent from the “salary
+package”, it is at least doubtful that the respondent would have accepted the offer. What he would
+have done is, however, not certain. The respondent had an apparent desire, for personal reasons, to
+return to Australia where he had been born. But at least it was a term which he had been promised,
+which was important and apparently valuable and which he had accepted.
+    The problem for the court is that the term is just too uncertain of content. It depends for fulfilment
+upon the decision of one party to the agreement only, namely the appellant. There is no external standard
+which can be appealed to in order to fix an “appropriate” or “reasonable” equity participation scheme,
+even assuming that to be what was intended or what the law would impute to the appellant. The appellant
+is not, and never was, a publicly listed company. Accordingly, there was no external standard by which
+shares in the enterprise could be determined authoritatively. It was not shown in the evidence that there
+was any standard or market reference point for a participation scheme in the equity of a company such as
+the appellant. The existence of other schemes in other companies with other products and other scientists
+provides no such reference point such as the High Court was able to find in Godecke and Meehan.
+    If, however, contrary to my view, the promise was not illusory for these reasons, it was nonetheless
+void for uncertainty because the challenged term contained within it too many elements which are
+uncertain. How many shares in Biotech were to be devoted to the participation scheme? What class
+of shares were to be held by the senior scientists such as the respondent? What were to be the terms
+of the options upon [which] the shares would issue? In any differentiation between employees, where
+would the respondent stand? What rights would attach to the shares? Upon what terms were they
+to be acquired and subject to what terms disposed of by employees? Indeed, the whole complex
+provisions of an equity participation scheme in company shares provide the definition of the problem
+which the promise, in the terms in which it was made, presents for the respondent. As he knew, he
+accepted the offer of the appellant when no such scheme existed. At the time of the hearing before
+Allen J, no such scheme existed. It may never exist. It seems that the company has not proved at
+this stage to be as profitable as was at first expected. However that may be, the bare bones of the
+promise to establish such a scheme leave too many decisions to be made for a court to attempt to
+give content to the promise by substituting its opinion of a fair scheme in view of the failure of the
+appellant to establish such a scheme as the appellant promised to do. In the evidence proved in this
+case, I see no warrant for the court’s filling in the gaps by reference to an international market in such
+equity participation schemes for scientists. There are too many features of apparent peculiarity in such
+schemes, offered by different [138] biotechnology companies, to make it safe to conclude that an
+objectively ascertainable external standard exists for such “equity participation schemes”.
+   In the end, in my opinion, the court must draw back from filling the gaps which the parties did
+not themselves fill …
+   I am of the opinion that the promise of the appellant did not, in the words of Kitto J in Placer (at
+357), create any contractual obligation to the respondent which he may enforce in a court of law.
+It was rather, in his Honour’s words in Thorby v Goldberg (1964) 112 CLR 597, 603, a provision for
+“future arrangements” not a contract concluded before the parties. Alternatively, if it was a term of
+the contract, it was irredeemably vague and uncertain and so unenforceable. I am therefore led to the
+conclusion that the course which Allen J took, although an understandable attempt to give effect to
+the presumed intention of the parties, cannot be sustained by reference to legal authority …
+
+McHUGH JA:
+Was the consideration illusory?
+[6.45] [150] A contract made for a consideration which is illusory is unenforceable: Placer
+Development Ltd v Commonwealth at 356, [151] 360–​1 and Meehan v Jones (1982) 149 CLR 571, 581.
+A consideration is illusory if its payment or fulfilment depends upon an unfettered discretion vested
+in the promisor. Thus a promise by the Commonwealth that it will pay a subsidy “of an amount or
+
+
+                                                                                                 [6.45]   163
+
+===== PDF 202 | expected printed p 164 | footer: 164   [6.45]
+Part II: Formation
+
+
+Biotechnology Australia v Pace cont.
+
+at a rate determined by the Commonwealth from time to time” is an illusory consideration: Placer
+Development Ltd v Commonwealth. So is a promise that any services rendered by a person would “be
+taken into consideration, and such remuneration be made as should be deemed right”: Taylor v Brewer
+(1813) 1 M & S 290; 105 ER 108. Likewise the consideration is illusory where an employer promises
+to pay “such sum of money as I may deem right as compensation for labour done”: Roberts v Smith
+(1859) 4 H & N 315; 157 ER 861. The decision of the Privy Council in Kofi-​Sunkersette Obu v A Strauss
+& Co Ltd [1951] AC 243 is also an illustration of an illusory consideration. The agreement between the
+parties provided that a “commission is also to be paid to me by the company which I have agreed to
+leave to the discretion of the company”. The Judicial Committee said (at 250) that the court could
+not determine the basis and rate of the commission. “To do so would involve not only making a new
+agreement for the parties but varying the existing agreement by transferring to the court the exercise
+of the discretion vested” in the company.
+    In all these cases, there was an express or implied statement that the consideration was payable
+only if the promisor elected to do so. However, in the case of a commercial or employment agreement
+under which the promisee provides services, the proper conclusion ordinarily to be drawn is that
+the services or consideration were not intended to be performed gratuitously: compare Way v Latilla
+[1937] 3 All ER 759, 763. In the absence of express words or necessary implication, it will be proper
+to conclude that the services were to be paid for by reference to some standard of measurement.
+The usual standard is that of reasonable remuneration based on market or industry criteria. Where
+there is a firm promise to pay or remunerate the promisee in return for his services, a conclusion that
+the consideration was illusory will only be drawn where no standard exists by which the promise can
+be valued. But even when no objective criterion of measurement is available, it may still be possible
+to infer a promise to act honestly and/​or reasonably. Moreover, notwithstanding that the promisor
+retains a discretion, the consideration will not be illusory if the discretion must be exercised within
+specified parameters. In Lewandowski v Mead Carney-​BCA Pty Ltd [1973] 2 NSWLR 640, this court
+held that a promise to pay “a salary within a range of $7 000–​$9 000 per annum” was not illusory.
+The promise imported an obligation to pay a minimum salary of $7 000 per annum. In Thorby v
+Goldberg the High Court held that a contract was made although one party was given “considerable
+discretion” as to how it carried out its obligations. Kitto J said (at 605) that “an agreement is not void
+for uncertainty because it leaves one party or group of parties a latitude of choice as to the manner
+in which agreed stipulations shall be carried into effect, nor does it for that reason fall short of being
+a concluded contract.”
+    In the present case, Allen J thought that the promise of Biotech was not illusory because “there
+was a pertinent market measure”. His Honour said that there was a market for the “salary packages”
+of scientists in the position of Dr Pace and the existence of that market “made it appropriate to apply
+[152] the concept of reasonableness”. The order, which his Honour made remitting the assessment of
+damages to the master, indicates that the learned judge thought that the value of the shareholding to
+be acquired by Dr Pace could be ascertained by deducting his salary and car entitlement from a sum
+determined by reference to the overall monetary value of the remuneration of comparable scientists.
+    There was no evidence before his Honour as to the exact remuneration paid to “world class
+biotechnologists employed in commercial work of comparable standard and responsibility”. However,
+there was evidence concerning the three offers which Dr Pace was considering at the time when
+he first contacted Biotech. In addition, as his Honour noted, Dr MacLennan had said that it was a
+common feature of an employment package offered by overseas research companies that it contained
+“the opportunity to acquire shares in the company”. But whether the values of the salary packages
+paid by overseas companies were sufficiently uniform to enable a judgment to be made as to what was
+a “reasonably competitive” package for Dr Pace was not proved. One may be pardoned for thinking
+that the values of packages containing rights to participate in the issue of shares in companies in a
+new and speculative field would vary enormously. Some companies would succeed. Some would
+fail. Moreover, there would seem to be difficulties in comparing a “salary package” of a fixed sum
+and no equity participation, which were two of the offers Dr Pace received, with a “salary package”
+containing a fixed sum and shares in a research company which is commencing trading …
+
+164   [6.45]
+
+===== PDF 203 | expected printed p 165 | footer: [6.45]   165
+                                                                                   Certainty    Chapter 6
+
+
+Biotechnology Australia v Pace cont.
+
+   In the absence of evidence on the point, I would doubt that the “salary packages” of comparable
+scientists in the biotechnological fields could be compared in a way which would produce a criterion
+of reasonableness. Counsel for Dr Pace contended that difficulties in formulating a standard could
+only affect the measure of damages and not whether Biotech was liable. However, since the onus was
+on Dr Pace to prove that the promise of Biotech was part of the consideration for his services, the
+approach of Allen J requires that Dr Pace prove that the promise could be valued [153] independently
+of what Biotech might ultimately offer by way of equity participation. It is, however, unnecessary to
+determine whether, as his Honour thought, there was “a pertinent market measure”. For there is
+another ground which leads me not to accept the approach of the learned judge.
+    His Honour’s approach necessarily involved the conclusion that not only was Biotech obliged
+to offer shares to Dr Pace but also that a court could say, by reference to the “pertinent market
+measure”, whether any actual offer accorded with the promise of Biotech. However, even if one
+accepts that there was a benchmark by which the reasonableness of the offer could be measured,
+I think that the parties did not intend that the offer should be judged against that benchmark. I think
+that the conclusion to be drawn from the parties’ conversations is that, although there was to be
+a participating share scheme, both sides recognised that its formulation was dependent on factors
+special to Biotech and its relationship with CRA and that ultimately it was Biotech which would decide
+both the nature of the scheme and the rights of the individuals participating in it.
+   From the beginning, Dr Pace was aware that no definite scheme had been formulated …
+   [154] Mr Bathurst [counsel for Dr Pace] argued that the terms of such an agreement would not be
+void for uncertainty. He relied on Thorby v Goldberg at 613–​14 and Meehan v Jones at 580–​2, 589–​91
+and 597. These decisions show that a contract is not void for uncertainty because the carrying out of
+obligations of one party is left to his discretion. The ratio of Thorby is that an agreement is not void
+because it gives one party “a latitude of choice as to the manner in which agreed stipulations shall
+be carried into effect”. In the [155] present case nothing was agreed except that Dr Pace would be
+entitled to participate in the equity staff scheme. Thorby might arguably be in point if the parties had
+agreed on the number and class of shares which Dr Pace was to receive but left other details to be
+formulated by Biotech. In Meehan v Jones the High Court held that a contract was enforceable although
+it was subject to a condition of “the purchaser or his nominee receiving approval for finance on
+satisfactory terms and conditions”. The court held that it was for the purchaser to determine whether
+the condition was satisfied and that he must act honestly … The ratio of the decision, however, throws
+no light on the question whether the offer of participation in the equity share scheme was binding
+on Biotech.
+   If the letter of 24 December 1980 had stood alone, the promise of participation in the share
+scheme would have contained an undertaking that the scheme existed. In McRae v Commonwealth
+Disposals Commission (1951) 84 CLR 377, the High Court held that there was a contract between the
+parties where the Commission had sold an oil tanker which did not exist. Dixon and Fullagar JJ said (at
+410) that there “was a contract, and the Commission contracted that a tanker existed in the position
+specified”. But here the parties knew that the share scheme did not exist.
+   The question then arises as to whether the promise of Biotech that Dr Pace could participate in
+the scheme imported a further promise that it would bring the scheme into existence. That is, was
+there a promise that Dr Pace could participate only if and when a scheme was formulated? Or was
+there a promise that a scheme would be formulated? Clearly both parties assumed that the scheme
+would come into existence. But it does not follow that the assumption of Biotech and its promise of
+participation imported a promise that it would implement the scheme …
+   [McHugh JA considered the evidence and continued:]
+   Accordingly, I do not think that there was any express promise, as opposed to a representation,
+that Biotech would institute the scheme. Nor do I think that such a promise should be implied. Both
+parties assumed that there would be a share scheme. Biotech clearly intended to bring such a [156]
+
+
+                                                                                               [6.45]   165
+
+===== PDF 204 | expected printed p 166 | footer: 166   [6.50]
+Part II: Formation
+
+
+Biotechnology Australia v Pace cont.
+
+scheme into effect. But I do not think that it made a promise to Dr Pace that it would do so. The action
+brought by Dr Pace must fail.
+     Even if Biotech had made an express or implied promise to implement a scheme, I do not think the
+submission on behalf of Dr Pace could be upheld or at all events that its breach would require more
+than nominal damages. The promise is too illusory or too vague and uncertain to be enforceable or,
+if it is not, its breach would only give rise to nominal damages. There is no standard by which a court
+could determine in any meaningful sense whether such a promise was broken …
+[6.50] HOPE JA [dissenting; after reviewing the more recent decisions on the topic, including those
+of the High Court, his Honour continued]:
+   [143] All these decisions show how far courts are prepared to go in order to find that there is an
+enforceable contractual promise where that is what the parties have intended. There are of course
+limitations. I have already referred to the case where the promisor has a discretion, not only as to what
+he shall do, but also as to whether he shall do anything. Such a promise is illusory. Furthermore it
+appears that the promise will not be enforceable if the manner of performance, including the amount
+of money to be paid or, if relevant, the number of shares to be offered, is a matter entirely in the
+discretion of the promisor and no criteria by which the performance required of the promisor can be
+measured, or the minimum of that performance can be measured, is expressed or can be found to
+be implied …
+   As it seems to me this was also the basis of the decision of the High Court in Placer Development
+Ltd v Commonwealth …
+   [145] Allen J concluded that what was to be offered to Dr Pace should be measured by reference to
+an international standard … With respect to the learned judge, I am unable to accept this approach.
+Biotech’s promise related to the remuneration of the inducement to Dr Pace to work for a particular
+company in Sydney. It is in that context that the problem has to be considered and not in the context
+of what benefits top scientists might receive from other companies in countries in other parts of the
+world. I think that Biotech would undoubtedly look at international experience in deciding what
+to do, and that any expert giving evidence could have regard to it, but it would not determine the
+matter.
+   If this criteria is not available, what is left? As it seems to me, Biotech was bound at least to make
+an offer which was an honest one, which gave Dr Pace an option of real and not nominal value and
+which, in the light of all the circumstances, including the matters in contemplation of the parties at
+the time when the agreement was made, including the potential of the company, could be found to
+be reasonable.
+   The law has filled innumerable lacunae in the contractual arrangements of parties by applying
+a doctrine of reasonableness. Reasonableness is partly but not wholly coincidental with honesty.
+Dishonesty could not be reasonable, but no doubt a lack of reasonableness covers both honest and
+dishonest acts. Can the concepts of honesty and reasonableness be imported as criteria by which to
+determine the minimum obligation of Biotech?
+   I have already referred to the dicta of Lord Wright in Hillas on the importation of reasonableness
+into contracts. Those dicta did not formulate some new concept; they were based on long-​standing
+principle. A more recent decision importing reasonableness in respect of performance is to be found
+in the decision of the English Court of Appeal in Powell v Braun [1954] 1 WLR 401. There Powell
+had been employed [146] by Braun as his secretary in his business for two years. He wrote to her
+expressing satisfaction at her services in the past and the wish that she would undertake additional
+responsibility in the future. He offered to pay her, in recognition of those past services and the
+additional responsibility, a bonus on the net trading profits of the business instead of an increase in
+salary. Powell accepted this offer. The Court of Appeal held that the contract was enforceable, that the
+parties had not intended that the payment of the bonus was to be purely in the discretion of Braun
+and that Powell was entitled to a reasonable sum. Evershed MR (at 405; 486) said:
+
+
+166   [6.50]
+
+===== PDF 205 | expected printed p 167 | footer: [6.50]   167
+                                                                                     Certainty    Chapter 6
+
+
+Biotechnology Australia v Pace cont.
+
+   Assisted as I have been by the cases cited, which illustrate the approach which the court
+   makes in cases of this kind, I conclude here, as a matter of construction, that the parties did
+   not mean and intend the payment of a bonus to be purely discretionary.
+       That, however, leaves the further question whether the whole document is in its terms
+   and character too vague and general to be capable of supporting a claim of this kind. Again
+   I reject that view. Once it is concluded that this was not to be a reward in the discretion
+   of the defendant, then inevitably it must mean, according to its terms, that the sum to be
+   paid —​unless the parties chose from time to time to agree some other ­figure —​would be
+   a reasonable sum; that is, a sum arrived at so as to bear a reasonable relationship to the
+   trading profit. Of course, if there were no trading profit, no doubt there would be no so
+   called bonus; but, in any other event, then I think that the principle of a quantum meruit
+   or of reasonable remuneration (which comes to the same thing) is no less applicable where
+   the remuneration in question is additional remuneration —​that is over and above the fixed
+   salary —​than it is to a case where it is the only remuneration.
+
+In a rather different context a similar approach was adopted in Meehan v Jones …
+   [147] Trying, as in my opinion the court is bound to do, to give effect to the intention of the
+parties, I find it difficult not to conclude that as well as being required to establish a scheme, Biotech
+was required to give Dr Pace an option on terms which it had honestly arrived at, that is to say, on
+terms arrived at in honestly trying to perform its promise and not merely going through the motions
+of doing so. Next I see no reason why the concept of reasonableness should not also be imported. The
+role of staff equity sharing schemes in employment contracts is sufficiently well established to enable
+courts to apply the concept of reasonableness to them, in the same way as they are able to apply it to
+bonuses. The schemes are more complex than bonuses, but that merely makes the resolution of the
+problem more difficult; it does not deny the possibility of resolution.
+   Neither honesty nor reasonableness would identify the precise amount of the offer which
+Biotech would decide to make, but they would in my opinion provide criteria to fix the amount
+of the minimum offer Biotech was required to make. The circumstances which would have to be
+taken into account in determining reasonableness in such a context are many and varied, and
+having regard to the way in which the case has been divided, I doubt that evidence concerning
+them, or at least all of them, has been tendered. This is the result of severing the issue of liability
+from the issue of damages. However part of those circumstances would be that Biotech’s promise
+was intended to induce Dr Pace to join and to remain with it, and that the parties intended that
+the value of the option granted should not be less than what ought reasonably [to] have induced
+Dr Pace to join and to remain with Biotech. No doubt there was also to be considered the nature,
+size and like circumstances of the company, and its profit potential. However I do not think that the
+law is so removed from commercial and employment practice and exercise that expert evidence
+should not be admissible to establish what the minimum reasonable amount should be. [148]
+Hobhouse J referred to some of the considerations that would be relevant in determining what
+was equitable in the decision in Didymi Corp v Atlantic Lines & Navigation Co Inc (The “Didymi”)
+[1988] 2 Lloyd’s Rep 108. In cases involving the assessment of compensation for or valuation of
+land, valuers regularly give evidence of the value of the most obscure and unlikely, and indeed
+artificial, interests. If in the event that the evidence is not available, Dr Pace would be entitled only
+to nominal damages. However in my opinion the proper conclusion at this stage of the hearing is
+that as there was a valid and enforceable contractual promise on the part of Biotech to establish a
+senior staff equity sharing scheme and that the promise was not unenforceable for uncertainty or
+as being illusory …
+   Appeal allowed.
+
+                                                 
+
+                                                                                                 [6.50]   167
+
+===== PDF 206 | expected printed p 168 | footer: 168   [6.55]
+Part II: Formation
+
+
+
+
+                                       Whitlock v Brew
+[6.55] Whitlock v Brew (1968) 118 CLR 445 (High Court of Australia) –​Appeal from the Supreme
+Court of Victoria.
+   [FACTS: Whitlock (the vendor/​appellant) agreed to sell, and Brew (the purchaser/​respondent) agreed
+to buy an area of land for the price of £165,000. A contract of sale was drawn up and signed by both
+parties.
+   Clause 5, one of the “special conditions” of the contract, provided:
+   Portion of the land sold is used for the sale of petroleum, oils and greases and petroleum
+   products of the Shell Co of Australia Limited. The purchaser covenants that he will immediately
+   upon taking possession hereunder grant a lease of that portion of the land sold as is now
+   used for the sale of the abovementioned products to the Shell Co of Australia Limited upon
+   terms that the said land leased as aforesaid be used by Shell or their sub-​tenant or licensee
+   for the sale of such products and upon such reasonable terms as commonly govern such a
+   lease. In the event of any dispute between the parties as to the interpretation or operation of
+   this clause such dispute shall be referred to an arbitrator to be appointed failing agreement
+   as to an arbitrator by the President for the time being of the Law Institute of Victoria and
+   such arbitrator shall arbitrate thereon in accordance with the provisions of the Arbitration
+   Act 1958.
+The purchaser paid a deposit of £15,600 but thereafter declined to complete the purchase. The
+vendor, in pursuance of his rights under the contract rescinded it and kept the deposit. The purchaser
+brought action in the Supreme Court to recover the deposit on the ground that the contract was void
+for uncertainty.
+  The trial judge held that cl 5 was void but as it was severable from the rest of the contract, the
+whole contract was not void and entered judgment for the vendor. An appeal to the Full Court of the
+Supreme Court by the purchaser was successful. The vendor appealed to the High Court.]
+    KITTO J: [456] The main problem in this case arises not from any uncertainty of language in the
+document headed “contract of sale” but from the omission of the parties to reach a concluded
+agreement upon the matter to which Special Condition 5 is addressed. The clause contains a so called
+covenant by the purchaser that immediately upon taking possession of the subject land he will grant
+a lease of a portion of the land to the Shell Co of Australia Ltd. The portion is defined as that which “is
+used” (that is, at the date of the document) for the sale of petroleum, oils and greases and petroleum
+products of the Shell Co. I am prepared to assume that the vendor is right in saying, as he does, that
+this description is sufficient to enable the portion to be identified. As regards the term of the lease, it
+sufficiently appears, I think, that the commencing date is to be the date when the purchaser obtains
+possession. But upon no other topic does the document indicate what the provisions of the lease are
+to be. It does say that the lease is to be granted “upon such reasonable terms as commonly govern
+such a lease”, and that would have been enough if evidence had established that for such a lease an
+ascertainable set of reasonable terms are in common use. But this has not been established, and the
+result is that the document does not record a consensus ad idem as to the duration of the term, the
+rent, or anything else except the commencing date and the premises intended to be let. Provision is
+indeed made for arbitration in the event of any dispute between the parties “as to the interpretation
+or operation of this clause”, and I should have understood this as extending to any dispute as to what
+terms are reasonable and commonly govern such a lease, if in fact any such terms had existed. But it
+clearly would not authorise an arbitrator to force upon the purchaser such terms as he (the arbitrator)
+might think are reasonable and ought [457] commonly to govern such a lease, for to do so would be
+to alter the contract.
+    The problem to which I have referred as the main problem is whether the fact that Special Condition
+5 is, for this reason, of no contractual effect carries the consequence that the whole document is in like
+case, or whether, on the other hand, the provisions of the document apart from Special Condition 5
+constitute by themselves a concluded contract from which that condition is properly to be considered
+
+168   [6.55]
+
+===== PDF 207 | expected printed p 169 | footer: [6.60]   169
+                                                                                     Certainty    Chapter 6
+
+
+Whitlock v Brew cont.
+
+a separate and severable provision … It is therefore clear on the face of the document that the
+parties had no intention of agreeing upon a sale which would entitle the purchaser to receive vacant
+possession without having to grant any lease to the Shell Co; and it follows that to treat the “contract”
+as binding although shorn of Special Condition 5 would be to turn the sale into a different sort of sale
+from that which the parties contemplated. Courts are of course anxious to hold parties to what they
+have agreed upon, but there can be no justification for holding them to something they have not
+agreed upon. In my opinion the decision of the Full Court of the Supreme Court that no concluded
+contract of sale was made between the parties is correct; and as it is agreed that if that be so the
+purchaser is entitled to recover the moneys he paid to the vendor under the supposed contract the
+Full Court’s order that judgment be entered for the purchaser on his claim should be affirmed …
+[6.60] TAYLOR, MENZIES AND OWEN JJ: [460] The first question to be considered is whether the
+contention that Special Condition 5 is uncertain should be upheld. The appellant asserts that it should
+not and that, in effect, that clause simply provides that in the event of there being no agreement as
+to the terms of the contemplated lease, including both the period during which it is to subsist and
+the rent to be paid, the parties shall enter into a lease in the form settled by an arbitrator. Of course,
+if this were so the basis for the contention that the clause is uncertain would disappear. But the
+language of the clause does not permit of this view. The lease is to be “upon such reasonable terms as
+commonly govern such a lease” and in the event of a dispute “as to the interpretation or operation”
+of the clause the dispute is to be referred to arbitration. We are firmly of opinion that the expression
+“upon such reasonable terms as govern such a lease” is not, in the context in which it appears, apt to
+refer to either the period for which the contemplated lease is to subsist or to the rent to be payable
+thereunder. Nor do we think that the further expression “as to the interpretation or operation” of
+this clause covers a dispute as to either of those matters. We, therefore, are of opinion that the clause
+is uncertain in that it neither specifies [461] nor provides a means for the determination as between
+the parties of the period for which the contemplated lease shall be granted or the rent which shall be
+payable thereunder.
+   It, therefore, becomes necessary to determine whether the condition is severable from the rest of
+the provisions of the contract or whether the whole contract falls. On this point the learned judge
+of first instance after referring to the observations of Knox CJ in Life Insurance Co of Australia Ltd v
+Phillips (1925) 36 CLR 60, and to Fitzgerald v Masters (1956) 95 CLR 420, held that the condition was
+of such a quality that it could be ignored. But those cases and Nicolene Ltd v Simmonds [1953] 1 QB
+543, to which also he made a reference, are simply particular examples of conclusions reached by the
+application of a general principle. That general principle is stated by Knox CJ in the first-​mentioned
+case (at 472):
+   When a contract contains a number of stipulations one of which is void for uncertainty, the
+   question whether the whole contract is void depends on the intention of the parties to be
+   gathered from the instrument as a whole. If the contract be divisible, the part which is void
+   may be separated from the rest and does not affect its validity.
+Observations in the same case make it clear that in seeking to ascertain the intention of the parties
+to a written contract extrinsic evidence may not be resorted to except where such evidence may be
+called in aid in the interpretation of the written instrument. Clearly enough, it seems to us, it is not
+to the point to make an independent examination of extrinsic facts, even if they were within the
+knowledge of both parties, and upon such evidence to conclude that a particular provision was or
+was not of importance to them or to either of them; the question for determination is the intention
+of the parties as disclosed by the contract into which they have entered … Of course, cases may arise
+where a vague, uncertain or meaningless clause in a contract may simply be ignored … But Special
+Condition 5 does not fall into any such category; nor can it be said to be a clause inserted solely for
+the benefit of one of the parties and capable of being waived by him. It is, in a sense, [462] definitive
+of the ultimate rights which it is contemplated the purchaser is to get under his contract. The clause
+provides that the respondent will immediately upon taking possession grant a lease the effect of which
+
+
+                                                                                                 [6.60]   169
+
+===== PDF 208 | expected printed p 170 | footer: 170   [6.65]
+Part II: Formation
+
+
+Whitlock v Brew cont.
+
+will be to deprive him of possession of part of the land in return for a promise to pay rent. Of course,
+the Shell Co is in no way obliged to take a lease but it is clear enough from the terms of the contract
+that it was contemplated that it would. The case is, perhaps, not as clear as the case where a contract
+for the sale of land is entered into with a reservation to the vendor of an unspecified part … The case
+more closely resembles Duggan v Barnes [1923] VLR 27, where A agreed to sell land to B for a stated
+price and B undertook to grant a lease to any person who should purchase A’s business. There the
+court had no difficulty in holding that B’s undertaking was a material and inseverable part of the
+considerations for A’s promises. In our view the same conclusion must be reached in this case and the
+fact that here it is the purchaser, and not the vendor, who is asserting the invalidity of the contract is
+of no consequence. In our opinion the appellant’s appeal should be dismissed …
+   [McTIERNAN J dissented.]
+   Appeal dismissed.
+
+                                                   
+
+
+                                             Hall v Busst
+[6.65] Hall v Busst (1960) 104 CLR 206 (High Court of Australia) –​Appeal from the Supreme Court
+of Queensland.
+    [FACTS: In 1949, Hall purchased from Busst land comprising Bedarra Island, a small island off the
+coast of Queensland, along with all chattels on the island. The purchase price was £3,157 4s 0d.
+Under the terms of the contract, Hall agreed not to resell the land without obtaining Busst’s consent
+first. The contract provided that, on the giving of notice of a proposed sale, Busst would have an
+option to repurchase the land. Clause 5 provided that:
+   The purchase price relating to such option shall be the sum of £3 157 4s 0d to which shall
+   be added the value of all additions and improvements to the said property since date of
+   purchase by the grantor … and from which shall be subtracted the value of all deficiencies
+   in chattel property and a reasonable sum to cover depreciation of all buildings and other
+   property on the land.
+In 1957, Hall sold the land and chattels to a third party for £8,500 without giving notice to Busst.
+Busst sought damages for breach of contract. The Supreme Court of Queensland held that Busst
+was entitled to damages. The High Court (Dixon CJ, Fullagar and Menzies JJ; Kitto and Windeyer JJ
+dissenting) held that the option was not enforceable because the price was uncertain.]
+    DIXON CJ: [216] Of course there is no difficulty about the money sum stated. But that is merely
+the return of the original price paid by the defendant as purchaser. The point lies in what is added. It
+is in effect the payment or recompense to the defendant in respect of her work and expenditure in the
+meantime. The addition is to consist of the value of all additions and improvements to the property
+since her purchase of the island less the value of all deficiencies of chattel property and a reasonable
+sum to cover depreciation of all buildings and other property …. “[T]‌he value of all additions and
+improvements” is not, in my opinion, sufficiently certain to give rise to an enforceable contract. There
+could be no external standard of value of additions and improvements to the island: no standard
+yielding a figure reasonably fixed or ascertainable. Still less would it be possible to find an external
+standard for the reasonable sum to cover depreciation even if one knew what “other property” is
+referred to. And indeed the value of deficiencies is another uncertain element in the ascertainment
+of the price. It is said that “value” or “fair value” is to be found objectively by a jury. But here we are
+dealing with substantive rights, not the procedure by which they are enforced. Can it be supposed
+that men contract to pay a price if and when fixed by a jury in a law suit? I am aware that it is said …
+that it is enough if a contract for the sale of land stipulates expressly or impliedly that the price shall be
+the fair value … But that could only be when a recognized value or standard of value measuring the
+
+170   [6.65]
+
+===== PDF 209 | expected printed p 171 | footer: [6.75]   171
+                                                                                       Certainty    Chapter 6
+
+
+Hall v Busst cont.
+
+price existed. It would be, so it seems to me, as absurd to [217] apply this to an island off the coast
+of Queensland as it would be to apply it to a great modern city building. In any case it is not a price
+consisting of the fair value of land that we are dealing with.
+   In my opinion the price described in cl 5 is unascertained and is too uncertain to be the basis of an
+enforceable contract. The option is therefore unenforceable.
+[6.70] FULLAGAR J: [222] So far as contracts for the sale of goods are concerned, there may or may
+not be a general rule, applicable in respect of executory, as distinct from executed, contracts, that,
+where the price is not otherwise determined, a promise to pay a reasonable price is to be implied …
+But such a rule, if it exists, is anomalous. The contract contemplated here is not a contract for the sale
+of goods: it is a contract for the sale of “land and improvements”. In such a case there cannot, I think,
+be held to be a binding contract unless the three essential elements are the subject of concluded
+agreement. The three essential elements are the parties, the subject matter and the price. If, but
+only if, these are fixed with certainty, the law will supply the rest. When it is said that the price must
+be fixed with certainty, it is not, of course, meant that it must be fixed at a specified figure. It will be
+sufficient if the sale is expressed to be for a price or value to be fixed by a named or described person.
+In such a case, if the named or described person dies or cannot or will not fix the price or value, the
+contract cannot, as a general rule, be enforced, but, if and when he does fix the price or value, there is
+a concluded contract. If, however, the parties are silent as to the price, there can be no implication of a
+term that a reasonable price is to be paid. And it is not, in my opinion sufficient, if the sale is expressed
+to be “for the value of the land” or “for the fair value of the land” or “for a reasonable price”.
+[6.75] WINDEYER J (dissenting): [240] The concepts of a reasonable price for goods sold, and of
+reasonable remuneration for services rendered, and indeed of contractual stipulations, express or
+implied, for reasonable time and reasonable notice, and also the right to a reasonable compensation
+for the use and occupation of land are all the products of similar developments. And all originally
+met with the same objections. In the argument before us an attempt was made to found something
+upon one distinction between sales of goods and sales of land. In a contract for the sale of goods, if
+there be no price fixed, the law provides that the buyer must pay a reasonable price. It is said that it
+is to be inferred that this was the intention of the parties. There is no similar rule in the case of a sale
+of land. If nothing be expressly stipulated as to the price there can be no concluded contract for the
+sale of land …. But once admit, as English law does but the Civil law does not, that there is such a
+thing as a reasonable price then it seems to me that in our law the distinction between sales of lands
+and of chattels is not that an effective agreement can be made to sell a chattel for a reasonable price
+but an effective agreement to sell land cannot. It is, rather, that if persons would contract to sell land
+for a reasonable price they must do so expressly; whereas on a sale of chattels an obligation to pay a
+reasonable price is imposed by law when the parties are silent as to price. But surely the parties to a
+transaction concerning land can make an express agreement in the terms that in a sale of goods the
+law can infer that they made? And it is by such an inference or implication of what the parties intended
+should be the terms of their arrangement that the common law arrived at its [241] rule in the case of
+chattels. The conclusion that seems to be warranted by logic is, I think, confirmed by history ….
+   [245] When parties agree to sell for a reasonable price or at a fair valuation they do not leave
+an essential term of their bargain for further agreement, so that their agreement is incomplete. It is
+complete. They have fixed the price by a measure that the law knows. If they disagree as to what
+sum of money fills that measure, a court will determine it, at common law by a jury … To sum up my
+opinion: The parties executed the deed intending it to be legally binding. They changed their positions
+in the belief that it was. They expressed their intention in language that was sufficiently certain to
+create legal obligations. For these reasons … the provisions of cl 5 of the deed for ascertaining the
+price payable if the option were exercised are valid.
+   Appeal allowed.
+
+                                                   
+                                                                                                   [6.75]   171
+
+===== PDF 210 | expected printed p 172 | footer: 172   [6.80]
+Part II: Formation
+
+
+Agreements to negotiate
+
+
+         United Group Rail Services Ltd v Rail Corporation NSW
+[6.80] United Group Rail Services Limited v Rail Corporation New South Wales [2009] NSWCA 177;
+(2009) 74 NSWLR 618 (Supreme Court of New South Wales Court of Appeal) –​Appeal from the
+decision of Rein J.
+   [FACTS: United entered into two contracts with Railcorp under which United agreed to design and
+build new rolling stock. The contract contained a long and detailed clause setting out the process
+to be followed in the event of a dispute arising between the parties. The process was to be initiated
+by service of a notice of dispute and then involved expert adjudication, negotiation, mediation and
+arbitration. United sought to avoid the dispute resolution procedure and proceed straight to litigation
+but could only do so if the dispute resolution clause was void for uncertainty. The primary judge held
+that it was not. The critical provision was cl 35.11, which was as follows:
+   35.11 Negotiation
+       If:
+       (a) a notice of appeal is given in accordance with Clause 35.9; or
+       (b) the dispute or difference for which the notice under Clause 35.1 has been given does
+   not relate to a Direction of the Principal’s Representative under one of the Clauses referred
+   to in Attachment “A”, the dispute or difference is to be referred to a senior representative of
+   each of the Principal and Contractor who must:
+       (c) meet and undertake genuine and good faith negotiations with a view to resolving the
+   dispute or difference; and
+       (d) if they cannot resolve the dispute or difference within 14 days after the giving of the
+   notice under Clause 35.1 or 35.9 (whichever is later), the matter at issue will be referred to
+   the Australian Dispute Centre for mediation.]
+ALLSOP P:
+The issues
+[6.85] [21] United … asserted (and Railcorp denied) that subcl 35.11(c) was … uncertain and
+therefore void and unenforceable.
+   [22] Most importantly, United asserted (and Railcorp denied) that cl 35.12 (providing for the
+reference to arbitration) was not severable from cl 35.11, such that in circumstances where
+subcl 35.11(d) or subcl 35.11(c) and (d) was or were void and unenforceable, cl 35.12 was likewise
+void and unenforceable. The result of this argument, if it were accepted, would be that any dispute
+will be justiciable in Court, where the power to send any dispute to a referee would be available. The
+consequences and commercial relevance of success of United’s arguments were not explored.
+Subclause 35.11(c) and good faith negotiations
+[6.100] [28] The obligation on the parties in subcl 35.11(c) is to refer the dispute or difference
+to a senior representative of each party (a category of employee, agent or officer which no one
+said was uncertain). Those persons must meet and undertake negotiations. The qualification is that
+negotiations must be “genuine and good faith negotiations”. …
+   [29] The status of a clause purporting in terms to create a legal obligation to negotiate or to
+negotiate in a particular way, such as here –​genuinely and in good faith and, in particular, whether
+such a clause is intended to be legally binding, and, if so whether it has a sufficiently certain content
+to be enforceable has been the subject of some debate in the common law world for some time.
+History of the authorities
+[6.105] [30] At a time when the common law of England, to a significant degree, determined the
+common law in Australia (see for example: Public Transport Commission of NSW v J Murray-​More (NSW)
+Pty Limited (1975) 132 CLR 336, 341 and 349 and the Judiciary Act 1903 (Cth), s 80 (before its
+
+172   [6.80]
+
+===== PDF 211 | expected printed p 173 | footer: [6.105]   173
+                                                                                     Certainty   Chapter 6
+
+
+United Group Rail Services Ltd v Rail Corporation NSW cont.
+
+amendment in 1988 by the Law and Justice Legislation Amendment Act 1988 (Cth), s 41)) the views of
+the English Court of Appeal and the House of Lords were often decisive. This is not now the case, and
+has not been at least since 1986: Cook v Cook (1986) 162 CLR 376, 389-​390 and the Australia Acts
+1986 (Cth) and (UK). Foreign (including English) precedents are useful to the degree of persuasiveness
+of their reasoning.
+   [31] In 1932, in Hillas & Co Limited v Arcos Limited [1932] All ER Rep 494 at 505-​507, Lord Wright
+expressed the view that a contract to negotiate was enforceable, saying (at 505 and 39-​40):
+   There is then no bargain except to negotiate, and negotiations may be fruitless and end
+   without any contract ensuing; yet even then in strict theory, there is a contract (if there
+   is good consideration) to negotiate, though in the event of repudiation by one party the
+   damages may be nominal, unless a jury think that the opportunity to negotiate was of some
+   appreciable value to the injured party.
+[33] In 1975, Lord Denning MR and Lord Diplock in Courtney & Fairbairn Ltd v Tolaini Brothers (Hotels)
+Ltd [1975] 1 WLR 297, in extempore judgments, expressed their blunt and forceful views that
+Lord Wright was wrong in Hillas v Arcos.
+   [38] In July 1991, the New South Wales Court of Appeal delivered judgment in Coal Cliff Colieries
+Pty Ltd v Sijehama Pty Ltd (1991) 24 NSWLR 1. The case concerned a heads of agreement about a
+proposed joint venture for a new coal mine on the south coast of New South Wales. The heads of
+agreement outlined the basis of the proposal for the development of the joint venture and the coal
+mine. The heads of agreement commenced with the following statement:
+   This document will serve to record the terms and conditions subject to and upon which
+   Coal Cliff Collieries Pty Ltd, Sijehama and Bulli Main agree to associate themselves in an
+   unincorporated joint venture … The parties will forthwith proceed in good faith to consult
+   together upon the formulation of a more comprehensive and detailed Joint Venture Agreement
+   (and any associated agreements) which when approved and executed will take the place of these
+   Heads of Agreement, but the action of the parties in so consulting and in negotiating on fresh
+   or additional terms shall not in the meantime in any way prejudice the full and binding effect of
+   what is now agreed. (emphasis added)
+[39] Negotiations took place. Numerous drafts of the proposed joint venture were prepared,
+without agreement; further drafts of heads of agreement were prepared, again with no agreement.
+Negotiations of some intensity lasted 16 months. Thereafter, negotiations continued less intensively
+for some years until one party withdrew from the negotiations.
+    [40] Kirby P, in discussing the principles of contract formation and agreements to negotiate,
+referred (at 21-​22) to the considerable American academic discussion dealing with negotiation in
+good faith. As Kirby P noted, that discussion revealed a divergence of opinion about the proper role
+of the law in the enforcement of contracts to negotiate. Kirby P recognised that the courts will not
+enforce an agreement to agree: Booker Industries Pty Ltd v Wilson Parking (Qld) Pty Ltd (1982) 149
+CLR 600, 604. His Honour referred to the rejection by the English Court of Appeal in Courtney of the
+“flirtation” by Lord Wright in Hillas v Arcos; to the following of Courtney in Mallozzi v Carapelli and
+to the other considerations including those attending the development of American law. His Honour
+expressed the view that if parties have bound themselves expressly to negotiate in good faith they
+should be held to it, if circumstances otherwise did not reveal a lack of intention to contract or the
+circumstances revealed no lack of certainty of content. Kirby P said at 26:
+   … I do not share the opinion of the English Court of Appeal that no promise to negotiate
+   in good faith would ever be enforced by a court. I reject the notion that such a contract is
+   unknown to the law, whatever its term [sic: terms]. I agree with Lord Wright’s speech in Hillas
+   that, provided there was consideration for the promise, in some circumstance a promise
+   to negotiate in good faith will be enforceable, depending upon its precise terms. Likewise
+   I agree with Pain J in Donwin that, so long as the promise is clear and part of an undoubted
+
+                                                                                             [6.105]   173
+
+===== PDF 212 | expected printed p 174 | footer: 174    [6.105]
+Part II: Formation
+
+
+United Group Rail Services Ltd v Rail Corporation NSW cont.
+
+   agreement between the parties, the courts will not adopt a general principle that relief for
+   the breach of such promise must be withheld.
+[44] In the contract before the Court in Coal Cliff, Kirby P was of the view that the promise in the heads
+of agreement was too vague, illusory, and uncertain to be enforceable. The essential reasoning of his
+Honour was expressed succinctly at 27 as follows:
+   The review of the considerations which lead me to this conclusion has already been stated.
+   This was not a case where an external arbitrator was nominated to resolve outstanding
+   differences. There were many such differences at the time of the heads of agreement and
+   a number remain even three years later when negotiations were finally broken off. A court
+   would be extremely ill-​equipped to fill the remaining blank spaces and to resolve questions
+   which three years of painful negotiation between the solicitors for the parties had failed
+   to remove. A court could not, in this case, appeal to objective standards or to its own
+   experience —​as it might in filling a blank space in a lease of domestic premises or a contract
+   less complex and more familiar than one for a major mining development. At stake are
+   commercial decisions involving adjustments which would contemplate binding the parties
+   for years and deciding issues that lie well beyond the expertise of a court. How mining
+   executives, attending to the interests of their corporation and its shareholders might act in
+   negotiating such a complex transaction is quite unknowable. Therefore, although I agree
+   with Clarke J that some contracts to negotiate in good faith may be enforced by our law,
+   this was not such a contract. I repeat the caution which I have expressed elsewhere (as I did
+   in Biotechnology Australia Pty Ltd v Pace) that courts should hold back from giving effect to
+   arrangements which the parties have not concluded, at least in circumstances such as the
+   present. …
+[45] Handley JA approached the matter quite differently to Kirby P. His Honour saw an agreement to
+negotiate in good faith as necessarily illusory, saying at 41-​42:
+   …
+        Parties negotiating for a contract are free to pursue their own interests as they see fit.
+   Within broad limits each is under no legal duty to consider the interests of the other. …
+        Negotiations are conducted at the discretion of the parties. They may withdraw or
+   continue; accept, counter offer or reject; compromise or refuse, trade-​off concessions on
+   one matter for gains on another and be as unwilling, willing or anxious and as fast or as slow
+   as they think fit.
+        To my mind these considerations demonstrate that a promise to negotiate in good faith
+   is illusory and therefore cannot be binding.
+[47] Waddell AJA agreed “generally” with the reasons of Kirby P.
+   [48] Five months after Coal Cliff was handed down, argument took place in the House of Lords in
+Walford v Miles [1992] 2 AC 128. Judgment in Walford v Miles was delivered in January 1992. The case
+concerned a so-​called “lock out” agreement in which one party agreed to terminate negotiations with
+a third party in return for a promise by the other to continue negotiations and that that comprised
+a completed collateral agreement to another agreement that was “subject to contract” Lord Ackner
+delivered the leading speech with which Lord Keith of Kinkel, Lord Goff of Chieveley, Lord Jauncey of
+Tullichettle and Lord Browne-​Wilkinson agreed. Lord Ackner … said at 138:
+   … The reason why an agreement to negotiate, like an agreement to agree, is unenforceable
+   is simply because it lacks the necessary certainty. … This uncertainty is demonstrated in
+   the instant case by the provision which it is said has to be implied in the agreement for
+   the determination of the negotiations. How can a court be expected to decide whether,
+   subjectively, a proper reason existed for the termination of negotiations? The answer
+   suggested depends upon whether the negotiations have been determined “in good faith”.
+   However, the concept of a duty to carry on negotiations in good faith is inherently repugnant
+
+174    [6.105]
+
+===== PDF 213 | expected printed p 175 | footer: [6.110]   175
+                                                                                     Certainty   Chapter 6
+
+
+United Group Rail Services Ltd v Rail Corporation NSW cont.
+
+   to the adversarial position of the parties when involved in negotiations. Each party to the
+   negotiations is entitled to pursue his (or her) own interest, so long as he avoids making
+   misrepresentations. To advance that interest he must be entitled, if he thinks it appropriate,
+   to threaten to withdraw from further negotiations or to withdraw in fact in the hope that
+   the opposite party may seek to reopen the negotiations by offering him improved terms.
+   Mr Naughton, of course, accepts that the agreement upon which he relies does not contain
+   a duty to complete the negotiations. But that still leaves the vital question —​how is a vendor
+   ever to know that he is entitled to withdraw from further negotiations? How is the court to
+   police such an “agreement”? A duty to negotiate in good faith is as unworkable in practice
+   as it is inherently inconsistent with the position of a negotiating party. It is here that the
+   uncertainty lies. In my judgment, while negotiations are in existence either party is entitled
+   to withdraw from these negotiations, at any time and for any reason. There can be thus no
+   obligation to continue to negotiate until there is a “proper reason” to withdraw. Accordingly,
+   a bare agreement to negotiate has no legal content.
+Coal Cliff was not referred to.
+Consideration of the proper approach
+[6.110] [56] Before turning to the terms of the clause in question, given the juristic debate that has
+taken place about agreements to negotiate in good faith, it is helpful to begin with some essential
+propositions founded on accepted authority and principle. First, an agreement to agree is incomplete,
+lacking essential terms: Booker at 604. (That is not a question of uncertainty or vagueness, but the
+absence of essential terms.)
+   [57] Secondly, the task of the Court is to give effect to business contracts where there is a
+meaning capable of being ascribed to a word or phrase or term or contract, ambiguity not being
+vagueness: Upper Hunter County District Council v Australian Chilling and Freezing Co Limited (1968)
+118 CLR 429, 436-​437; New Zealand Shipping Co Ltd v AM Satterthwaite & Co Ltd [1975] AC 154, 167;
+Meehan v Jones (1982) 149 CLR 571, 589; and Trawl Industries at 332. (The commercial law should
+foster and support commercial practice, not fight it: see Devlin J writing extracurially “The Relation
+Between Commercial Law and Commercial Practice” (1951) 14 Modern Law Review 249.)
+    [58] Thirdly, good faith is not a concept foreign to the common law, the law merchant or
+businessmen and women. It has been an underlying concept in the law merchant for centuries … It
+is recognised as part of the law of performance of contracts in numerous sophisticated commercial
+jurisdictions: for example Uniform Commercial Code ss 1-​201 and 1-​203 (1977) … UNIDROIT Principles
+of International Commercial Contracts (2004 Ed, Rome 2004) Art 1.7; R Zimmerman and S Whittaker
+Good Faith in European Contract Law (CUP 2000). It has been recognised by this Court to be part of the
+law of performance of contracts: Renard Constructions (ME) Pty Ltd v Minister for Public Works (1992) 26
+NSWLR 234, 263-​270; Hughes Bros Pty Ltd v Trustees of the Roman Catholic Church for the Archdiocese of
+Sydney (1993) 31 NSWLR 91; Burger King Corporation v Hungry Jack’s Pty Ltd at 565-​574 [141]-​[187];
+and Alcatel Australia Ltd v Scarcella at 363-​369. In Alcatel Sheller JA (with the express and unqualified
+agreement of Powell JA and Beazley JA) said the following at 369:
+   The decisions in Renard Constructions and Hughes Bros mean that in New South Wales a duty
+   of good faith, both in performing obligations and exercising rights, may by implication be
+   imposed upon parties as part of a contract. There is no reason why such a duty should not
+   be implied as part of this lease.
+[60] It is fair to say that caution (in some cases a lack of enthusiasm) has been expressed by some, for
+example: Royal Botanic Gardens and Domain Trust v South Sydney City Council [2002] HCA 5; (2002)
+240 CLR 4 [88] and [155] … Service Station Association Ltd v Berg Bennett & Associates Pty Ltd (1993) 45
+FCR 84 at 91-​98 … Esso Australia Resources Pty Ltd v Southern Pacific Petroleum NL [2005] VSCA 228 …
+   [61] Whilst this necessarily incomplete review of authorities reveals that the law in Australia is not
+settled as to the place of good faith in the law of contracts, this Court should work from the position
+
+                                                                                             [6.110]   175
+
+===== PDF 214 | expected printed p 176 | footer: 176   [6.115]
+Part II: Formation
+
+
+United Group Rail Services Ltd v Rail Corporation NSW cont.
+
+that it has said on at least three occasions (not including Renard) that good faith, in some degree or
+to some extent, is part of the law of performance of contracts. It is unnecessary to go beyond this
+proposition to gain assistance in the construction of this particular clause of this contract. …
+   [62] Whilst there is some doubt as to the extent of concurrence of Waddell AJA in Coal Cliff (see the
+use of the word “generally”), nevertheless the considered reasons of Kirby P with which Waddell AJA
+agreed (generally) conform to the general approach taken by the Court in Hughes, Alcatel and Burger
+King and by the Victorian Court of Appeal in Con Kallergis.
+    [63] Further, in my view, Kirby P’s reasons are more persuasive than the competing authority.
+I say this with the utmost respect to those who have expressed a contrary view and recognising that
+the issue is one that has produced different expressions of view among great commercial judges on
+appeal: for example, Lord Wright, Lord Denning, Lord Diplock, Kirby P and Handley JA and among
+highly experienced commercial judges at first instance in this Court …
+[6.115] [64] I turn to the major contrary appellate decisions. In relation to Courtney, the reasoning
+of Lord Denning MR equated an agreement to negotiate with an agreement to agree. The latter is, of
+course, not enforceable: Booker at 604 (Gibbs CJ, Murphy J and Wilson J), as Kirby P recognised in Coal
+Cliff. It does not follow, however, that an agreement to undertake negotiations in good faith fails for
+the same reason. An agreement to agree to another agreement may be incomplete if it lacks essential
+terms of the future bargain. An agreement to negotiate, if viewed as an agreement to behave in a
+particular way may be uncertain, but is not incomplete. The objection that no court could estimate
+the damages because no one could tell whether the negotiations “would be” successful ignores the
+availability of damages for the loss of a bargained for valuable commercial opportunity: Chaplin v Hicks
+[1911] 2 KB 786; Sellars v Adelaide Petroleum NL (1994) 179 CLR 332 at 349 ff. The relevant question
+is whether the clause has certain content.
+   [65] Nor, with respect, do I find the views of Lord Ackner in Walford v Miles persuasive. An
+obligation to undertake discussions about a subject in an honest and genuine attempt to reach an
+identified result is not incomplete. It may be referable to a standard concerned with conduct assessed
+by subjective standards, but that does not make the standard or compliance with the standard
+impossible of assessment. Honesty is such a standard: cf Royal Brunei Airlines Sdn Bhd v Tan [1995] 2
+AC 378 and Twinsectra Ltd v Yardley [2002] 2 AC 164. Whether it is capable of assessment depends
+on whether there is a standard of behaviour that is capable of having legal content. Asserting its
+uncertainty does not answer the question. The assertion that each party has an unfettered right
+to have regard to any of its own interests on any basis begs the question as to what constraint the
+party may have imposed on itself by freely entering into a given contract. If what is required by
+the voluntarily assumed constraint is that a party negotiate honestly and genuinely with a view to
+resolution of a dispute with fidelity to the bargain, there is no inherent inconsistency with negotiation,
+so constrained. To say, as Lord Ackner did, that a party is entitled not to continue with, or withdraw
+from, negotiations at any time and for any reason assumes that there is no relevant constraint on the
+negotiation or the manner of its conduct by the bargain that has been freely entered into. Here, the
+restraint is a requirement to meet and engage in genuine and good faith negotiations. For the reasons
+expressed below that expression has, in the context of this contract, legal content.
+   [66] Of course, it must be that the certainty and content of any contract will depend on its specific
+terms and context. Sweeping generalised rules, however, are difficult to sustain and not of great
+assistance.
+   [67] In the way I have expressed my understanding of them, I respectfully agree with the statements
+of principle by Kirby P in Coal Cliff. …
+   [69] It is unnecessary to express any opinion on the facts and the application of principle to
+the facts in Coal Cliff. Suffice it to say that despite the views of such an experienced commercial
+judge as Clarke J (the trial judge in Coal Cliff) that the clause did not lack certainty, there is force
+in the conclusions of Kirby P, given the open-​ended nature of the operation of the obligation in
+
+176   [6.115]
+
+===== PDF 215 | expected printed p 177 | footer: [6.120]   177
+                                                                                      Certainty   Chapter 6
+
+
+United Group Rail Services Ltd v Rail Corporation NSW cont.
+
+that case; although, given the sophistication of the parties and their clearly expressed views, one
+could view many of the matters referred to by Kirby P as affecting breach or proof of breach, rather
+than legal content of the contractual obligation. It is also unnecessary to consider, in the abstract, a
+clause providing for good faith negotiations in bringing about a commercial agreement in the first
+instance. The concern in the present case is the express mutual promises of the parties to undertake
+genuine and good faith negotiations to resolve disputes arising from performance of a fixed body of
+contractual rights and obligations. The difference is of great importance.
+    [70] What the phrase “good faith” signifies in any particular context and contract will depend on
+that context and that contract. A number of things, however, can be said as to the place of good faith
+in the operation of the common law in Australia. The phrase does not, by its terms, necessarily import,
+or presumptively introduce, notions of fiduciary obligation familiar in equity or the law of trusts. Nor
+does it necessarily import any notion or requirement to act in the interests of the other party to the
+contract. The content and context here is a clearly worded dispute resolution clause of an engineering
+contract. It is to be anticipated at the time of entry into the contract that disputes and differences
+that may arise will be anchored to a finite body of rights and obligations capable of ascertainment
+and resolution by the chosen arbitral process (or, indeed, if the parties chose, by the Court). The
+negotiations (being the course of treaty or discussion) with a view to resolving the dispute will be
+anticipated not to be open-​ended about a myriad of commercial interests to be bargained for from
+a self-​interested perspective (as in Coal Cliff). Rather, they will be anticipated to involve or comprise
+a discussion of rights, entitlements and obligations said by the parties to arise from a finite and fixed
+legal framework about acts or omissions that will be said to have happened or not happened. The
+aim of the negotiations will be anticipated to be to resolve a dispute about an existing bargain and its
+performance. Honest and genuine differences of opinion may attend the parties’ views of their rights
+and obligations. Such things as difficulties of proof and uncertainty as to fact or law may perfectly
+legitimately strike the parties differently. That accepted, honest business people who approach a
+dispute about an existing contract will often be able to settle it. This requires an honest and genuine
+attempt to resolve differences by discussion and, if thought to be reasonable and appropriate, by
+compromise, in the context of showing a faithfulness and fidelity to the existing bargain.
+[6.120] [71] The phrase “genuine and good faith” in cl 35.11 is, as I have said, a composite phrase.
+It is a phrase concerning an obligation to behave in a particular way in the conduct of an essentially
+self-​interested commercial activity: the negotiation of a resolution of a commercial dispute. Given
+that context, the content of the phrase involves the notions of honesty and genuineness. Whilst
+the activity is of a self-​interested character, the parties have not left its conduct unconstrained. They
+have promised to undertake negotiations in a genuine and good faith manner for a limited period
+(14 days). As a matter of language, the phrase “genuine and good faith” in this context needs little
+explication: it connotes an honest and genuine approach to the task. This task, rooted as it is in the
+existing bargain, carries with it an honest and genuine commitment to the bargain (fidelity to the
+bargain) and to the process of negotiation for the designated purpose.
+   [72] … The parties have mutually agreed to bring an approach of genuineness and good faith
+to that process of seeking resolution of any such disagreement. That agreement carried with it, in
+ordinary language, a requirement to bring an honestly held and genuine belief about their mutual
+rights and obligations and about the controversy to the negotiations, and to negotiate by reference
+to such beliefs.
+    [73] These are not empty obligations; nor do they represent empty rhetoric. An honest and genuine
+approach to settling a contractual dispute, giving fidelity to the existing bargain, does constrain a party.
+The constraint arises from the bargain the parties have willingly entered into. It requires the honest
+and genuine assessment of rights and obligations and it requires that a party negotiate by reference to
+such. A party, for instance, may well not be entitled to threaten a future breach of contract in order to
+bargain for a lower settlement sum than it genuinely recognises as due. That would not, in all likelihood,
+reflect a fidelity to the bargain. A party would not be entitled to pretend to negotiate, having decided
+not to settle what is recognised to be a good claim, in order to drive the other party into an expensive
+
+                                                                                              [6.120]   177
+
+===== PDF 216 | expected printed p 178 | footer: 178   [6.125]
+Part II: Formation
+
+
+United Group Rail Services Ltd v Rail Corporation NSW cont.
+
+arbitration that it believes the other party cannot afford. If a party recognises, without qualification,
+that a claim or some material part of it is due, fidelity to the bargain may well require its payment.
+That, however, is only to say that a party should perform what it knows, without qualification, to be its
+obligations under a contract. Nothing in cl 35.11 prevents a party, not under such a clear appreciation
+of its position, from vindicating its position by self-​interested discussion as long as it is proceeding by
+reference to an honest and genuine assessment of its rights and obligations. It is not appropriate to
+multiply examples. It is sufficient to say that the standard required by the notion of genuineness and
+good faith within a process of otherwise tactical and self-​interested behaviour (negotiation) is rooted in
+the honest and genuine views of the parties about their existing bargain and the controversy that has
+arisen in connection with it within the limits of a clause such as cl 35.1.
+    [74] With respect to those who assert to the contrary, a promise to negotiate (that is to treat and
+discuss) genuinely and in good faith with a view to resolving claims to entitlement by reference to a
+known body of rights and obligations, in a manner that respects the respective contractual rights of
+the parties, giving due allowance for honest and genuinely held views about those pre-​existing rights
+is not vague, illusory or uncertain. It may be comprised of wide notions difficult to falsify. However, a
+business person, an arbitrator or a judge may well be able to identify some conduct (if it exists) which
+departs from the contractual norm that the parties have agreed, even if doubt may attend other
+conduct. If business people are prepared in the exercise of their commercial judgement to constrain
+themselves by reference to express words that are broad and general, but which have sensible and
+ascribable meaning, the task of the Court is to give effect to, and not to impede, such solemn express
+contractual provisions. It may well be that it will be difficult, in any given case, to conclude that a
+party has not undertaken an honest and genuine attempt to settle a dispute exhibiting a fidelity to the
+existing bargain. In other cases, however, such a conclusion might be blindingly obvious. Uncertainty
+of proof, however, does not mean that this is not a real obligation with real content.
+[6.125] [78] This is a dispute resolution clause. To require in such a clause this degree of constraint
+on the positions of the parties reflects developments in dispute resolution generally. The recognition
+of the important public policy in the interests of the efficient use of public and private resources and
+the promotion of the private interests of members of the public and the commercial community in
+the efficient conduct of dispute resolution in litigation, mediation and arbitration in a fair, speedy and
+cost efficient manner attends all aspects of dispute resolution: cf “just, quick and cheap resolution of
+the real issues”: Civil Procedure Act 2005 (NSW), s 56. Parties are expected to co-​operate with each
+other in the isolation of real issues for litigation and to deal with each other in litigation in court in a
+manner requiring co-​operation, clarity and disclosure …
+    [80] The public policy in promoting efficient dispute resolution, especially commercial dispute
+resolution, requires that, where possible, real and enforceable content be given to clauses such as
+cll 35.11 and 35.12 to encourage approaches by, and attitudes of, parties conducive to the resolution
+of disputes without expensive litigation, arbitral or curial.
+   [81] … In my view, subcl 35.11(c) was not uncertain and had identifiable content.
+   [Ipp and Macfarlan JJA agreed with Allsop P.]
+   Appeal dismissed.
+
+                                                  
+
+
+[6.140]                                           Note
+See further Paterson, “The Contract to Negotiate in Good Faith: Recognition and Enforcement”
+(1996) 10 JCL 120 and Peel, “Agreements to Negotiate in Good Faith” in Burrows and Peel
+(eds), Contract Formation and Parties (2010), p 37.
+
+
+178   [6.125]
+
+===== PDF 217 | expected printed p 179 | footer: [6.145]   179
+                                                                                    Certainty   Chapter 6
+
+
+
+ILLUSORY PROMISES
+
+
+                                        Meehan v Jones
+[6.145] Meehan v Jones (1982) 149 CLR 571 (High Court of Australia) –​Appeal from the Supreme
+Court of Queensland.
+  [FACTS: By a contract dated 14 March 1979, the first respondent/​vendor agreed to sell to the
+appellant/​purchaser land on which an oil refinery had been built. Special condition 1 provided that:
+   This contract is executed by the parties subject to the following:
+   (a) The Purchaser or his nominee entering into a satisfactory agreement or arrangement
+        with Ampol Petroleum Limited for the supply of a satisfactory quantity of crude oil …;
+   (b) The Purchaser or his nominee receiving approval for finance on satisfactory terms and
+        conditions in an amount sufficient to complete the purchase hereunder;
+and should either of the above conditions not be satisfied on or before the 31st day of July 1979 (or
+such extended time as the parties may agree upon), then this Contract (other than for the provisions
+of this Clause) shall be null and void and at an end, all moneys paid hereunder by the Purchaser shall
+be refunded in full.
+    The vendors claimed the contract was void for uncertainty and entered into a contract on 23 July
+to sell the land to the second respondent. On 30 July, the purchaser gave notice to the vendors that
+the purchaser’s nominee had made a satisfactory arrangement with Ampol and had arranged finance
+on satisfactory terms and conditions. The purchaser sought specific performance of the contract. The
+trial judge and Full Court of the Supreme Court (by majority) refused specific performance on the
+basis that contract was void for uncertainty. The purchaser appealed to the High Court.]
+   GIBBS CJ: [575] The most important question on this appeal, and that on which the learned judges
+of the Full Court of the Supreme Court of Queensland were in disagreement, is whether a contract
+of sale of land was binding when it included a term which made the contract subject to certain
+conditions –​particularly a condition making it subject to the purchaser or his nominee receiving
+approval for finance on satisfactory terms and conditions … [576]
+   The submission advanced on behalf of the vendors and the second respondent was that the
+inclusion of Special Condition 1 had the result that no binding contract was made between the
+parties. The submission rested on a number of alternative propositions which may be summarised
+as follows. First, the word “satisfactory” in both paras (a) and (b) refers to the satisfaction of the
+vendors as well as to that of the purchaser and the nominee, so that the clause leaves vital matters to
+be agreed between the parties; accordingly, there is no more than an agreement to agree. Secondly,
+the language of the [577] clause is so imprecise and indefinite that it is not possible for the court to
+say what events would satisfy the conditions which are described. Thirdly, the clause leaves it to the
+discretion of the purchaser whether he will perform the obligations which the contract purports to
+describe, so that what appears to be a contract is really illusory. It was further said that there was no
+concluded bargain because the contract left a vital matter to the determination of one of the parties,
+but in the circumstances of this case that was only another way of saying that the contract was illusory.
+   The first of these submissions may be dealt with quite shortly … Special Condition 1(a) was plainly
+inserted in the interest of the purchaser or his nominee, in an endeavour to ensure that if the contract
+was completed, and the purchaser or his nominee became the owner of the refinery, a sufficient
+supply of crude oil would be available to enable the refinery to be continued in operation … Special
+Condition 1(b) is clearly directed to the question whether the terms and conditions of finance supplied
+are satisfactory from the point of view of the purchaser. This first submission fails; Special Condition
+1, on its proper construction, affords it no support.
+   The second submission raises a question that has given rise to considerable differences of opinion
+in the cases in which the courts have been called upon to give effect to contracts which are made
+conditional upon the obtaining of finance or suitable or satisfactory [578] finance. Of course it is
+
+                                                                                            [6.145]   179
+
+===== PDF 218 | expected printed p 180 | footer: 180   [6.145]
+Part II: Formation
+
+
+Meehan v Jones cont.
+
+obvious enough that every such case must depend on the particular words of the contract in question,
+and that it is not profitable to compare with each other cases decided on different contractual
+provisions. However, it may be possible to state principles which will provide some guidance through
+the thicket of decisions.
+    When the words of a condition state that a contract is subject to finance, the question immediately
+arises whether the test which is required to be applied is a subjective or an objective one. On the one
+hand, the contract may be conditional upon the purchaser obtaining finance which he finds sufficient
+or satisfactory –​such finance as he honestly thinks he needs to complete the purchase. On the other
+hand, the condition may be fulfilled if finance is available which the purchaser ought to find sufficient,
+or which ought reasonably to satisfy him, even though he honestly, but unreasonably, regards it as
+insufficient or unsatisfactory. The fact that opinions may differ as to which of these two meanings is
+given to the words of the clause does not mean that the clause is uncertain. If the court, in construing
+the contract, can decide which of the two possible meanings is that which the parties intended, there
+will be no uncertainty …
+   It is only if the court is unable to put any definite meaning on the contract that it can be said to
+be uncertain.
+    If the words of the condition are understood to import a subjective test –​if the condition is
+fulfilled if the purchaser honestly thinks that the finance is satisfactory –​it is impossible in my
+opinion to regard the condition as uncertain. The question whether the purchaser does think
+the finance satisfactory is a simple question of fact. In most cases it will be a question easily
+answered; if the purchaser thinks the finance satisfactory, he will normally seek to complete the
+contract, whereas if he does not think it satisfactory, usually he will not attempt to complete.
+In any case, whether the purchaser is satisfied is simply a question of fact, because, to use the
+well known words of Bowen LJ, “the state of a man’s mind is as [579] much a fact as the state of
+his digestion”: Edgington v Fitzmaurice (1885) 29 Ch D 459, 483. However, if the test is purely
+subjective, the question will arise whether any binding agreement has been made at all. That is a
+question which I shall later discuss.
+   On the other hand, if the test is an objective one, and the question is whether the finance ought
+reasonably to be regarded as satisfactory, I should not have thought that the clause is too indefinite
+for the courts to be able to attribute any particular contractual intention to the parties. It is true that
+the condition may, as Holland J said in Grime v Bartholomew [1972] 2 NSWLR 827, 838, be “silent
+as to amount, term of the loan, rate of interest, conditions of repayment, class of lender, secured or
+unsecured or form of security”. Nevertheless, a court which had evidence of the financial position of
+the purchaser, the amount required to complete the contract and the prevailing rates and conditions
+on which loans are made by various classes of lenders should not find it unduly difficult to decide what
+finance a reasonable man, in the position of the purchaser, would regard as satisfactory.
+  [His Honour then discussed a number of cases in which similar questions had been raised and
+continued:]
+   [580] Other cases have left open the question whether a clause which makes a contract subject
+to finance imposes an objective standard, so that the test is whether the finance is available on terms
+that would suit or satisfy a reasonable man, or a subjective standard, so that it is left to the purchaser
+himself to decide whether the finance is sufficient or satisfactory, and, if that standard is subjective,
+whether the decision must be made in good faith. However, in Australia and New Zealand the courts,
+except in New South Wales, have shown a disposition to hold that clauses which make a contract
+subject to finance are not void for uncertainty. In New South Wales the view has been taken that a
+subject to finance clause is void, whether it imports an objective or a subjective test: Moran v Umback
+[1966] 1 NSWR 437.
+   It seems to me that unless a clause of this kind makes a clear indication to the contrary, its natural
+effect is to leave it to the purchaser to determine whether or not the available finance is suitable to his
+
+
+180   [6.145]
+
+===== PDF 219 | expected printed p 181 | footer: [6.145]   181
+                                                                                      Certainty   Chapter 6
+
+
+Meehan v Jones cont.
+
+needs. A clause such as Special Condition 1(b), which speaks of “satisfactory terms and conditions”,
+in its natural meaning requires that the purchaser be satisfied … [581] Such a condition is generally
+entirely for the protection of the purchaser, and it is the satisfaction of the purchaser, not that of some
+hypothetical reasonable man, that will satisfy the condition. No doubt it may be implied that the
+purchaser will act honestly in deciding whether or not he is satisfied. However, it does not seem to
+me necessary, in order to give business efficacy to a contract, that a condition should be implied that
+the purchaser will make reasonable efforts to obtain finance. The parties may expect that he will, but
+he does not contract to so do.
+    Although there is nothing uncertain about a clause which speaks of terms and conditions which
+satisfy the purchaser, the question nevertheless arises, when a contract is made conditional on such a
+clause, whether the contract is illusory. There is a well settled general principle which was expressed
+as follows by Kitto J in Placer Development Ltd v Commonwealth (1969) 121 CLR 353, 356:
+   wherever words which by themselves constitute a promise are accompanied by words
+   showing that the promisor is to have a discretion or option as to whether he will carry out
+   that which purports to be the promise, the result is that there is no contract on which an
+   action can be brought at all.
+… In my opinion that principle does not apply where the discretion or option of the contracting party
+relates, not to the performance of the contractual obligations themselves, but only to the fulfilment of
+a condition upon which the contract depends. That this is so is illustrated by the case of an option to
+purchase which is, in many cases at least, a contract to sell the land upon condition that the grantee
+gives the notice and does the other things stipulated in the option. Such an option gives the grantee
+a right, if he performs the stipulated conditions, to become the purchaser. However the fact that the
+grantee has a discretion as to whether or not he performs those conditions does not render the option
+illusory. The case of a conditional agreement is analogous. The fact that the condition is one whose
+performance [582] lies wholly or partly within the power of one of the parties to the contract does not
+mean that there is no binding contract once the condition is fulfilled. There is a concluded agreement
+as to the terms of the contract which, if the condition is satisfied, leaves no discretion in either party
+as to whether he shall carry them out. Once the condition is fulfilled, within the time allowed by the
+contract for its fulfilment, the contract becomes completely binding.
+   It is clear that the condition in Special Condition 1(b) is not a condition precedent to contract.
+Certain obligations under the contract attached immediately the contract was signed although the
+condition had not been fulfilled. For example, the provisions with regard to the deposit, and with
+regard to the giving and answering of requisitions on title, became immediately effective. Whether
+the condition is described as a condition precedent to completion, or as a condition subsequent,
+seems largely a matter of words. A similar question was discussed in Perri v Coolangatta Investments Pty
+Ltd (1982) 56 ALJR 445. The condition in that case made the sale subject to the purchasers completing
+a sale of their property. It was within the power of the purchasers to prevent the fulfilment of such
+a condition; in that respect they had a discretion as to whether they would completely perform the
+contract. Nevertheless, it was not doubted that a binding contract had been concluded.
+    For these reasons, Special Condition 1(b) effectively and certainly described a condition on whose
+fulfilment the obligation to complete the contract depended. The possibility that the satisfaction
+might be that of the nominee did not introduce an element of uncertainty, for on no view was the
+satisfaction of the vendors necessary. Once approval was given by any lender for the making of a loan
+on terms and conditions regarded as satisfactory by the purchaser or his nominee the condition was
+fulfilled. Thereafter both the vendors and the purchaser were bound to complete.
+   What I have said in relation to Special Condition 1(b) applies, in substance, to Special Condition
+1(a) also. Once the purchaser or his nominee had made with Ampol an agreement or arrangement
+which the purchaser or his nominee regarded as satisfactory the condition was satisfied and both
+parties were bound. For these reasons I have concluded that the majority of the Full Court were in
+
+
+                                                                                              [6.145]   181
+
+===== PDF 220 | expected printed p 182 | footer: 182     [6.150]
+Part II: Formation
+
+
+Meehan v Jones cont.
+
+error in holding that Special Condition 1 was uncertain, or that it left it to the purchaser to decide
+whether he would proceed with the contract.
+    Certain other arguments were advanced on behalf of the respondents. These were not accepted
+in the Supreme Court, and they [583] have been dealt with by my brother Mason in his judgment in
+this case. In relation to those aspects of the matter I agree with my brother’s reasons and need add
+nothing to them ….
+      I would allow the appeal.
+[6.150] MASON J: [587] It is convenient to examine the validity of Special Condition 1(b) before
+turning to Special Condition 1(a). In the Full Court it became the critical question.
+Special condition 1(b)
+The respondents’ case rests on three propositions:
+(1)       a contract which is expressed in language “so obscure and so incapable of any definite or
+          precise meaning that the court is unable to attribute to the parties any particular contractual
+          intention” is void for uncertainty (G Scammell and Nephew Ltd v Ouston [1941] AC 251 at 268);
+(2)       a contract which reserves to a party a discretion or option whether he will carry out what
+          appears to be a promise on his part is also void for uncertainty (Thorby v Goldberg (1964) 112
+          CLR 597 at 605); and
+(3)       there can be no concluded bargain if a vital matter has been left to the determination of one
+          of the parties: see Godecke v Kirwan (1973) 129 CLR 629 at 647 per Gibbs J.
+It is argued that the concept of “finance on satisfactory terms and conditions” is altogether too
+uncertain and indefinite to admit of a precise meaning. The thrust of the argument is that the absence
+of agreement as to the amount to be borrowed, and perhaps the term of the loan and the rate of
+interest, make it impossible for a court to decide what finance is contemplated by the contract as
+being “satisfactory” … This point would have force if the contract left the court at large to assess what
+is “finance on satisfactory terms and conditions”, yielding no indication as to what the parties meant
+by that expression. But in the context of a contract for the sale and [588] purchase of real estate which
+contains a condition that the purchaser or his nominee receives approval for such finance so that the
+deposit is to be refunded to the purchaser if the condition is not satisfied, there can be no doubt that
+“satisfactory” ordinarily means “satisfactory to the purchaser or his nominee”.
+   Primarily the object of such a clause is to benefit or protect the purchaser by ensuring that he is not
+under a binding obligation to complete if he is unable to obtain finance. Here there is nothing in the
+contract or other materials to suggest that the object of the clause was not to protect the purchaser,
+although there is the question whether the condition is exclusively for his benefit, a matter to be
+discussed later. The primary object of the condition being the protection of the purchaser, it is sensible
+to treat it as stipulating for finance that is satisfactory to the purchaser or his nominee, subject to an
+implied obligation that he will act honestly, or honestly and reasonably, in endeavouring to obtain
+finance and in deciding whether to accept or reject proposals for finance …
+   To say that clauses of this kind are void for uncertainty is to ignore the traditional doctrine that
+courts should be astute to adopt a construction which will preserve the validity of the contract.
+Moreover, it is a draconian solution –​one which is best calculated to frustrate the expectations of the
+parties, because in an increasing number of cases purchasers depend on the provisions of finance in
+order to complete. The problems of uncertainty can be avoided by drafting a clause which specifies
+the details of the finance to be sought, but such a clause, by reason of its greater precision, may be
+too inflexible in its operation.
+    It has sometimes been argued that there is a relevant distinction between “subject to satisfactory
+finance” or “subject to suitable finance” and making the contract “subject to finance”. The suggestion
+is that in the first case it is easier to imply that the finance is to be satisfactory to the purchaser. Even
+if this be so, I would have no difficulty in reading a “subject to finance” clause as requiring finance
+
+
+182     [6.150]
+
+===== PDF 221 | expected printed p 183 | footer: [6.150]   183
+                                                                                    Certainty   Chapter 6
+
+
+Meehan v Jones cont.
+
+in an amount and on terms satisfactory to the purchaser, in the absence of some indication that the
+clause had another meaning.
+    To say that a “subject to finance” or “subject to finance on satisfactory terms and conditions”
+clause denotes finance which is satisfactory to the purchaser is not to say that he has an absolute or
+unfettered right to decide what is satisfactory. To concede such a right would certainly serve the object
+of the clause in protecting him. But it would do so at the expense of the legitimate expectations of the
+vendor by enabling the purchaser to escape from the contract on a mere declaration that he could not
+obtain suitable finance. With some justification the vendor can claim that the agreement made by the
+parties is not an option but a binding contract which relieves the purchaser from performance only
+in the event that, acting honestly, or honestly and reasonably, he is unable to obtain suitable finance.
+  There is in this formulation no element of uncertainty –​the courts are quite capable of deciding
+whether the purchaser is acting honestly and reasonably. The limitation that the purchaser must act
+honestly, or honestly and reasonably, takes the case out of the principle that:
+   where words which by themselves constitute a promise are accompanied by words which
+   show that the promisor is [590] to have a discretion or option as to whether he will carry
+   out that which purports to be the promise, the result is that there is no contract on which
+   an action can be brought.
+See Thorby v Goldberg (at 605) citing Loftus v Roberts (1902) 18 TLR 532 at 534. The judgment of the
+purchaser as to what constitutes finance on satisfactory terms is not an unfettered discretion –​it must
+be reached honestly, or honestly and reasonably.
+   It has often been held that, where under a contract the delivery of a ship or of goods is expressed
+to be subject to the buyer’s approval, the buyer may disapprove so long as he acts honestly …
+   There are cases in which it has been said that a capricious withholding of approval will not do …
+    In this case it is not necessary to decide whether the purchaser, in [591] deciding whether finance
+is on satisfactory terms, is bound to act honestly or whether he is also bound to act reasonably. The
+cases already mentioned appear to support the first rather than the second alternative. And there is
+some ground for thinking that the parties contemplated that the question was to be left to the honest
+judgment of the purchaser rather than to the judgment of a court as to whether the purchaser acted
+reasonably in the circumstances.
+   On the other hand, it has been said that a condition of this type imports an obligation or promise
+on the part of the purchaser to act honestly and reasonably: Barber v Crickett [1958] NZLR 1057 at
+1058; Scott v Rania [1966] NZLR 527 at 539 per Hardie Boys J. McCarthy J, who in Scott v Rania (at
+534) preferred to base his reasoning on the principle that a party to a contract cannot be permitted
+to rely on his own wrong, later in Gardner v Gould [1974] 1 NZLR 426 at 428 adopted the implied
+promise theory. The reasoning which underlies the decisions of this court upholding the implication
+of an obligation on the part of a party to a contract to do all that was reasonable on his part to obtain
+a statutory consent applies with equal force here. In Butts v O’Dwyer (1952) 87 CLR 267 at 280,
+Dixon CJ, Williams, Webb and Kitto JJ said:
+   It has been held in cases too numerous to mention both before and after the classic
+   statement of Bowen LJ in the case of The Moorcock (1889) 14 PD 64 at 68 that the law raises
+   an implication from the presumed intention of the parties where it is necessary to do so
+   in order to give to the transaction such efficacy as both parties must have intended that it
+   should have.
+Here the expressed intention of the parties was that the purchaser would obtain finance; his obtaining
+of finance on satisfactory terms was necessary to give the transaction its intended efficacy. The
+consequence would be that he had an obligation to do all that was reasonable on his part to obtain
+that finance. It would make for greater consistency to say that, if the purchaser is bound to act
+reasonably in seeking to obtain finance, he is bound to act reasonably as well as honestly in deciding
+
+
+                                                                                            [6.150]   183
+
+===== PDF 222 | expected printed p 184 | footer: 184   [6.160]
+Part II: Formation
+
+
+Meehan v Jones cont.
+
+whether the finance was satisfactory. So understood the special condition would preserve an even
+balance between the vendors and the purchaser. However, I have no need to decide the question.
+Here it makes no difference whether the purchaser was under an obligation to act honestly or honestly
+and reasonably in deciding whether the terms of an offer of finance were satisfactory.
+    Although the binding words of the special condition suggest that [592] its effect is to make the
+existence of the contract conditional, it is more sensible to regard the provision as one which provides
+for the determination of a valid and binding contract in the event that the purchaser or his nominee
+is unable to obtain approval for satisfactory finance on or before the appointed date. In accordance
+with the principle established in New Zealand Shipping Co v Société des Ateliers et Chantiers de France
+[1919] AC 1, and extended in Suttor v Gundowda Pty Ltd (1950) 81 CLR 418 at 440–​2, each party has
+the right to avoid the contract on the non-​performance of the condition, notwithstanding that non-​
+performance may occur without default on the part of the purchaser, that is, he may fail to procure
+finance despite every endeavour on his part. I say “each party” because it seems to me that, although
+the primary object of the condition is to protect the purchaser, it is perhaps difficult to assert that the
+clause is for his benefit exclusively when it states that the result of non-​performance is that the contract
+shall be null and void, rather than null and void at the option of the purchaser. I see no justification for
+implying a right of avoidance on the part of the purchaser alone. In other circumstances to make this
+implication would be to reach a one-​sided interpretation, allowing the purchaser to keep the contract
+on foot, despite non-​performance of the condition, but denying the vendor the right to avoid. Here
+the vendors were protected by the fixing of the date for completion and the making of time of the
+essence. Even so, there is no adequate basis for concluding that the special condition authorised the
+purchaser alone to terminate.
+   Whether the condition is to be described as precedent or subsequent is an artificial and theoretical
+question. In one sense performance of the condition or non-​avoidance for breach of it is precedent
+to the right of a party to call for the performance of a contract. In another sense there is a valid and
+binding contract which may be determined for non-​performance of the condition, and in this sense
+the condition is subsequent, not precedent.
+   For the reasons I have given Special Condition 1(b) is valid.
+Special condition 1(a)
+The attack on the validity of this condition raises considerations similar to those already examined.
+“Satisfactory” here again means satisfactory to the purchaser or his nominee in relation to the
+agreement contemplated and as to quantity, provided of course that the purchaser or his nominee
+acts honestly and reasonably. I reject the argument that in Special Condition 1(a) satisfactory means
+“satisfactory to both parties” …
+Clauses 1 and 2
+[593] The second respondent argues that the deletion of cl 1 and the partial deletion of cl 2 also
+results in the contract becoming void for uncertainty because there is nothing in the contract to
+indicate how completion is to occur. The consequence of the deletion is that there is no specific
+provision in the contract providing for the manner in which the balance of the purchase price is to be
+paid. The answer to this submission is that the law implies that in the absence of a specific contractual
+provision the obligations of each of the parties under the contract are to be performed on or before
+the completion date, 31 August 1979. The general rule is that settlement and the giving of possession
+are to coincide …
+[6.160] MURPHY J: [596] Clauses in contracts of sale which provide that the contract is subject to
+the purchaser obtaining satisfactory finance, or adaptations such as “subject to satisfactory finance” or
+“subject to finance”, do not render the contracts illusory. The transactions are conditional contracts in
+the nature of options to purchase. On classical concepts of consideration, the purchaser’s consideration
+is the obligation to pay a deposit or other obligations (even if they are conditional). (See generally
+Treitel, Law of Contract, 5th ed (1979), p 64 et seq.) Such clauses are for the benefit of, and may be
+
+
+184   [6.160]
+
+===== PDF 223 | expected printed p 185 | footer: [6.170]   185
+                                                                                       Certainty   Chapter 6
+
+
+Meehan v Jones cont.
+
+[597] waived by, the purchaser …. If a purchaser erroneously believes that the finance is available, and
+so informs the vendor, the principles of estoppel apply.
+   Such clauses leave satisfaction with the finance to the purchaser’s discretion. Implication of the
+word “honest” as qualifying the satisfaction adds nothing. Also there is no justification for implying
+that the purchaser must act reasonably. If the parties wish to limit the discretion, they may do so, for
+example, by providing that certain terms of finance shall be deemed satisfactory. Unless this is done,
+the discretion is unlimited. Such clauses may also be subjected to special time limits as was done here,
+the effect of which is that unless the finance is obtained within a certain time, or the purchaser waives,
+the condition is not fulfilled and the vendor is relieved from the obligation to transfer. It follows that
+the contract was not void because of special condition 1(b).
+   The respondents, in this Court, also contended that special condition 1(a) of the contract was void
+for uncertainty (or, if valid, had not been fulfilled). I accept the Chief Justice’s analysis and conclusions
+on the application of special condition 1(a).
+[6.165] WILSON J: [597] I have had the advantage of reading the reasons prepared by Mason J.
+I agree with his Honour that each of the issues in the appeal should be resolved in favour of the
+appellant, with the result that there should be an order for specific performance of the contract. There
+is nothing of substance that I can usefully add to his Honour’s reasons, but I wish to make some brief
+observations.
+    The first observation relates to the general question whether a purchaser, in deciding whether
+finance is on satisfactory terms, is bound to act both honestly and reasonably. It is not necessary to
+decide the question for the purposes of this case because the finance was obtained. It seems to me
+that the weight of the authorities discussed by his Honour favours the conclusion that, subject always
+to the construction of the contract in the particular case, the court will imply no greater obligation
+on the purchaser than that he is obliged to act honestly in determining whether the available finance
+is satisfactory. I am inclined to think there is force in this view. The clause is there for the protection
+of the purchaser. [598] Clearly he must make reasonable efforts to secure finance. But the question
+whether he is able and willing to assume the burden involved in accepting particular terms may well
+be answered by reference to subjective considerations which cannot readily be the subject of objective
+assessment as to their reasonableness. The requirement of an honest judgment may be thought to
+provide the vendor with the maximum protection which is available under the clause. However, it is
+sufficient for me, like Mason J, to refrain from expressing a concluded view.
+   [Aickin J died before the judgment was delivered.]
+   Appeal allowed.
+
+                                                   
+
+
+[6.170]                                           Note
+In Smith v Pisani [2001] SASC 21; (2001) 78 SASR 548, a contract for the sale of land was
+made subject to the purchaser obtaining satisfactory finance. The purchaser applied for and
+was offered finance on terms that were not unusual or commercially unreasonable, but she
+refused to complete the contract on the basis that the terms of the finance were not satisfactory
+to her. Gray J held that the purchaser was obliged to act honestly and reasonably in obtaining
+finance and in considering proposals for finance. He upheld the magistrate’s finding that she
+had simply changed her mind about buying the vendor’s property. The purchaser’s refusal
+to complete the purchase therefore constituted a breach of contract and she was liable for
+damages.
+
+
+                                                                                               [6.170]   185
+
+===== PDF 224 | expected printed p 186 | footer: 186   [6.175]
+Part II: Formation
+
+
+
+
+                                      Godecke v Kirwan
+[6.175] Godecke v Kirwan (1973) 129 CLR 629 (High Court of Australia) –​Appeal from the Supreme
+Court of Western Australia.
+   [FACTS: The appellant (as purchaser) and respondent (as vendor) signed a document headed “offer
+and acceptance” which set out the terms of an agreement for the sale and purchase of land, including
+the following clauses:
+3.    Possession shall be given and taken on settlement upon signing and execution of a formal
+      contract of sale within 28 days of acceptance of this offer ….
+6.    If required by the Vendor/​s I/​we shall execute a further agreement to be prepared at my costs
+      by his appointed Solicitors containing the foregoing and such other covenants and conditions
+      as they may reasonably require.
+The respondent vendor refused to proceed. The appellant purchaser lodged a caveat. The vendor
+issued a summon seeking removal of the caveat. Virtue J at first instance ordered that the caveat be
+removed on the basis that the agreement was not binding. Since the agreement contemplated that
+the formal contract would contain additional terms, it fell within the third class of cases mentioned in
+Masters v Cameron (1954) 91 CLR 353, at [5.80]. The purchaser appealed.]
+   WALSH J: [642] In the present case the parties set out all the principal terms which were to govern
+the sale and purchase of the land and these included provisions which imposed by implication an
+obligation to execute a formal contract. There was also a promise by the purchaser to execute, if
+required to do so, a further agreement in accordance with cl 6. In my opinion, that clause should be
+construed as limited to permitting the insertion of covenants and conditions not inconsistent with
+those contained in the offer. It was limited also by the reference to the reasonableness of requiring
+the inclusion of the covenants and conditions. In my opinion, this does not mean that anything
+may be required which in the opinion of the solicitors is reasonable. It means that what is required
+must be reasonable in an objective sense, and in case of [643] dispute this is a matter which the
+court can decide. Clause 6 does not mean that the purchaser is making an agreement to agree later
+upon additional provisions to govern the bargain. It means that he is agreeing presently to accept as
+part of the bargain such additional provisions, if any, as are required, provided that they satisfy the
+requirements of consistency with the other terms and of reasonableness to which I have referred.
+     If, contrary to my view, cl 6 authorizes the vendor to require the execution of a further agreement
+after the contract contemplated by cl 3 and special condition 1 has been executed, then cl 6 would
+still operate subject to the limitations already discussed and, in my opinion, the vendor, if he wished
+to take advantage of it, would have to invoke it within a reasonable time, this again being a matter
+for decision if necessary by a court. The fact that more than one view may be open as to the time at
+which and the manner in which cl 6 was intended to operate does not itself require a conclusion that
+the agreement is void for uncertainty: see Upper Hunter County District Council v Australian Chilling and
+Freezing Co Ltd (1968) 118 CLR 429, 436–​7.
+   For the foregoing reasons I am unable to agree with the view of the learned primary judge that this
+was a case in which all the terms of the contract had not been settled and which for that reason fell
+within the third class of the cases discussed in Masters v Cameron (1954) 91 CLR 353. I am of opinion
+that a binding agreement was made.
+[6.180] GIBBS J: [645] Clause 6 does not require that the additional terms should be the subject
+of agreement between the parties. The inclusion of additional terms depends on the unilateral
+requirement of the solicitors for the vendor, subject to the qualification that the requirement must
+be reasonable. It is well established that the parties to a contract may leave terms –​even essential
+terms –​to be determined by a third person: Foster v Wheeler (1888) 38 Ch D 130; May and Butcher Ltd
+v The King [1934] 2 KB 17, at p 21. In such a case the contract is not bad for uncertainty because if the
+third person settles the terms the contract will thereby be rendered certain. It is no objection that the
+power to determine the terms and conditions to be incorporated in the contract is left to the solicitors
+for one of the parties: Axelsen v O’Brien (1949) 80 CLR 219 (see also Suttor v Gundowda Pty Ltd (1950)
+
+
+186   [6.175]
+
+===== PDF 225 | expected printed p 187 | footer: [6.180]   187
+                                                                                   Certainty   Chapter 6
+
+
+Godecke v Kirwan cont.
+
+81 CLR 418, 444–​5, and Christison v Warren [1903] St R Qd 186). In Axelsen v O’Brien (1949) 80
+CLR 219 an agreement for the sale of land provided (inter alia) that the vendor should execute a
+nomination of trustees over the land to trustees [646] appointed by the purchasers and should hand
+such nomination to the solicitors for the purchasers upon the purchasers paying £500 and upon the
+trustees executing a bill of mortgage securing payment of the balance of the purchase price. The
+agreement further provided: “The bill of mortgage shall contain such other terms and conditions
+as shall be required by Corser Sheldon & Gordon of Maryborough, solicitors, not inconsistent with
+the above terms.” It appears that that firm of solicitors, which consisted of one member only, was
+acting for the purchasers. It was contended that there was no complete and concluded contract
+because the further terms of the bill of mortgage remained to be arranged or determined. The Court
+rejected this contention. Latham CJ pointed out ((1949) 80 CLR 219, 225) that the terms of the bill
+of mortgage did not depend upon agreement between the parties because it was for the solicitor to
+settle the terms. The Court further held that the terms of the bill of mortgage were not an essential
+part of the contract, but merely a subsidiary means of carrying it into effect, and that the failure of
+the solicitor to settle the terms would not be a bar to specific performance –​the Court in granting
+specific performance would settle the terms if the solicitor did not (1949) 80 CLR 219, 225–​6. The
+same considerations seem to me to be applicable in the present case. The fact that cl 6 left it to the
+solicitors for the vendor to decide what other covenants and conditions should be included in the
+“further agreement” did not mean that it was necessary that the parties should agree as to further
+terms. The clause does not introduce any uncertainty into the agreement, or render it in any way
+incomplete and would present no obstacle to its specific performance.
+    I should perhaps make it clear that it does not necessarily follow from what I have said that an
+agreement which left further terms to be settled by one of the parties, rather than by his solicitors,
+would be treated as a concluded contract. In May and Butcher Ltd v The King [1934] 2 KB 17, 21,
+Viscount Dunedin suggested that a sale of land which left the price to be settled by the buyer himself
+would be good. With great respect, it seems to me that there would be no binding contract in such
+a case, which would fall within the principle that “where words which by themselves constitute a
+promise are accompanied by words which show that the promisor is to have a discretion or option
+as to whether he will carry out that which purports to be the promise, the result is that there is [647]
+no contract on which an action can be brought”: Thorby v Goldberg (1964) 112 CLR 597, 605, citing
+Loftus v Roberts (1902) 18 TLR 532, 534; Placer Development Ltd v The Commonwealth (1969) 121 CLR
+353, 359–​61. It might be suggested that the same principle would not apply if the determination
+of the price were left to the seller, for then it would be the promisee, not the promisor, who was left
+with the discretion as to performance. However, in Beattie v Fine [1925] VLR 363, Cussen J drew no
+such distinction and held that an option for renewal “at a rental to be agreed upon by the lessor” did
+not give rise to any contractual obligation. He based his decision on the principle of Loftus v Roberts
+(1902) 18 TLR 532, but the same conclusion might have been reached by holding that there can be
+no concluded bargain if a vital matter (such as price or rental) has been left to the determination of
+one of the parties (see also the dicta in Foster v Wheeler (1888) 38 Ch D 130, at pp 132–​3). Perhaps it
+may be different where agreement has been reached on all essential terms but the determination of
+subsidiary matters has been left to one of the parties. In Sweet & Maxwell Ltd v Universal News Services
+Ltd [1964] 2 QB 699 it was held by the Court of Appeal that an agreement for a lease which was
+to contain “such other covenants and conditions as shall be reasonably required” by the lessor was
+sufficiently certain to be a concluded contract for a lease and was capable of specific performance.
+In Powell v Jones [1968] SASR 394, Bray CJ went further and upheld the validity of an agreement for
+a lease which was “to be in terms and to contain such special clauses as the landlord may require”.
+His Honour said [1968] SASR 394, 400 that “there is nothing in the Sweet and Maxwell Case [1964]
+2 QB 699 to indicate that the Court of Appeal would have held the agreement to make the lease
+unenforceable if the word ‘reasonably’ had been omitted”. I am, with respect unable to agree with
+that observation, for it seems to me that the members of the Court of Appeal in Sweet & Maxwell Ltd
+v Universal News Services Ltd [1964] 2 QB 699 placed considerable reliance on the fact that the parties
+had imported the familiar and objective standard of reasonableness –​see [1964] 2 QB 699, 726, 733,
+
+                                                                                           [6.180]   187
+
+===== PDF 226 | expected printed p 188 | footer: 188   [6.185]
+Part II: Formation
+
+
+Godecke v Kirwan cont.
+
+735. However, it is unnecessary to express any concluded opinion on these matters because, as I have
+said, in the present case the settlement of the further terms is left to the determination of persons who
+are not parties to the contract. [648] … I hold, therefore, that the Offer and Acceptance constituted a
+valid and binding contract capable of being enforced by specific performance.
+   MASON J: I agree with the reasons for judgment prepared by my brother Walsh.
+   Appeal allowed.
+
+                                                 
+
+
+                     Placer Development v Commonwealth
+[6.185] Placer Development Limited v Commonwealth (1969) 121 CLR 353 (High Court of Australia).
+   [FACTS: The Commonwealth entered into an agreement with the plaintiff for the formation of a
+company to produce timber products in Papua New Guinea for export to Australia. Clause 14 of the
+agreement provided:
+   14. If customs duty is paid upon the importation into Australia of the plywood, veneers,
+   logs and other products of the Timber Company, and is not remitted, the Commonwealth
+   will pay to the Timber Company a subsidy upon the exportation of these products from the
+   Territory for entry into Australia of an amount or at a rate determined by the Commonwealth
+   from time to time, but the amount of subsidy paid shall not exceed the amount of customs
+   duty paid and not remitted.
+The timber company was formed and for several years imported products into Australia and paid
+customs duty. For four years, the Commonwealth paid a subsidy equal to the amount of duty
+paid. Thereafter no subsidy was paid. The parties stated a case for the High Court, asking whether
+the Commonwealth was obliged by cl 14 to determine a rate of subsidy or to pay a subsidy. The
+Court, by majority of 3-​2 (Kitto, Taylor and Owen JJ; Menzies and Windeyer JJ dissenting), held
+that it was not.]
+    KITTO J: Question 3 is whether by virtue of cl 14 the Commonwealth is obliged (again, to the
+plaintiff company) to pay to the timber company a subsidy which will recoup to the timber company
+all the customs duty paid by it on the importation of its plywood into Australia and not remitted.
+Again, the answer must be No. The Commonwealth has plainly retained a right to review and vary
+the amount or rate of subsidy, and such a reservation, as the Court observed in Australian Woollen Mills
+Pty Ltd v The Commonwealth (1954) 92 CLR 424, 464 “cannot be reconciled with the conception that
+the Crown has promised to pay a subsidy of definite amount”….
+    Cases in which a party’s liability to make a payment is expressed as depending upon an exercise
+of discretion by that party have most often been cases of service agreements. The question there
+is usually whether the intention of the agreement is that the employer shall be entitled to decide
+whether any remuneration at all shall be paid and if so how much, or is that he shall be bound to pay
+at all events a reasonable remuneration. In other words, it is whether, on the one hand, the service
+is intended to be honorary unless the employer otherwise decides, or, on the other hand, a promise
+to pay a reasonable amount is to be implied. As may be seen from the case of Bryant v Flight (1839)
+5 M & W 114; 151 ER 49, in which Parke B dissented from the decision of the Court, it is not always
+an easy question to decide; but the general principle is established which Vaughan Williams LJ in
+Loftus v Roberts (1902) 18 TLR 532, 534, expressed in words that were subsequently adopted by
+Lord Wrenbury, as Buckley J, in Broome v Speak [1903] 1 Ch 586, 599. It is that wherever words which
+by themselves constitute a promise are accompanied by words showing that the promisor is to have
+a discretion or option as to whether he will carry out that which purports to be the promise, the
+result is that there is no contract on which an action can be brought at all. The succinct statement
+
+188   [6.185]
+
+===== PDF 227 | expected printed p 189 | footer: [6.195]   189
+                                                                                   Certainty   Chapter 6
+
+
+Placer Development v Commonwealth cont.
+
+of the principle in Leake on Contracts, 3rd ed, p 3: “Promissory expressions reserving an option as
+to the performance do not create a contract” was approved by the Lord Justice, as it was later by
+Lord Wright in Hillas and Co Ltd v Arcos Ltd (1932) 147 LT 503, 517 ….
+     A promise of a governmental subsidy is meaningless in the absence of a specification of some
+amount or some basis of calculation. It carries no implication that at least a reasonable subsidy
+shall be paid, for there is no general standard of reasonableness with respect to the quantum of a
+subsidy. The expression in cl 14 of the Agreement before us, “a subsidy … of an amount or at a rate
+determined by the Commonwealth from time to time”, indeed reflects the fact that a governmental
+or legislative determination of quantum is of the essence of a subsidy. The Commonwealth’s promise
+is, in substance, a promise to pay such subsidy if any as may be decided upon from time to time by or
+under the authority of the appropriate repository of Commonwealth power, namely the Parliament.
+It therefore does not create any contractual obligation.
+[6.190] TAYLOR AND OWEN JJ: [361] Obviously there is a complete absence from the clause, and
+from the Agreement as a whole, of any identifiable criteria by which it can be said the parties intended
+the amounts or rates to be determined; this is left solely to the discretion of the Commonwealth. This
+being so the clause amounts to no more than a promise to pay what, in all the circumstances, the
+Commonwealth in its discretion thinks fit and, as such, is wholly unenforceable.
+[6.195] MENZIES J: (dissenting) [363] The language is plainly that of legal obligation. The conditions
+giving rise to obligation upon the Commonwealth are precisely stated; it is provided that “the
+Commonwealth will pay … a subsidy … of an amount or at a rate determined by the Commonwealth
+from time to time”; and an upper limit to the subsidy is fixed.
+   It appears to me that two interpretations of the clause are open. First that it creates no legal
+obligation at all because what it provides is an illusory promise on the part of the Commonwealth. The
+second is that it does create an obligation when the conditions stated are fulfilled (1) to determine a
+subsidy within the limit and (2) to pay the subsidy determined.
+   According to the former interpretation, if the Commonwealth were to determine a subsidy upon
+imported products it would still be under no obligation to pay the subsidy so determined; according
+to the latter the Commonwealth’s obligation is both to determine what the subsidy is to be and then
+to pay it.
+    The latter interpretation is the one which commends itself to me. It is true that the Commonwealth
+is at large in determining the subsidy from time to time but it seems to me that the character of
+the provision would have been no different had it gone on to require the Commonwealth to take
+specified considerations into account in determining the subsidy. In such a case the form and [364]
+amount of the subsidy would still be in the discretion of the Commonwealth. The essential question
+seems to me to be whether a promise to make a determination does, in the circumstances, give rise
+to an obligation to do so.
+    There are, of course, cases such as Taylor v Brewer (1813) 1 M & S 290; 105 ER 108 and Roberts v
+Smith (1859) 4 H & N 315; 157 ER 861, where promises have been regarded as too illusory to support
+proceedings. These cases are, however, distinguishable. In the former the plaintiff, who had no more
+than a resolution “that any service to be rendered by him should be taken into consideration, and
+such remuneration be made as should be deemed right”, failed in assumpsit to recover compensation
+for work done because, it was held, that the resolution imported that the committee were to judge
+whether any remuneration was due. In the latter, in an action for work and labour done, the plaintiff
+failed because he had agreed that any work which he did in the circumstances which occurred should
+give him no right to salary and that in such an event it should be left entirely to the other party to
+give such sum as he may deem right as compensation for labour done. The decision of the court
+was no more than that the plaintiff had failed to make out that the defendant was indebted to him.
+Furthermore, to refuse to accord any legal consequence to cl 14 would seem to me to be flatly
+opposed to Bryant v Flight (1839) 5 M & W 114; 151 ER 49, where Abinger CB and Alderson B –​true it
+
+
+                                                                                           [6.195]   189
+
+===== PDF 228 | expected printed p 190 | footer: 190   [6.200]
+Part II: Formation
+
+
+Placer Development v Commonwealth cont.
+
+is against the dissent of Parke B –​decided that money was recoverable under the following promise: “I
+hereby agree to enter your service as a weekly manager, commencing next Monday, and the amount
+of payment I am to receive I leave entirely for you to determine.”
+    In my opinion, however, the questions which we have to determine are not to be decided by
+reference to authorities such as those referred to above. What we are concerned with is the meaning of
+cl 14 in the context of the whole Agreement. To my mind the clause does require the Commonwealth
+to fix a subsidy and then to pay the subsidy fixed. Here we are not concerned with whether the
+Commonwealth is under any obligation to pay money in the absence of a determination fixing it
+and I would not, of course, decide that if the Commonwealth did not fix a subsidy that a reasonable
+subsidy, or indeed any subsidy, became payable. Where, however, the question is whether cl 14 does
+impose a contractual duty upon the Commonwealth to fix a subsidy in the [365] circumstances stated
+so that the obligation to pay would thus arise, the problem is substantially one of interpretation and,
+in my opinion, the answer should be “Yes”. I cannot understand the parties, at the time of making the
+Agreement, attributing any different meaning to it. Nor, either on principle or authority, is it necessary
+to decide the clause as so understood is illusory. I do not regard a promise by the Commonwealth to
+determine a subsidy, not exceeding a specified amount, if and when certain events occur, as illusory.
+The whole point of the clause is to require the Commonwealth to determine what subsidy it will
+pay in the circumstances stated. When the language of legal obligation has been used, as is the case
+here, it is only stern necessity that would persuade me that it is worthless. Neither in principle nor
+in authority do I find that necessity. If the right to obtain a discretionary determination were illusory
+there would be a substantial reduction in the use of the writ of mandamus. To my mind the promise
+of the Commonwealth to determine what subsidy should be paid was both significant and valuable
+and was not a mockery.
+[6.200] WINDEYER J: (dissenting) The New Guinea Timber Agreement was expressly made subject
+to the approval of Parliament …. This statutory approval of the Agreement … [366] disposes, I think,
+of any idea that the Agreement was not intended by the parties to create a relationship giving rise to
+obligations enforceable by law.
+
+     That such an intention is of the essence of a valid contract has been asserted in English cases for a
+long time past, certainly since Lord Atkin, then Atkin LJ, said so in Balfour v Balfour [1919] 2 KB 571,
+578, and in Rose and Frank Co v JR Crompton and Bros Ltd [1923] 2 KB 261, 293. Recent examples
+of acceptance of the doctrine and the repetition of the phrases in which it has been expounded are
+to be found in Jones v Padavatton [1969] 1 WLR 328 and Ford Motor Co Ltd v Amalgamated Union of
+Engineering and Foundry Workers [1969] 1 WLR 339. I may mention here that in the former of these
+two cases Danckwerts LJ said that the principles involved are very well discussed in Cheshire and Fifoot
+on Contract, 6th ed (1964), at pp 94–​6, and that leads me to mention that I have found helpful the
+corresponding passages in the second (1969) Australian edition of that work by Messrs JG Starke
+and PFP Higgins, pp 189–​96. Professor Williston has criticized the idea that a common intention of
+the parties to create legal relations is a necessary element in the formation of a contract. I may add
+that another distinguished American writer, [367] Professor Corbin, in his work The Law of Contracts
+(revised ed 1963), vol 1, p 137, put the matter as follows: “In order to make an enforceable contract,
+it is not necessary that the parties should consciously advert to legal relations, but it is necessary that
+they should not express an intention to exclude legal relations.”
+
+   In this Court in Australian Woollen Mills Pty Ltd v The Commonwealth (1954) 92 CLR 424, 457,
+Dixon CJ, Williams, Webb, Fullagar and Kitto JJ in a joint judgment spoke of “a principle which is
+fundamental to any conception of contract”, saying, “It is of the essence of contract, regarded as
+a class of obligations, that there is a voluntary assumption of a legally enforceable duty”. I venture
+to say, despite some statements in other cases, that whether there was a voluntary assumption of a
+legally enforceable duty in a particular case is not to be decided by asking whether or not the parties
+had expressed or exhibited an actual and positive intention that their agreement was to result in
+legal obligations. It depends rather on an inference to be drawn from the subject matter and nature
+
+190   [6.200]
+
+===== PDF 229 | expected printed p 191 | footer: [6.200]   191
+                                                                                      Certainty   Chapter 6
+
+
+Placer Development v Commonwealth cont.
+
+of their agreement, and other circumstances to which I referred in what I wrote in South Australia v
+The Commonwealth (1962) 108 CLR 130, which I refrain from repeating. Social engagements and
+domestic arrangements are outside the realm of contract law, simply because the parties to them must
+be regarded as intending that their mutual promises, whether kept or broken, are not to land them
+in Court. The principle has been extended in England to arrangements not involving purely social
+engagements of an ordinary character, but which were nevertheless taken to have been intended by
+the parties not to create obligations enforceable by law: eg, Coward v Motor Insurers’ Bureau [1963]
+1 QB 259, 271. Agreements made between an individual and the Government are sometimes said
+to be in the same position. But I think that they are outside the class of legally enforceable contracts
+for a rather different reason. There is there a reflection of the rule that historically promises made by
+Government were not justiciable and enforceable against the Crown by the ordinary processes of an
+action at law. This is not because they are not obligations meant by the parties to be binding, or which
+are not “binding in moral equity and conscience”, but historically they “want the ‘vinculum juris’ ”,
+to use the expressions which Tindal CJ used in the old case of Gibson v East India Co (1839) 5 Bing
+NC 262, 274; 132 ER 1105, 1110. But in Australia today these considerations have disappeared. The
+Commonwealth can sue and be sued in the courts [368] in ordinary actions in contract and in tort.
+In the present case it seems to me unnecessary to ask whether the Commonwealth and the plaintiff
+intended the Agreement to create legal rights and obligations. I think that obviously they did. But
+proof of a common intent seems to me to be not required. Parliament’s approval of the Agreement
+and the appropriation by Parliament of funds to meet it, when added to its essentially commercial
+character and its language, are enough I consider to rescue it from the unenforceability which a
+purely political arrangement has, and to give it a contractual character. It is worth noticing that in the
+Australian Woollen Mills Case (1954) 92 CLR 424, where the opposite conclusion was reached as to
+the subsidy scheme there in question, the Court said at 461: “If there was an intention on the part of
+the Government to assume a legal obligation, one would certainly have expected statutory authority
+to be sought.”
+   Here it was sought and given …
+   The question thus becomes simply one of the proper construction of cl 14 of the Agreement …
+    The discretion given to the Commonwealth to determine the quantum of subsidy is said to make
+the Commonwealth’s promise “illusory”, or, as it was also said, to make cl 14 an “illusory contract”.
+Very distinguished writers on the law of contracts have adopted these terms as categorematic.
+Nevertheless I have the temerity to question the terminology in its application to this case. The
+expression an illusory promise is not, as I understand it, here used to mean an illusion that there was
+a promise: it means a real promise but one which is devoid of legal consequence. It is illusory, not
+because it is not a promise, but because it deceptively creates the illusion of a contract where there
+is none. By an illusory contract, on the other hand, what is meant is a bilateral transaction having
+some semblance to a contract, but not in truth a contract because not capable of creating legally
+enforceable rights and obligations. The proposition that the undertaking by the Commonwealth to
+pay a subsidy is “illusory”, and the promise therefore ineffectual in law, has as its basis that the amount
+of the subsidy is to be whatever amount the Commonwealth determines.
+   In Loftus v Roberts (1902) 18 TLR 532, 534, Vaughan Williams LJ said:
+   Wherever words which by themselves constituted a promise were accompanied by words
+   which showed that the promisor [370] was to have a discretion or option as to whether he
+   would carry out that which purported to be the promise, the result was that there was no
+   contract on which an action could be brought at all. The doctrine was an old one. In Leake on
+   Contracts, 3rd ed, p 3, it was expressed thus: —​“Promissory expressions reserving an option
+   as to the performance do not create a contract”.
+This statement is unquestionable. But it seems to me that it does not fit this case. Clause 14 does not
+reserve to the Commonwealth any option as to whether it will perform the promise it there made. It
+was for it to determine what should be the amount of the subsidy it would pay: but its promise was
+
+                                                                                              [6.200]   191
+
+===== PDF 230 | expected printed p 192 | footer: 192   [6.200]
+Part II: Formation
+
+
+Placer Development v Commonwealth cont.
+
+to determine an amount and to pay it: it had no discretion to do or not to do this: its discretion was
+only as to the amount to be paid. It is however said that the result of this discretion to determine the
+amount of a subsidy amounts to a discretion to pay nothing at all.
+   For this a long line of decisions in cases between master and servant is referred to by way of
+analogy … The latest of which I am aware is Powell v Braun [1954] 1 WLR 401, a decision of the Court
+of Appeal. The defendant there had written to his secretary stating that, instead of increasing her
+salary, he proposed to pay her each year a bonus calculated by reference to the net trading profit of
+the business. The letter included the following [1954] 1 WLR 401, 402: “I, therefore, [371] propose
+to … pay you an amount according to the trading results of the previous financial year …. I cannot
+say at this juncture what the amount will be, but I am sure you will not be disappointed with it from
+year to year.”
+    The plaintiff replied to the letter saying that she appreciated the offer. Bonuses were paid to her for
+six years. Then the defendant refused to pay on the grounds that there was no firm promise to pay
+anything and that any promise was too vague and general to be enforced.
+    The Court of Appeal, reviewing the circumstances, held that the defendant had bound himself to
+pay something, provided there were profits. The amount to be paid would, Lord Evershed said, and
+with this Romer LJ agreed, be “a reasonable sum, that is, a sum arrived at so as to bear a reasonable
+relationship to the trading profit” [1954] 1 All ER 401, 486. Denning LJ expressed it as “an amount
+within his” (scilicet the defendant’s) “reasonable discretion, that is, it would be the amount which a
+fair and just man would pay in the exercise of a reasonable discretion” [1954] 1 All ER 401, 486. The
+actual amount to be paid was treated by the court in that case as equivalent to a quantum meruit by
+way of additional remuneration above the plaintiff’s fixed salary. An amount was agreed between the
+parties and judgment given accordingly. The approach resembled in some respects that taken by the
+House of Lords in Way v Latilla [1937] 3 All ER 759. The Tasmanian case of Ikin v Cox Bros (Aust) Ltd
+(1929) 25 Tas LR 1 can usefully be compared.
+    When an agreement produces a liability to pay some sum of money, and the amount is not
+determined by the agreement, there is ordinarily no obstacle to saying that a reasonable sum was
+intended: and, if what is a reasonable sum can be determined by a court, a judgment for that amount
+can be given. If what has to be determined is a reasonable price for a thing sold or a quantum meruit
+for services rendered a jury can determine it. It is not in such cases a precise sum, but any sum which
+lies within what a court considers the limits of reason. That is trite. But the principle necessarily
+depends upon there being some criteria by which reasonableness can be measured or tested. The
+market place and what was paid in other cases may provide a measure, and fix an amount which
+reason requires be thus ascertained … [372]
+   But when there is no trade or business, market or experience to which to refer, a difficulty arises: a
+jury cannot say what is a reasonable sum if there be no weight or measure they can apply, and which
+a court could use to test whether their verdict is or is not within the bounds of reason. A court could
+not say whether any sum which the Commonwealth determined to pay the timber company was
+or was not a reasonable subsidy. There are no objective criteria of the reasonableness of a subsidy.
+A court could not say on what basis or with what considerations in mind the Commonwealth should
+determine the subsidy it promised by cl 14. That would be to make a contract for the parties different
+from that which they made by which the decision was to rest with the Commonwealth. It would
+mean “transferring to the court the exercise of a discretion vested in the respondents” (here the
+Commonwealth), to use the words of the Privy Council in Kofi-​Sunkersette Obu v A Strauss & Co Ltd
+[1951] AC 243, 250. But to my mind it does not follow that because the court cannot take over the
+discretion which the Commonwealth undertook to exercise, the Commonwealth is released from its
+undertaking.
+   For these reasons I am not prepared to say that the provisions of cl 14 do not amount to a
+contract. In my opinion they do. But it is not a contract which the timber company can enforce;
+for it was not a party to the contract. Indeed it was not even in existence when the contract was
+
+192   [6.200]
+
+===== PDF 231 | expected printed p 193 | footer: [6.200]   193
+                                                                                    Certainty   Chapter 6
+
+
+Placer Development v Commonwealth cont.
+
+made. The contract was between the plaintiff, then known as Bulolo Gold Dredging Ltd, and the
+Commonwealth. The plaintiff could in my opinion enforce it by an action for damages if it be broken,
+or perhaps by proceedings for specific performance: cf Beswick v Beswick [1968] AC 58. It may be that
+neither remedy would produce any substantial advantage for the plaintiff, or indirectly for the timber
+company. Nevertheless, when the elements of offer and acceptance and resulting promise supported
+by consideration be present, I prefer to say there is a contract, albeit, in some cases, one for the
+breach of which damages cannot be quantified. The contractual obligation of the Commonwealth to
+the plaintiff was to decide what sum in its discretion it considered, having regard to all considerations
+which weighed with it, commercial and political, it would be [373] reasonable to pay the timber
+company by way of subsidy; and, having decided it, to pay it. I base this conclusion simply on the
+words of cl 14, not by any attempt to match them against words which were in question in any other
+cases ….
+    A basic assumption of our law is that bargains are to be kept. This applies today to the contracts
+which the Crown makes with a subject as forcefully as it does to contracts between subject and
+subject. That a court cannot determine the amount to be paid as subsidy is, in my view of the case,
+no reason for the Commonwealth not performing its promise to do so. If it does not exercise the
+discretion it contracted to exercise the plaintiff might recover no more than nominal damages. But
+I do not think that means that, using the language of question 4(b), the Commonwealth has under
+cl 14 an absolute discretion “to determine a subsidy of a nominal amount or rate”. If that means a sum
+which is so small and insignificant that it does not answer the description of a subsidy, the answer to
+that question must I think be “No”.
+   A subsidy, by its derivation from the Latin subsidium means an aid or help … A merely nominal
+sum, not of any value at all [374] to the timber company, would I think belie the word subsidy: it
+would be illusory in a true sense of that word. But, apart from that, the amount to be paid under cl 14
+of the Agreement is an amount which the Commonwealth considers in all the circumstances to be
+reasonable. As to this its discretion is absolute, unfettered and not questionable in legal proceedings.
+The amount which the Commonwealth determines as a subsidy may be large or small. But I cannot
+agree that an undertaking to pay something is met by paying nothing or some trifling sum such as a
+dollar or a cent.
+   [In answer to the questions raised by the case stated, the Court held that the defendant was not
+obliged by the agreement to determine a rate of subsidy which would allow the timber company to
+recoup the duty paid and was not obliged by the agreement to pay a subsidy to the plaintiff.]
+
+                                                 
+
+
+
+
+                                                                                            [6.200]   193
+
+===== PDF 232 | expected printed p 194 | footer: 
+
+===== PDF 233 | expected printed p 195 | footer: [7.05]    195
+CHAPTER 7
+
+
+Formalities
+[7.05]    THE STATUTE OF FRAUDS............................................................................................ 195
+                   [7.10]   Sixth Interim Report.......................................................................... 196
+[7.15]    THE AUSTRALIAN PROVISIONS.................................................................................... 197
+                   [7.20]   Civil Law (Property) Act 2006 (ACT)..................................................... 197
+                   [7.25]   Conveyancing Act 1919 (NSW)........................................................... 198
+                   [7.30]   Law of Property Act (NT).................................................................... 198
+                   [7.35]   Property Law Act 1974 (Qld)............................................................... 198
+                   [7.40]   Law of Property Act 1936 (SA)............................................................. 198
+                   [7.45]   Instruments Act 1958 (Vic)................................................................. 199
+                   [7.50]   Conveyancing and Law of Property Act 1884 (Tas)................................... 199
+                   [7.55]   Mercantile Law Act 1935 (Tas)............................................................ 199
+                   [7.60]   Law Reform (Statute of Frauds) Act 1962 (WA)....................................... 200
+[7.70]    THE FORMALITIES REQUIRED...................................................................................... 200
+          [7.75]   Documents in electronic form..................................................................... 200
+          [7.90]   Signature.................................................................................................... 201
+                   [7.95]   Pirie v Saunders................................................................................ 202
+[7.105]   THE CONSEQUENCES OF NON-​COMPLIANCE........................................................... 204
+          [7.105] Unenforceability.......................................................................................... 204
+          [7.110] Part performance........................................................................................ 204
+                   [7.112]  Pipikos v Trayans.............................................................................. 205
+          [7.125] Constructive trust, estoppel, misleading conduct and restitution................. 212
+
+
+THE STATUTE OF FRAUDS
+[7.05] The common law does not require the parties to a contract to record their agreement
+in writing. An agreement is enforceable at common law even though there is no written record
+of it. Formal requirements are imposed by legislation in respect of some types of contract, such
+as building contracts and contracts for the provision of consumer credit. This chapter focuses
+on the statutory provisions in force in all Australian jurisdictions that render a contract for the
+sale of land unenforceable unless it is made or evidenced in writing. These are the successor
+provisions to a 1677 English statute known as the Statute of Frauds (UK) (29 Car II c 3).
+   The Statute of Frauds provided, in effect, that certain contracts would be unenforceable
+unless in writing or evidenced by some memorandum in writing and signed by the party to be
+sued. The statute was later received as part of the law of the Australian colonies. The preamble
+to the statute stated its purpose to be “the prevention of many fraudulent practices which are
+commonly endeavoured to be upheld by perjury and subornation of perjury”.
+   The most important provisions of the Act were those contained in ss 4 and 17. Section 4
+provided as follows:
+  no action shall be brought whereby to charge any executor or administrator upon any special
+  promise, to answer damages out of his own estate; or whereby to charge the defendant upon
+  any special promise to answer for the debt, default or miscarriages of another person; or to
+  charge any person upon any agreement made upon consideration of marriage; or upon any
+  contract or sale of lands, tenements or hereditaments, or any interest in or concerning them; or
+  upon any agreement that is not to be performed within the space of one year from the making
+  thereof, unless the agreement upon which such action shall be brought, or some memorandum
+
+                                                                                                                    [7.05]    195
+
+===== PDF 234 | expected printed p 196 | footer: 196   [7.10]
+Part II: Formation
+
+
+   or note thereof shall be in writing, and signed by the party to be charged therewith, or some
+   other person thereunto by him lawfully authorised.
+
+Section 17 provided as follows:
+   no contract for the sale of any goods, wares, or merchandise, for the price of ten pounds sterling
+   or upwards, shall be allowed to be good, except the buyer shall accept part of the goods so
+   sold, and actually receive the same, or give something in earnest to bind the bargain, or in part
+   payment, or that some note or memorandum in writing of the said bargain be made and signed
+   by the parties to be charged by such contract, or their agents thereunto lawfully authorised.
+
+
+
+                                    Sixth Interim Report
+[7.10] United Kingdom Law Revision Committee, Sixth Interim Report (CMD 5449, 1937).
+  Contemporary opinion is almost unanimous in condemning the statute and favouring its
+amendment or repeal.
+   9. The main criticisms directed against s 4 may be summarised under the following heads:
+    (1) First and foremost, it is urged that the Act is a product of conditions which have long
+        passed away. At the time when it was passed, essential kinds of evidence were excluded
+        (for example, the parties themselves could not give evidence), and objectionable types
+        of evidence were admitted (for example juries were still in theory entitled to act on their
+        own knowledge of the facts in dispute). It was an improvement on this state of affairs
+        to admit the evidence of the parties, even though only to the extent that such evidence
+        was in signed writing. Today, when the parties can freely testify, the provisions of s 4
+        are an anachronism. A condition of things which was advanced in relation to 1677 is
+        backward in relation to 1937.
+   (2) “The Act”, in the words of Lord Campbell already cited “promotes more frauds than
+       it prevents”. True, it shuts out perjury; but it also and more frequently shuts out the
+       truth. It strikes impartially at the perjurer and at the honest man who has omitted a
+       precaution, sealing the lips of both. Mr Justice FitzJames Stephen (writing of s 17, but
+       his observation applies equally to s 4 went so far as to assert: “in the vast majority of
+       cases its operation is simply to enable a man to break a promise with impunity, because
+       he did not write it down with sufficient formality”: (1885) 1 LQR 1 at 1.
+   (3) The classes of contracts to which s 4 applies seem to be arbitrarily selected and to
+       exhibit no relevant common quality. There is no apparent reason why the requirement
+       of signed writing should apply to these contracts, and to all of them and to no others.
+   (4) The section is out of accord with the way in which business is normally done. Where
+       actual practice and legal requirement diverge, there is always an opening for knaves to
+       exploit the divergence.
+   (5) The operation of the section is often lopsided and partial. A and B contract: A has signed
+       a sufficient note or memorandum, but B has not. In these circumstances B can enforce
+       the contract against A, but A cannot enforce it against B.
+   (6) The section does not reduce contracts which do not comply with it to mere nullities,
+       but merely makes them unenforceable by action. For other purposes they preserve
+       their efficacy (for what other purposes precisely, is doubtful; see (1936) 51 LQR at 49).
+       Anomalous results flow from this: for example, in Morris v Baron [1918] 1 AC 1, a
+       contract which complied with the section was superseded by a second contract which
+       did not so comply. It was held that neither contract could be enforced: the first, because
+       it was validly rescinded by the second, the second because, owing to its purely oral
+       character, no action could be brought on it. This was a result which the parties could
+       not possibly have intended.
+
+
+
+196   [7.10]
+
+===== PDF 235 | expected printed p 197 | footer: [7.20]   197
+                                                                                     Formalities    Chapter 7
+
+
+Sixth Interim Report cont.
+
+      (7) Apart from its policy the statute is in point of language obscure and ill-​drafted. “It is
+          universally admitted,” observed the original editor of Smith’s Leading Cases, “that no
+          enactment of the legislature has become the subject of so much litigation.” This could
+          hardly have been so if its terms had been reasonably lucid.
+10. Most of the above criticisms apply, both to s 4 and s 17 of the Statute of Frauds, and therefore to
+s 4 of the Sale of Goods Act 1893, so far as it reproduces that section.
+      A word or two should perhaps be said in amplification of the criticisms under heads (3) and (4) above.
+    Criticism (3). Assuming that there may be classes of contracts in respect of which special evidentiary
+requirements should be insisted on as a condition of their enforceability, can it be said that there is
+any ground for singling out the particular classes of contracts named in ss 4 (and ss 17). of the Statute
+of Frauds?
+  It cannot be supposed that the framers of this legislation selected them purely at random. They
+would seem to have had in mind more than one criterion:
+      (A) the value or importance of the subject matter. The more considerable the subject
+          matter, the greater the inducement to commit perjury, and the desirability of evidence
+          which shall be proof against perjury (this seems to have been the criterion applied by
+          the legislature in including contracts affecting land: contracts for sale of goods of a
+          value (or price) of £10 or upwards —​more substantial amount then than now: and
+          possibly agreements in consideration of marriage);
+      (B) the interposition of a long interval between the making of the contract and its complete
+          performance. The longer this interval, the worse will be the recollection of witnesses,
+          and the more difficult it will be to expose an invention (“contracts not to be performed
+          within a year of the making thereof”);
+      (C) the one-​sided or disinterested character of the ostensible bargain. The law, perhaps
+          cynically, regards such bargains with scepticism, and is inclined to require specially
+          cogent evidence of their existence (promises by an executor or administrator to answer
+          damages out of his own estate: contracts of guarantee).
+
+                                                    
+
+
+THE AUSTRALIAN PROVISIONS
+[7.15] In Australia, the legislative provisions dealing with the formalities introduced by the
+Statute of Frauds vary considerably from jurisdiction to jurisdiction. In most jurisdictions, the
+Statute of Frauds has been repealed, and only some of its provisions re-​enacted. The provisions
+affecting contracts for the sale of land are listed in the following extract.
+
+
+                          Civil Law (Property) Act 2006 (ACT)
+[7.20] Civil Law (Property) Act 2006 (ACT), s 204.
+      Proceedings do not lie on certain unwritten agreements
+(1)       A proceeding does not lie against a person on a contract for the sale or other disposition of
+          land unless the agreement on which the proceeding is brought, or a memorandum or note of
+          the agreement, is in writing signed by the person or by the person’s agent properly authorised
+          in writing.
+
+                                                    
+
+                                                                                                   [7.20]   197
+
+===== PDF 236 | expected printed p 198 | footer: 198     [7.25]
+Part II: Formation
+
+
+
+
+                               Conveyancing Act 1919 (NSW)
+[7.25] Conveyancing Act 1919 (NSW), s 54A.
+      Contracts for sale etc of land to be in writing
+(1)       No action or proceedings may be brought upon any contract for the sale or other disposition
+          of land or any interest in land, unless the agreement upon which such action or proceedings
+          is brought, or some memorandum or note thereof, is in writing, and signed by the party to be
+          charged or by some other person thereunto lawfully authorised by the party to be charged.
+
+                                                    
+
+
+                                   Law of Property Act (NT)
+[7.30] Law of Property Act (NT), s 62.
+      Contracts for sale etc of land to be in writing
+    No proceeding may be commenced on a contract (wherever made) for the sale or other disposition
+of land unless the contract on which the proceeding is commenced, or some memorandum or note
+of the contract, is in writing and signed by the party to be charged or by a person lawfully authorised
+by the party.
+
+                                                    
+
+
+                                Property Law Act 1974 (Qld)
+[7.35] Property Law Act 1974 (Qld), s 59.
+      Contracts for sale etc of land to be in writing
+   No action may be brought upon any contract for the sale or other disposition of land or any
+interest in land unless the contract upon which such action is brought, or some memorandum or note
+of the contract, is in writing, and signed by the party to be charged, or by some person by the party
+lawfully authorised.
+
+                                                    
+
+
+                               Law of Property Act 1936 (SA)
+[7.40] Law of Property Act 1936 (SA), s 26.
+      Contracts for sale of land to be in writing
+(1)       No action shall be brought upon any contract for the sale or other disposition of land or
+          of any interest in land, unless an agreement upon which such action is brought, or some
+          memorandum or note thereof, is in writing, and signed by the party to be charged or by some
+          person thereunto by him lawfully authorised.
+
+                                                    
+
+
+
+
+198     [7.25]
+

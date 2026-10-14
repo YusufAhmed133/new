@@ -1,0 +1,497 @@
+2026 – LAWS1150 | JURD7150
+  Principles of Private Law
+
+        Introduction
+      Agreement: Offer
+
+          Week 1A
+
+
+
+
+                              2
+                     Introductions
+
+
+Mr Hasan Mohammad
+
+Email: hasan.mohammad@unsw.edu.au
+
+Best way to reach me is in person before or after class,
+or by email. I will attend to your email as soon as
+practicable, but if you do not hear from me within two
+business days, please send me a polite nudge.
+
+
+                                                           3
+                                                 Introduction
+
+1. Housekeeping and Administration
+2. The Course
+    ▪ Contract – casebook (required reading)
+    ▪ Principles of Contract Law (recommended)
+    ▪ Property – customised book
+3. Assessment
+    ▪ Participation – ongoing (20%)
+         ▪ 10% - general participation
+         ▪ 10% - ’on call’ participation
+    ▪ Mid-term Assignment (30%)
+    ▪ Final Exam (50%) (Exam period)
+4. General Moodle Page
+    ▪ Course Outline
+    ▪ Readings
+    ▪ Mid-term assignment
+5. Additional information for my class
+                                                      4
+    ▪ Slides
+                      Communication and Questions
+
+
+• Questions in class (preferred), or before or after class.
+
+• Consultation by appointment: please email me.
+
+• Moodle – If you encounter any problems contact:
+  https://student.unsw.edu.au/moodle-support
+
+• PowerPoint slides will be available on Moodle after class
+  under the “Hasan Mohammad’s class” tab
+
+• All class handouts/announcements will be posted on
+  Moodle
+
+                                                              5
+                       Assessment
+
+
+• Class participation (20%): Ongoing – 50% structured (on-call
+  system from Week 2 onwards) and 50% unstructured (general
+  participation)
+
+• Mid-term assignment (30%): Problem question focusing on the
+  contracts section of the course
+
+• Take home exam (50%): Problem question + essay question (all
+  components of course assessable, two-hour in-person exam during
+  the University Exam Period.
+
+Refer to the UNSW Law & Justice Assessment Procedure and Student
+Information on Moodle for penalties on word limits and late
+submission.
+
+*Subject to further announcements. Please check Moodle regularly!
+                                                                    6
+                                                  Class participation marks
+
+
+20% - This will come from:
+
+• The quality of your engagement with the course material as demonstrated
+  in class.
+
+• Further details will be posted on Moodle in week 2
+
+• It will help me attribute CP marks if you introduce yourself clearly every
+  time you speak in class AND provide your name in bold text on a paper
+  name placard in front of you during every class
+
+• Feedback on class participation is given collectively in class - e.g., when I
+  highlight examples of good participation, or respond to the substance of a
+  student’s comment.
+
+• If you are unsure about how your participation is going during the course
+  of the term, feel free to email me.
+
+                                                                                  7
+                            Readings and Prescribed Texts
+
+Prescribed texts
+
+• Andrew Robertson and Jeannie Paterson, Contract: Cases and Materials
+(Lawbook Co, 15th ed, 2025) (known as the Contracts Casebook) – This is referred
+to in the Reading Guide as the 'Contracts Casebook'. You will need it for Weeks One
+to Four and then again in Week Nine.
+
+• Principles of Private Law: A Custom Publication for the University of New South
+Wales (3nd edition, LexisNexis, 2026) – This is referred to in the Reading Guide as
+the 'Custom Publication'. You will need this for Weeks Five to Ten.
+
+Highly recommended Texts
+
+• Andrew Robertson and Jeannie Paterson, Principles of Contract Law (Lawbook
+Co, 7th ed, 2025) – This is referred to in the Reading Guide as the 'Contracts
+Textbook'.
+
+
+                                                                                      8
+                                Introduction
+
+  STRUCTURE OF THE COURSE
+
+
+
+
+           Contract
+
+
+
+
+             This
+Property    Course     Agency
+
+
+
+
+           Estoppel
+
+
+
+
+                                          9
+                                            Agreement: Offer
+
+
+
+Elements of a binding Contract
+
+               Agreement:
+                 Offer &
+               Acceptance
+
+
+
+
+   Intention   Formation    Consideration
+
+
+
+
+               Certainty
+
+
+
+
+                                                        10
+                          What is an offer?             Agreement: Offer
+
+
+
+
+• Must contain an invitation/ a proposal/ an option that the
+  other party can accept or reject
+
+• What stage are the negotiations at? – you must manifest an
+  intention to be bound by acceptance – think of it as the point
+  where the parties reach the shaking hands stage
+
+• It overlaps with the other elements of contract:
+   – Eg: Cannot be an offer if there is not an intention to create
+      legal relations
+
+
+                                                                    11
+                        UNILATERAL contract cf a BILATERAL
+                        contract - differences                        Agreement: Offer
+
+
+
+
+• Differences in how each is created
+• Bilateral contract – contract is made by exchange of promises to do
+  something – then the parties do what they agreed– eg Gibson v
+  Manchester City Council
+    – When first made, a bilateral contract will be executory – that refers to
+      stage of contract performance
+• Unilateral contract – one in which the act of acceptance of the offer
+  is also the performance – see Mobil Oil Australia v Wellcome
+  International; Carlill v Carbolic Smoke Ball Company cases
+• Offer is made by the offeror and is accepted by doing or refraining
+  to do the act that is requested by them – eg the full ct in Mobil Oil –
+  eg of the offer of a reward for return of a lost item
+• There is no exchange of promises, the offeree has a choice of
+  whether to perform. If they do perform then the offeror is bound to
+  perform
+
+                                                                                  12
+                                     Gibson v Manchester City Council
+                                     [1979] 1 WLR 294           Agreement: Offer
+
+
+
+What were the facts?
+
+What do you think might constitute an offer in this case?
+
+What did the different Judges say?
+
+CA (lower court): Denning and Ormrod J – contract had been formed
+
+House of Lords: Lord Diplock: none of the pieces of communication could
+be construed as an offer that had been accepted.
+This is a situation when court should apply the conventional approach of
+offer and acceptance – thus, no contract.
+
+- What was the decisive factor in the court’s decision on whether there
+was an offer made by the Council?
+
+- Practical thought: What words can be used to advance negotiations
+without committing to a promise?
+                                                                            13
+Carlill v Carbolic Smoke Ball
+Company [1893] 1 QB 256
+
+
+
+• - What is a unilateral
+  contract?
+
+• - Did the court treat the
+  advertisements as an
+  offer or an invitation to
+  treat?
+
+
+                                14
+   Carlill v Carbolic Smoke Ball Company [1893] 1 QB 256
+
+
+• Carbolic argued:              2. Couldn’t be a contract
+1. Mere puff?                      because acceptance had
+                                   not been notified – that is
+                                   true for bilateral contracts,
+• Court rejected                   but this was a unilateral
+                                   contract
+• Can’t have a contract with
+  the whole world – yes but     • Unilateral – the offeror may
+  this was an offer made to       show they do not need
+  the whole world, capable of     notification of acceptance
+  being completed with            prior to performance – eg
+  anyone who accepted the         reward offer
+  condition
+
+                                                               15
+                   Carbolic also argued            Agreement: Offer
+
+
+
+
+3. too vague to be construed   4. There was no consideration
+    as an offer (ie not        by the offeree
+    sufficiently certain)
+• Ct says the instructions     • Lord Lindley says both
+  were sufficiently clear –      detriment and benefit
+  even though there is more      existed
+  than one possible
+  interpretation of the
+  advertisement
+
+
+
+
+                                                               16
+  MacRobertson Miller Airline Services v Commissioner of
+         State Taxation (WA) (1975) 133 CLR 125                                 Agreement: Offer
+
+
+• Passenger was told the availability of fare, paid for it and was handed a ticket
+  that contained conditions – then on day of flight they turned up to take flight …
+
+• When was the contract formed?
+
+• Stephen J: looked at acceptance
+    – ? When customer paid fare
+    – ? When airline handed ticket to customer
+    – Ticket contains terms and conditions – how can passenger be taken to have read and
+      agreed to the terms before they received the printed ticket?
+    – A different analysis has been developed by ct:
+    – Ticket seen as offer
+    – Contract made on acceptance of that offer by passenger
+    – In this situation there was a delay between getting ticket and taking flight – the passenger
+      had a chance to read the conditions and accept or reject them
+    – So acceptance occurs by the passenger’s conduct – by boarding the flight or when they
+      have had a reasonable time to read the conditions and have not rejected the offer
+
+                                                                                            17
+MacRobertson Miller Airline Services v Commissioner of
+               State Taxation (WA)
+• Barwick CJ – was concerned with consideration
+• Consideration = both parties must bring something valuable to the
+  bargain
+• It must be a promise to do something valuable, not illusory (wk 2)
+• He found the airline was making an illusory promise
+• It did not assume any obligation to carry the passenger – ‘we
+  promise to fly you unless we choose not to’
+• There was no promise, therefore no contract
+• Airline not in a contractual situation with the passenger until they
+  flew the passenger
+
+• To what extent the reasoning of Barwick CJ and Stephen J differ?
+  Which one do you prefer?
+                                                                         18
+Pharmaceutical
+Society of Great
+Britain v Boots Cash
+Chemists (Southern)
+Ltd [1953] 1 QB 401
+
+
+• Facts?
+
+• What is the
+  difference between
+  an offer and an
+  invitation to treat?
+
+
+
+
+                         19
+ Pharmaceutical Society of Great Britain v Boots Cash
+        Chemists (Southern) Ltd [1953] 1 QB 401
+
+• When is a contract formed in a self-serve shop?
+
+• Either – accepted by customer when they put the goods in
+  their trolley?
+• Or – customer makes the offer when they get to the cash
+  register, makes an offer to purchase and the offer is accepted
+  by the sales-person.
+
+• Held: putting the goods in the trolley is an invitation to treat?
+
+
+
+                                                                   20
+      Does an offer, once made, last for ever?
+• In general, can an offeror withdraw an offer before the expiry
+  of the specified open period of the offer?
+• Yes, at that stage you do not have a binding contract unless
+  the offer has been accepted.
+
+How can an offer come to an end?
+1. Lapse after X time or a reasonable time if nothing stipulated
+2. A failure of a condition
+3. Where an offer has been rejected by the other party –
+   rejection terminates the offer, not available to be accepted
+   any longer
+4. Offer can be withdrawn or revoked any time to when it is
+   accepted – even if you had promised to keep the offer open -
+   BUT – see next slide
+                                                               21
+                          BUT…
+• Point 4 in previous slide is different if you have separately
+  given consideration for me to keep my offer open – paid $ for
+  an option to purchase. This is what the Goldsbrough Mort &
+  Co v Quinn case is about
+
+• Withdrawal of the offer needs to be effectively communicated
+
+• If you make an offer then withdraw it, that can mess with the
+  other party’s situation so the other party may have an
+  argument against you in the equitable action of estoppel.
+
+
+                                                              22
+    Goldsbrough Mort & Co v Quinn (1910) 10 CLR 674
+- In general, can an offeror withdraw an offer before the expiry of the specified open period of the offer?
+
+• Facts: Quinn gave appellant an option to buy 2,590 acres @
+  1.10UK per acre exercisable within 1 week
+• GM provide 5 shillings consideration
+• Quinn made a mistake, told GM’s solicitor before week
+  expired, before offer accepted
+• GM accepted the offer without being told of the mistake
+• GM sought specific performance
+• An agreement to agree or was it a conditional offer
+
+• Held: What did the High Court find? Why?
+
+                                                                                                              23
+  Withdrawing an offer – different for bilateral
+           and unilateral contract
+• Unilateral –more complicated because unilateral contracts are
+  accepted through an act that is both acceptance and
+  performance – that act can occur over a period of time – gap
+  between acceptance and performance
+
+• Can’t withdraw an offer once it has been accepted – but can
+  you withdraw an offer in the gap
+
+• Eg reward for pushing car round Australia – you push it from
+  Sydney to Perth – can you revoke the offer when it has been
+  partly performed? See Mobil Oil case
+
+                                                                 24
+Mobil Oil Australia Ltd v Wellcome
+International Pty Ltd (1998) 81 FCR 475
+Facts: 9 for 6 years – offer at 1991 convention
+ • 1992 and 1993 Mobil changed managers, abandoned
+   the deal
+ • 1996 – Mobil completely abandoned the Circle of
+   Excellence scheme making it impossible for
+   franchisees to achieve 9 for 6
+ • Did Mobil make an offer to the franchisees?
+
+ • Trial J accepted dealers’ argument re unilateral
+   contract argument
+
+ • Appeal Court said promise too vague to give rise to
+   contractual obligations – so, no offer
+
+ • Here are their reasons for rejecting the universal rule
+   that offeror can withdraw the offer: see [501]
+
+• This will be evaluated on a case by case basis
+
+                                                             25
+                                                  Agreement: Offer
+
+
+
+Peach decides to sell her motorbike. She locks
+it to the front of her house with a sign that
+says:
+
+    •    For Sale
+         $2,000
+         Includes spare front wheel.
+         Recently serviced.
+    •    Contact Peach on 0412 345 678 /
+         peach@gmail.com.
+
+Jonathon emails Peach saying:
+
+    •    Dear Peach,
+         I saw your advertisement for the
+         motorbike and accept your terms.
+         Let me know how you would like to
+         receive payment of the $2,000 and when
+         we can meet for me to collect the
+         motorbike.
+         Jonathon
+
+•       Is there now a contract?                              26
+                                                                          Agreement: Offer
+
+
+
+Revision of basic concepts
+
+
+Concept               Definition
+Offer                 An expression of willingness to enter into a contract on specific
+                      terms.
+Invitation to treat   An invitation for others to make an offer or enter into a
+                      negotiation.
+Unilateral contract   A contract in which the offeree accepts the offer by performing
+                      their side of the bargain. It is unilateral because one party has
+                      performed his or her obligations by the time of formation, only
+                      the other party is ever under a contractual obligation.
+Bilateral contract    A contract in which both parties are under a contractual
+                      obligation to perform their side of the bargain at the time of
+                      formation.
+
+
+
+                                                                                       27
+

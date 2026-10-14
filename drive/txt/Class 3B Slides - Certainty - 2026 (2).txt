@@ -1,0 +1,362 @@
+Term 3 2026 – JURD7510 | LAWS1150
+     Principles of Private Law
+
+
+
+             Class 3B
+             Certainty
+• Offer and acceptance
+• Consideration
+• Intention to create legal relations
+• Certainty of the bargain
+What might make a contact uncertain, and thus not a n
+enforceable contract?
+
+• Incompleteness
+    – Failure to agree on an essential term, or an agreement to agree
+• Unresolvable ambiguity
+    – Contract hopelessly vague or imprecise
+• Illusory promise
+    – Usually because promisor expresses the nominally contractual promise in
+       such a way that reserves to him/ herself a discretion whether he/she will
+       actually carry it out.
+
+• The categories often overlap
+• NOTE: courts will strive to give effect to a contract if possible
+                               Upper Hunter County District Council v Australian
+                               Chilling and Freezing Co Ltd (1968) 118 CLR 429
+
+•   (Barwick C.J., McTiernan, Kitto, Menzies and Windeyer JJ)
+• The council purchased electricity in bulk
+• It agreed to supply ACFC Ltd (the company) with electricity at
+  certain rates.
+• The agreement provided for automatic changes in the rates according
+  to changes in the basic wage and the cost of coal delivered to the
+  generating authority.
+•   Clause 5 of the agreement provided: if the the council’s costs shall vary in other
+    respects than has been hereinbefore provided, the supplier shall have the right to vary
+    the maximum demand charge and the energy charge by notice in writing to the
+    purchaser. The agreement also provided for arbitration in the event of a dispute
+    between the parties.
+• The council sought to increase the charge pursuant to cl 5. The
+  company claimed that clause 5 was uncertain and that, accordingly, the
+  council had no entitlement to increase the charge.
+                                                                     Certainty
+
+
+
+
+Certainty   Upper Hunter County District Council v Australian
+            Chilling and Freezing Co Ltd (1968) 118 CLR 429
+
+            (1) What is the general principle on “certainty”?
+
+            (2) How did the Court apply the principle in the case?
+
+
+
+
+                                                                             5
+                            Upper Hunter County District Council v Australian
+                            Chilling and Freezing Co Ltd (1968) 118 CLR 429
+
+
+
+Cl 5 “It is agreed that during the term of this agreement if the supplier’s costs shall
+vary in other respects than has been hereinbefore provided, the supplier shall
+have the right to vary the maximum demand charge by notice in writing to the
+purchaser”
+    Was this sufficiently certain?
+
+Barwick CJ “to my mind the cost of doing something is certain in the sense that it
+provides a criterion by reference to which the rights of the parties may ultimately
+be worked out, if not by the parties then by the court”
+
+Note: Cl 18 of the contract expressly provided that any dispute or difference
+arising in assessing the ‘suppliers costs’ would be determined by an arbitrator
+                           Upper Hunter County District Council v
+                           Australian Chilling and Freezing Co Ltd
+                                                                                Certainty
+
+
+
+
+A contract of which there can be more than one possible meaning or which when
+construed can produce in its application more than one result is not void for
+uncertainty. As long as it is capable of meaning, it will ultimately bear that meaning
+which the courts, …, decide is its proper construction …
+The question becomes one of construction, of ascertaining the intention of the
+parties, and of applying it.
+So long as the language employed by the parties is not so obscure and so incapable
+of any definite or precise meaning that the court is unable to attribute to the parties
+any particular contractual intention, the contract cannot be held to be void or
+uncertain or meaningless. In the search for that intention, no narrow or pedantic
+approach is warranted, particularly in the case of commercial arrangements.
+… the concept of a cost of doing something is certain in the sense that it provides a
+criterion by reference to which the rights of the parties may ultimately and logically
+be worked out, if not by the parties then by the courts… In this case, the contract
+itself provided the means of resolution… by the decision of an arbitrator whose
+judgment … was agreed to be final and binding … (Barwick CJ)
+
+                                                                                          7
+                           Upper Hunter
+
+• KITTO J. I am unable to agree in the view of the Supreme Court that
+  cl. 5 of the supply agreement is void for uncertainty.
+• The costs referred to as "the supplier's costs" are necessarily its
+  costs of carrying out the contract on its part, and are capable of
+  ascertainment by an application of ordinary business concepts ;
+  "vary" is plain enough without an express statement of a standard ;
+  "in other respects than as has been hereinbefore provided" are
+  words of specific exclusion, and none the less so because earlier
+  provisions of the agreement may need to be construed in order to
+  decide whether a particular variation in costs is within the exclusion
+  ; and the right to vary the maximum demand charge and energy
+  charge is obviously subject to the implied limitation that the
+  variation of charges shall not be more than is required to reflect the
+  variation in costs.
+• I allow the appeal. (at p439)
+                          MENZIES J.
+
+• On its face clause [5] seems plain enough but it is said
+  that it is full of latent ambiguity.
+• an increase or decrease in the basic wage or the cost of
+  coal to the generating companies automatically affects
+  both the price that the supplier pays for electricity and the
+  price that it charges the purchaser.
+• In a real sense, and, in the sense of the agreement, cl. 2
+  does relate to "the supplier's costs". It is apparent,
+  therefore, that what the agreement does is to provide (1)
+  for the automatic variation of charges, in the event of
+  specific changes in the basic wage and specific changes in
+  the price of coal paid by the generating companies; and
+  (2) for the right of the supplier to vary charges if its costs
+  of carrying out its contract with the purchaser should vary
+  in other respects in the course of its doing so
+               Menzies J (cont’d)
+Recognition that there are questions of construction
+implicit in cl. 5, and, that in agreeing to it in the form in
+which the clause appears the purchaser may have been
+improvident, does not mean that the clause is
+meaningless, nor, does recognition that, in particular
+circumstances, there may be more than one view about
+the true effect of the clause.
+Ambiguities of the sort that I have been discussing, do
+not however involve that kind of uncertainty which
+defeats the intention of the parties to make a binding
+contract; viz., the use of language which, as a matter of
+construction and not mere speculation, cannot be given
+any one meaning rather than another.
+                     Biotechnology Australia Pty Ltd v Pace
+                     (1988) 15 NSWLR 130
+
+
+
+Dr Pace had an option to participate in the Senior Share equity
+sharing program.
+That program never existed.
+
+(1) What are the ways in which an apparent gap might be filled?
+
+(2) To what extent is the NSW Court divided on whether the
+relevant clause of the contract is uncertain, and why?
+                                    Biotechnology Australia Pty Ltd v Pace
+
+
+How might gap be filled?
+1. Every case depends on its own facts – objective determination or may need
+   extrinsic evidence.
+2. Court will try not to frustrate the wishes of the contracting parties.
+3. Court will not make a call when the parties themselves have failed to agree.
+4. JJ views will differ about classification of the challenged provision.
+5. Court will pay regard to the features of the agreement, the relationship
+   between the parties and relevant external reference points to decide whether
+   the term which is challenged can or cannot be sustained.
+6. Relevant matters in determining these cases:
+   1.   Provision may be settled by an identified 3 rd party who has been given power to resolve
+        ambiguities / uncertainties.
+   2.   If term is so vital that leaving it to one of the parties unacceptably removes certainty, court
+        may or may not refuse to enforce it as illusory.
+   3.   Existence of a readily ascertainable external standard
+   4.   If a contract contains a range of possibilities, ct will opt for the minimum within the range.
+                              Biotechnology Australia Pty Ltd v Pace
+
+
+To what extent is the NSW Court divided on whether the relevant clause of Dr
+Pace’s contract is uncertain, and why?
+
+Kirby P = illusory and unenforceable
+
+McHugh JA
+• Impossible to compare salary packages across the biotech companies
+  accurately.
+• Right from the start Dr pace knew there was no Senior Staff equity program.
+• Biotech never promised it would exist = unenforceable
+
+Hope JA (dissenting) – there was a valid and enforceable contractual promise to
+create the scheme = not unenforceable for uncertainty or by being illusory
+Hall v Busst (1960) 104 CLR 206                Certainty
+
+      •   Hall bought Bedarra Island from Busst.
+
+      •   Contract contained a term that Hall would
+          not resell without giving Busst an option to
+          repurchase.
+
+      •   Hall sold without telling Busst.
+
+      •   QSC held – contract enforceable
+
+      •   HCA?
+
+      (1) To what extent is the High Court of
+      Australia divided on whether the
+      relevant clause of the contract is
+      uncertain, and why?
+
+      (2) What did the Court say about the
+      different rules in relation to a contract
+      for the sale of goods and a contract for
+      the sale of land?
+                                                         14
+                                               Certainty and
+Whitlock v Brew (1968) 118 CLR 445              Severance
+
+
+           • W agreed to sell land to B for an
+             agreed price.
+           • SC5 – land for use for Shell service
+             station under lease from purchaser.
+           • Lease terms to be reasonable
+           • Disputes to be referred to an
+             arbitrator
+           • B (purchaser) sued for return of his
+             deposit on ground of uncertainty.
+           (1) How did the Court determine the issue of
+           “certainty”?
+
+           (2) What is the test to determine “severance”?
+
+           (3) How did the Court apply the test?
+
+
+                                                          15
+                   Meehan v Jones (1982) 149 CLR 571                Certainty and Illusory
+                                                                          Promises
+
+
+
+Jones agreed to sell Meehan land on which an oil refinery had
+been built.
+• SC1(b) – subject to purchaser / nominee receiving approval
+   for finance on satisfactory terms and conditions … by 31 July
+   1979
+• Vendor claimed contract void for uncertainty
+• Vendor entered a contract on 23 July to sell to 2nd respondent
+• Jones confirmed finance and made contract unconditional on
+   30 July.
+
+(1) Did the term “subject to finance” create “uncertainty” in this case?
+(2) What test did the court apply?
+(3) Was the term “subject to finance” found to be “illusory”? Why?
+(4) What was the major point of disagreement of the court in the case?
+
+                                                                                     16
+Placer Development Ltd v Commonwealth (1969) 121       Certainty and Illusory
+                          CLR 353, 359-60                    Promises
+
+
+
+Taylor and Owen JJ explained the distinction between terms
+which are illusory and those which are real but uncertain.
+   A promise to pay an unspecified amount of money is not
+   enforceable where it expressly appears that the money to be
+   paid is to rest in the discretion of the promisor and the
+   deficiency is not remedied by a subsequent provision that the
+   promisor will, in this discretion, fix the amount of the
+   payment. Promises of this character are treated by Pollock
+   (Principles of Contract) not as vague and uncertain promises –
+   for their meaning is only too clear, but as illusory promises.
+
+                                                                        17
+               Godecke v Kirwan (1973) 129 CLR 629
+                     Certainty and Illusory Promises
+
+• Godecke (purchaser/ appellant) and Kirwan (vendor/ respondent) signed
+  document called “offer and acceptance” re sale of land.
+
+• Included:
+   – Cl 3. Possession shall be given and taken upon signing and execution of
+      a formal contract of sale within 28 days of acceptance of this offer …
+   – Cl 6. If required by the Vendors I/we shall execute a further agreement
+      to be prepared at my cost by his appointed solicitors containing the
+      foregoing and such other covenants and conditions as they may
+      reasonably require.
+• Vendor refused to proceed
+• Purchaser lodged a caveat
+• Was the contract enforceable?
+
+• SCt of WA Held: fell within 3rd category of Masters v Cameron, thus no
+  contract
+                   Godecke v Kirwan (1973) 129 CLR 629
+                           Certainty and Illusory Promises
+
+
+Questions for the High Court (Walsh, Gibbs Mason JJ)
+(1) Were the clauses in concern an “agreement to agree”?
+(2) Which category of Masters v Cameron should the agreement fall within?
+(3) What did the court say about “uncertainty” or “illusory promise”?
+
+Walsh: the wording of Cl 6. If required by the Vendors I/we shall execute a further
+agreement to be prepared at my cost by his appointed solicitors containing the foregoing and
+such other covenants and conditions as they may reasonably require. Limits possible
+changes to ‘what is reasonable in an objective sense’, not ‘an agreement to
+agree later on additional terms to govern the bargain’
+• Held: agreement is binding (Mason J agreed)
+
+Gibbs: terms are commonly left to solicitors to finalise. Cl 6 does nto
+introduce any uncertainty into the contract.
+• Held: agreement is binding
+• What are the different ways in which an agreement might be
+  regarded as too uncertain to bind the parties?
+
+• What are the rules about filling gaps in a contract? What are
+  some of the ways in which an apparent gap might be filled?
+
+• What is the law in relation to the use of an objective
+  standard? Does it depend on whether the standard is
+  expressly invoked? Are the rules the same with respect to a
+  contract for the sale of an interest in land?
+
+• What does severance mean? What are the rules in relation to
+  severance?
+
+• What is the law where a contract provides someone (a party
+  to the contract, a third party) with discretion as to its terms?
+•   In which of the following scenarios is the option to renew enforceable? Why?
+
+
+     o A leases a shop to B for 6 years, with an option to renew for a further 6 years ‘at an
+       amount of rent to be agreed by the parties’.
+
+
+
+     o A leases a shop to B for 6 years, with an option to renew for a further 6 years ‘at the
+       original rate of rent as adjusted for CPI’.
+
+
+
+     o A leases a shop to B for 6 years, with an option to renew for a further 6 years ‘at a
+       reasonable rental’.
+
+
+
+     o A leases a shop to B for 6 years, with an option for B to buy the shop at any time during
+       the lease ‘at a reasonable price’.
+
+
+
+     o A leases a shop to B for 6 years, with an option for B to renew for a further 6 years ‘at
+       such rental as the parties agree or, failing agreement, at such rental as Craig’s Appraisers
+       shall at their absolute discretion determine’.
+

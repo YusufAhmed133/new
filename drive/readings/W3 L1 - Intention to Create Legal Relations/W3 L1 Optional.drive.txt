@@ -1,0 +1,739 @@
+CHAPTER 5
+
+Intention
+
+\[5.20\]
+
+THE OBJECTIVE APPROACH
+
+\[5.30\]
+
+PRESUMPTIONS
+
+\[5.40\]
+
+COMMERCIAL TRANSACTIONS
+
+\[5.60\]
+
+\[5.40\] Presumption of legal enforceability \[5.50\] Non-binding commercial agreements AGREEMENTS BETWEEN FAMILY MEMBERS
+
+\[5.120\] \[5.130\]
+
+\[5.70\] Financial agreements between spouses \[5.100\] Other arrangements between family members \[5.110\] Commercial agreements between family members
+
+NON-COMMERCIAL ARM'S-LENGTH TRANSACTIONS GOVERNMENT AGREEMENTS
+
+\[5.140\]
+
+PRELIMINARY AGREEMENTS
+
+\[5.150\] The three categories in Masters v Cameron \[5.160\] A "fourth category"?
+
+\[5.170\] The addition of further terms
+
+121
+
+124
+
+126
+
+126
+
+128
+
+128
+
+129
+
+131
+
+133
+
+133
+
+134
+
+135
+
+135
+
+137
+
+138
+
+\[5.10\] The third requirement in the formation of a contract is that the parties must manifest an intention to create legal relations. There is a considerable overlap between this and the offer and acceptance requirement. As we saw in Chapter 3, a party will only be regarded as making an offer or an acceptance if that party manifests an intention to be legally bound. The requirement is also closely related to the doctrine of consideration. Whether the parties appeared to intend to create a binding agreement is relevant to the question whether a bargain has been struck and each party has "paid for" the promises made by the other. It has been argued that the doctrine of consideration provides the essential test of enforceability in the common law and it is unnecessary to make a separate inquiry as to whether the parties appeared to intend to be bound.' It is clear, however, that not all agreements involving valuable exchanges will be enforced. Although satisfaction of the requirement goes without saying in most cases, there is no doubt that a contract will not be made if the parties to an agreement appear not to have intended to create legal obligations.
+
+THE OBJECTIVE APPROACH
+
+\[5.20\] In accordance with the objective approach to contract formation discussed earlier,² the court is concerned with whether the parties manifested an intention to create legal relations and not with whether they actually intended to do so. It is not open to a party to escape a contract by saying that they did not intend to be bound. In Merritt v Merritt, Lord Denning MR said that "the court does not try to discover the intention by looking into the minds of the parties. It looks at the situation in which they were placed and asks itself: Would reasonable
+
+1
+
+See Lucke, "The Intention to Create Legal Relations" (1970) 3 Adelaide Law Review 419, 419; Seddon and Bigwood, Cheshire and Fifoot's Law of Contract (12th Aust ed, 2023), \[5.1\]; Heydon, Heydon on Contract (2019), \[4.60\]-\[4.80\].
+
+2
+
+See \[1.60\], \[3.170\] and \[3.310\].
+
+3
+
+Ermogenous v Greek Orthodox Community of SA Inc \[2002\] HCA 8; (2002) 209 CLR 95, 105-6.
+
+\[5.20\] 121
+
+Part II: Formation
+
+people regard the agreement as intended to be binding?" This approach was confirmed by Gaudron, McHugh, Hayne and Callinan JJ in Ermogenous v Greek Orthodox Community of SA Inc (Ermogenous):
+
+Although the word "intention" is used in this context, it is used in the same sense as it is used in other contractual contexts. It describes what it is that would objectively be conveyed by what was said or done, having regard to the circumstances in which those statements and actions happened. It is not a search for the uncommunicated subjective motives or intentions of the parties.5
+
+In Air Great Lakes Pty Ltd v K S Easter (Holdings) Pty Ltd (Air Great Lakes), Mahoney and McHugh JJA held that where a written agreement is alleged to form a contract, the court may look beyond the terms of the document to determine whether the agreement was intended to create legal relations. The court may also take into account the surrounding circumstances, including the actions and statements of the parties. In Air Great Lakes, Mahoney JA noted the general rule that a party (A) cannot set up a subjective intention not to contract where a reasonable person in the position of the other party (B) would assume A intended to be bound. Mahoney JA suggested, however, that a subjective intention by one party (A) not to be bound will prevent a contract arising where that subjective intention is known to the other party (B). If, for example, A was play-acting and B knew of that, Mahoney JA suggests, a contract between them will not be formed even if the circumstances otherwise indicate an intention to be bound. This conclusion can, however, be justified on a purely objective approach, since the means by which B knew that A was play-acting will form part of the surrounding circumstances to be taken into account under the objective approach. The words, gestures or background facts (such as A's propensity for practical jokes) which revealed A's true intentions to B would be taken into account under an objective approach. It is difficult to envisage a plausible situation in which A's true meaning would be understood by B, but not by a reasonable person in B's position."
+
+The factors that are taken into account in determining whether the parties intended legal relations vary from case to case but may include "the subject-matter of the agreement, the status of the parties to it, their relationship to one another, and other surrounding circumstances".10 The language used by the parties (including its precision, formality and consistency with the assumption of legal obligations) is of course of great importance, as will be seen throughout this chapter.
+
+The less precise the arrangement, the less likely it is that a reasonable person would consider that the parties intended it to be legally enforceable." Shahid v Australasian College of
+
+4
+
+Merritt v Merritt \[1970\] 1 WLR 1211, 1213.
+
+5
+
+Ermogenous v Greek Orthodox Community of SA Inc \[2002\] HCA 8; (2002) 209 CLR 95, 105-6 (footnote references omitted).
+
+6
+
+Air Great Lakes Pty Ltd v KS Easter (Holdings) Pty Ltd (1985) 2 NSWLR 309.
+
+7
+
+Air Great Lakes Pty Ltd v KS Easter (Holdings) Pty Ltd (1985) 2 NSWLR 309, 332-4, 337-8.
+
+8
+
+9
+
+10
+
+11
+
+See Air Great Lakes Pty Ltd v KS Easter (Holdings) Pty Ltd (1985) 2 NSWLR 309, 337-9.
+
+See, eg, Blue v Ashley \[2017\] EWHC 1928, where it was found that a reasonable person would not have understood a vague, jocular statement made in a pub after the consumption of alcohol to have been seriously intended, and nor did the claimant.
+
+Ermogenous v Greek Orthodox Community of SA Inc \[2002\] HCA 8; (2002) 209 CLR 95, 105. For discussion of relevant indicators in the English context, see Ashton and Turner, "A Contemporary Reimagining of the Intention to Create Legal Relations Doctrine" \[2022\] Journal of Business Law 283, 302-306.
+
+Ashton v Pratt \[2015\] NSWCA 12; (2015) 88 NSWLR 281, \[91\] and \[231\]-\[232\].
+
+122 \[5.20\]
+
+Intention Chapter 5
+
+Dermatologists¹ nicely illustrates the kinds of factors that are commonly taken into account, as well as those that are irrelevant under the objective approach. Dr Shahid made a number of unsuccessful applications to the College for a training position in dermatology. The College provided a process by which an unsuccessful applicant could, on payment of a fee, appeal against such a decision. Details of the process were set out in a training handbook published by the College. Dr Shahid lodged appeals against the decisions made against her. The issue was whether each time she lodged an appeal and paid the stipulated appeal fee, Dr Shahid had entered into a contract with the College. The trial judge found that the intention to create legal relations requirement was not satisfied because, among other things, the College "regarded itself as so unfettered by any contractual concerns as to be able to substitute some other form of outcome of the appeal other than the one which would normally be anticipated, namely, the substitution of a successful appellant for the person originally selected". 13 On appeal, the Full Court held that the trial judge was wrong to have taken account of the College's "uncommunicated intentions" as to what it "regarded itself" as free to do. It was clear from the "objective state of affairs" that the outcomes available to the college were limited: they were "set out in very conventional terms in the training handbook".14 The Full Court found that the parties did manifest an intention to create legal relations. The training program was regarded by the College as "a subject of the greatest importance" and the "handbooks were both detailed and comprehensive". The context of the transaction was "a businesslike one" involving a "weighty" subject matter; namely, a demanding professional training program which was the principal means by which the College established and maintained standards within the profession.15 In relation to the appeals themselves, Dr Shahid paid substantial fees in return for the College's promise that there would be an appeal with certain specified characteristics. The handbook set out in a detailed and systematic manner the grounds of appeal, the process that would be followed and the powers of the appeals committee. 16 Jessup J (with whom Branson and Stone JJ agreed) said:
+
+Where one party makes, and the other party accepts, a money payment as consideration for a promise by the other to provide some service or to bestow some benefit, the proposition that each intended the promise to be taken seriously and to carry the conventional legal consequences does seem rather obvious. This is not a case with unusual or idiosyncratic features. Here the parties were at arm's length. Their only relationship was that constituted by the training program as a whole and by the appellant's status as a provisional trainee. That the disinterested bystander would think that the appellant would pay, and that the College would accept, a fee in the sum of $1,500 or $5,000 (plus GST in each case) without any intention that the College would, as a matter of law and not only in honour, be obliged to perform its promise seems quite improbable.
+
+Although the conduct of the parties after the making of the agreement may be taken into account in determining whether the parties intended to be bound, conduct which does no more than indicate the subjective intentions of one of the parties is not likely to be of assistance. A helpful case on this point is Atco Controls Pty Ltd (in liq) v Newtronics Pty
+
+12 Shahid v Australasian College of Dermatologists \[2008\] FCAFC 72; (2008) 168 FCR 46.
+
+13
+
+14
+
+15
+
+16
+
+Shahid v Australasian College of Dermatologists \[2008\] FCAFC 72; (2008) 168 FCR 46, \[209\]. Shahid v Australasian College of Dermatologists \[2008\] FCAFC 72; (2008) 168 FCR 46, \[209\]. Shahid v Australasian College of Dermatologists \[2008\] FCAFC 72; (2008) 168 FCR 46, \[214\]. Shahid v Australasian College of Dermatologists \[2008\] FCAFC 72; (2008) 168 FCR 46, \[216\].
+
+\[5.20\] 123
+
+Part II: Formation
+
+Ltd (recs & mgrs apptd) (in liq), which was discussed in Chapter 4.17 Atco provided a series of annual "letters of support" to its subsidiary (Newtronics) in which Atco confirmed that it would not seek to recover debts owed by Newtronics to the detriment of other creditors and would provide sufficient funds to Newtronics to enable Newtronics to meet its trading debts. These letters were prepared for the purposes of Newtronics' annual audit and were necessary in order for Newtronics to be presented in its accounts as a solvent, going concern.19 The trial judge found that the letters of support were intended to be binding, even though they were not mentioned in Atco's accounts. On appeal, counsel for Atco argued that the trial judge should have taken into account the fact that Atco's accounts did not refer to any obligations in relation to the letters of support. The Court of Appeal observed that, while it is permissible to consider all of the conduct of the parties in order to determine whether a binding agreement could be inferred from that conduct, whatever was said in the accounts could amount to little more than the directors' subjective interpretation of what had occurred.20
+
+Since the existence and effect of a legally binding agreement is to be determined objectively according to what a reasonable person would take to be the intent of the parties as evidenced by their actions in the circumstances of the case, and not according to the subjective interpretations of the parties, what the Atco directors thought to be the effect of what had occurred was largely irrelevant.21
+
+PRESUMPTIONS
+
+\[5.30\] The intention requirement has traditionally been approached on the basis that agreements made in a commercial context are presumed to be made with an intention to create legal relations, while agreements made in other contexts are not presumed to be made with such an intention. It was even said in some cases that there was a presumption against an intention to create legal relations in the case of certain transactions between family members.22 These presumptions made by the courts establish the onus of proof in relation to intention. In the case of a commercial transaction, the courts will assume that the parties intend the contract to be legally binding. The burden of disproving intention is therefore on a person denying the enforceability of such a transaction. In the case of non-commercial transactions, an intention to create legal obligations is not presumed. Accordingly, in such cases, the onus rests on the person seeking to enforce such an agreement to convince the court that the parties did manifest an intention to be bound.
+
+17
+
+See \[4.70\].
+
+18
+
+19
+
+Atco Controls Pty Ltd (in liq) v Newtronics Pty Ltd (recs & mgrs apptd) (in liq) \[2009\] VSCA 238; (2009) 25 VR 411.
+
+See Newtronics Pty Ltd (recs & mgrs appd) (in liq) v Atco Controls Pty Ltd (in liq) \[2008\] VSC 566, \[9\]-\[12\].
+
+20 Atco Controls Pty Ltd (in liq) v Newtronics Pty Ltd (recs & mgrs apptd) (in liq) \[2009\] VSCA 238; (2009) 25 VR
+
+411, \[44\]. The Court of Appeal overturned the trial judge's decision on other grounds. See \[4.70\].
+
+21
+
+22
+
+Atco Controls Pty Ltd (in liq) v Newtronics Pty Ltd (recs & mgrs apptd) (in liq) \[2009\] VSCA 238; (2009) 25 VR 411, \[44\].
+
+For example, Jones v Padavatton \[1969\] 1 WLR 328, 332, discussed at \[5.100\].
+
+124 \[5.30\]
+
+Intention Chapter 5
+
+In Ermogenous v Greek Orthodox Community of SA Inc,23 Gaudron, McHugh, Hayne and Callinan JJ expressed the need for caution in using presumptions in relation to this aspect of contract formation. Referring to the suggestion that an intention to create legal relations should not be presumed in relation to the engagement of a minister of religion, they said: "For our part, we doubt the utility of using the language of presumptions in this context. At best, the use of that language does no more than invite attention to identifying the party who bears the onus of proof."24
+
+It is not entirely clear whether their Honours meant to cast doubt on the utility of presumptions in the context of the engagement of a minister of religion or in the broader context of the intention to create legal relations requirement. The tenor of the judgment suggests the latter. Their Honours expressed concern that a presumption that legal relations are not intended in a particular context could "ossify into a rule of law" that there cannot be a contract in such a context.25 Such a proposition would, they said, distort "the proper application of basic principles of the law of contract" 26 Their Honours said that it would be wrong to formulate rules prescribing the types of cases in which an intention to create legal relations should or should not be found to exist.27
+
+In light of the Ermogenous decision, it is suggested that the role of presumptions in relation to the intention requirement is as follows. A person who claims that a contract has been made bears the onus of establishing the elements of formation. Where the other party denies the existence of a legally binding contract, then the person alleging the existence of a contract must satisfy the court that the parties manifested an intention to create legal relations.28 If the transaction is a commercial one, then the context will usually indicate that legal relations were intended, so the party denying the existence of a contract must convince the court that the parties did not intend to create legal relations. In other contexts, no presumption will be made. Although there were some post-Ermogenous cases in which it was presumed that agreements made between people in domestic or social relationships were not intended to create legal relations,29 the New South Wales Court of Appeal and the Full Court of the Federal Court of Australia have since held that no such presumption should be made.30 Whether the parties have manifested an intention to create legal relations is to be considered objectively, without the use of any presumptions, although the nature of the relationship between the parties and the context in which the agreement was made remain important considerations and may even be decisive in some cases.31
+
+23
+
+24
+
+25
+
+Ermogenous v Greek Orthodox Community of SA Inc \[2002\] HCA 8; (2002) 209 CLR 95, 105-6. Ermogenous v Greek Orthodox Community of SA Inc \[2002\] HCA 8; (2002) 209 CLR 95, 106. Ermogenous v Greek Orthodox Community of SA Inc \[2002\] HCA 8; (2002) 209 CLR 95, 106. Ermogenous v Greek Orthodox Community of SA Inc \[2002\] HCA 8; (2002) 209 CLR 95, 106. 27 Ermogenous v Greek Orthodox Community of SA Inc \[2002\] HCA 8; (2002) 209 CLR 95, 105. Ermogenous v Greek Orthodox Community of SA Inc \[2002\] HCA 8; (2002) 209 CLR 95, 106.
+
+26
+
+2222222
+
+28
+
+29
+
+30
+
+31
+
+For example, Darmanin v Cowan \[2010\] NSWSC 1118, \[206\]-\[208\]; Sion v NSW Trustee and Guardian \[2012\] NSWSC 949, \[71\] (upheld \[2013\] NSWCA 337). This approach is still sometimes taken (in erroneous reliance on older cases); see, eg, Lucas v Salman \[2022\] NSWSC 1301, \[207\].
+
+Ashton v Pratt \[2015\] NSWCA 12; (2015) 88 NSWLR 281, \[73\]; Evans v Secretary, Department of Families, Housing, Community Services and Indigenous Affairs \[2012\] FCAFC 81, \[12\]-\[16\].
+
+Ashton v Pratt \[2015\] NSWCA 12; (2015) 88 NSWLR 281, \[73\]; Evans v Secretary, Department of Families, Housing, Community Services and Indigenous Affairs \[2012\] FCAFC 81, \[16\].
+
+\[5.30\] 125
+
+Part II: Formation
+
+COMMERCIAL TRANSACTIONS
+
+Presumption of legal enforceability
+
+\[5.40\] The courts have, in some cases, adopted a "strong presumption" that commercial transactions are intended to create legal obligations, which "will only be rebutted with difficulty."32 This means that a person seeking to deny the enforceability of a commercial transaction bears a heavy onus in proving that it was not intended to be binding33 and there are few reported cases in which a party has even attempted to discharge that onus. The reason for this is obvious: in most cases, there is no question that a commercial agreement was intended to have a legal effect. It is unclear whether the scepticism about presumptions expressed in Ermogenous will affect the approach taken to commercial cases. Whether or not a presumption is made, the commercial context will usually indicate that legal relations were intended and the party denying the existence of a contract will need to show that the parties manifested an intention not to create legal relations. The question whether commercial parties intended to create legal relations has arisen in a number of cases involving letters of comfort. A letter of comfort is a document given to a financier in a situation in which a guarantee might otherwise be given. Typically a letter of comfort will be given when a bank is lending to a company which is a subsidiary of a larger company (the parent company). The bank is concerned about the subsidiary's financial strength and is reluctant to lend to the subsidiary without some assurance that the parent company will support its subsidiary. The parent company is reluctant to give a guarantee because its contingent liability under the guarantee would affect its balance sheet. The parent company therefore provides a letter of comfort, which offers some assurance to the bank without creating a clear liability. The legal status of the document may be deliberately left unclear so that both parties can proceed with the transaction. It has been said in England that, "in the search for agreed terms of a commercial transaction, business men may adopt language of deliberate equivocation in the hope that all will go well", 35
+
+In Banque Brussels Lambert SA v Australian National Industries Ltd,36 a letter of comfort was given by Australian National Industries Ltd (ANI), a public company listed on the stock exchange, in relation to a US$5m loan facility provided by the bank to Spedley Securities Ltd (SSL). ANI held a controlling interest in Spedley's parent company, Spedley Holdings Ltd (SHL). It provided a strongly worded letter of comfort at the bank's insistence after considerable negotiations and the exchange of several drafts. In the letter, ANI consented to the making of the loan and agreed to provide the bank with 90 days' notice of any decision to dispose of its interest in SHL. The letter also said:
+
+We take this opportunity to confirm that it is our practice to ensure that our affiliate Spedley Securities Ltd, will at all times be in a position to meet its financial obligations as they fall
+
+32
+
+2332
+
+Helmos Enterprises Pty Ltd v Jaylor Pty Ltd \[2005\] NSWCA 235, \[48\].
+
+33 Edwards v Skyways \[1964\] 1 All ER 494, 500; Banque Brussels Lambert SA v Australian National Industries Ltd (1989) 21 NSWLR 502, 521; Helmos Enterprises Pty Ltd v jaylor Pty Ltd \[2005\] NSWCA 235, \[48\]. Compare Gate Gourmet Australia Pty Limited (in liq) v Gate Gourmet Holding AG \[2004\] NSWSC 149, \[213\].
+
+ཚ་ ྂ
+
+Gate Gourmet Australia Pty Limited (in liq) v Gate Gourmet Holding AG \[2004\] NSWSC 149, \[213\]. Kleinwort Benson Ltd v Malaysia Mining Corp Bhd \[1989\] 1 WLR 379, 383.
+
+Banque Brussels Lambert SA v Australian National Industries Ltd (1989) 21 NSWLR 502.
+
+126 \[5.40\]
+
+Intention Chapter 5
+
+due. These financial obligations include repayment of all loans made by your Bank under the arrangements mentioned in this letter.
+
+ANI disposed of its shareholding in SHL without giving the required notice to the bank. SSL was unable to repay the debt to the bank and later went into liquidation. The bank sued ANI for damages for breach of the agreement. ANI denied liability on the basis that the parties did not manifest an intention to create legal relations. In the Supreme Court of New South Wales, Rogers CJ was influenced by the "refreshingly honest and sensible French approach to letters of comfort".37 In French law, a letter of comfort will be regarded as a commitment to perform since the creation of a meaningless instrument in the commercial world is unthinkable.38 Rogers CJ applied the presumption that parties to commercial agreements intend them to have legal effect:
+
+There should be no room in the proper flow of commerce for some purgatory where statements made by businessmen, after hard bargaining and made to induce another business person to enter into a business transaction would, without any express statement to that effect, reside in a twilight zone of merely honourable engagement. The whole thrust of the law today is to attempt to give proper effect to commercial transactions. It is for this reason that uncertainty, a concept so much loved by lawyers, has fallen into disfavour as a tool for striking down commercial bargains. If the statements are appropriately promissory in character, courts should enforce them when they are uttered in the course of business and there is no clear indication that they are not intended to be legally enforceable.39
+
+Rogers CJ held that the letter given by ANI included enforceable contractual promises to provide notice of its intention to dispose of its interest in SHL and to ensure that SSL would be in a position to repay the bank.40 The bank was therefore entitled to damages for ANI's breaches of these promises. A similarly strongly worded letter of comfort was also held to have contractual force in a more recent case discussed at \[11.50\].41 Much depends on the language used in the document, however, and there have been several cases in which less strongly worded letters have been held not to give rise to legal obligations. In Kleinwort Benson Ltd v Malaysia Mining Corp Bhd,2 the English Court of Appeal held that the presumption that legal relations are intended arises only when the words used in the relevant document can be treated as a contractual promise. Where a statement made in a commercial document does not appear to have been intended as a contractual promise, the onus lies on the party alleging a contract to show that the statement was intended as a contractual promise.43 The letter of comfort in that case could not be regarded as having been intended to contain a contractual promise."4 Similarly, in Commonwealth Bank of Australia v TLI Management Pty Ltd, Tadgell J of the
+
+37 Banque Brussels Lambert SA v Australian National Industries Ltd (1989) 21 NSWLR 502, 521.
+
+38
+
+39
+
+40
+
+41
+
+But compare the insights provided by empirical research such as that of Macaulay, at \[1.230\]-\[1.270\]. Banque Brussels Lambert SA v Australian National Industries Ltd (1989) 21 NSWLR 502, 523. Banque Brussels Lambert SA v Australian National Industries Ltd (1989) 21 NSWLR 502, 525-6.
+
+Gate Gourmet Australia Pty Limited (in liq) v Gate Gourmet Holding AG \[2004\] NSWSC 149. See also Anglican Development Fund Diocese of Bathurst v Palmer \[2015\] NSWSC 1856; (2015) 336 ALR 372, where a more strongly worded letter of comfort was held to be binding.
+
+42 Kleinwort Benson Ltd v Malaysia Mining Corp Bhd \[1989\] 1 WLR 379.
+
+43
+
+Kleinwort Benson Ltd v Malaysia Mining Corp Bhd \[1989\] 1 WLR 379.
+
+2344
+
+44 Kleinwort Benson Ltd v Malaysia Mining Corp Bhd \[1989\] 1 WLR 379, 393.
+
+45
+
+Commonwealth Bank of Australia v TLI Management Pty Ltd \[1990\] VR 510.
+
+\[5.40\] 127
+
+Part II: Formation
+
+Supreme Court of Victoria held that the letter of comfort before him contained statements of fact, rather than promises, and therefore did not give rise to an enforceable agreement. In Australian European Finance Corporation v Sheahan, Matheson J concluded that a letter of comfort was not intended to create legal relations where the wording was not discussed in advance, there was no evidence of reliance by the lender, the letter was "clearly intended to be ambiguous" and the expressions were "vague" and "woolly".
+
+Non-binding commercial agreements
+
+\[5.50\] Since the creation of legal relations is a matter of manifested intention, it is clear that parties can, if they wish, enter into a non-binding commercial agreement. The courts will give effect to an express stipulation that an agreement is not to be legally binding. Such provisions are sometimes described as honour clauses, since they expressly or implicitly provide that the agreement will be binding in honour only. In Rose & Frank CovJR Crompton & Bros Ltd,47 the House of Lords recognised the effectiveness of an honour clause. The clause was contained in an agreement made between a manufacturer and a distributor, which gave the distributor the right to sell the manufacturer's product for a stipulated period. The agreement contained an "honourable pledge clause", which provided that the agreement was not entered into as a legal agreement and was not subject to legal jurisdiction, but simply recorded the parties' purpose and intention "to which they each honourably pledge themselves". The distributor sought damages for breach of contract when the manufacturer terminated the distribution agreement without giving the stipulated period of notice.
+
+In the English Court of Appeal, Scrutton LJ said that an intention not to create legal relations may be implied from an agreement but may also be expressed by the parties. There is no reason why parties to a business agreement may not decide to "rely on each other's good faith and honour" and to exclude all outside intervention in the settlement of disputes. 48 Although the distribution agreement was held not to be binding, and the manufacturer was not obliged to accept orders from the distributor, each individual order was held to give rise to a separate contract when accepted by the manufacturer.49
+
+It is important to note that it is only permissible to exclude the jurisdiction of the courts in relation to an agreement that is not binding on the parties. Where an agreement is made binding, any attempt to oust the jurisdiction of the courts is contrary to public policy and will be void. 50
+
+AGREEMENTS BETWEEN FAMILY MEMBERS
+
+\[5.60\] It will be recalled that in Ermogenous v Greek Orthodox Community of SA Inc,51 Gaudron, McHugh, Hayne and Callinan JJ expressed the concern that a presumption (that in certain situations "an intention to create legal relations is not to be presumed") might
+
+46
+
+Australian European Finance Corporation v Sheahan (1993) 60 SASR 187, 206.
+
+47
+
+Rose & Frank Co v JR Crompton & Bros Ltd \[1925\] AC 445.
+
+48
+
+Rose & Frank Co v JR Crompton & Bros Ltd \[1923\] 2 KB 261, 288.
+
+49
+
+Rose & Frank Co v JR Crompton & Bros Ltd \[1925\] AC 445, 455.
+
+50
+
+See \[41.240\].
+
+51
+
+Ermogenous v Greek Orthodox Community of SA Inc \[2002\] HCA 8; (2002) 209 CLR 95; see \[5.30\].
+
+128 \[5.50\]
+
+Intention Chapter 5
+
+harden into a rule of law (that agreements made in such situations usually "will not give rise to legally enforceable obligations").52 This appears to have occurred in the domestic context, where the principle that an intention to create legal relations is not to be presumed seems to have made it difficult to establish a contract between spouses, even where the agreement in question involves substantial financial matters. Since Ermogenous, however, agreements made in a domestic context must be considered in a different way.53 Indeed, there is a good case for saying that family, domestic or social agreements should no longer be regarded as constituting a distinct legal category. 54 The relationship between the parties is simply one of the factors to be taken into account in determining whether the intention requirement is satisfied. Outside the commercial context, the onus is clearly on the person alleging the existence of a contract to satisfy the court that the parties manifested an intention to create legal relations. Whether parties have manifested an intention to create legal relations must be decided on the facts of each case, taking into account all relevant circumstances. The relevant circumstances include the subject matter of the agreement and the relationship between the parties, but there is no legal rule that domestic or social agreements or agreements between spouses are not usually intended to be binding. Each case must be decided on its own facts, and no presumption should be made about contractual intentions with respect to family arrangements.56
+
+Financial agreements between spouses
+
+\[5.70\] In Balfour v Balfour, a married couple had been living in Ceylon where the man worked. Following a holiday in England, the woman was unable to return to Ceylon for health reasons. The man promised to pay her a living allowance of £30 per month until she could join him. The couple later agreed to remain apart and the woman sued to recover amounts due under the agreement. The English Court of Appeal held that the agreement was not intended to be enforceable. Atkin LJ noted that arrangements are often made between husband and wife involving mutual promises and consideration. "Nevertheless they are not contracts, and they are not contracts because the parties did not intend that they should be attended by legal consequences" .58 Atkin LJ said:
+
+The common law does not regulate the form of agreements between spouses. Their promises are not sealed with seals and sealing wax. The consideration that really obtains for them is that natural love and affection which counts for so little in these cold courts. ... In respect of these promises each house is a domain into which the King's writ does not seek to run, and to which his officers do not seek to be admitted. 59
+
+52
+
+53
+
+Ermogenous v Greek Orthodox Community of SA Inc \[2002\] HCA 8; (2002) 209 CLR 95, 106. See \[5.30\].
+
+Compare Keyes and Burns, "Contract and the Family: Whither Intention?" (2002) 26 Melbourne University Law Review 577, esp at 580-1.
+
+Ermogenous v Greek Orthodox Community of SA Inc \[2002\] HCA 8; (2002) 209 CLR 95, 105-6.
+
+Ashton v Pratt \[2015\] NSWCA 12; (2015) 88 NSWLR 281, \[73\]; Evans v Secretary, Department of Families, Housing, Community Services and Indigenous Affairs \[2012\] FCAFC 81, \[16\].
+
+54
+
+55
+
+56
+
+57
+
+Balfour v Balfour \[1919\] 2 KB 571.
+
+58
+
+Balfour v Balfour \[1919\] 2 KB 571, 579.
+
+59
+
+Balfour v Balfour \[1919\] 2 KB 571, 579.
+
+\[5.70\] 129
+
+Part II: Formation
+
+The idea that the "King's writ does not seek to run" into the domestic domain is clearly inconsistent with the neutral approach to the intention requirement articulated by the High Court in Ermogenous.60 Even if the case is now of academic interest only, that interest is considerable from the point of view of a feminist analysis of law. The decision in Balfour v Balfour, and the quoted passage of Atkin LJ's judgment in particular, is a striking example of the tendency of the law to draw a distinction between public and private spheres."¹ Feminists have shown that the idea of the family as a "private" sphere in which the law does not intrude is illusory. Family life is regulated by direct means, such as family and criminal law, for example, and in many other indirect ways.62 The report into the separation of Aboriginal children from their families shows the extent of the state's reach into Aboriginal family life.63 The family cannot, therefore, be regarded as a "private" sphere that is free of legal intervention. It is somewhat paradoxical that the sphere regarded as too private for contract law is regulated by areas of law that are more explicitly concerned with the implementation of public norms.64
+
+The mapping of a private sphere that is for some purposes free of state intervention has complicated effects on those imagined to inhabit that sphere.65 In Balfour v Balfour, the refusal of the court to enforce an agreement between a woman and a man on whom she was financially dependent reinforced masculine dominance of the "private" domain. But to argue that greater legal intervention in the "private" sphere would serve the interests of women is overly simplistic. For example, as Graycar and Morgan point out, the intervention of the state in the domestic lives of Aboriginal women has clearly been detrimental to them and their children.66 Similarly, the recognition of pre- and post-nuptial financial agreements between married couples under the Family Law Act 1975 (Cth), discussed below, may also prove disadvantageous to some women, since the procedural safeguards provided by the legislation are unlikely to overcome the problems resulting from inequality of bargaining power.67
+
+Agreements between spouses who are separating
+
+\[5.80\] The courts have been more willing to find an intention to create legal relations where the parties are separated or about to separate. In Merritt v Merritt,68 for example, an agreement was made between a married couple after they had separated. The man signed a
+
+60
+
+61
+
+62
+
+63
+
+64
+
+65
+
+66
+
+67
+
+68
+
+Cf Magill v Magill \[2006\] HCA 51; (2006) 226 CLR 551, 614, where Heydon J referred in passing to Balfour v Balfour with apparent approval.
+
+See, eg, Graycar and Morgan, The Hidden Gender of Law (2nd ed, 2002), pp 15-24; Thornton (ed), Public and Private: Feminist Legal Debates (1995).
+
+See, eg, Olsen, "The Myth of State Intervention in the Family" (1985) 18 Michigan Journal of Law Reform 835. Graycar and Morgan, The Hidden Gender of Law (2nd ed, 2002), p 20, referring to Human Rights and Equal Opportunities Commission, Bringing Them Home: Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from their Families (1997).
+
+Shultz, "The Gendered Curriculum: Of Contracts and Careers" (1991) 77 Iowa Law Review 55, 59-61. See Orford, "Liberty, Equality, Pornography: The Bodies of Women and Human Rights Discourse" (1994) 3 Australian Feminist Law Journal 72.
+
+Graycar and Morgan, The Hidden Gender of Law (2nd ed, 2002), p 20.
+
+Neave, "Private Ordering in Family Law - Will Women Benefit?" in Thornton (ed), Public and Private: Feminist Legal Debates (1995), p 144; Graycar and Morgan, The Hidden Gender of Law (2nd ed, 2002), pp 111-3; Fehlberg and Smyth, "Pre-nuptial Agreements for Australia: Why Not?" (2000) 14 Australian Journal of Family Law 80. See also Fehlberg and Smyth, "Binding Prenuptial Agreements in Australia: The First Year" in Mulcahy (ed), Feminist Perspectives on Contract Law (2005), p 125.
+
+Merritt v Merritt \[1970\] 1 WLR 1211.
+
+130 \[5.80\]
+
+Intention Chapter 5
+
+document in which he agreed to pay the woman £40 per month and to transfer his interest in the matrimonial home to her if she paid all charges in connection with the house until the mortgage had been repaid. The English Court of Appeal held that although domestic arrangements between spouses "living in amity" are not ordinarily intended to create legal relations, it is altogether different when the parties are separated or about to separate.69 It may then "safely be presumed that they intend to create legal relations".70
+
+Family Law Act 1975 (Cth)
+
+\[5.90\] The Family Law Act 1975 (Cth) makes specific provision for parties to marriages (Pt VIIIA) and de facto relationships (Pt VIIIAB, Div 4) to make agreements relating to their financial affairs. The provisions cover agreements relating to matters such as the distribution of property in the event of the breakdown of the marriage or relationship and agreements for the maintenance of one of the parties during or after dissolution or breakdown." The provisions would cover both the agreement in Balfour v Balfour and that in Merritt v Merritt. An agreement made under Pt VIIIA or Pt VIIIAB, Div 4 is binding on the parties if it is expressed to be made under the relevant section, is signed by both parties and includes a certificate that both parties have received independent legal advice. Whether such an agreement is enforceable is to be determined in accordance with the principles of law that govern the enforceability of contracts generally.73 Thus, the normal requirements of contractual validity must be met, including the requirement of a manifested intention to create legal relations. If the requirements mentioned above have been satisfied, however, it would seem impossible to argue that the agreement was not intended to create legal relations. In Thorne v Kennedy, the High Court held that the pre and post-nuptial agreements made between the parties to that case were voidable on the basis of undue influence and unconscionable dealing.74
+
+Other arrangements between family members
+
+\[5.100\] The restrictive approach taken in Balfour v Balfour has been adopted in relation to agreements between other family members. In Jones v Padavatton,75 it was applied to deny enforceability to a mother's promise to pay $200 per month to her adult daughter to allow her go to England to read for the bar. All three members of the Court of Appeal adopted what Danckwerts LJ described as Atkin LJ's "magnificent exposition of the situation" in Balfour v Balfour.76 A factual presumption "against" an intention to create legal relations was adopted,
+
+69
+
+Merritt v Merritt \[1970\] 1 WLR 1211, 1213-4.
+
+70
+
+Merritt v Merritt \[1970\] 1 WLR 1211, 1213.
+
+71
+
+72
+
+Family Law Act 1975 (Cth), ss 90B, 90D, 90UB-90UD. For further discussion, see Fehlberg et al, Australian Family Law: The Contemporary Context (2nd ed, 2015), section 14.7.
+
+Family Law Act 1975 (Cth), ss 90B, 90D, 90G(1), 90UB-90UD and 90UJ(1). A court may declare an agreement binding even though it was made in the absence of independent legal advice if the court is satisfied that it would be unjust and inequitable if the agreement were not binding: Family Law Act 1975 (Cth), ss 90G(1A) and 90UJ(1A).
+
+Family Law Act 1975 (Cth), ss 90KA and 90UN. The Act does, however, set out certain circumstances in which the agreement may be set aside (ss 90K and 90UM).
+
+73
+
+74
+
+Thorne v Kennedy \[2017\] HCA 49; (2017) 263 CLR 85; see further \[35.40\].
+
+75
+
+Jones v Padavatton \[1969\] 1 WLR 328.
+
+76
+
+Jones v Padavation \[1969\] 1 WLR 328, 332.
+
+\[5.100\] 131
+
+Part II: Formation
+
+which was derived from "experience of human nature which shows that in such circumstances men and women usually do not intend to create legal rights and obligations"." The fact that the arrangement required the daughter to give up a well-paid job in Washington and move to England was not sufficient to rebut the presumption. This intended reliance by the daughter was said not to show that the parties intended their arrangement to have legal consequences, but only that the daughter was "prepared to trust her mother to honour her promise of support".78 If a similar case arose in Australia today, the reasoning of the High Court in Ermogenous would require the court to approach the question of intention in relation to an agreement between family members from a more neutral starting point.79
+
+An intention to create legal relations has been found in a series of cases involving promises relating to housing. In Todd v Nichol,so the defendant, a woman living in Australia, invited the plaintiffs, the sister and niece of the defendant's deceased husband, to move from Scotland to Australia to share her house to provide her with company. The defendant proposed the arrangement in a letter to the plaintiffs. The defendant conceded that it was "a big thing" for the plaintiffs to do and therefore promised to alter her will so that the house would be theirs until they die. The plaintiffs accepted the offer and moved to Australia. They sold their belongings in Scotland and the niece resigned her employment. When the relationship broke down, the plaintiffs sought to enforce the contract. The defendant argued that, since the agreement was between relatives, it must be presumed to have been based on trust rather than legal obligation. Mayo J observed that, since there was no explicit statement that legally enforceable obligations were intended, it was necessary to inquire whether an inference could be drawn.81 He held that the agreement contemplated a permanent arrangement and weight had to be given to an interpretation of the agreement that did not place the plaintiffs at the whim of the defendant.82 He therefore held that an intention to enter into a legally binding contract should be attributed to the parties.
+
+Similar arrangements have been held to be intended to create legal obligations in other cases.83 Although these cases involved domestic arrangements, they also involved valuable property rights. The crucial factor in each of the cases has been the degree of reliance by the plaintiff on the agreement.4 Given the serious consequences for the party taking up an invitation, it is difficult to imagine that step being taken without a binding commitment from the other party. Even in a domestic setting, an agreement that anticipates substantial reliance by one of the parties is likely to be intended to be binding. If such an agreement does not give rise to a contract but is relied upon by one party to their detriment, that party may be able to obtain relief by way of estoppel.85
+
+77
+
+78
+
+Jones v Padavatton \[1969\] 1 WLR 328, 332. Jones v Padavatton \[1969\] 1 WLR 328, 337.
+
+79
+
+Ashton v Pratt \[2015\] NSWCA 12; (2015) 88 NSWLR 281, \[73\]. Compare Magill v Magill \[2006\] HCA 51; (2006) 226 CLR 551, 614 (where Heydon J in obiter dicta referred to with apparent approval to Jones v Padavatton and Balfour v Balfour) and Smilevska v Smilevska (No 2) \[2016\] NSWSC 397, \[143\]-\[155\]. 80 Todd v Nichol \[1957\] SASR 72.
+
+81
+
+Todd v Nichol \[1957\] SASR 72, 79.
+
+82 Todd v Nichol \[1957\] SASR 72, 79-80.
+
+༆སྐུཎྜཤྩ སྐ
+
+83
+
+84
+
+85
+
+Wakeling v Ripley (1951) 51 SR (NSW) 183; Parker v Clark \[1960\] 1 All ER 93.
+
+Wakeling v Ripley (1951) 51 SR (NSW) 183, 187; Parker v Clark \[1960\] 1 All ER 93, 100-1.
+
+See Chapter 9.
+
+132 \[5.100\]
+
+Intention Chapter 5
+
+Commercial agreements between family members
+
+\[5.110\] The intention requirement will easily be satisfied where a transaction between family members is essentially commercial in nature. Roufos v Brewsters concerned an arrangement between Mr and Mrs Brewster and their son-in-law, Mr Roufos. The arrangement was that Roufos would take the Brewsters' truck from Coober Pedy to Adelaide on the back of his semi-trailer so that the truck could be repaired. It was agreed that Roufos would engage a driver to drive the truck back to Coober Pedy and could send back a load of goods on the truck if he wished. The truck was damaged on the return trip and the Brewsters sought to recover damages from Roufos for breach of contract. Bray CJ held that the agreement created a legal relationship. There was evidence of "intermittent hostility" between the parties, who entered into the agreement in pursuit of their separate commercial interests. Moreover, the "whole setting of the arrangement" was "commercial, rather than social or domestic". 87
+
+NON-COMMERCIAL ARM'S-LENGTH TRANSACTIONS
+
+\[5.120\] Is the presumption that legal relations are intended to be made only in relation to commercial agreements? Many transactions are entered into between individuals, neither of whom is conducting a business, in circumstances where an intention to create legal relations might be presumed. Examples include the private sale of a house or car or an agreement to employ a person in a domestic capacity, such as a housekeeper or nanny. It may be that the presumption that parties intend legal enforceability is not restricted to commercial agreements but extends to all agreements involving substantial matters entered into between individuals at arm's length. But such an approach would marginalise agreements between family members. 89 It may be that in all non-commercial cases, the onus in relation to intention remains on the person asserting the existence of a contract. In Ermogenous, Gaudron, McHugh, Hayne and Callinan JJ accepted that, where a contract was alleged to have arisen from the engagement of a minister of religion, the onus was on the minister to "demonstrate that there was a contract" and this seemed to include the need to satisfy the court that the parties manifested an intention to create legal relations.90 The High Court held that the South Australian Supreme Court was wrong to draw an inference that legal relations were not intended. The clergy engaged by the respondent, and similar Australian bodies were treated as employees and the industrial magistrate was held not to have erred in concluding that a contract was made."¹
+
+86 Roufos v Brewster (1971) 2 SASR 218.
+
+87
+
+Roufos v Brewster (1971) 2 SASR 218, 222.
+
+88
+
+89
+
+Support for such a proposition can be found in Rose & Frank Co v JR Crompton & Bros Ltd \[1923\] 2 KB 261, 293 and Hedley, "Keeping Contract in Its Place - Balfour v Balfour and the Enforceability of Informal Agreements" (1985) 5 Oxford Journal of Legal Studies 391.
+
+See Keyes and Burns, "Contract and the Family: Whither Intention?" (2002) 26 Melbourne University Law Review 577, who argue that a distinction should not even be drawn between family and commercial agreements.
+
+90 Ermogenous v Greek Orthodox Community of SA Inc \[2002\] HCA 8; (2002) 209 CLR 95, 106.
+
+91
+
+Ermogenous v Greek Orthodox Community of SA Inc \[2002\] HCA 8; (2002) 209 CLR 95, 111-2.
+
+\[5.120\] 133
+
+Part II: Formation
+
+GOVERNMENT AGREEMENTS
+
+\[5.130\] Whether the court will conclude that an agreement entered into by a government is intended to be binding depends in part on whether the transaction is a commercial agreement or an arrangement involving the implementation of government policy."2 In Australian Woollen Mills Pty Ltd v Commonwealth," the Commonwealth Government was held not to have intended to assume a legal obligation to pay the promised subsidies to manufacturers of woollen products. The absence of such an intention was indicated by four factors. First, no statutory authority was sought for the making of the payments (as one would expect if a legal obligation was being assumed). Secondly, the scheme was announced by persons who had no power to commit the Crown to any expenditure." Thirdly, the Commonwealth had no commercial interest in the purchases of wool but was simply dealing with a problem created by war. Fourthly, the Commonwealth expressly reserved the right to vary the amount of the subsidy." The existence of such a discretion was inconsistent with the notion that the Commonwealth intended to assume a contractual obligation. The Privy Council agreed that the scheme was administrative, rather than contractual.98 The lack of a formal agreement and the number of uncertain factors pointed to this conclusion, and the Privy Council thought it was not remarkable that manufacturers were content to rely on the Commonwealth's statement of policy."9
+
+Another example of an agreement involving the implementation of policy is Administration of Papua New Guinea v Leahy, 100 Leahy had sought the help of the Department of Agriculture in dealing with a tick infestation on his cattle property. It was agreed that officers of the Department would spray Leahy's cattle and implement other eradication measures, and Leahy would provide workers to assist them in mustering and handling the cattle. When the eradication work was not carried out properly, Leahy sought damages for breach of contract. The High Court held that no binding contract had been made. The Department was simply providing gratuitous assistance in the execution of its policy to eradicate ticks. 101 "The work done by the Administration was analogous to a social service which generally does not have as its basis a legal relationship of a contractual nature." 102
+
+The two cases discussed above can be contrasted with Placer Developments Ltd v Commonwealth,103 which involved an agreement between the Commonwealth and Placer to form a timber company to operate in Papua New Guinea. Clause 14 of the agreement provided that, if customs duty was paid on the importation of the timber company's products
+
+93
+
+94
+
+92 See further Seddon, Government Contracts: Federal, State and Local (7th ed, 2023), \[3.2\]-\[3.7\].
+
+Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, discussed at \[3.30\] and \[4.50\]. See also South Australia v Commonwealth (1962) 108 CLR 130, 148-9, 153, 157. Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 461. 95 Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 461.
+
+96
+
+Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 460. Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424, 464-5. Australian Woollen Mills Pty Ltd v Commonwealth (1955) 93 CLR 546, 555.
+
+97
+
+98
+
+99
+
+Australian Woollen Mills Pty Ltd v Commonwealth (1955) 93 CLR 546, 555.
+
+100 Administration of Papua New Guinea v Leahy (1961) 105 CLR 6.
+
+101
+
+102
+
+103
+
+Administration of Papua New Guinea v Leahy (1961) 105 CLR 6, 19. Administration of Papua New Guinea v Leahy (1961) 105 CLR 6, 11. Placer Developments Ltd v Commonwealth (1969) 121 CLR 353.
+
+134 \[5.130\]
+
+Intention Chapter 5
+
+into Australia, then the Commonwealth would pay to the timber company a subsidy at a rate to be determined by the Commonwealth. Placer sought to enforce the agreement. As will be discussed in Chapter 6, the majority of the court, Taylor, Owen and Kitto JJ, held that clause 14 was unenforceable as an illusory promise 104 and did not address the question of intention. The dissenting judges, Menzies and Windeyer JJ, had no doubt that the agreement was intended to create legal relations. The language was that of legal obligation, 105 the agreement had an essentially commercial character and Parliament had approved the agreement and appropriated funds to meet the obligation. 106 These factors were "enough to rescue" the agreement "from the unenforceability which a purely political arrangement has, and to give it a commercial character" 107
+
+PRELIMINARY AGREEMENTS
+
+\[5.140\] Parties who have negotiated the principal terms of a proposed transaction may enter into a preliminary written agreement, with the intention of recording their agreement in a more formal way at some future time. It is not uncommon in commercial transactions, for example, for the parties to record "heads of agreement" when the principal terms of a complex transaction have been agreed upon. 108 The preliminary agreement may be expressed to be "subject to contract" or "subject to preparation of a formal contract". If one of the parties wishes to withdraw from the transaction after the preliminary agreement has been signed, it will be necessary to determine whether the preliminary agreement was intended to be binding.109 The issue is whether the parties intended to be bound immediately on the signing of the preliminary agreement or intended to defer any legal commitment until a formal contract had been made. In the determination of this issue, the court will take account of post-agreement conduct and communications, including, for example, the fact that the parties have continued their negotiations after the formation of an agreement¹10 and, pointing in the opposite direction, the fact that the parties have embarked on performance.¹¹¹
+
+The three categories in Masters v Cameron
+
+\[5.150\] A preliminary agreement will be binding if it appears the parties intended it to be binding. The leading case on this point is Masters v Cameron. 112 The parties in that case had signed a written memorandum relating to the sale of a farming property. The memorandum was signed by both parties and recorded the vendor's agreement to sell and the purchaser's agreement to buy the property for a stipulated price. The portion of the document signed by the vendor said: "This agreement is made subject to the preparation of a formal contract of
+
+104
+
+Placer Developments Ltd v Commonwealth (1969) 121 CLR 353, 359-61, 356-7. See \[6.110\]. 105 Placer Developments Ltd v Commonwealth (1969) 121 CLR 353, 363.
+
+106
+
+Placer Developments Ltd v Commonwealth (1969) 121 CLR 353, 368. 107 Placer Developments Ltd v Commonwealth (1969) 121 CLR 353, 368.
+
+108 See, eg, Coal Cliff Collieries Pty Ltd v Sijehama Pty Ltd (1991) 24 NSWLR 1.
+
+109
+
+See, eg, Toyota Motor Corporation Australia Ltd v Ken Morgan Motors Pty Ltd \[1994\] 2 VR 106.
+
+110 Sagacious Procurement Pty Ltd v Symbion Health Ltd (formerly Mayne Group Ltd) \[2008\] NSWCA 149, esp at
+
+\[105\]; Factory 5 Pty Ltd (in liq) v State of Victoria (No 2) \[2012\] FCAFC 150.
+
+111
+
+112
+
+RTS Flexible Systems Ltd v Molkerei Alois Müller GmbH & Co KG (UK Production) \[2010\] UKSC 14; \[2010\] 1 WLR 753.
+
+Masters v Cameron (1954) 91 CLR 353.
+
+\[5.150\] 135
+
+Part II: Formation
+
+sale which shall be acceptable to my solicitors on the above terms and conditions, and to the giving of possession on or about the Fifteenth Day of March 1952." Both parties behaved as though the transaction was proceeding, but no further document was signed. When the purchaser ran into financial difficulties, he refused to complete the transaction.
+
+The High Court observed that a case such as this may fall into one of three categories.113 First, the parties may have finalised "all the terms of their bargain" and intend to be bound immediately but propose to restate the terms in a form which is fuller or more precise, but not different in effect. Secondly, the parties may have "completely agreed upon all the terms of their bargain" and do not intend to vary those terms but "have made performance of one or more terms conditional upon the execution of a formal document". 114 Thirdly, the parties may not intend to make a binding agreement at all unless and until they execute a formal contract. In the first case, the parties are bound whether or not a formal document is ever signed; in the second, they are bound to bring the formal document into existence and in the third, they are not bound unless a formal document is signed. "Cases of the third class are not intended to have, and therefore do not have, any binding effect."115
+
+The High Court held that the effect of a preliminary agreement depends on the intention disclosed by the language used by the parties.116 The use of expressions such as "subject to contract" and "subject to formal contract" prima facie indicates that the parties have done no more than establish a basis for a future agreement and that the preliminary agreement is not intended to be binding.117 On the facts before the court, there was nothing to displace that presumption. The stipulation that the formal contract was to be acceptable to the vendor's solicitors indicated that it should include any terms the solicitors considered appropriate. 119 The memorandum did not, therefore, record a binding agreement. The purchaser was free to withdraw from the transaction and was entitled to a return of the deposit.
+
+Although the Masters v Cameron categories are routinely cited and relied upon, their analytical utility is limited. That is because they express possible conclusions about the question at issue rather than providing guidance in reaching that conclusion. Moreover, the New South Wales Court of Appeal has observed that "the Masters v Cameron classifications are no longer, if ever they were, applied as strict categories into which such cases must fall". 120 The question to be decided is whether the parties manifested an intention to be bound by the preliminary agreement immediately upon signing. The starting point for that inquiry is the language of the agreement, but it is to be read in light of "the commercial context and surrounding circumstances" of the dealings between the parties.121 In Citius Property Pty Ltd v Logos Australia Group Pty Ltd, for example, the use of informal and imprecise language
+
+113 Masters v Cameron (1954) 91 CLR 353, 360.
+
+114
+
+115
+
+116 Masters v Cameron (1954) 91
+
+117
+
+Masters v Cameron (1954) 91 Masters v Cameron (1954) 91
+
+CLR 353, 360.
+
+CLR 353, 361.
+
+CLR 353, 362.
+
+Masters v Cameron (1954) 91 CLR 353, 362-3.
+
+118 Compare Stellard Pty Ltd v North Queensland Fuel Pty Ltd \[2015\] QSC 119, where the parties expressly contemplated significant expenditure following acceptance of the offer and the context indicated an intention to be bound immediately despite the offer being expressly made "subject to contract".
+
+119 Masters v Cameron (1954) 91 CLR 353, 364.
+
+120 Pavlovic v Universal Music Australia Pty Ltd \[2015\] NSWCA 313; (2015) 90 NSWLR 605, \[69\].
+
+121 Pavlovic v Universal Music Australia Pty Ltd \[2015\] NSWCA 313; (2015) 90 NSWLR 605, \[72\].
+
+136 \[5.150\]
+
+Intention Chapter 5
+
+such as "in principle we are ok", along with other factors including a lack of agreement on several important matters, led to the conclusion that the plaintiff had not established an objectively manifested intention to be legally bound.122 The terms are also important: the more comprehensive an agreement, the more likely it is that the parties intend to be bound immediately. Conversely, "the more numerous and significant the areas in respect of which the parties have failed to reach agreement, the slower a court will be to conclude that they had the requisite contractual intention."123
+
+Subsequent conduct can be taken into account: it may, for example, be relevant that the parties continue to negotiate and do not treat the preliminary agreement as binding.124 In order to be relevant, however, subsequent conduct must go beyond simply indicating whether each of the parties subjectively understood a binding contract to be in existence. 125 When the parties have entered into a written agreement, the construction of the document will normally be determinative and subsequent conduct will be relevant only in rare situations, such as where the parties' conduct indicates that "there were other uncompleted matters that required negotiation between the parties before it could be said that the parties intended there to be a final and binding contract", 126
+
+A "fourth category"?
+
+\[5.160\] In Baulkham Hills Private Hospital Pty Ltd v GR Securities Pty Ltd,127 McLelland J suggested that, in addition to the three categories referred to in Masters v Cameron, the cases support the recognition of a fourth class of case in which the parties intend to be bound "immediately and exclusively" by the terms they have agreed on, "whilst expecting to make a further contract in substitution for the first contract, containing, by consent, additional terms". The existence of a fourth class has been accepted in many subsequent cases. 128 In Anaconda Nickel Ltd v Tarmoola Australia Pty Ltd,129 for example, a letter signed by both parties set out the proposed terms of an agreement relating to a mineral exploration venture. The document concluded: "The above forms a heads of agreement which constitutes an agreement in itself intended to be replaced by a fuller agreement not different in substance or form." The Full Court of the Supreme Court of Western Australia (by majority) held that the heads of agreement was intended to be binding and fell within the fourth category.
+
+122 Citius Property Pty Ltd v Logos Australia Group Pty Ltd \[2022\] VSC 656.
+
+123
+
+124
+
+125
+
+126
+
+127
+
+128
+
+129
+
+Australian Broadcasting Corporation v XIVth Commonwealth Games Ltd (1988) 18 NSWLR 540, 548. See also Delaney v Delaney \[2022\] VSCA 48.
+
+Barrier Wharves Ltd v W Scott Fell & Co Ltd (1908) 5 CLR 647, 669; Australian Broadcasting Corporation v XIVth Commonwealth Games Ltd (1988) 18 NSWLR 540, 550; Factory 5 Pty Ltd (in liq) v State of Victoria (No 2) \[2012\] FCAFC 150.
+
+Darzi Group Pty Ltd v Nolde Pty Ltd \[2019\] NSWCA 210, (2019) 100 NSWLR 394, \[157\].
+
+Darzi Group Pty Ltd v Nolde Pty Ltd \[2019\] NSWCA 210, (2019) 100 NSWLR 394, \[159\]. See also Pavolvic v Universal Music Australia Pty Ltd \[2015\] NSWCA 313; (2015) 90 NSWLR 605, \[133\]-\[135\].
+
+Baulkham Hills Private Hospital Pty Ltd v GR Securities Pty Ltd (1986) 40 NSWLR 622, 628, quoting Sinclair, Scott & Co Ltd v Naughton (1929) 43 CLR 310, 317.
+
+See McLauchlan, "In Defence of the Fourth Category of Preliminary Agreements: Or Are There Only Two?" (2005) 21 Journal of Contract Law 286, 293-4.
+
+Anaconda Nickel Ltd v Tarmoola Australia Pty Ltd \[2000\] WASCA 27; (2000) 22 WAR 101.
+
+\[5.160\] 137
+
+Part II: Formation
+
+Although there has been some debate as to whether the "fourth category" is really necessary, 130 the weight of authority supporting the extra category ensures that it will continue to inform analysis. The categories do not, in any case, constitute rules of law: they are not "applied as strict categories into which such cases must fall".131 As Professor McLauchlan reminds us, it is important not to lose sight of the fact that there are really only two categories of preliminary agreement: those that are intended to be immediately binding and those that are not. 132 If a preliminary agreement is intended to be binding, then a further question arises: whether it is sufficiently complete that it is capable of constituting a binding contract. The issues of certainty and completeness are interconnected,133 because the failure of parties to deal with matters that one would expect to see included supports the conclusion that the parties do not intend to be bound.134 The same goes for a failure to deal effectively with significant matters that were under discussion between the parties. 135 Although similar evidence is looked at in relation to issues of intention and completeness, they are "wholly separate" issues and must be given separate treatment.136
+
+The addition of further terms
+
+\[5.170\] The fact that the proposed formal contract is intended to include further terms will not prevent a preliminary agreement from being binding, provided those further terms can be settled without agreement between the parties. As we will see in Chapter 6, an agreement cannot be binding if it depends on further agreement between the parties. An agreement to agree is not enforceable. In Godecke v Kirwan,137 a preliminary agreement provided that the purchaser would execute a further agreement, if required, containing such other terms as the vendor's solicitors may reasonably require. The preliminary agreement was held to be binding. Gibbs J said that the court in Masters v Cameron had not been intending to exclude from the second class "a case in which the formal document, when executed, would include terms additional to those already expressed, provided that the additional terms did not depend on further agreement between the parties". 138 In this case, the additional terms did not depend on further agreement between the parties because they were to be determined unilaterally by the vendor's solicitors.
+
+130 Peden, Carter and Tolhurst, "When Three Just Isn't Enough: The Fourth Category of the 'Subject to Contract' Cases" (2004) 20 Journal of Contract Law 156; McLauchlan, "In Defence of the Fourth Category of Preliminary Agreements: Or Are There Only Two?" (2005) 21 Journal of Contract Law 286; Tolhurst, Carter and Peden, "Masters v Cameron - Again\!" (2011) 42 Victoria University of Wellington Law Review 49. Pavlovic v Universal Music Australia Pty Ltd \[2015\] NSWCA 313; (2015) 90 NSWLR 605, \[69\].
+
+131
+
+132 McLauchlan, "In Defence of the Fourth Category of Preliminary Agreements: Or Are There Only Two?"
+
+(2005) 21 Journal of Contract Law 286, 304-5.
+
+133 McLauchlan, "In Defence of the Fourth Category of Preliminary Agreements: Or Are There Only Two?"
+
+(2005) 21 Journal of Contract Law 286, 287-8.
+
+134
+
+Nationwide Produce (Holdings) Pty Ltd (in liq) v Linknarf Limited (in liq) \[2005\] FCAFC 129, \[42\].
+
+135 Factory 5 Pty Ltd (in liq) v Victoria (No 2) \[2012\] FCAFC 150.
+
+136 Helmos Enterprises Pty Ltd v Jaylor Pty Ltd \[2005\] NSWCA 235, \[54\]. See also Delaney v Delaney \[2022\]
+
+VSCA 48.
+
+137
+
+Godecke v Kirwan (1973) 129 CLR 629.
+
+138 Godecke v Kirwan (1973) 129 CLR 629, 648.
+
+138 \[5.170\]

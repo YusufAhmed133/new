@@ -1,0 +1,643 @@
+CHAPTER 4
+
+\[4.10\] \[4.201
+
+Consideration
+
+WHEN IS CONSIDERATION REQUIRED?
+
+ORIGINS OF THE REQUIREMENT
+
+\[4.30\]
+
+THE ESSENTIAL ELEMENTS
+
+\[4.40\]
+
+The benefit/detriment requirement
+
+\[4.50\]
+
+\[4.80\]
+
+The "bargain" requirement
+
+CONSIDERATION MUST MOVE FROM THE PROMISEE
+
+\[4.90\]
+
+SUFFICIENCY OF CONSIDERATION
+
+\[4.100\]
+
+Discretion as to performance
+
+\[4.110\] Past consideration
+
+\[4.130\] The existing legal duty rule
+
+\[4.230\] THE PURPOSE OF CONSIDERATION
+
+\[4.230\] Criticism of the doctrine of consideration \[4.240\] The function of consideration
+
+\[4.250\] PROMISES UNDER SEAL
+
+WHEN IS CONSIDERATION REQUIRED?
+
+97
+
+98
+
+98
+
+98
+
+99
+
+103
+
+105
+
+105
+
+106
+
+107
+
+117
+
+117
+
+118
+
+120
+
+\[4.10\] The second essential element in the formation of a contract is consideration. The doctrine of consideration requires that something must be given in return for a promise in order to make it binding. Consideration is clearly present in most agreements and is usually taken for granted. That is because most agreements that come before the courts involve an exchange. A contract may involve an immediate exchange of things, such as an exchange of money for goods. Alternatively, a contract may involve the exchange of a thing for a promise, such as A's immediate payment of $1000 to B in return for B's promise to build a fence for A. A contract may also involve an exchange of promises, such as A's promise to pay $1000 to B in return for B's promise to build a fence for A. It is where an agreement is entirely one- sided, and a promise remains unperformed, that the issue of consideration assumes central importance. Consideration must be identified when A has made a promise to B, which B wishes to enforce, and there is some doubt as to whether B has given anything in return.
+
+Consideration is a requirement of the enforceability of promises. If we need to know whether A's promise to B can be enforced by B, we must ask whether B (the promisee) has given consideration for that promise.' When a contract is made by an exchange of promises, each party's promise provides consideration to support the promise made by the other. An agreement that is not supported by consideration on both sides is sometimes said to be nudum pactum (a naked agreement), and this label carries with it the idea that the agreement is unenforceable.
+
+1
+
+In this chapter, the person making the promise sought to be enforced will be referred to as the promisor and the person seeking to enforce the promise as the promisee.
+
+\[4.10\] 97
+
+Part II: Formation
+
+ORIGINS OF THE REQUIREMENT
+
+\[4.20\] The requirement of consideration was originally concerned with the motivation for making a promise. In the 16th century, the legal effect of a promise depended on the "considerations" or factors motivating the making of the promise. The existence of a "good consideration" for making a promise provided evidence that a promise had in fact been made and indicated that it would be just to enforce the promise. By the end of the 16th century, it was necessary to plead the motive or reason for the making of a promise on which one wanted to sue.³ Promises came to be enforceable when the promisee had conferred some benefit on the promisor or the promisee had acted to his or her detriment in reliance on the promise.+ Although in the latter situation detrimental reliance was induced by the promise, rather than providing a motive for it, the concept of "consideration" was twisted to include reliance. In the 18th century, the fact that the promisor was under a moral obligation to the promisee was taken to be sufficient consideration for a promise."
+
+The modern doctrine of consideration took shape in the 19th century. In Eastwood v Kenyon, the moral obligation conception of consideration was firmly rejected. During this period, the concept of "bargain" came to dominate the law of contract being shaped by textbook writers and judges. Under the influence of the bargain concept, consideration came to be seen as something of legal value given in exchange for a promise, which could be seen as the price of the promise. An all-embracing formula for consideration was developed, which united the historical recognition of "benefit" and "detriment" with the idea of an exchange adopted by consensus between the parties.
+
+THE ESSENTIAL ELEMENTS
+
+\[4.30\] Consideration is something the law regards as valuable, which is given in return for a promise and can be seen as the agreed price of the promise. There are two aspects to that definition: first, the promisee must incur a detriment or confer a benefit on the promisor (the benefit/detriment requirement) and, secondly, that benefit or detriment must be given in return for the promise (the bargain requirement). The courts do not expressly set up a two-stage test covering these requirements; rather, some cases focus on the benefit/detriment aspect, while other cases focus on the bargain requirement.
+
+The benefit/detriment requirement
+
+\[4.40\] The first aspect of valuable consideration is that it must consist of a detriment to the promisee or a benefit to the promisor. In a statement which has been described as a classic definition of consideration," Lush J said in Currie v Misa¹ that:
+
+2
+
+Simpson, A History of the Common Law of Contract (1975), p 321.
+
+3
+
+Greig and Davis, The Law of Contract (1987), p 7.
+
+4
+
+Greig and Davis, The Law of Contract (1987), p 75.
+
+5
+
+Simpson, A History of the Common Law of Contract (1975), pp 324-5.
+
+6
+
+7
+
+8
+
+Greig and Davis, The Law of Contract (1987), pp 20-1.
+
+Hawkes v Saunders (1782) 1 Cowp 289, 290, 294; 98 ER 1091, 1093. Eastwood v Kenyon (1840) 11 Ad & El 438; 113 ER 482.
+
+9 Beaton v McDivitt (1987) 13 NSWLR 162, 181.
+
+10
+
+Currie v Misa (1875) LR 10 Ex 153, 162.
+
+98 \[4.20\]
+
+Consideration Chapter 4
+
+A valuable consideration, in the sense of the law, may consist in some right, interest, profit, or benefit accruing to the one party, or some forbearance, detriment, loss, or responsibility, given, suffered, or undertaken by the other...
+
+This means that the person to whom the promise is made must either confer a benefit on the promisor, or must incur a legal detriment, in the sense of giving something up or undertaking an obligation. In most cases, the consideration given in return for a promise will constitute both a benefit to the promisor and a detriment to the promisee. Assume, for example, that B wishes to enforce A's promise to pay B $1000. The consideration given by B may be the transfer of property (such as B's car), the performance of services (such as building a fence for A) or, more commonly, the making of a promise to transfer property or perform services in the future. B may also make a promise not to do something, such as a promise not to sue A in respect of a tort or breach of contract committed by A, or a promise not to trade in competition with A. In each of those examples, the consideration given by B constitutes both a detriment to B and a benefit to A.
+
+It is important to recognise that mutual promises will provide good consideration for each other." If B makes a promise in return for A's promise, this will confer a benefit on A (because A will have an enforceable legal right to have the promise performed) and will also be a detriment to B (because B will come under an obligation to perform the promise). The recognition of mutual promises involves a paradox which has vexed writers on contract law.12 If A and B exchange promises, each promise will constitute a legal benefit to the promisee and a legal detriment to the promisor only if it is legally enforceable. Each promise will be legally enforceable only if consideration has been provided in return. But the return promise will constitute good consideration only if it is enforceable. Thus, neither promise will be binding unless consideration has been provided, but, strictly speaking, neither promise should constitute consideration unless it is binding. Since there is no doubt that the courts do recognise mutual promises as good consideration for one another, this paradox is of academic interest only.
+
+The "bargain" requirement
+
+\[4.50\] The second aspect of the doctrine of consideration is that the benefit conferred on the promisor or the detriment suffered by the promisee must be given in return for the promise. The act relied on as consideration must, in other words, be performed as the agreed price of the promise. This notion of consideration was adopted by the High Court in Australian Woollen Mills Pty Ltd v Commonwealth. 13 This decision illustrates the proposition that: "Consideration, offer and acceptance are an indivisible trinity, facets of one identical notion which is that of bargain."14 The facts of the case were outlined in Chapter 3.15 Australian Woollen Mills (AWM) attempted to enforce a series of promises made by the Commonwealth to pay subsidies on the wool purchased by Australian manufacturers. AWM claimed that, by purchasing wool, it provided consideration for the Commonwealth's promises to pay the subsidies.
+
+11 Perry v Anthony \[2016\] NSWCA 56, \[26\].
+
+12
+
+13
+
+See Coote, "The Essence of Contract - Part II" (1989) 1 Journal of Contract Law 183, 191-5. Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424.
+
+14
+
+Hamson, "The Reform of Consideration" (1938) 54 Law Quarterly Review 233, 234.
+
+15
+
+See \[3.30\].
+
+\[4.50\] 99
+
+Part II: Formation
+
+The acts of purchasing wool satisfied the test outlined in Currie v Misa¹ because they constituted both a legal detriment to AWM and a benefit to the Commonwealth. The High Court held, however, that there must be a relation of quid pro quo (this for that) between the Commonwealth's promise and the acts relied on as consideration for that promise. The acts must be performed in return for the promise. This "bargain" aspect of consideration will be satisfied if the acts which are said to amount to consideration have been performed at the request or implied request of the person making the promise. In this case, the statements made by the Commonwealth were in the nature of policy announcements and no request to purchase wool could be implied. In the absence of such a request, it was irrelevant that AWM may have acted to their detriment in reliance on the Commonwealth's promise.17
+
+On appeal, the Privy Council upheld the decision of the High Court on the basis that the letters sent by the Commonwealth contained statements of policy, rather than offers. 18 The Privy Council indicated, however, that the High Court had over-emphasised the importance of a request. The Privy Council took the view that the presence of a request will not necessarily establish a contract. 19 Although in some cases the absence of a request will negate the existence of a contract, the presence of a request to perform an act will not necessarily establish a relation of quid pro quo between the act and a promise made by the alleged offeror.
+
+It is possible for an act to satisfy the bargain aspect of consideration, but not the benefit/ detriment requirement. The facts of Ballantyne v Phillott20 illustrate this. Phillott had commenced proceedings against Ballantyne, his former mistress, to recover a substantial sum of money he had lent to her. There was some evidence that Ballantyne had asserted that she had lent money to Phillott and had claimed she could sue him for defamation, although it seems doubtful that she had, or even believed she had, an enforceable claim against him on either ground.21 At the instigation of a third party, Ballantyne and Phillott signed a written document in which Phillott agreed to discontinue the proceedings and to release all claims he may have had against her. Ballantyne relied on the agreement when Phillott later instituted fresh proceedings to recover the debt. As consideration for Phillott's promises, Ballantyne relied on a statement in the signed document that she had no right or claim against Phillott in respect of the action for debt or otherwise. The High Court held, by a majority of 2-1, that Ballantyne had not given consideration for Phillott's promises. Menzies J held that Ballantyne did not promise to give up a claim against Phillott and no promise could be implied in the circumstances. Ballantyne had done no more than to admit that she had no claim against Phillott and this does not amount to consideration.22 On this view, even if Ballantyne's admission could be regarded as the price of Phillott's promise, the making of the admission did not constitute a detriment to Ballantyne or a benefit to Phillott. Windeyer J accepted that such an admission could be the price of a promise but found that it had not been shown to be so
+
+16
+
+Currie v Misa (1875) LR 10 Ex 153.
+
+17
+
+Greig and Davis, The Law of Contract (1987), p 81. Such detrimental reliance might today be claimed to give rise to an estoppel: see Chapter 9.
+
+18
+
+19
+
+21
+
+008
+
+Australian Woollen Mills Pty Ltd v Commonwealth (1955) 93 CLR 546, 554-5.
+
+Australian Woollen Mills Pty Ltd v Commonwealth (1955) 93 CLR 546, 550.
+
+20 Ballantyne v Phillott (1961) 105 CLR 379.
+
+Ballantyne v Phillott (1961) 105 CLR 379, 396, 399, 390.
+
+22 Ballantyne v Phillott (1961) 105 CLR 379, 397-8.
+
+100 \[4.50\]
+
+Consideration Chapter 4
+
+in this case.23 Dixon CJ dissented on the basis that, slight as the consideration was "in a legal point of view", it was something and should be regarded as sufficient.24
+
+Bargains and conditional gifts
+
+\[4.60\] As discussed in Chapter 3,25 the decision in Australian Woollen Mills Pty Ltd v Commonwealth26 illustrates the distinction between a contract and a conditional gift. A promise to pay someone $100 if they perform a certain act is a conditional gift, whereas a promise to pay $100 in return for performance of the act is capable of giving rise to a contract. The court used the example of a promise by A to pay B (who is in Melbourne) £1000 upon B's arrival in Sydney. No contract arises upon B's arrival in Sydney because A is simply announcing his intention to make a gift to B. The necessary relationship between the promise and the act does not exist. If, on the other hand, A had an urgent need for B's presence in Sydney and B expressed concern about the cost of travel, B's act may be regarded as consideration for A's promise. That is because it would then be possible to infer a request by A which establishes the necessary connection between A's promise and B's act.
+
+Bargains and reliance
+
+\[4.70\] It is also important to distinguish between an act performed as the agreed price of a promise and an act performed in reliance on a promise. An act performed in reliance on a promise will not constitute good consideration but may give rise to an estoppel. This boundary between contract and estoppel was delineated by the New South Wales Court of Appeal in Beaton v McDivitt.27 This case concerned an unusual arrangement. The McDivitts expected their land to be rezoned in a way that would greatly increase the rates payable to the local council. Since they were not using all of the land, they decided to minimise the rates payable by subdividing the land into four lots. They planned to give one of those lots to a person prepared to cultivate the land using permaculture methods. An agreement was reached with Beaton that Beaton would occupy the land in question and work it rent-free. The McDivitts would transfer the land to Beaton when the rezoning and subdivision took place. Beaton took possession of the land, built a house and a road giving access to the block and farmed the block for several years. Neither the rezoning nor the subdivision eventuated. A dispute arose between the parties over a Tai Chi class held in Beaton's house, and the McDivitts ordered Beaton off the land. Beaton claimed there was a contract between the parties which entitled him to a transfer of the land in question.
+
+At first instance,28 Young J held that the requirement of bargained-for consideration laid down in Australian Woollen Mills Pty Ltd v Commonwealth was not satisfied, but there was a line of cases, starting with Dillwyn v Llewelyn,29 which represented "an exception to the modern requirement that a contract should be a bargain supported by consideration in
+
+23 Ballantyne v Phillott (1961) 105 CLR 379, 399-400.
+
+Ballantyne v Phillott (1961) 105 CLR 379, 390.
+
+24
+
+25
+
+See \[3.30\].
+
+26
+
+2222222
+
+Australian Woollen Mills Pty Ltd v Commonwealth (1954) 92 CLR 424.
+
+27 Beaton v McDivitt (1987) 13 NSWLR 162.
+
+28
+
+Beaton v McDivitt (1985) 13 NSWLR 134.
+
+29
+
+Dillwyn v Llewelyn (1862) 4 De G F & J 517; 45 ER 1285.
+
+\[4.70\] 101
+
+Part II: Formation
+
+the nature of a quid pro quo".30 Young J held that the plaintiff's reliance on the defendants' promise amounted to a consideration and gave rise to "a Dillwyn type contract". On appeal, the New South Wales Court of Appeal refused to extend the bargain theory of consideration laid down by the High Court in Australian Woollen Mills Pty Ltd v Commonwealth. Kirby P32 and McHugh JA33 made it clear that there was no exception to the bargain concept of consideration. They said that the Dillwyn v Llewelyn line of cases involved the enforcement of promises by way of estoppel and not by way of contract. Kirby P found that the bargain requirement was not satisfied on the facts, since Beaton made no promise which could be regarded as a quid pro quo for a promise to transfer the land.34 McHugh and Mahoney JJA found that Beaton had provided consideration by working the land at the McDivitts' request.35 Beaton's performance of the requested acts therefore gave rise to a unilateral contract. Beaton was ultimately unsuccessful, however, because Mahoney JA found that the contract had been brought to an end by frustration.36 He therefore joined Kirby P in finding against Beaton.
+
+The decision in Beaton v McDivitt draws a clear line between contract and equitable estoppel. Acts performed in reliance on a promise will not constitute consideration for that promise unless those acts can be regarded as having been performed in return for the promise. A person who relies on a promise which has not been bargained for must seek a remedy in estoppel rather than contract. In the subsequent decision of the High Court in the estoppel case Waltons Stores (Interstate) Ltd v Maher,37 Mason CJ and Wilson J appeared to give their approval to a strict interpretation of the Australian Woollen Mills decision when they suggested that it "may be doubted whether our conception of consideration is substantially broader than the bargain theory" developed in the United States.38
+
+The boundary between contract and equitable estoppel is also illustrated by Arfaras v Vosnakis. 39 The defendant in that case promised the plaintiff (her son-in-law) that the defendant would make a particular burial plot available for the burial of the remains of her daughter and would transfer her rights in relation to the plot to the plaintiff so that his remains could in due course be buried alongside those of his late wife. The defendant's promise to transfer the plot was held to be unsupported by consideration even though the plaintiff acted on the promise, by causing his late wife's remains to be buried in the plot, and that action was contemplated and intended by the defendant. That is because there was no quid pro quo relationship between the defendant's promise to transfer the rights and the plaintiff's acts. The defendant had simply made two unconditional promises: a promise to make the plot available for the burial of the daughter's remains and a separate promise to transfer the rights. Because he acted to his detriment on the faith of the promise, however, the plaintiff was held to be entitled to a transfer of the plot on the basis of equitable estoppel.
+
+wwww
+
+30 Beaton v McDivitt (1987) 13 NSWLR 162, 170.
+
+31
+
+Beaton v McDivitt (1985) 13 NSWLR 134.
+
+32
+
+Beaton v McDivitt (1987) 13 NSWLR 162, 170.
+
+33
+
+Beaton v McDivitt (1987) 13 NSWLR 162, 182.
+
+34
+
+Beaton v McDivitt (1987) 13 NSWLR 162, 170.
+
+35
+
+Beaton v McDivitt (1987) 13 NSWLR 162, 175, 183.
+
+36
+
+37
+
+Beaton v McDivitt (1987) 13 NSWLR 162, 177. As to frustration, see Chapter 15. Waltons Stores (Interstate) Ltd v Maher (1988) 164 CLR 387.
+
+38
+
+Waltons Stores (Interstate) Ltd v Maher (1988) 164 CLR 387, 402.
+
+39
+
+Arfaras v Vosnakis \[2016\] NSWCA 65.
+
+102 \[4.70\]
+
+Consideration Chapter 4
+
+The bargain requirement is sometimes overlooked in the analysis of consideration. An example of a case in which this occurred was Atco Controls Pty Ltd (in liq) v Newtronics Pty Ltd (recs & mgrs apptd) (in liq).40 Atco provided a series of annual "letters of support" to the auditors of its subsidiary (Newtronics), in which Atco confirmed that it would not to seek to recover debts owed by Newtronics to the detriment of other creditors and confirmed that it would provide sufficient funds to Newtronics to enable Newtronics to meet its trading debts. Atco's support was needed for Newtronics to remain solvent and to continue to trade, and the provision of these letters allowed Newtronics to be presented in its audited accounts as a solvent, going concern. When Newtronics subsequently became insolvent, its liquidator claimed that the letters of support were evidence of a contract between Atco and Newtronics under which Atco undertook to provide financial support for Newtronics and not to call up the debt to the detriment of other creditors. Pagone J at first instance found that, by continuing to trade, Newtronics provided consideration for Atco's undertakings. This finding was overturned on appeal. The Court of Appeal held that the most that could be said was that Newtronics had continued to trade in reliance on Atco's undertakings. For the consideration requirement to be satisfied, Newtronics would have to show that Atco's undertakings were offered as the price or quid pro quo for the action of Newtronics in continuing to trade. "In this case, that required Newtronics to show that Atco in effect requested Newtronics to continue to trade in return for the undertaking of continued support and that Newtronics was moved by that request."42 No such request could be implied because "Atco for all intents and purposes ran Newtronics and had no need or intention of requesting it to do anything".43
+
+CONSIDERATION MUST MOVE FROM THE PROMISEE
+
+\[4.80\] It is clear that consideration given in return for a promise need not move to the promisor: A may undertake a contractual obligation to B in return for a benefit conferred by B on C. A might, for example, agree to pay a reward to any person who finds and returns C's dog. If B finds and returns the dog in reliance on A's promise, B's acts will not confer a benefit on A but will constitute a legal detriment to B and will have been given in return for A's promise.
+
+Although consideration need not move to the promisor, it is a fundamental principle that consideration must move from the promisee.44 This requirement has led some to question whether Lush J was right to accept in Currie v Misa's that a benefit to the promisor can constitute good consideration.46 The argument is that a benefit to the promisor cannot be treated as an alternative to detriment to the promisee in the requirement of consideration
+
+40
+
+41
+
+42
+
+43
+
+44
+
+Atco Controls Pty Ltd (in liq) v Newtronics Pty Ltd (recs & mgrs apptd) (in liq) \[2009\] VSCA 238; (2009) 25 VR 411.
+
+See Newtronics Pty Ltd (recs & mgrs appd) (in liq) v Atco Controls Pty Ltd (in liq) \[2008\] VSC 566, \[9\]-\[12\]. Atco Controls Pty Ltd (in liq) v Newtronics Pty Ltd (recs & mgrs apptd) (in liq) \[2009\] VSCA 238; (2009) 25 VR 411, \[62\].
+
+Atco Controls Pty Ltd (in liq) v Newtronics Pty Ltd (recs & mgrs apptd) (in liq) \[2009\] VSCA 238; (2009) 25 VR 411, \[64\].
+
+Thomas v Thomas (1842) 2 QB 851; 114 ER 330 at 859, 333-4; Dunlop Pneumatic Tyre Co Ltd v Selfridge & Co Ltd \[1915\] AC 847.
+
+45
+
+Currie v Misa (1875) LR 10 Ex 1537.
+
+46
+
+See Shatwell, "The Doctrine of Consideration in the Modern Law" (1954) 1 Sydney Law Review 289, 305-6.
+
+\[4.80\] 103
+
+Part II: Formation
+
+because, if the consideration moves from the promisee, it must necessarily constitute a legal detriment to the promisee. This argument appears not to be accepted by the courts, which in recent cases have clearly accepted a benefit to the promisor as an alternative to detriment to the promisee in satisfying the requirement of consideration.47
+
+Where two or more parties to a contract are regarded as joint promisees, consideration may be provided by one of them on behalf of both or all of them. This principle was accepted in Coulls v Bagot's Executor and Trustee Co Ltd.48 That case concerned an agreement by which Arthur Coulls gave a company the right to quarry stone from his property in return for royalties. Under the agreement, Arthur Coulls authorised the company to pay the royalties to himself and his wife Doris Coulls "as joint tenants". Property held as joint tenants passes to the surviving tenant when one of them dies. When Arthur Coulls died, a dispute arose as to whether the company was obliged to pay the royalties to Doris Coulls or to the executor of Arthur Coulls' estate.
+
+Whether Doris Coulls was entitled to receive the royalties depended on two issues: first, whether she was a party to the agreement and, secondly, whether she had given consideration for the company's promise to pay the royalties. A majority of the court found that she was unable to enforce the agreement because she was not a party to it.49 In their dissenting judgments, Barwick CJ and Windeyer J held that a promise made to two or more joint promisees can be supported by consideration provided by one of the promisees on behalf of all. The consideration is then regarded as moving from all of them collectively and the promise can be enforced by action taken by them jointly.50 Taylor and Owen JJ in the majority agreed that if Doris Coulls had been a party to the contract, it would not have mattered that she personally did not provide consideration.$1
+
+It is important to note that a party to a contract who has not herself provided consideration will be able to enforce a promise only if she can be regarded as a joint promisee with the person who has provided consideration. In other words, it is possible to be a party to a contract in which a promise is made but still be a stranger to the consideration given in return for that promise. In Trident General Insurance Co Ltd v McNiece Bros Pty Ltd,52 Mason CJ and Wilson J observed that:
+
+If A, B and C are parties to a contract and A promises B and C that he will pay C $1000 if B will erect a gate for him, C cannot compel A to carry out his promise, because, though a party to the contract, C is a stranger to the consideration ...53
+
+Whether a person is regarded as a joint promisee, and therefore as a party to consideration given by another, involves a question of interpretation. $4
+
+47
+
+See \[4.170\]-\[4.190\].
+
+48
+
+Coulls v Bagot's Executor and Trustee Co Ltd (1967) 119 CLR 460.
+
+49
+
+See \[11.30\].
+
+50
+
+Coulls v Bagot's Executor and Trustee Co Ltd (1967) 119 CLR 460, 478-9, 492-3. But see Coote, "Consideration and the Joint Promisee" \[1978\] Cambridge Law Journal 301.
+
+51
+
+Coulls v Bagot's Executor and Trustee Co Ltd (1967) 119 CLR 460, 486.
+
+52
+
+Trident General Insurance Co Ltd v McNiece Bros Pty Ltd (1988) 165 CLR 107.
+
+53 Trident General Insurance Co Ltd v McNiece Bros Pty Ltd (1988) 165 CLR 107, 115-16.
+
+54
+
+See Seddon and Bigwood, Cheshire and Fifoot's Law of Contract (12th Aust ed, 2023), \[4.8\].
+
+104 \[4.80\]
+
+Consideration Chapter 4
+
+SUFFICIENCY OF CONSIDERATION
+
+\[4.90\] It is said that consideration must be sufficient but need not be adequate. The requirement of sufficiency means that consideration must be something the law regards as valuable. Provided it meets this threshold, the courts will not inquire whether the value of the consideration is equal or even proportionate to that of the promise it supports. In Woolworths Ltd v Kelly, Kirby P explained why the courts do not generally enquire into the adequacy of consideration. First, the courts have no way of assessing the value a particular person places on the consideration he or she has contracted to receive. Secondly, any requirement of adequacy of consideration would render the enforceability of contracts uncertain. Thirdly, the courts' stance protects economic freedom, even though "\[t\]hat liberty extracts a price in social terms". 56 Law and economics scholars argue that the courts' refusal to consider adequacy of consideration is justified because economic efficiency is best pursued through voluntary exchanges. The role of the courts, therefore, is simply to ensure that a bargain has been struck and an exchange made.58
+
+The refusal of the courts to consider the adequacy of consideration means that a promise to give a peppercorn is good consideration for a promise to pay $1m. In practice, it means that parties can effectively avoid the requirement of consideration through the use of nominal consideration. One party may, for example, undertake quite onerous obligations in return for another's promise to pay $1. In Thomas v Thomas,60 for example, a woman's promise to pay £1 towards the ground rent and to keep the house in good repair was held to be good consideration for a promise by her husband's executors to give her the right to occupy the house for life.
+
+Although inadequacy of consideration does not in itself invalidate a contract, it may be taken into account as evidence of procedural unfairness in the formation of a contract. Where a party under a special disability has received inadequate consideration, for example, this will provide evidence that the other party has unconscionably taken advantage of that disability.61
+
+Discretion as to performance
+
+\[4.100\] A promise will not constitute good consideration if the promisor retains an unfettered discretion as to performance. If the promisor is not bound to perform, then the promise will constitute an illusory consideration. Placer Development Ltd v Commonwealth62 concerned a written agreement in which the Commonwealth promised to pay a subsidy "of an amount or at a rate determined by the Commonwealth from time to time". The High Court, by a majority of 3-2, held that the agreement imposed no obligation on the Commonwealth to pay
+
+555
+
+56
+
+57
+
+58
+
+59
+
+60
+
+61
+
+Woolworths Ltd v Kelly (1991) 22 NSWLR 189, 193. Woolworths Ltd v Kelly (1991) 22 NSWLR 189, 194.
+
+See Posner, Economic Analysis of Law (9th ed, 2014), $4.1 and §4.2 and the discussion of economic analysis of contract law at \[1.70\]-\[1.140\].
+
+Posner, Economic Analysis of Law (9th ed, 2014), §4.2.
+
+See Patterson, "An Apology for Consideration" (1958) 58 Columbia Law Review 929, 952-4.
+
+Thomas v Thomas (1842) 2 QB 851; 114 ER 330. Compare Greig and Davis, The Law of Contract (1987), p 93. See, eg, Blomley v Ryan (1956) 99 CLR 362, esp at 399, 406; see also \[36.90\].
+
+62 Placer Development Ltd v Commonwealth (1969) 121 CLR 353.
+
+\[4.100\] 105
+
+Part II: Formation
+
+any subsidy. Accordingly, the Commonwealth's promise was an illusory consideration. Kitto J expressed the applicable principle as follows:
+
+The general principle... is that wherever words which by themselves constitute a promise are accompanied by words showing that the promisor is to have a discretion or option as to whether he will carry out that which purports to be the promise, the result is that there is no contract on which an action can be brought at all.63
+
+The minority judges found that the Commonwealth was under an obligation to determine "what the subsidy was to be, and then to pay it."64
+
+The concept of illusory consideration overlaps with the concept of an illusory promise, which may render a contract uncertain. Illusory promises are considered in Chapter 6.
+
+Past consideration
+
+The general rule
+
+\[4.110\] Past consideration is not considered sufficient consideration. This means that, subject to one exception, something given before a promise is made cannot constitute good consideration for the promise. The thing may have been given gratuitously, such as where A gives B a dog and B subsequently promises to pay A $50 for it. A cannot rely on the giving of the dog as consideration for B's promise because it is past consideration. More commonly, the past consideration rule will be invoked where, after a contractual transaction has been completed, one of the parties makes a promise which the other seeks to enforce. This is illustrated by Roscorla v Thomas.65 The defendant sold the plaintiff a horse for £30. Later, at the plaintiff's request, the defendant promised that the horse was "sound and free from vice". The plaintiff sought damages for breach of contract when the horse turned out to be "very vicious, restive, ungovernable and ferocious". 66 Lord Denman CJ held that the promise was not enforceable because the plaintiff had given no consideration. Payment of the purchase price was a past consideration which did not support the later promise.
+
+It is important to distinguish between past consideration and executed consideration. Executed consideration is something given as part of the same transaction as the promise. In the case of a unilateral contract, for example, the consideration given by the offeree has been provided or executed by the time the contract is made. Assume, for example, that A offers $50 to whoever finds and returns a lost dog, and B finds and returns the dog. The contract is made when B returns the dog. At that time, B's consideration is executed, but A's promise remains executory.
+
+Promise to pay for past services
+
+\[4.120\] An exception to the past consideration rule is made in the case of a promise to pay for past services. Where services are performed at the request of the promisor, in circumstances that raise an implication that they are to be paid for, then performance of the services by the promisee will constitute good consideration for a subsequent promise to pay for them. The performance of the services and the promise to pay for them are in effect treated as part of the
+
+63 Placer Development Ltd v Commonwealth (1969) 121 CLR 353, 356.
+
+64 Placer Development Ltd v Commonwealth (1969) 121 CLR 353, 363, 370-1.
+
+65
+
+Roscorla v Thomas (1842) 3 QB 234; 114 ER 496.
+
+66
+
+Roscorla v Thomas (1842) 3 QB 234, 234; 114 ER 496, 497.
+
+106 \[4.110\]
+
+Consideration Chapter 4
+
+same transaction. In Ipex Software Services Pty Ltd v Hosking,67 for example, the respondent transferred to a corporate group a computer software business of which he was part-owner on the understanding that he would receive shares in the restructured group. That transfer was held by the Victorian Court of Appeal to constitute good consideration for a subsequent promise to transfer five per cent of the equity in the group to the respondent.
+
+The leading early case on this point was Lampleigh v Brathwait. Brathwait asked Lampleigh to do all he could to secure a pardon from the King for a murder Brathwait had committed. Lampleigh was unable to obtain the pardon but expended considerable effort in travelling to see the King. Brathwait afterwards promised to pay Lampleigh £100 for his services and Lampleigh sought to enforce this promise. It was held that, where services are provided at the request of a party, a later promise to pay for those services will be binding because the promise "couples itself" with the earlier request. This principle was reformulated in the 19th century to cover only situations in which there was an understanding throughout the transaction that the services were to be paid for. The leading statement of the modern principle is that of Bowen LJ in Re Casey's Patents; Stewart v Casey.69 In that case, the plaintiff had worked to promote the defendant's patents and was subsequently promised a one-third share of the patents. The English Court of Appeal held that the plaintiff had provided good consideration for the plaintiff's promise. Bowen LJ said:
+
+Now, the fact of a past service raises an implication that at the time it was rendered it was to be paid for, and, if it was a service which was to be paid for, when you get in the subsequent document a promise to pay, that promise may be treated either as an admission which evidences or as a positive bargain which fixes the amount of that reasonable remuneration on the faith of which the service was originally rendered.70
+
+The existing legal duty rule
+
+The general rule
+
+\[4.130\] Neither a promise to perform an existing legal duty, nor the performance of an existing legal duty, is regarded as sufficient consideration to support a contract. The existing legal duty rule covers promises to perform existing public duties, such as a promise to give evidence in court when the promisee is obliged by a subpoena to do so." There is an obvious public interest in this aspect of the existing legal duty rule. It is important that the law of contract does not encourage public officials and those involved in the administration of justice to be influenced by promises of extra rewards for discharging their responsibilities.72
+
+The existing legal duty rule is most commonly raised in relation to one-sided variations to contracts, where one party either assumes an additional obligation or agrees to release the other party from an obligation. In order to avoid confusion between the two parties involved in a one-sided contract variation, the person who promises to perform an existing legal duty
+
+67
+
+68
+
+Ipex Software Services Pty Ltd v Hosking \[2000\] VSCA 239. Lampleigh v Brathwait (1616) Hob 105; 80 ER 255.
+
+69
+
+Re Casey's Patents; Stewart v Casey \[1892\] 1 Ch 104, 115-6.
+
+70
+
+Re Casey's Patents; Stewart v Casey \[1892\] 1 Ch 104, 115-6.
+
+71
+
+Collins v Godefroy (1831) 1 B & Ad 950; 109 ER 1040. Compare Glasbrook Bros Ltd v Glamorgan County Council \[1925\] AC 270.
+
+72
+
+See Greig and Davis, The Law of Contract (1987), pp 101-4.
+
+\[4.130\] 107
+
+Part II: Formation
+
+and claims the benefit of the contractual modification will be referred to in this chapter as the beneficiary. The party assuming an additional obligation or releasing the beneficiary from an obligation will be referred to as the modifying party. The rule can be illustrated as follows.
+
+Assume that one party (the beneficiary) has agreed to build a garage and fence for another (the modifying party) for $30,000 and, after the contract has been made, the beneficiary realises that she has agreed to perform the work at a loss. She expresses some reluctance to perform, so the beneficiary and the modifying party reach an agreement that if the beneficiary builds the garage, the modifying party will pay the beneficiary an extra $5000 and will not require the beneficiary to build the fence. In return for the modifying party's promises, the beneficiary has simply promised to perform her contractual obligations. She has not agreed to do anything she was not already obliged to do. The courts will not generally enforce a promise made by the modifying party in such a situation, even though it was intended to be binding.73 The principle was clearly stated by Mason J in Wigan v Edwards:74
+
+The general rule is that a promise to perform an existing duty is no consideration, at least when the promise is made by a party to a pre-existing contract, when it is made to the promisee under that contract, and it is to do no more than the promisor is bound to do under that contract.
+
+The existing legal duty rule is sometimes referred to as the rule in Stilk v Myrick.75 In that case, two sailors deserted a ship on a voyage to the Baltic. Because the captain was unable to replace the deserters, he promised the remaining crew that he would divide the deserters' wages among them if they would sail the ship back to London short-handed. The plaintiff was one of the remaining crew and he sued to recover his share. The crew were originally employed on the basis that they would "do all that they could under all the emergencies of the voyage".76 Lord Ellenborough CJ found that the desertion of a small part of the crew was such an emergency. The remaining crew were therefore bound by the terms of their original contracts to complete the voyage short-handed. Accordingly, their agreement to sail the boat back to London was simply a promise to perform an existing obligation and did not constitute good consideration for the promise of extra payment. The captain's promise was therefore unenforceable.
+
+78
+
+In Wigan v Edwards," Mason J noted that the existing legal duty rule is conceptually justified by the fact that a promise to perform an existing contractual duty is an illusory consideration. The promisor incurs no new burden and the promisee receives no benefit that he or she did not already enjoy. From the point of view of policy, the principle is said to discourage parties from seeking to secure additional benefits by threatening to breach their contracts." The English courts seemed to regard ship owners as particularly vulnerable to extravagant demands for extra wages and, since Britain was heavily reliant on shipping, were especially concerned to protect them." A case which preceded Stilk v Myrick and involved similar facts was decided on the basis of public policy, rather than the absence of consideration.80 One
+
+73
+
+74
+
+For example, T A Sundell & Sons Pty Ltd v Emm Yannoulatos (Overseas) Pty Ltd (1955) 56 SR (NSW) 323. Wigan v Edwards (1973) 1 ALR 497, 512.
+
+75
+
+Stilk v Myrick (1809) 2 Camp 317; 170 ER 1168.
+
+76
+
+Stilk v Myrick (1809) 2 Camp 317, 319; 170 ER 1168, 1169.
+
+77
+
+Wigan v Edwards (1973) 1 ALR 497, 512.
+
+78 Wigan v Edwards (1973) 1 ALR 497, 594. See also Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 741.
+
+79
+
+Greig and Davis, The Law of Contract (1987), pp 108-10.
+
+80
+
+Harris v Watson (1791) Peake 102; 170 ER 94.
+
+108 \[4.130\]
+
+Consideration Chapter 4
+
+report of Stilk v Myrick suggests that it too was decided on the basis of policy issues, rather than consideration.¹ It is clear that these policy considerations influenced the development of the existing legal duty rule.
+
+The existing legal duty rule is regularly criticised on the basis that it does not reflect the practices of businesspeople, who routinely make one-sided variations to contracts. This is supported by empirical studies, which indicate a preparedness to modify concluded bargains where circumstances have changed.82 Modifications are often accepted on the basis that each business deal must remain viable for both parties, so that the parties can preserve their relationship and their reputations in the business community.83 The difficulty for lawmakers is that a one-sided variation may involve the co-operative reallocation of unforeseen risks, where the economic environment of the contract has changed, or may simply reflect one party's exploitation of another's dependency and a lack of adequate remedies for breach.84
+
+It may be doubted whether the requirement of consideration provides any great protection against coercive modifications as the courts do not inquire into the adequacy of consideration. The presence of nominal consideration will render a contract modification enforceable but is entirely consistent with coercion.85 As Santow J said in Musumeci v Winadell Pty Ltd: "Consideration expressed in formalistic terms of one dollar can indeed actually cloak duress rather than expose it."86 The developing doctrine of economic duress is likely to provide a more useful weapon against coercive modifications.87 A threat to breach a contract is regarded as illegitimate pressure and therefore capable of rendering a contract voidable on the grounds of duress.88
+
+Part-payment of a debt
+
+\[4.140\] A corollary of the existing legal duty rule is the principle that part-payment of a debt does not constitute good consideration for an agreement to discharge the debt. This is known as the rule in Pinnel's Case. If a debtor owes a creditor $100 and the creditor agrees to accept $50 in satisfaction of the debt, this agreement will not be binding and the creditor will be entitled to recover the remaining $50. In paying part of the debt, the debtor is simply performing (part of) his or her legal obligation. The rule in Pinnel's Case was applied by the House of Lords in Foakes v Beer," where a debtor promised to pay a judgment debt in six- monthly instalments in return for the creditor's promise not to enforce the judgment. When the debt had been repaid in full, the creditor successfully claimed interest. The House of
+
+See Macaulay, "Non-Contractual Relations in Business: A Preliminary Study" (1963) 28 American Sociological Review 55, 60-2, discussed at \[1.250\].
+
+81
+
+Stilk v Myrick (1809) 6 Esp 129; 170 ER 851.
+
+82
+
+83
+
+84
+
+85
+
+Macaulay, "Non-Contractual Relations in Business: A Preliminary Study" (1963) 28 American Sociological Review 55, 60-5; Collins, Regulating Contracts (1999), Ch 6, esp pp 144-5.
+
+Trebilcock, The Limits of Freedom of Contract (1993), pp 169-70.
+
+United States v Stump Home Specialties Manufacturing Inc (1990) 905 F 2d 1117, 1121-2, quoted in Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 742-3.
+
+Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 742.
+
+Musumeci v Winadell Pty Ltd (1994) 34 NSWLR 723, 744; Williams v Roffey Bros & Nicholls (Contractors) Ltd \[1991\] 1 QB 1, 13-4. See also Posner, Economic Analysis of Law (9th ed, 2014), $4.2.
+
+86
+
+87
+
+88
+
+See \[34.90\].
+
+89
+
+Pinnel's Case (1602) 5 Co Rep 117a; 77 ER 237.
+
+90
+
+Foakes v Beer (1884) 9 App Cas 605.
+
+\[4.140\] 109
+
+Part II: Formation
+
+Lords held that, even if the creditor's promise could be construed as an agreement to forgo interest on the debt, such a promise was not supported by consideration under the rule in Pinnel's Case. Although the House of Lords felt that the rule was too well entrenched to be overruled," its practical inconvenience was acknowledged by Lord Blackburn:
+
+What principally weighs with me... is my conviction that all men of business, whether merchants or tradesmen, do every day recognise and act on the ground that prompt payment of a part of their demand may be more beneficial to them than it would be to insist on their rights and enforce payment of the whole. Even where the debtor is perfectly solvent, and sure to pay at last, this often is so."2
+
+The rule in Pinnel's Case has no application where the debtor pays before the due date or in a different form, where several creditors jointly agree to forgo part of each of their debts (known as a composition), where the payment is made to the creditor by a third party⁹5 or where the debtor gives something other than money:
+
+By no possibility a lesser sum can be a satisfaction to the plaintiff for a greater sum: but the gift of a horse, hawk or robe, etc, might be more beneficial to the plaintiff than the money, in respect of some circumstance, or otherwise the plaintiff would not have accepted it in satisfaction.9%
+
+This leads to an apparently absurd situation in which a promise to accept $999 in discharge of a $1000 debt is unenforceable for want of consideration, whereas a promise to accept $1 plus an old shoe in discharge of the same debt will be enforceable. If nominal consideration is viewed as a formal requirement, however, the enforcement of the transaction involving the shoe does make sense. Such an artificial bargain must have been deliberately set up in order to make the promise binding." In practice, where a creditor is prepared to accept a lesser sum in full satisfaction of a debt, the rule is commonly avoided through the use of a more conventional form, namely a deed. If the agreement is made in the form of a deed, it will be binding in the absence of consideration.99
+
+Exceptions to the existing legal duty rule
+
+\[4.150\] There are five situations in which the existing legal duty rule will not apply. First, the rule will not apply where the beneficiary is providing fresh consideration, such as where the beneficiary undertakes to do something more than he or she was obliged to do under the original contract. Secondly, an exception to the rule has been recognised where the beneficiary's promise to perform confers a practical benefit on the modifying party. Thirdly, the rule has been held to be inapplicable where the promise to perform an existing contractual duty is made by the beneficiary to a third party. Fourthly, a promise made by way of a bona fide
+
+92
+
+93
+
+See Greig and Davis, The Law of Contract (1987), pp 113-5.
+
+94
+
+91
+
+In MWB Business Exchange Centres Ltd v Rock Advertising Ltd \[2018\] UKSC 24; \[2019\] AC 119, Lord Sumption JSC (with whom Baroness Hale, Lord Wilson and Lord Lloyd-Jones JJSC agreed) suggested that the decision in Foakes v Beer was "probably ripe for re-examination".
+
+Foakes v Beer (1884) 9 App Cas 605, 622.
+
+Couldery v Bartrum (1881) 19 Ch D 394; Re Pearse \[1905\] VLR 446.
+
+95
+
+Hirachand Punamchand v Temple \[1911\] 2 KB 330.
+
+96
+
+Pinnel's Case (1602) 5 Co Rep 117a; 77 ER 237.
+
+97
+
+Carter, Contract Law in Australia (8th ed, 2023), \[6-58\].
+
+98
+
+See \[4.240\].
+
+99
+
+See \[4.250\].
+
+110 \[4.150\]
